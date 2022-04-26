@@ -1,0 +1,44 @@
+baseURL: https://test.abingdonpta.org/
+languageCode: en-us
+title: Abingdon PTA
+theme: hugo-book
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+params:
+  BookTheme: auto
+  BookLogo: favicon.png
+  description: Abingdon Elementary PTA in Arlington, VA
+  images:
+  - logo.png
+  twitter: AbingdonPTA
+  fb: AbingdonElementaryPTA
+  title: Abingdon PTA
+  
+copyright: Abingdon PTA
+defaultContentLanguage: en
+languages:
+  en:
+    weight: 1
+    languageName: English
+    title: Abingdon PTA
+  es:
+    weight: 2
+    languageName: Español
+    title: PTA de Abingdon
+  ar:
+    weight: 3
+    languageName: العربية
+    title: جمعية الاباء والمعلمين ابينجدون
+    languagedirection: rtl
+  am:
+    weight: 4
+    languageName: አማርኛ
+    title: አቢንግዶን PTA
+  mn:
+    weight: 5
+    languageName: Монгол
+    title: Абингон PТА

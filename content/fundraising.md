@@ -1,0 +1,70 @@
+---
+title: Fundraising
+description: The Abingdon PTA holds several fundraisers throughout the year.
+---
+
+# Fundraising
+
+## No Frills Fundraiser
+
+The PTA accepts open-ended donations at all times. We call this a "No Frills Fundraiser."
+
+You may donate to the PTA using any of these three methods, in order of preference:
+
+{{< tabs "donate" >}}
+{{< tab "Zelle" >}}
+Zelle is the preferred method to donate money to the PTA, as there are no fees and no administrative overhead associated with the PTA accepting Zelle payments.
+
+More information about how to donate using Zelle will be published at a later date.
+{{< /tab >}}
+{{< tab "Memberhub" >}}
+You may donate to the PTA using Memberhub. However, a portion of the donation will be used to pay transaction fees ($0.50 + 3.5% of each transaction).
+
+{{< button href="https://abingdonpta.memberhub.com/store/items/62200" >}}Click Here to Donate to the PTA Using Memberhub{{< /button >}}
+{{< /tab >}}
+{{< tab "Check" >}}
+You may donate to the PTA by sending us a check. However, this is the least preferred method as depositing checks and disposing of them securely requires more volunteer time than the other two methods.
+
+You may mail checks to:
+```
+Abingdon Elementary School  
+c/o PTA  
+3035 S Abingdon St  
+Arlington, VA 22206
+```
+{{< /tab >}}
+{{< /tabs >}}
+
+{{< hint warning >}}
+Do not use Zelle or checks to pay for Spirit Wear. Only use the Spirit Wear store link below.
+{{< /hint >}}
+
+## Spirit Wear
+
+Spirit Wear will be available when the PTA places an order. A portion of the proceeds go to the PTA.
+
+{{< button href="https://abingdonpta.memberhub.com/store" >}}Click Here to Order Spirit Wear{{< /button >}}
+
+## Harris Teeter rebates
+
+Abingdon PTA participates in Harris Teeter's Together in Education (TIE) Program, which provides the PTA a portion of money spent at their stores by customers who sign up for the program. To sign up, click the link below and follow the instructions. Abingdon PTA's number is 5748.
+
+{{< button href="https://tie.harristeeter.com/tie/login" >}}Click Here to Sign Up for Harris Teeter Rebates{{< /button >}}
+
+## Amazon Smile
+
+Information on Amazon Smile will be provided at a later date.
+
+## Read-A-Thon
+
+Abingdon holds a Read-A-Thon every year - a fundraiser when students track the number of pages they read over the course of two weeks and and sponors (usually parents and grandparents) pledge to give to the PTA a certain amount of money for each page the student has read. The PTA also awards prizes to students and classes who have read the most. The Read-A-Thon is the biggest PTA fundraiser of the year.
+
+## Spirit Nights
+
+The Abingdon PTA is excited to host Spirit Nights at local restaurants. Check our calendar, newsletter and social media for updates about Spirit Nights.
+
+## Edukit
+
+Edukit offers prepackaged school supplies that are tailored to meet the needs of each grade at Abingdon Elementary. The program makes it simple for families to acquire what they need, and it also serves as a fundraiser for the PTA.
+
+More information will be available about Edukit before the start of next school year.
