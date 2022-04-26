@@ -15,6 +15,7 @@ Agendas will be available here before each meeting, and meeting minutes will be 
 
 | Meeting Date | Agenda | Minutes | Video | Financial Statement | Presentation |
 | ------------ | ------ | ------- | ----- | ------------------- | ------------ |
+| 2022-04-19 | | [Minutes](<minutes/2022-04-19>) | | | |
 | 2022-03-08 | | [Minutes](<minutes/2022-03-08>) | | | |
 | 2022-02-08 | [Agenda](<agendas/2022-02-08 Agenda.pdf>) | [Minutes](<minutes/2022-02-08 Minutes.pdf>) | | | |
 | 2021-11-09 | | | | | |

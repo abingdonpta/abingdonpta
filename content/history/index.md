@@ -1,5 +1,6 @@
 ---
 title: Abingdon History
+description: The history of Abingdon Elementary.
 ---
 
 # Abingdon History
