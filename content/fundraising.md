@@ -67,4 +67,10 @@ The Abingdon PTA is excited to host Spirit Nights at local restaurants. Check ou
 
 Edukit offers prepackaged school supplies that are tailored to meet the needs of each grade at Abingdon Elementary. The program makes it simple for families to acquire what they need, and it also serves as a fundraiser for the PTA.
 
-More information will be available about Edukit before the start of next school year.
+{{< button href="https://www.edukitinc.com/schools/1287/" >}}Click Here to Order Your Edukit for 2022-2023{{< /button >}}
+
+## Boon Supply Fundraiser 
+
+Boon Supply has a catalog of beautiful, eco-friendly items, online experiences, delicious treats, and other gifts. When you shop using this link, you are supporting the students and teachers at Abingdon. Please set up a personal shopping page and share your link with your family and friends.
+
+{{< button href="https://www.boonsupply.com/collections/616804-abingdon-elementary-school" >}}Click Here to Shop at Boon Supply{{< /button >}}

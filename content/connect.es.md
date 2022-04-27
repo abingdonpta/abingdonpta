@@ -7,9 +7,9 @@ description: Maneras de conectar con la PTA
 
 Hay muchas maneras de mantenerse informado sobre los eventos y actividades de la PTA:
 
-[<img src="/img/Newsletter.svg" height="20" width="20"> Suscríbase a nuestro boletín semanal..](https://visitor.constantcontact.com/d.jsp?m=1102670663149&p=oi)  
-[<img src="/img/Twitter.svg" height="20" width="20"> Síganos en Twitter..](https://twitter.com/AbingdonPTA)  
-[<img src="/img/Facebook.svg" height="20" width="20"> Síganos en Facebook..](https://www.facebook.com/AbingdonElementaryPTA)  
+[<img src="/img/Newsletter.svg" height="20" width="20"> Suscríbase a nuestro boletín semanal.](https://visitor.constantcontact.com/d.jsp?m=1102670663149&p=oi)  
+[<img src="/img/Twitter.svg" height="20" width="20"> Síganos en Twitter.](https://twitter.com/AbingdonPTA)  
+[<img src="/img/Facebook.svg" height="20" width="20"> Síganos en Facebook.](https://www.facebook.com/AbingdonElementaryPTA)  
 [<img src="/img/Facebook.svg" height="20" width="20"> Únase a nuestro grupo de Facebook.](https://www.facebook.com/AbingdonElementaryPTA)  
 [<img src="/img/WhatsApp.svg" height="20" width="20"> Únase a nuestros grupos de WhatsApp.](/whatsapp)  
 [<img src="/img/Calendar.svg" height="20" width="20"> Ver y suscribirse a nuestro calendario.](/calendar)  

@@ -78,7 +78,6 @@ There are other educational programs available to elementary school students, li
 | [🏫 CCPTA Representative (County Council of PTA's)](#-ccpta-representative) | PTA President |
 | [🏫 SEPTA Representative (Special Education PTA)](#-septa-representative) | ***Position Available*** |
 | [⚕️ SHAB Representative (Student Health Advisory Board)](#-shab-representative) | ***Position Available*** |
-| [🗽 Diversity Coordinator](#-diversity-coordinator) | ***Position Available*** |
 
 ### 🎉 Events
 
@@ -115,6 +114,7 @@ There are other educational programs available to elementary school students, li
 | Assistant Principal Week | [April](https://www.naesp.org/programs/recognition/assistant-principals-week-ap-week/) |
 | School Librarian Appreciation Day | April |
 | Administrative Professionals Day | [April](https://en.wikipedia.org/wiki/Administrative_Professionals_Day) |
+| National Afterschool Professionals Appreciation Week | [April](https://www.apsva.us/post/aps-celebrates-national-afterschool-professionals-appreciation-week/) |
 | Teacher Appreciation Week | [May](https://www.doe.virginia.gov/teaching/recognition/index.shtml) |
 | School Nurse Day | [May](https://www.governor.virginia.gov/newsroom/proclamations/proclamation/school-nurse-day-1.html) |
 | School Lunch Hero Day | [May](https://schoolnutrition.org/schoollunchheroday/) |
@@ -125,6 +125,7 @@ There are other educational programs available to elementary school students, li
 | Role | Name |
 |-|-|
 | [🍎 Room Buddy Coordinator](#-room-buddy-coordinator) | ***Position Available*** |
+| [🗽 Diversity Coordinator](#-diversity-coordinator) | ***Position Available*** |
 | [💳 Bank Statement Reviewer](#-bank-statement-reviewer) | ***Position Available*** |
 | [✅ Audit Committee](#-audit-committee) | Named each year |
 | [🙋 Nominating Committee](#-nominating-committee) | Named each year |
@@ -303,8 +304,6 @@ Learn more about Girls on the Run on [their website](https://www.girlsontherun.o
 
 The Odyssey of the Mind Coordinator organizes students' participation in a problem-solving and critical thinking competition. The competition encourages creativity and cooperation as teams of students work together to produce a "solution" to problems; these solutions generally involve putting on a skit that incorporates props, costumes, and even songs. Learn more about Odyssey of the Mind on [their website](https://www.odysseyofthemind.com).
 
-### 🗽 Diversity Coordinator
-
 ### 🧥 Winter Clothing Drive
 
 ### ✏️ School Supplies Drive
@@ -370,6 +369,8 @@ The PTA helps organize parties for 3rd-5th graders who make the honor roll. This
 Volunteers are needed to take pictures at school events, both day and evening, for the Abingdon and PTA website, yearbook, Facebook and Twitter accounts.
 
 ### 🍎 Room Buddy Coordinator
+
+### 🗽 Diversity Coordinator
 
 ### 💳 Bank Statement Reviewer
 
