@@ -5,7 +5,7 @@ description: Officers, coordinators, and role descriptions for the Abingdon PTA.
 
 # Officers and Coordinators
 
-Please reach out to abingdonelementaryPTA@gmail.com if you have interest in one of the vacant roles below. We would be delighted for you to join our team!
+Please [fill out our volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSdk4KJFIDuigz-EyhdPuWM_GejjZ5rpx9emd6jHxb2xKPQgGA/viewform?usp=sf_link) or reach out to abingdonelementaryPTA@gmail.com if you have interest in one of the vacant roles below. We would be delighted for you to join our team!
 
 ## Officers
 
@@ -83,14 +83,13 @@ There are other educational programs available to elementary school students, li
 
 | Event | Month |
 |-|-|
-| [👋 Welcome Picnic](#-welcome-picnic) | August - September |
+| [👋 Back to School Picnic](#-back-to-school-picnic) | August - September |
 | [🍂 Fall Event](#-fall-event) | October |
-| [❄️ Winter Wonderland](#-winter-wonderland) | December - February |
-| [🇺🇳 International Night](#-international-night) | April |
+| [❄️ Winter Event](#-winter-event) | December - February |
+| [🌱 Spring Event](#-spring-event) | April |
 | [🎓 5th Grade Promotion](#-5th-grade-promotion) | June |
 | [🍿 Movie Nights](#-movie-nights) | Year-round |
 | [☕ Parent Coffees](#-parent-coffees) | Year-round |
-| [🎊 Honor Roll Parties](#-honor-roll-parties) | November, April, June |
 | [🎈 Rising Kindergarten Playdates](#-rising-kindergarten-playdates) | March - August |
 | [📚 Book Swap](#-book-swap) | March |
 | [📸 Photographer](#-photographer) | N/A |
@@ -127,8 +126,8 @@ There are other educational programs available to elementary school students, li
 | [🍎 Room Buddy Coordinator](#-room-buddy-coordinator) | ***Position Available*** |
 | [🗽 Diversity Coordinator](#-diversity-coordinator) | ***Position Available*** |
 | [💳 Bank Statement Reviewer](#-bank-statement-reviewer) | ***Position Available*** |
-| [✅ Audit Committee](#-audit-committee) | Named each year |
 | [🙋 Nominating Committee](#-nominating-committee) | Named each year |
+| [✅ Audit Committee](#-audit-committee) | Named each year |
 | [📜 Historian](#-historian) | Dan Burd |
 | [🐦 Mascot](#-mascot) | Abingdon Cardinal |
 
@@ -306,11 +305,17 @@ The Odyssey of the Mind Coordinator organizes students' participation in a probl
 
 ### 🧥 Winter Clothing Drive
 
+The PTA supports Abingdon families by collecting winter clothing for children whose families cannot afford them.
+
 ### ✏️ School Supplies Drive
 
 ### 🥫 Canned Food Drive
 
+The PTA organizes canned food drives, particularly during school events. A bin is placed in an accessible location and its contents are donated to the Arlington Food Assistance Center (AFAC).
+
 ### 😷 Mask Drive
+
+The PTA raises money to buy high-quality masks to students, and also collects new masks in packaging to provide to students.
 
 ### 👪 Adopt-a-Family
 
@@ -342,27 +347,41 @@ The School Health Advisory Board (SHAB) assists with the development of health p
 
 ## 🎉 Event Descriptions
 
-### 👋 Welcome Picnic
+### 👋 Back to School Picnic
+
+The PTA's Back to School Picnic has been a tradition for many years. It's held on the weekend before the first day of school. It's a wonderful way for kids and families to reconnect. The picnic is a potluck in which the PTA provides some food while attendees bring side dishes, fruits & vegetables, and desserts.
 
 ### 🍂 Fall Event
 
-### ❄️ Winter Wonderland
+In 2021, the PTA held a Trunk or Treat in which volunteers decked out their cars in spooky setups and handed out candy to costumed visitors. In prior years, the PTA held a Fall Festival with games and other activities.
 
-### 🇺🇳 International Night
+### ❄️ Winter Event
+
+The PTA organized Winter Wonderland in 2022 with music, games, alpacas, and a garden cleanup. It would be wonderful to make this a tradition for future years.
+
+### 🌱 Spring Event
+
+The PTA has held International Night each spring between 2017-2019 and in 2022. International Night celebrates the diverse population of our school and the many countries and culture they represent.
+
+Whether we continue to hold International Night or pivot to another type of event, we would like to bring people together in the springtime in some way.
 
 ### 🎓 5th Grade Promotion
 
 ### 🍿 Movie Nights
 
+The PTA screened movies in the cafeteria before the pandemic. We are still evaluating how to continue this tradition. We welcome your input and your labor to make it happen!
+
 ### ☕ Parent Coffees
+
+The PTA has occasionally provided coffee to parents before and after school in order to build and strengthen relationships with our fellow parents, as well as to inform parents about PTA goings-on and to recruit volunteers.
 
 ### 🎈 Rising Kindergarten Playdates
 
+The PTA organizes playdates for rising kindergarteners in the spring and summer before they will start school. This is a wonderful way for rising kindergarteners to make friends and to become more comfortable with the school, and for parents to meet each other as well.
+
 ### 📚 Book Swap
 
-### 🎊 Honor Roll Parties
-
-The PTA helps organize parties for 3rd-5th graders who make the honor roll. This includes distributing party invitations to students via classroom teachers; providing games, activities and prizes; provide honor roll ribbons to students; and event set-up and clean-up.
+The PTA held its first Book Swap in 2022 and it was a big success. Volunteers collected donated kids' books (from families and from businesses), placed them on tarps in front of the school on a pleasant Saturday afternoon, and invited the community to take and/or leave books over the course of two hours. Everyone enjoyed the opportunity to refresh their reading queue without any money changing hands. It was also a great lead-in to the Read-a-Thon fundraiser.
 
 ### 📸 Photographer
 
@@ -376,9 +395,17 @@ Volunteers are needed to take pictures at school events, both day and evening, f
 
 The Virginia PTA requires that our bank statements be opened each month by an individual who is not authorized to sign checks. The individual must then verify the statement against the treasurer’s report for that month.
 
+### 🙋 Nominating Committee
+
+The  Nominating Committee nominates PTA members to serve as officers the following year. (Officer roles are the President, Treasurer, Secretary, as well as Vice President roles.) Members of the Nominating Committee identify PTA members interested in serving as officers, and report to the general membership a list of nominees for the annual election.
+
+At least three people need to serve on the committee. The committee needs to be up and running by March. The nominating committee submits the officer nominees to the general membership in April so that the election can be held in May.
+
 ### ✅ Audit Committee
 
-### 🙋 Nominating Committee
+The Virginia PTA requires that each PTA audit their finances at the conclusion of each school year. (This is sometimes called a financial review.) In practice, the audit is more like a checklist, and no financial experience is required to serve on the Committee.
+
+At least three people need to serve on the committee. The Treasurer provides their records to the Committee at the end of the fiscal year (July 1). The Committee provides their financial report to the Executive Board and to the general membership for their approval at the first meeting of the school year (September). In practice, the Committee spends a few hours in July and August reviewing the financial records from the prior school year and meets once in order to finalize the report.
 
 ### 📜 Historian
 

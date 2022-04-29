@@ -83,3 +83,20 @@ Below is a timeline of Abingdon's history gleaned from newspaper reports. This t
 | 1999-04-01 | The Washington Post | A profile of Abingdon's bilingual program. | [![](img/1999-04-01-1.webp)](img/1999-04-01-1.webp)<br>[![](img/1999-04-01-2.webp)](img/1999-04-01-2.webp) |
 | 2001-03-29 | The Washington Post | A profile of a first-year fifth-grade teacher. | [![](img/2001-03-29-1.webp)](img/2001-03-29-1.webp)<br>[![](img/2001-03-29-2.webp)](img/2001-03-29-2.webp) |
 | 2002-01-03 | The Washington Post | The school board considered moving Abingdon's bilingual education program. | [![](img/2002-01-03-1.webp)](img/2002-01-03-1.webp)<br>[![](img/2002-01-03-2.webp)](img/2002-01-03-2.webp) |
+
+### Principals
+
+| Name | Tenure |
+| ---- | ------ |
+| Mary Barbour | 1950-1951 |
+| Patty Hales | 1951- |
+| Corinne Jeffries | 1953?-1960? |
+| Dicie Woodson | 1960?-1961? |
+| Irene B. Young | 1961-1971 |
+| John Kiernan | 1971-1975 |
+| James Kacsmarik | 1975- |
+| Margaret McCourt-Dirner | 1984, 1986 |
+| Marjorie "Meg" R. Tuccillo | 1990-1997 |
+| Miguel Ley | 1998-2001 |
+| Joanne Uyeda | 2001-2019 |
+| David Horak | 2019-present |

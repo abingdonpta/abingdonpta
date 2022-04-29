@@ -13,7 +13,7 @@ The purposes of the groups are:
 - To allow for the PTA and Abingdon staff to share helpful information.
 - To provide families a place to talk to other families about topics related to Abingdon.
 - To enhance the sense of community among Abingdon families.
-
+-->
 {{< hint warning >}}
 Please follow these rules:
 - Only parents and guardians of current Abingdon students, and Abingdon staff, may join.
@@ -21,7 +21,7 @@ Please follow these rules:
 - Do not share content that will not be in the interest of the majority of group members.
 - Do not advertise. However, publicizing not-for-profit community events is permitted.
 {{< /hint >}}
--->
+
 {{< details "English" >}}
 <br>
 {{< button href="https://chat.whatsapp.com/JHmnCVwB6LC7Fol2uOw0Ew" >}} Tap here to join {{< /button >}} or scan the QR code:

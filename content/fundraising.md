@@ -45,15 +45,23 @@ Spirit Wear will be available when the PTA places an order. A portion of the pro
 
 {{< button href="https://abingdonpta.memberhub.com/store" >}}Click Here to Order Spirit Wear{{< /button >}}
 
+## AmazonSmile
+
+Abingdon PTA participates in AmazonSmile. When you choose Abingdon PTA as your designated charity, Amazon donates 0.5% of your purchases to us.
+
+{{< button href="https://smile.amazon.com/ch/52-1289072" >}}Click Here to Choose Abingdon PTA as Your AmazonSmile Charity{{< /button >}}
+
 ## Harris Teeter rebates
 
 Abingdon PTA participates in Harris Teeter's Together in Education (TIE) Program, which provides the PTA a portion of money spent at their stores by customers who sign up for the program. To sign up, click the link below and follow the instructions. Abingdon PTA's number is 5748.
 
 {{< button href="https://tie.harristeeter.com/tie/login" >}}Click Here to Sign Up for Harris Teeter Rebates{{< /button >}}
 
-## Amazon Smile
+## Box Tops for Education
 
-Information on Amazon Smile will be provided at a later date.
+Abingdon (the school, not the PTA) participates in Box Tops for Education. Visit the program's website and search for "Abingdon Elementary School" or search by our ZIP code, 22206.
+
+{{< button href="https://www.boxtops4education.com/" >}}Click Here to Sign Up for Box Tops For Education{{< /button >}}
 
 ## Read-A-Thon
 
