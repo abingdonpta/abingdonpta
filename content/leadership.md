@@ -46,10 +46,10 @@ Please [fill out our volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSd
 
 | Role | Name |
 |-|-|
-| [💸 Passive Fundraising Coordinator](/roles#-passive-fundraising-coordinator) | ***Position Available*** |
+| [💸 Retail Rebates Coordinator](/roles#-retail-rebates-coordinator) | ***Position Available*** |
 | [👕 Spirit Wear Coordinator](/roles#-spirit-wear-coordinator) | ***Position Available*** |
 | [✏️ Edukit Coordinator](/roles#-edukit-coordinator) | Samantha Levine-Finley |
-| [📷 School Pictures Coordinator](/roles#-school-pictures-coordinator) | ***Position Available*** |
+| [📸 School Pictures Coordinator](/roles#-school-pictures-coordinator) | ***Position Available*** |
 | [📚 Read-A-Thon Coordinator](/roles#-read-a-thon-coordinator) | ***Position Available*** |
 | [🌯 Spirit Night Coordinator](/roles#-spirit-night-coordinator) | ***Position Available*** |
 | [🤝 Sponsorships Coordinator](/roles#-sponsorships-coordinator) | ***Position Available*** |
@@ -95,7 +95,7 @@ The Events Committee organizes several events throughout the year. These events 
 | [☕ Parent Coffees](/roles#-parent-coffees) | Year-round |
 | [🎈 Rising Kindergarten Playdates](/roles#-rising-kindergarten-playdates) | March - August |
 | [📚 Book Swap](/roles#-book-swap) | March |
-| [📸 Photographer](/roles#-photographer) | N/A |
+| [📷 Photographer](/roles#-photographer) | N/A |
 
 ### 🙏 Staff Appreciation
 
@@ -124,7 +124,7 @@ The Staff Appreciation Committee blesses our wonderful Abingdon staff throughout
 | School Lunch Hero Day | [May](https://schoolnutrition.org/schoollunchheroday/) |
 | Speech Pathologist Day | May |
 
-### ❓ Other Roles
+### ❔ Other Roles
 
 | Role | Name |
 |-|-|

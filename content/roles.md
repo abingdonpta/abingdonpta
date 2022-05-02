@@ -5,7 +5,7 @@ description: Role Descriptions of the Abingdon PTA.
 
 # Role Descrptions
 
-We've done our best to summarize the roles for volunteers at the Abingdon PTA. Taken together, these descriptions describe everything the PTA does.
+There are many roles for volunteers at the Abingdon PTA. We've provided descriptions of the type of work that we do as a PTA.
 
 Please [fill out our volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSdk4KJFIDuigz-EyhdPuWM_GejjZ5rpx9emd6jHxb2xKPQgGA/viewform?usp=sf_link) or [email us](mailto:abingdonelementaryPTA@gmail.com) if you have interest in one of the vacant roles below. (View our [leadership page](/leadership) to see which positions are vacant.)
 
@@ -123,9 +123,9 @@ Translators may also help us translate live PTA meetings if they are able to do 
 
 ## 💵 Fundraising Role Descriptions
 
-### 💸 Passive Fundraising Coordinator
+### 💸 Retail Rebates Coordinator
 
-The Passive Fundraising Coordinator identifies corporate rebate programs and subscribes the PTA to them. Some examples include Amazon Smile and Harris Teeter.
+The Retail Rebates Coordinator identifies corporate rebate programs and subscribes the PTA to them. Some examples include AmazonSmile and Harris Teeter.
 
 The Coordinator also works with the PTA communications team to publicize these programs.
 
@@ -153,7 +153,7 @@ The Edukit Coordinator oversees the Edukit program. In the spring the coordinato
 - **Time of day**: Any
 - **Months**: March and April, August
 
-### 📷 School Pictures Coordinator
+### 📸 School Pictures Coordinator
 
 Picture Day is held twice annually at Abingdon - once in the fall and once in the spring. The PTA organizes Picture Day in coordination with a vendor. Picture Day provides families with a snapshot of their children and also serves as a fundraiser for the PTA.
 
@@ -193,7 +193,7 @@ The Spirit Night Coordinator works with local restaurants to schedule the fundra
 - **Time of day**: Any
 - **Months**: Year-round
 
-## 🎓 Educational Role Descriptions
+## 🎓 Educational Programs Role Descriptions
 
 ### 🍅 Garden Coordinator
 
@@ -335,7 +335,7 @@ The PTA organized Winter Wonderland in 2022 with music, games, alpacas, and a ga
 
 ### 🌱 Spring Event
 
-The PTA has held International Night each spring between 2017-2019 and in 2022. International Night celebrates the diverse population of our school and the many countries and culture they represent.
+The PTA has held International Night each spring between 2017-2019 and in 2022. International Night celebrates the diverse population of our school and the many countries and cultures they represent.
 
 ### 🎓 5th Grade Promotion
 
@@ -355,11 +355,15 @@ The PTA organizes playdates for rising kindergarteners in the spring and summer 
 
 The PTA held its first Book Swap in 2022. Volunteers collected donated kids' books (from families and from businesses), placed them on tarps in front of the school on a pleasant Saturday afternoon, and invited the community to take and/or leave books over the course of two hours. Everyone enjoyed the opportunity to refresh their book collection for free. It was also a great lead-in to the Read-a-Thon fundraiser.
 
-### 📸 Photographer
+### 📷 Photographer
 
-Volunteers are needed to take pictures at school events, both day and evening, for the Abingdon and PTA website, yearbook, Facebook and Twitter accounts.
+Volunteers are needed to take pictures at school events for the Abingdon and PTA website, yearbook, Facebook and Twitter accounts.
 
-## ❓ Other Role Descriptions
+- **Location**: School  
+- **Time of day**: Mostly evenings and weekends, but some daytime availability is a plus  
+- **Months**: Year-round
+
+## ❔ Other Role Descriptions
 
 ### 📖 Yearbook Coordinator
 
@@ -397,7 +401,7 @@ At least three people need to serve on the committee. The committee needs to be 
 
 The Virginia PTA requires that each PTA audit their finances at the conclusion of each school year. (This is sometimes called a financial review.) In practice, the audit is more like a checklist, and no financial experience is required to serve on the Committee.
 
-At least three people need to serve on the committee. The Treasurer provides their records to the Committee at the end of the fiscal year (July 1). The Committee drafts the financial report and submits it to the Executive Board and to the general membership in August for their approval at the first meeting of the school year in September. In practice, the Committee spends a few hours in July reviewing the financial records from the prior school year and meets once, probably in early August, in order to finalize the report.
+At least three people need to serve on the committee. The Treasurer provides their records to the Committee at the end of the fiscal year (July 1). The Committee drafts the financial report and submits it to the Executive Board and to the general membership in August for their approval at the first meeting of the school year in September. In practice, the Committee spends a few hours in July reviewing the financial records from the prior school year and meets once, perhaps in early August, in order to finalize the report.
 
 - **Location**: Home  
 - **Time of day**: Evening  
@@ -405,9 +409,11 @@ At least three people need to serve on the committee. The Treasurer provides the
 
 ### 📜 Historian
 
-The historian knows a lot about Abingdon and the PTA back in the day.
+The historian maintains our [history webpage](/history), and is able to tell people about what Abingdon and the PTA were like back in the day.
 
-(This used to be a real PTA position but now it's just here for fun.)
+- **Location**: History  
+- **Time of day**: The past  
+- **Months**: Long ago  
 
 ### 🐦 Mascot
 
