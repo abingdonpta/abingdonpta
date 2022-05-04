@@ -8,4 +8,4 @@ images:
 
 Everyone had tons of fun at Winter Wonderland!
 
-![](img/ww.jpg)
+![](images/ww.webp)

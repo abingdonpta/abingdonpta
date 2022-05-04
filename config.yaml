@@ -1,7 +1,8 @@
 baseURL: https://new.abingdonpta.org/
 languageCode: en-us
 title: Abingdon PTA
-theme: hugo-book
+theme: 
+- hugo-book
 
 markup:
   goldmark:
@@ -25,20 +26,20 @@ languages:
     weight: 1
     languageName: English
     title: Abingdon PTA
-  es:
-    weight: 2
-    languageName: Español
-    title: PTA de Abingdon
-  ar:
-    weight: 3
-    languageName: العربية
-    title: جمعية الاباء والمعلمين ابينجدون
-    languagedirection: rtl
-  am:
-    weight: 4
-    languageName: አማርኛ
-    title: አቢንግዶን PTA
-  mn:
-    weight: 5
-    languageName: Монгол
-    title: Абингон PТА
+#  es:
+#    weight: 2
+#    languageName: Español
+#    title: PTA de Abingdon
+#  ar:
+#    weight: 3
+#    languageName: العربية
+#    title: جمعية الاباء والمعلمين ابينجدون
+#    languagedirection: rtl
+#  am:
+#    weight: 4
+#    languageName: አማርኛ
+#    title: አቢንግዶን PTA
+#  mn:
+#    weight: 5
+#    languageName: Монгол
+#    title: Абингон PТА

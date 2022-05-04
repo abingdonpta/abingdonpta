@@ -11,32 +11,44 @@ The PTA organizes several events throughout the year. These events strengthen ou
 
 ## Welcome Picnic
 
-[![](img/904771466805346307.webp)](https://twitter.com/AbingdonPTA/status/904771466805346307)
+[![](images/resized/904747149359022082.webp)](images/originals/904747149359022082.jpg)
 
-[![](img/904747149359022082.webp)](https://twitter.com/AbingdonPTA/status/904747149359022082)
+[![](images/resized/904771466805346307.webp)](images/originals/904771466805346307.jpg)
 
 ## Trunk or Treat
 
-[![](img/1454571445716197381.webp)](https://twitter.com/AbingdonPTA/status/1454571445716197381)
+[![](images/resized/1454571445716197381_1.webp)](images/originals/1454571445716197381_1.jpg)
+
+[![](images/resized/1454571445716197381_2.webp)](images/originals/1454571445716197381_2.jpg)
+
+[![](images/resized/1454571445716197381_3.webp)](images/originals/1454571445716197381_3.jpg)
+
+[![](images/resized/1454571445716197381_4.webp)](images/originals/1454571445716197381_4.jpg)
 
 ## Winter Wonderland
 
-[![](img/1492609237989699590.webp)](https://twitter.com/AbingdonPTA/status/1492609237989699590)
+[![](images/resized/1492609237989699590_1.webp)](images/originals/1492609237989699590_1.jpg)
+
+[![](images/resized/1492609237989699590_2.webp)](images/originals/1492609237989699590_2.jpg)
 
 ## International Night
 
-[![](img/845420858730594306.webp)](https://twitter.com/AbingdonPTA/status/845420858730594306)
+[![](images/resized/845420858730594306_1.webp)](images/originals/845420858730594306_1.jpg)
+
+[![](images/resized/845420858730594306_2.webp)](images/originals/845420858730594306_2.jpg)
 
 ## 5th Grade Promotion
 
-[![](img/1009075392618160128.webp)](https://twitter.com/AbingdonPTA/status/1009075392618160128)
+[![](images/resized/1009075392618160128.webp)](images/originals/1009075392618160128.jpg)
 
 ## Parent Coffees
 
 ## Movie Nights
 
-[![](img/1083863921679843328.webp)](https://twitter.com/AbingdonPTA/status/1083863921679843328)
+[![](images/resized/2020-02-21.webp)](images/originals/2020-02-21.jpg)
 
 ## Book Swap
 
-[![](img/1505637928646676491.webp)](https://twitter.com/AbingdonPTA/status/1505637928646676491)
+[![](images/resized/PXL_20220319_165345334.webp)](images/originals/PXL_20220319_165345334.jpg)
+
+[![](images/resized/PXL_20220319_171526195.webp)](images/originals/PXL_20220319_171526195.jpg)

@@ -8,8 +8,20 @@ Abingdon Elementary would love your support to create a successful, sustainable 
 
 {{< button href="https://docs.google.com/forms/d/e/1FAIpQLSc62Xf5rFUBG1XqElQa2VQJUJu8k8Kf0RWTWPzoemf8bOLF-A/viewform?usp=sf_link" >}}Click Here to Subscribe to our Garden Newsletter{{< /button >}}
 
-[![](img/1510276563526471685.webp)](https://twitter.com/AbingdonElem/status/1510276563526471685)
+[![](images/resized/040122_1.webp)](images/originals/040122_1.jpg)
 
-[![](img/1483152476895428610.webp)](https://twitter.com/AbingdonElem/status/1483152476895428610)
+[![](images/resized/040122_2.webp)](images/originals/040122_2.jpg)
 
-[![](img/995305229703925761.webp)](https://twitter.com/AbingdonElem/status/995305229703925761)
+[![](images/resized/040222_1.webp)](images/originals/040222_1.jpg)
+
+[![](images/resized/040222_2.webp)](images/originals/040222_2.jpg)
+
+[![](images/resized/040222_3.webp)](images/originals/040222_3.jpg)
+
+[![](images/resized/040222_4.webp)](images/originals/040222_4.jpg)
+
+[![](images/resized/040222_5.webp)](images/originals/040222_5.jpg)
+
+[![](images/resized/040222_6.webp)](images/originals/040222_6.jpg)
+
+[![](images/resized/040222_7.webp)](images/originals/040222_7.jpg)

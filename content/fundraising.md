@@ -5,11 +5,9 @@ description: The Abingdon PTA holds several fundraisers throughout the year.
 
 # Fundraising
 
-## No Frills Fundraiser
+## Donate
 
-The PTA accepts open-ended donations at all times. We call this a "No Frills Fundraiser."
-
-You may donate to the PTA using any of these three methods, in order of preference:
+The PTA accepts open-ended donations at all times. You may donate to the PTA using any of these three methods, in order of preference:
 
 {{< tabs "donate" >}}
 {{< tab "Zelle" >}}
@@ -56,13 +54,13 @@ Abingdon PTA participates in AmazonSmile. When you choose Abingdon PTA as your d
 Abingdon PTA participates in Harris Teeter's Together in Education (TIE) Program, which provides the PTA a portion of money spent at their stores by customers who sign up for the program. To sign up, click the link below and follow the instructions. Abingdon PTA's number is 5748.
 
 {{< button href="https://tie.harristeeter.com/tie/login" >}}Click Here to Sign Up for Harris Teeter Rebates{{< /button >}}
-
+<!--
 ## Box Tops for Education
 
 Abingdon (the school, not the PTA) participates in Box Tops for Education. Visit the program's website and search for "Abingdon Elementary School" or search by our ZIP code, 22206.
 
 {{< button href="https://www.boxtops4education.com/" >}}Click Here to Sign Up for Box Tops For Education{{< /button >}}
-
+-->
 ## Read-A-Thon
 
 Abingdon holds a Read-A-Thon every year - a fundraiser when students track the number of pages they read over the course of two weeks and and sponors (usually parents and grandparents) pledge to give to the PTA a certain amount of money for each page the student has read. The PTA also awards prizes to students and classes who have read the most. The Read-A-Thon is the biggest PTA fundraiser of the year.
