@@ -1,39 +1,24 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="{{ default .Description }}">
+<meta name="description" content="{{ default .Summary .Description }}">
 <meta name="theme-color" content="#FFFFFF">
 <meta name="color-scheme" content="light dark">
 
-{{ template "_internal/twitter_cards.html" . }}
-<meta name="twitter:site" content="{{ .Site.Params.twitter }}" />
-<meta name="twitter:creator" content="{{ .Site.Params.twitter }}" />
+{{- with .Page.Params.BookHref -}}
+  <meta http-equiv="Refresh" content="0; url='{{ . }}'" />
+{{- end -}}
 
 {{- template "_internal/opengraph.html" . -}}
-<!--<meta property="og:image" content="{{.Site.BaseURL}}{{ .Site.Params.og_image }}">-->
-<!--<meta property="og:image:secure" content="{{.Site.BaseURL}}{{ .Site.Params.images }}" />-->
-<meta property="og:site_name" content="{{ .Site.Params.title }}" />
-<meta name="fb_admins_meta_tag" content="{{ .Site.Params.fb }}" />
-<meta property="fb:admins" content="{{ .Site.Params.fb }}" />
 
 <title>{{ partial "docs/html-head-title" . }}</title>
 
 {{- $manifest := resources.Get "manifest.json" | resources.ExecuteAsTemplate "manifest.json" . }}
 <link rel="manifest" href="{{ $manifest.RelPermalink }}">
 <link rel="icon" href="{{ "favicon.png" | relURL }}" type="image/x-icon">
-<!--<link rel="icon" href="{{ "favicon.svg" | relURL }}" type="image/svg+xml">-->
-<!--
+
 {{- range .Translations }}
   <link rel="alternate" hreflang="{{ default .Language.Lang .Site.LanguageCode }}" href="{{ .Permalink }}" title="{{ partial "docs/title" . }}">
-{{- end -}}-->
-
-{{- if .IsTranslated -}}
-  {{ range .AllTranslations }}
-    <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" />
-  {{- end -}}
-  {{ range first 1 .AllTranslations }}
-    <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}" />
-  {{- end -}}
-{{ end }}
+{{- end -}}
 
 <!-- Theme stylesheet, you can customize scss by creating `assets/custom.scss` in your website -->
 {{- $styles := resources.Get "book.scss" | resources.ExecuteAsTemplate "book.scss" . | resources.ToCSS | resources.Minify | resources.Fingerprint }}

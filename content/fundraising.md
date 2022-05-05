@@ -49,7 +49,7 @@ Abingdon PTA participates in AmazonSmile. When you choose Abingdon PTA as your d
 
 {{< button href="https://smile.amazon.com/ch/52-1289072" >}}Click Here to Choose Abingdon PTA as Your AmazonSmile Charity{{< /button >}}
 
-## Harris Teeter rebates
+## Harris Teeter Rebates
 
 Abingdon PTA participates in Harris Teeter's Together in Education (TIE) Program, which provides the PTA a portion of money spent at their stores by customers who sign up for the program. To sign up, click the link below and follow the instructions. Abingdon PTA's number is 5748.
 

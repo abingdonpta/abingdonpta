@@ -5,6 +5,10 @@ description: The Abingdon PTA organizes many donation drives for our school comm
 
 # Donation Drives
 
+The Abingdon PTA organizes many donation drives for our school community.
+
+If you're interested in helping to organize our donation drives, please [fill out our volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSdk4KJFIDuigz-EyhdPuWM_GejjZ5rpx9emd6jHxb2xKPQgGA/viewform?usp=sf_link).
+
 ## Food Drive
 
 The PTA organizes canned food drives, particularly during school events. A bin is placed in an accessible location and its contents are donated to the Arlington Food Assistance Center (AFAC).
@@ -17,9 +21,8 @@ During Winter Wonderland 2022, Abingdon collected 249 cans and 65 dry goods for 
 The PTA supports Abingdon families by collecting winter clothing for children whose families cannot afford them. More information will be available this fall.
 
 [![](images/resized/Donation1.webp)](images/originals/Donation1.jpg)
-
 [![](images/resized/Donation2.webp)](images/originals/Donation2.jpg)  
-Hats lovingly knitted and donated by a dedicated volunteer.
+**Left**: Donated clothing. **Right**: Hats lovingly knitted and donated by a dedicated volunteer.
 
 ## School Supplies Drive
 
