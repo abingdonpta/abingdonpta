@@ -1,5 +1,6 @@
 ---
 Title: Abingdon's Garden
+description: Abingdon Elementary would love your support to create a successful, sustainable community garden.
 ---
 
 # Abingdon's Garden
@@ -8,9 +9,7 @@ Abingdon Elementary would love your support to create a successful, sustainable 
 
 {{< button href="https://docs.google.com/forms/d/e/1FAIpQLSc62Xf5rFUBG1XqElQa2VQJUJu8k8Kf0RWTWPzoemf8bOLF-A/viewform?usp=sf_link" >}}Click Here to Subscribe to our Garden Newsletter{{< /button >}}
 
-[![](images/resized/040122_1.webp)](images/originals/040122_1.jpg)
-
-[![](images/resized/040122_2.webp)](images/originals/040122_2.jpg)
+## Earth Day Cleanup
 
 [![](images/resized/040222_1.webp)](images/originals/040222_1.jpg)
 
@@ -25,3 +24,15 @@ Abingdon Elementary would love your support to create a successful, sustainable 
 [![](images/resized/040222_6.webp)](images/originals/040222_6.jpg)
 
 [![](images/resized/040222_7.webp)](images/originals/040222_7.jpg)
+
+## Donation of Woodchips
+
+[![](images/resized/040122_1.webp)](images/originals/040122_1.jpg)
+
+[![](images/resized/040122_2.webp)](images/originals/040122_2.jpg)
+
+## MLK Day of Service
+
+[![](images/resized/IMG_1100.webp)](images/originals/IMG_1100.jpg)
+
+[![](images/resized/IMG_1116.webp)](images/originals/IMG_1116.jpg)

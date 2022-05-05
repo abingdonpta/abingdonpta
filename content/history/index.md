@@ -9,6 +9,8 @@ Abingdon first opened its doors to students in August 1950. The school has been 
 
 Below is a timeline of Abingdon's history gleaned from newspaper reports. This timeline was largely made possible by a [newspaper digitizing project](https://library.arlingtonva.us/2021/06/21/search-thousands-of-historic-arlington-papers-online-for-free/) by Arlington Library's Center for Local History and the Library of Virginia. We are grateful for their efforts, and we will add more articles as their digitization efforts progress.
 
+### Timeline
+
 | Date | Source | Narrative | Clip |
 | ---- | ------ | --------- | ---- |
 | 1943-12-18 | Arlington Daily | Fairlington Elementary School opened on January 3, 1944. | [![](images/resized/1943-12-18.webp)](images/originals/1943-12-18.jpg) |
@@ -18,7 +20,7 @@ Below is a timeline of Abingdon's history gleaned from newspaper reports. This t
 | 1947-10-12 | The Washington Post | The Fairlington Civic Association polled North Fairlington residents and confirmed that they wanted a new school. | [![](images/resized/1947-10-12.webp)](images/originals/1947-10-12.webp) |
 | 1947-10-22 | The Washington Post | The Fairlington Civic Association polled North Fairlington residents and confirmed that they wanted a new school. | [![](images/resized/1947-10-22.webp)](images/originals/1947-10-22.webp) |
 | 1948-02-16 | The Washington Post | The new owners of Fairlington did not immediately turn over the land for the school to the county. | [![](images/resized/1948-02-16-1.webp)](images/originals/1948-02-16-1.webp)<br>[![](images/resized/1948-02-16-2.webp)](images/originals/1948-02-16-2.webp) |
-| 1948-02-25 | The Washington Post | The county continued to have trouble obtaining the land for Abingdon. | [![](images/resized/1948-02-25.webp)]() |
+| 1948-02-25 | The Washington Post | The county continued to have trouble obtaining the land for Abingdon. | [![](images/resized/1948-02-25.webp)](images/originals/1948-02-25.webp) |
 | 1948-04-14 | Arlington Daily | The county hired attorneys to try to obtain the land for Abingdon. | [![](images/resized/1948-04-14-1.webp)](images/originals/1948-04-14-1.jpg)<br />[![](images/resized/1948-04-14-2.webp)](images/originals/1948-04-14-2.jpg)<br />[![](images/resized/1948-04-14-3.webp)](images/originals/1948-04-14-3.jpg) |
 | 1948-12-30 | Sun | The county came to an agreement with landowners about the location and the price of the land on which Abingdon would be built. | [![](images/resized/1948-12-30.webp)](images/originals/1948-12-30.jpg) |
 | 1949-01-28 | Sun | The Fairlington Civic Association and the Fairlington Elementary PTA issued a joint report about Abingdon's specifications. | [![](images/resized/1949-01-28.webp)](images/originals/1949-01-28.jpg) |
@@ -29,15 +31,15 @@ Below is a timeline of Abingdon's history gleaned from newspaper reports. This t
 | 1949-10-30 | The Washington Post | Officials held a groundbreaking ceremony for Abingdon. This article includes an architect's rendering of what the school would look like upon completion. | [![](images/resized/1949-10-30.webp)](images/originals/1949-10-30.webp) |
 | 1949-11-04 | Sun | Officials held a groundbreaking ceremony for Abingdon. | [![](images/resized/1949-11-04.webp)](images/originals/1949-11-04.jpg) |
 | 1950-06-02 | Sun | The Abingdon PTA held its first meeting on June 6, 1950. | [![](images/resized/1950-06-02.webp)](images/originals/1950-06-02.jpg) |
-| 1950-06-23 | Sun | This article includes a photo of Abingdon's first principal. | [![](images/resized/1950-06-23.webp)](images/originals/1950-06-23.jpg) |
+| 1950-06-23 | Sun | A photo of Abingdon's first principal. | [![](images/resized/1950-06-23.webp)](images/originals/1950-06-23.jpg) |
 | 1950-08-18 | Sun | Officials announced the date and time of Abingdon's dedication. | [![](images/resized/1950-08-18.webp)](images/originals/1950-08-18.jpg) |
 | 1950-08-21 | The Washington Post | Abingdon was dedicated on August 20, 1950. | [![](images/resized/1950-08-21.webp)](images/originals/1950-08-21.webp) |
 | 1950-09-22 | Sun | This article includes the first of many mentions of social events that were held at Abingdon. | [![](images/resized/1950-09-22.webp)](images/originals/1950-09-22.jpg) |
-| 1950-11-03 | Sun | A rare early photo of the schools interior. | [![](images/resized/1950-11-03.webp)](images/originals/1950-11-03.jpg) |
+| 1950-11-03 | Sun | A rare early photo of the school's interior. | [![](images/resized/1950-11-03.webp)](images/originals/1950-11-03.jpg) |
 | 1950-11-21 | Sun | Classes at Abingdon were already overcrowded in its first year. Eight of ten classrooms had more than 35 students, and four classrooms had 46 or 47 students. | [![](images/resized/1950-11-21.webp)](images/originals/1950-11-21.jpg) |
 | 1951-02-09 | Sun | There was evidence of property destruction at Abingdon after club dances. | [![](images/resized/1951-02-09-1.webp)](images/originals/1951-02-09-1.jpg)<br>[![](images/resized/1951-02-09-2.webp)](images/originals/1951-02-09-2.jpg) |
 | 1951-06-22 | Sun | Abingdon's fist principal departed after one year. | [![](images/resized/1951-06-22.webp)](images/originals/1951-06-22.jpg) |
-| 1955-06-02 | Sun | A jitterbug contest was held at Abingdon | [![](images/resized/1955-06-02.webp)](images/originals/1955-06-02.jpg) |
+| 1955-06-02 | Sun | A jitterbug contest was held at Abingdon. | [![](images/resized/1955-06-02.webp)](images/originals/1955-06-02.jpg) |
 | 1955-12-13 | The Washington Post | The Fairlington Civic Association and the Abingdon PTA voted to oppose a state constitutional convention that was being organized to continue segregation in Virginia public schools. | [![](images/resized/1955-12-13.webp)](images/originals/1955-12-13.webp) |
 | 1956-07-27 | Daily Sun | A doll contest was held at Abingdon. | [![](images/resized/1956-07-27-1.webp)](images/originals/1956-07-27-1.jpg)<br />[![](images/resized/1956-07-27-2.webp)](images/originals/1956-07-27-2.jpg)<br />[![](images/resized/1956-07-27-3.webp)](images/originals/1956-07-27-3.jpg)<br />[![](images/resized/1956-07-27-4.webp)](images/originals/1956-07-27-4.jpg)<br /> |
 | 1959-05-14 | Northern Virginia Sun | A festival being held at Abingdon was rained out. | [![](images/resized/1959-05-14.webp)](images/originals/1959-05-14.jpg) |
@@ -52,6 +54,7 @@ Below is a timeline of Abingdon's history gleaned from newspaper reports. This t
 | 1964-05-28 | Northern Virginia Sun | Abingdon held a groundbreaking for its new addition. | [![](images/resized/1964-05-28.webp)](images/originals/1964-05-28.jpg) |
 | 1964-10-01 | Northern Virginia Sun | Abingdon introduced its new kindergarten program. | [![](images/resized/1964-10-01.webp)](images/originals/1964-10-01.jpg) |
 | 1965-01-11 | Northern Virginia Sun | Abingdon held a dedication for its new library. | [![](images/resized/1965-01-11.webp)](images/originals/1965-01-11.jpg) |
+| 1965-06-09 | Center for Local History | A publication titled "A Long Range Staff Development Program to Facilitate Effective Integration in the Arlington County Public Schools" ([Library URL](https://libcat.arlingtonva.us/Record/18721)) drafted by the school system stated that there were no Black students at Abingdon (and at several other schools) in 1965. | [![](images/resized/1965-06-09.webp)](images/originals/1965-06-09.webp) |
 | 1966-04-01 | Northern Virginia Sun | Though not directly related to Abingdon, the article noted that there were two black families living in Fairlington. This indicates that Abingdon may not have been racially integrated at this time. | [![](images/resized/1966-04-01.webp)](images/originals/1966-04-01.jpg) |
 | 1966-04-04 | Northern Virginia Sun | Segregation in Fairlington, which was then a rental community, kept Abingdon segregated long after the Supreme Court had ruled that public school segregation was against the law. | [![](images/resized/1966-04-04.webp)](images/originals/1966-04-04.jpg) |
 | 1966-09-28 | Northern Virginia Sun | Abingdon's principal was given lifetime PTA membership. | [![](images/resized/1966-09-28.webp)](images/originals/1966-09-28.jpg) |
@@ -68,21 +71,44 @@ Below is a timeline of Abingdon's history gleaned from newspaper reports. This t
 | 1975-05-21 | Northern Virginia Sun | Abingdon hired a new principal. | [![](images/resized/1975-05-21_1.webp)](images/originals/1975-05-21_1.jpg) |
 | 1975-05-21 | Northern Virginia Sun | Abingdon raised money for a field trip by collecting recycling. | [![](images/resized/1975-05-21_2.webp)](images/originals/1975-05-21_2.jpg) |
 | 1977-03-23 | Northern Virginia Sun | Fairlington Elementary was restricted to grades 1-3. | [![](images/resized/1977-03-03.webp)](images/originals/1977-03-03.jpg) |
-| 1978-12-08 | The Washington Post | Fairlington Elementary was shut down, and remaining students enrolled in Abingdon. | [![](images/resized/1978-12-08.webp)](images/originals/1978-12-08.webp) |
-| 1984-11-07 | The Washington Post | Abingdon students provided requirements to a celebrity playground architect. | [![](images/resized/1984-11-07-1.webp)](images/originals/1984-11-07-1.webp)<br>[![](images/resized/1984-11-07-2.webp)](images/originals/1984-11-07-2.webp) |
+| 1978-12-08 | [The Washington Post](https://www.washingtonpost.com/archive/local/1978/12/08/arlington-board-votes-to-shut-three-schools/2b460734-f0ad-415d-ad0b-94ac105107df/) | Fairlington Elementary was shut down, and remaining students enrolled in Abingdon. | [![](images/resized/1978-12-08.webp)](images/originals/1978-12-08.webp) |
+| 1984-11-07 | [The Washington Post](https://www.washingtonpost.com/archive/local/1984/11/07/volunteers-work-is-childs-play/ca319fea-11f5-4f64-befd-271dce5697f9/) | Abingdon students provided requirements to a celebrity playground architect. | [![](images/resized/1984-11-07-1.webp)](images/originals/1984-11-07-1.webp)<br>[![](images/resized/1984-11-07-2.webp)](images/originals/1984-11-07-2.webp) |
 | 1985-03-14 | The Washington Post | The School Board proposed changes to Abingdon's school attendance boundaries. | [![](images/resized/1985-03-14.webp)](images/originals/1985-03-14.webp) |
-| 1986-09-05 | The Washington Post | A description of Abingdon's playground, listed in an article titled "Playgrounds to Test the Mind and Body. | [![](images/resized/1986-09-05.webp)](images/originals/1986-09-05.webp)
-| 1986-12-03 | The Washington Post | Abingdon's principal was honored by the Washington Post. | [![](images/resized/1986-12-03.webp)](images/originals/1986-12-03.webp) |
+| 1986-09-05 | [The Washington Post](https://www.washingtonpost.com/archive/lifestyle/1986/09/05/playgrounds-to-test-the-mind-and-body/36469714-86de-40e7-9f70-e8dd65cd5bb6/) | A description of Abingdon's playground, listed in an article titled "Playgrounds to Test the Mind and Body." | [![](images/resized/1986-09-05.webp)](images/originals/1986-09-05.webp)
+| 1986-12-03 | [The Washington Post](https://www.washingtonpost.com/archive/local/1986/12/03/14-area-principals-honored-by-post/3b1a531d-a5fc-457e-98e8-dd862da126d7/) | Abingdon's principal was honored by the Washington Post. | [![](images/resized/1986-12-03.webp)](images/originals/1986-12-03.webp) |
 | 1988-02-19 | The Washington Post | A plan was proposed to place sixth grade students in middle schools, and to reopen Claremont Elementary as an extension of Abingdon. | [![](images/resized/1988-02-19.webp)](images/originals/1988-02-19.webp) |
-| 1988-04-15 | The Washington Post | There was pushback to the plan to place sixth graders in middle schools and to reopen Claremont Elementary as an extension to Abingdon. | [![](images/resized/1988-04-15.webp)](images/originals/1988-04-15.webp) |
-| 1991-10-23 | The Washington Post | A feature about Abingdon's school garden. | [![](images/resized/1991-10-23-1.webp)](images/originals/1991-10-23-1.webp)<br>[![](images/resized/1991-10-23-2.webp)](images/originals/1991-10-23-2.webp) |
+| 1988-04-15 | [The Washington Post](https://www.washingtonpost.com/archive/local/1988/04/15/school-plan-poorly-received/70d42adf-977d-4908-88de-ad2ffbbe032e/) | There was pushback to the plan to place sixth graders in middle schools and to reopen Claremont Elementary as an extension to Abingdon. | [![](images/resized/1988-04-15.webp)](images/originals/1988-04-15.webp) |
+| 1991-10-23 | [The Washington Post](https://www.washingtonpost.com/archive/lifestyle/food/1991/10/23/a-little-hands-on-harvest/1ccb80df-cb15-4e72-99a2-c27933032992/) | A feature about Abingdon's school garden. | [![](images/resized/1991-10-23-1.webp)](images/originals/1991-10-23-1.webp)<br>[![](images/resized/1991-10-23-2.webp)](images/originals/1991-10-23-2.webp) |
 | 1993-11-30 | The Washington Post | Abingdon's principal was honored for distinguished leadership. | [![](images/resized/1993-11-30.webp)](images/originals/1993-11-30.webp) |
-| 1994-03-24 | The Washington Post | Gunston Middle School opens and Abingdon families are excited to send their kids to the brand new school. | [![](images/resized/1994-03-24-1.webp)](images/originals/1994-03-24-1.webp)<br>[![](images/resized/1994-03-24-2.webp)](images/originals/1994-03-24-2.webp) |
-| 1995-12-03 | The Washington Post | A profile of race walking Abingdon teacher. | [![](images/resized/1995-12-03-1.webp)](images/originals/1995-12-03-1.webp)<br>[![](images/resized/1995-12-03-2.webp)](images/originals/1995-12-03-2.webp) |
+| 1994-03-24 | [The Washington Post](https://www.washingtonpost.com/archive/local/1994/03/24/school-boundary-revisions-leave-frustrations/c206cf80-5735-4186-a1f1-a8e72f1c6635/) | Gunston Middle School opens and Abingdon families are excited to send their kids to the brand new school. | [![](images/resized/1994-03-24-1.webp)](images/originals/1994-03-24-1.webp)<br>[![](images/resized/1994-03-24-2.webp)](images/originals/1994-03-24-2.webp) |
+| 1995-12-03 | [The Washington Post](https://www.washingtonpost.com/archive/local/1995/12/03/in-step-with-her-students/92e7c073-7a7f-494a-882d-d55805f20721/) | A profile of race walking Abingdon teacher. | [![](images/resized/1995-12-03-1.webp)](images/originals/1995-12-03-1.webp)<br>[![](images/resized/1995-12-03-2.webp)](images/originals/1995-12-03-2.webp) |
 | 1996-09-01 | The Washington Post | A list of quotes from Abingdon staff. | [![](images/resized/1996-09-01.webp)](images/originals/1996-09-01.webp) |
-| 1999-04-01 | The Washington Post | A profile of Abingdon's bilingual program. | [![](images/resized/1999-04-01-1.webp)](images/originals/1999-04-01-1.webp)<br>[![](images/resized/1999-04-01-2.webp)](images/originals/1999-04-01-2.webp) |
+| 1999-04-01 | [The Washington Post](https://www.washingtonpost.com/archive/local/1999/04/01/speaking-childrens-language/e24488ec-32df-43f0-afeb-2ff6eb5120c5/) | A profile of Abingdon's bilingual program. | [![](images/resized/1999-04-01-1.webp)](images/originals/1999-04-01-1.webp)<br>[![](images/resized/1999-04-01-2.webp)](images/originals/1999-04-01-2.webp) |
 | 2001-03-29 | The Washington Post | A profile of a first-year fifth-grade teacher. | [![](images/resized/2001-03-29-1.webp)](images/originals/2001-03-29-1.webp)<br>[![](images/resized/2001-03-29-2.webp)](images/originals/2001-03-29-2.webp) |
-| 2002-01-03 | The Washington Post | The school board considered moving Abingdon's bilingual education program. | [![](images/resized/2002-01-03-1.webp)](images/originals/2002-01-03-1.webp)<br>[![](images/resized/2002-01-03-2.webp)](images/originals/2002-01-03-2.webp) |
+| 2002-01-03 | [The Washington Post](https://www.washingtonpost.com/archive/local/2002/01/03/schools-may-merge-spanish-language-programs/a891da84-7d31-4308-add4-df124e50ba2d/) | The school board considered moving Abingdon's bilingual education program. | [![](images/resized/2002-01-03-1.webp)](images/originals/2002-01-03-1.webp)<br>[![](images/resized/2002-01-03-2.webp)](images/originals/2002-01-03-2.webp) |
+| 2006-11-06 | [The Washington Post](https://www.washingtonpost.com/archive/local/2006/11/16/2-principals-honored-for-reviving-schools-span-classbankhead18-administrators-receive-post-awards-span/36f6db9a-5fed-4fcc-8f15-6a8fac56acee/) | Abingdon's principal was named Principal of the Year. | [PDF](images/PDF/2006-11-06.pdf) |
+| 2009-06-27 | [Sun-Gazette](https://www.insidenova.com/news/education/arlington/abingdon-elementary-wins-video-award/article_8ec52a92-febe-5519-b4d0-faa1f2adba13.html) | Abingdon Elementary Wins Video Award | |
+| 2010-06-04 | [Sun-Gazette](https://www.insidenova.com/news/education/arlington/alpaca-poop-helps-to-fertilize-outdoor-classroom/article_ad096b40-e45c-5fe6-9760-e1a5a3203596.html) | Alpaca Poop Helps to Fertilize Outdoor Classroom | |
+| 2011-10-11 | [Sun-Gazette](https://www.insidenova.com/news/arlington/county-schools-honored-for-commitment-to-hunger-issues/article_4b617761-207c-5148-91ec-00fb98677f25.html) | Abingdon Honored for Commitment to Hunger Issues | |
+| 2012-08-13 | [The Washington Post](https://www.washingtonpost.com/local/education/mobile-library-keeps-some-arlington-kids-reading-all-summer/2012/08/12/cc4c91b8-e2f4-11e1-a25e-15067bb31849_story.html) | Abingdon's Book Bus brings books to students during the summer. | [PDF](images/PDF/2012-08-13.pdf) |
+| 2012-08-13 | [ArlNow](https://www.arlnow.com/2012/08/13/abingdon-elementary-summer-book-bus-deemed-a-success/) | Abingdon Elementary Summer ‘Book Bus’ Deemed a Success | |
+| 2014-05-18 | [The Washington Post](https://www.washingtonpost.com/local/education/tablets-proliferate-in-nations-classrooms-and-take-a-swipe-at-the-status-quo/2014/05/17/faa27ba4-dbbd-11e3-8009-71de85b9c527_story.html) | Tablets were beginning to be used at Abingdon. | [PDF](images/PDF/2014-05-18.pdf) |
+| 2014-07-10 | [Sun-Gazette](https://www.insidenova.com/news/arlington/arlington-school-officials-detail-costs-of-new-construction/article_c794bd86-081c-11e4-b042-0019bb2963f4.html) | School officials detail costs of new construction | |
+| 2014-07-13 | [Sun-Gazette](https://www.insidenova.com/news/arlington/arlington-educators-present-at-international-reading-conference/article_239f8fa0-0a8b-11e4-87b1-0019bb2963f4.html) | Abingdon educators present at international reading conference | |
+| 2014-08-31 | [Sun-Gazette](https://www.insidenova.com/news/arlington/architect-for-expansion-of-arlington-elementary-school-to-be-approved/article_1068b6b2-3111-11e4-add1-001a4bcf887a.html) | Architect for expansion of Abingdon to be approved | |
+| 2015-02-16 | [Sun-Gazette](https://www.insidenova.com/news/arlington/arlington-school-board-members-to-discuss-planned-abingdon-expansion/article_edfbb848-b551-11e4-9578-db292f4f42f8.html) | Arlington School Board members to discuss planned Abingdon expansion | |
+| 2015-03-23 | [Sun-Gazette](https://www.insidenova.com/news/arlington/abingdon-elementary-expansion-plan-approved/article_5ec06abe-d173-11e4-96de-cbff92342826.html) | Abingdon Elementary expansion plan approved | |
+| 2015-09-22 | [Sun-Gazette](https://www.insidenova.com/news/arlington/arlington-county-board-oks-expansion-of-abingdon-elementary/article_c8237516-611d-11e5-9aa9-7bdbcdc7f118.html) | Arlington County Board approves expansion of Abingdon Elementary | |
+| 2015-09-22 | [ArlNow](https://www.arlnow.com/2015/09/22/abingdon-elementary-to-be-expanded-renovated/) | Abingdon Elementary to Be Expanded, Renovated | |
+| 2015-10-14 | [The Washington Post](https://www.washingtonpost.com/local/arlington-school-counselor-and-teacher-pen-book-about-traveling-cat/2015/10/13/67b5e1fe-6d08-11e5-aa5b-f78a98956699_story.html) | An Abingdon teacher illustrated a book. | [PDF](images/PDF/2015-10-14.pdf) |
+| 2016-02-22 | [Sun-Gazette](https://www.insidenova.com/news/arlington/final-design-for-elementary-school-expansion-nears-approval/article_c40b17ce-d8ad-11e5-8dbf-bf42c7855651.html) | Final design for elementary-school expansion nears approval | |
+| 2016-04-05 | [ArlNow](https://www.arlnow.com/2016/04/05/relocatable-classrooms-at-abingdon-relocated-to-field/) | ‘Relocatable’ Classrooms at Abingdon Relocated to Field | |
+| 2017-05-18 | [Sun-Gazette](https://www.insidenova.com/news/arlington/progress-continues-on-abingdon-elementary-rebuild/article_200d430a-3bc0-11e7-b2f7-43bebb6ab0a7.html) | Progress continues on Abingdon Elementary rebuild | |
+| 2017-11-06 | [ArlNow](https://www.arlnow.com/2017/11/06/abingdon-elementarys-little-presidents-get-a-visit-from-nationals-racing-presidents/) | Abingdon Elementary’s ‘Little Presidents’ Get a Visit From Nationals’ Racing Presidents | |
+| 2018-04-13 | [ArlNow](https://www.arlnow.com/2018/04/13/morning-notes-1882/) | Ribbon Cutting for Abingdon Renovations | |
+| 2018-06-12 | [ArlNow](https://www.arlnow.com/2018/06/12/abingdon-elementarys-little-presidents-join-nats-park-presidents-race/) | Abingdon Elementary’s ‘Little Presidents’ Join Nats Park Presidents Race | |
+| 2018-12-06 | [The Washington Post](https://www.washingtonpost.com/local/education/as-arlington-rezones-schools-communities-fight-to-stay-together/2018/12/05/97102b7c-f337-11e8-80d0-f7e1948d55f4_story.html) | Changes to Abingdon's boundaries were divisive. | [PDF](images/PDF/2018-12-06.pdf) |
+| 2019-06-22 | [Sun-Gazette](https://www.insidenova.com/news/education/fairfax-educator-tapped-to-be-new-principal-in-arlington/article_56731a0e-94f7-11e9-92ad-5b20ffed75a3.html) | Fairfax educator tapped to be new Abingdon principal | |
 
 ### Principals
 
@@ -100,3 +126,20 @@ Below is a timeline of Abingdon's history gleaned from newspaper reports. This t
 | Miguel Ley | 1998-2001 |
 | Joanne Uyeda | 2001-2019 |
 | David Horak | 2019-present |
+
+### Renovations/Additions
+
+| Year | Added |
+| ---- | ----- |
+| 1949-1950 | Initial construction. Ten classrooms, a multi-purpose room, a library, offices for the principal and secretary, a teacher's lounge, a kitchen and a storage room. |
+| 1964-1965 | A new library, and probably more (9 classrooms? a conference room?) |
+| 1970-1971 | 15 classrooms, media center, gymnasium, conference rooms for reading, music, science, art, an office and additional storage space. And air conditioning for the entire school except the gym. |
+| 1990 | Unknown |
+| [2016-2017](https://www.apsva.us/design-and-construction/abingdon-additionrenovations/) | 12 new classrooms, a new gymnasium, a new kitchen, and an outdoor instructional area. |
+
+### Other Documents
+
+| Document | Link |
+| -------- | ---- |
+| A history of Abingdon Elementary, written in March 1971. | [PDF](images/PDF/Abingdon%20Elementary%20History.pdf) |
+| Architectural and mechanical report for proposed additions and alterations to Oakridge and Abingdon elementary schools, published in 1968. ([library URL](https://libcat.arlingtonva.us/Record/10555)) | [PDF](images/PDF/Addition%20Plan%201968.pdf) |
