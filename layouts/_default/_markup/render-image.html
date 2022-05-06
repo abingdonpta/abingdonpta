@@ -1,0 +1,16 @@
+{{/* Original code from: https://www.bennettnotes.com/notes/hugo-responsive-images-with-markdown-render-hook/   */}}
+
+{{ $src := .Page.Resources.GetMatch (printf "%s" (.Destination | safeURL))  }}
+{{ $alt := .PlainText | safeHTML }}
+
+{{ if $src }}
+
+{{ $tinyw := default "360x webp" }}
+{{ $data := newScratch }}
+{{ $data.Set "tiny" ($src.Resize $tinyw) }}
+{{ $tiny := $data.Get "tiny" }}
+
+<a href="{{ $src.RelPermalink }}">
+    <img src="{{with $tiny.RelPermalink }}{{.}}{{ end }}" alt="{{ $alt }}" title="{{ $alt }}" height="{{ $tiny.Height}}" width="{{ $tiny.Width }}" class="img-fluid">
+</a>
+  {{ end }}

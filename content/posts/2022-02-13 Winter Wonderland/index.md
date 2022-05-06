@@ -7,4 +7,4 @@ categories: events
 
 Everyone had tons of fun at Winter Wonderland!
 
-[![](images/resized/ww.webp)](images/originals/ww.jpg)
+![](images/ww.jpg)

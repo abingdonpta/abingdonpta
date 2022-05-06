@@ -13,24 +13,24 @@ If you're interested in volunteering in the garden, please subscribe to our Gard
 
 ## Earth Day Cleanup
 
-[![](images/resized/040222_1.webp)](images/originals/040222_1.jpg)
-[![](images/resized/040222_2.webp)](images/originals/040222_2.jpg)
-[![](images/resized/040222_3.webp)](images/originals/040222_3.jpg)
-[![](images/resized/040222_4.webp)](images/originals/040222_4.jpg)
-[![](images/resized/040222_5.webp)](images/originals/040222_5.jpg)
-[![](images/resized/040222_6.webp)](images/originals/040222_6.jpg)
-[![](images/resized/040222_7.webp)](images/originals/040222_7.jpg)
+![](images/040222_1.jpg)
+![](images/040222_2.jpg)
+![](images/040222_3.jpg)
+![](images/040222_4.jpg)
+![](images/040222_5.jpg)
+![](images/040222_6.jpg)
+![](images/040222_7.jpg)
 
 ## Donation of Woodchips and Stumps
 
-[![](images/resized/040122_1.webp)](images/originals/040122_1.jpg)
-[![](images/resized/040122_2.webp)](images/originals/040122_2.jpg)
+![](images/040122_1.jpg)
+![](images/040122_2.jpg)
 
 ## MLK Day of Service
 
-[![](images/resized/IMG_1100.webp)](images/originals/IMG_1100.jpg)
-[![](images/resized/IMG_1116.webp)](images/originals/IMG_1116.jpg)
+![](images/IMG_1100.jpg)
+![](images/IMG_1116.jpg)
 
 ## How it started – December 2021
 
-[![](images/resized/IMG_6887.webp)](images/originals/IMG_6887.jpg)
+![](images/IMG_6887.jpg)

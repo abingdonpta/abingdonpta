@@ -243,6 +243,8 @@ The Odyssey of the Mind Coordinator organizes students' participation in a probl
 - **Time of day**: Immediately after school day and competition time
 - **Months**: Unsure
 
+There are other educational programs available to elementary school students, like [🏃‍♂️ Boys Gotta Run](https://www.boysgottarun.com), and [🔬 Science Olympiad](https://www.soinc.org/), with which Abingdon has little or no participation experience; however, the PTA could support Abingdon's participation provided that we have a motivated volunteer.
+
 ## 🏘️ Community Relations Role Descriptions
 
 ### 🧥 Winter Clothing Drive
