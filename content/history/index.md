@@ -41,6 +41,7 @@ Below is a timeline of Abingdon's history gleaned from newspaper reports. This t
 | 1951-06-22 | Sun | Abingdon's first principal departed after one year. | ![](images/1951-06-22.jpg) |
 | 1951-08-26 | The Washington Post | Abingdon's second principal was announced. | ![](images/1951-08-26.webp) |
 | 1953-08-23 | The Washington Post | Abingdon's third principal was announced. | ![](images/1953-08-23.webp) |
+| 1955-03-01 | The Washington Post | The Abingdon PTA held a panel discussion about racial integration. | ![](images/1955-03-01.webp) |
 | 1955-06-02 | Sun | A jitterbug contest was held at Abingdon. | ![](images/1955-06-02.jpg) |
 | 1955-12-13 | The Washington Post | The Fairlington Civic Association and the Abingdon PTA voted to oppose a state constitutional convention that was being organized to continue segregation in Virginia public schools. | ![](images/1955-12-13.webp) |
 | 1956-07-27 | Daily Sun | A doll contest was held at Abingdon. | ![](images/1956-07-27-1.jpg)<br>![](images/1956-07-27-2.jpg)<br>![](images/1956-07-27-3.jpg)<br>![](images/1956-07-27-4.jpg) |
@@ -74,7 +75,7 @@ Below is a timeline of Abingdon's history gleaned from newspaper reports. This t
 | 1975-05-21 | Northern Virginia Sun | Abingdon raised money for a field trip by collecting recycling. | ![](images/1975-05-21_2.jpg) |
 | 1977-03-23 | Northern Virginia Sun | Fairlington Elementary was restricted to grades 1-3. | ![](images/1977-03-03.jpg) |
 | 1978-12-08 | [The Washington Post](https://www.washingtonpost.com/archive/local/1978/12/08/arlington-board-votes-to-shut-three-schools/2b460734-f0ad-415d-ad0b-94ac105107df/) | Fairlington Elementary was shut down, and remaining students enrolled in Abingdon. | ![](images/1978-12-08.webp) |
-| 1984-11-07 | [The Washington Post](https://www.washingtonpost.com/archive/local/1984/11/07/volunteers-work-is-childs-play/ca319fea-11f5-4f64-befd-271dce5697f9/) | Abingdon students provided requirements to a celebrity playground architect. | ![](images/1984-11-07-1.webp) ![](images/1984-11-07-1.webp)<br>![](images/1984-11-07-2.webp) |
+| 1984-11-07 | [The Washington Post](https://www.washingtonpost.com/archive/local/1984/11/07/volunteers-work-is-childs-play/ca319fea-11f5-4f64-befd-271dce5697f9/) | Abingdon students provided requirements to a celebrity playground architect. | ![](images/1984-11-07-1.webp)<br>![](images/1984-11-07-2.webp) |
 | 1985-03-14 | The Washington Post | The School Board proposed changes to Abingdon's school attendance boundaries. | ![](images/1985-03-14.webp) |
 | 1986-09-05 | [The Washington Post](https://www.washingtonpost.com/archive/lifestyle/1986/09/05/playgrounds-to-test-the-mind-and-body/36469714-86de-40e7-9f70-e8dd65cd5bb6/) | A description of Abingdon's playground, listed in an article titled "Playgrounds to Test the Mind and Body." | ![](images/1986-09-05.webp)
 | 1986-12-03 | [The Washington Post](https://www.washingtonpost.com/archive/local/1986/12/03/14-area-principals-honored-by-post/3b1a531d-a5fc-457e-98e8-dd862da126d7/) | Abingdon's principal was honored by the Washington Post. | ![](images/1986-12-03.webp) |

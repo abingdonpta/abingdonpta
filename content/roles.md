@@ -15,25 +15,25 @@ We would be delighted for you to join our team!
 
 ### 🦸 President
 
-The President's responsibilities are described in [the bylaws](/documents/bylaws/#article-6-duties-of-officers).
+The President's official responsibilities are described in [the bylaws](/documents/bylaws/#article-6-duties-of-officers).
 
 The President leads the PTA. The President presides over PTA meetings, takes the lead in communicating with school officials, and generally ensures that the PTA is running smoothly.
 
 ### 🧙 Vice President
 
-The Vice Presidents' responsibilities are described in [the bylaws](/documents/bylaws/#article-6-duties-of-officers).
+The Vice Presidents' official responsibilities are described in [the bylaws](/documents/bylaws/#article-6-duties-of-officers).
 
 In our PTA, Vice Presidents oversee a certain subject area (for example, communications or fundraising) and provide supervision and guidance to coordinators in that subject area, while representing their programs with the Executive Board.
 
 ### 💰 Treasurer
 
-The Treasurer's responsibilities are described in [the bylaws](/documents/bylaws/#article-6-duties-of-officers).
+The Treasurer's official responsibilities are described in [the bylaws](/documents/bylaws/#article-6-duties-of-officers).
 
 The Treasurer manages the PTA's funds and all of the records relating to those funds. The Treasurer pays for things that the PTA needs, prepares financial reports to keep the PTA informed, and makes required submissions to the IRS and the Virginia PTA to ensure that the Abingdon PTA is in good standing.
 
 ### ✍️ Secretary
 
-The Secretary's responsibilities are described in [the bylaws](/documents/bylaws/#article-6-duties-of-officers).
+The Secretary's official responsibilities are described in [the bylaws](/documents/bylaws/#article-6-duties-of-officers).
 
 The Secretary takes notes during each PTA meeting, and maintains the PTA's non-financial records such as bylaws and membership lists.
 
@@ -107,6 +107,8 @@ Abingdon students typically bring home to their parents a paper folder from the 
 
 The Copy Coordinator is responsible for copying PTA flyers on Monday mornings and distributing the appropriate number of flyers to each classroom teachers' mailbox. (The classroom teachers then place the flyers in each student's Tuesday folder.) Occasionally, copies may need to be made on a Friday before a holiday on Monday.
 
+It is ideal to have at least two people in this role, if not more, to ensure coverage each week. While we have many ways of sharing information with families, paper flyers are still the best way to get a message across to the most people.
+
 - **Location**: School
 - **Time of day**: School day
 - **Months**: Year-round
@@ -161,7 +163,7 @@ The School Pictures Coordinator selects dates in consultation with school offici
 
 - **Location**: School
 - **Time of day**: School day
-- **Months**: Fall (typically October) and Spring (typically April)  
+- **Months**: Fall (typically October) and Spring (typically April)
 
 ### 📚 Read-A-Thon Coordinator
 
@@ -179,7 +181,7 @@ The Read-A-Thon Coordinator:
 
 ### 🌯 Spirit Night Coordinator
 
-The PTA coordinates with a local restaurant so that a portion of their revenue on a particular evening will be donated to the PTA. The customers have to inform the restaurant at the time of purchase that they are participating in the Spirit Night so that a portion of their purchase goes to the PTA (this is important).
+The PTA coordinates with local restaurants so that a portion of their revenue on a particular evening will be donated to the PTA. The customers typically have to inform the restaurant at the time of purchase that they are participating in the Spirit Night so that a portion of their purchase goes to the PTA (this is important).
 
 The Spirit Night Coordinator works with local restaurants to schedule the fundraiser, and works with the communications team to promote the event.
 
@@ -189,6 +191,8 @@ The Spirit Night Coordinator works with local restaurants to schedule the fundra
 
 ### 🤝 Sponsorships Coordinator
 
+The PTA seeks corporate sponsorships from local businesses and institutions. These could be in the form of money, gift cards, or a tangible object that would support school programs (like a garden shed).
+
 - **Location**: Home and around the community
 - **Time of day**: Any
 - **Months**: Year-round
@@ -197,9 +201,9 @@ The Spirit Night Coordinator works with local restaurants to schedule the fundra
 
 ### 🍅 Garden Coordinator
 
-Abingdon Elementary has a garden along the southwest side of the school building. The goal of the garden is to enrich students' and families' knowledge of environmental sustainability and to be good stewards of our Earth, while providing first hand experience in learning about our food supply and our pollinators. More information can be found on the [garden page](/garden).
+Abingdon Elementary has a garden in the front of the building, to the right of the main entrance. (The garden is sometimes called an "outdoor classroom.") The goal of the garden is to enrich students' and families' knowledge of environmental sustainability and to be good stewards of our Earth, while providing first hand experience in learning about our food supply and our pollinators. More information can be found on the [garden page](/garden).
 
-The Garden Coordinator works with Abingdon's Sustainability Coordinator (traditionally the science teacher) to organize garden cleanups, help with procuring seeds, and any other assistance. The Garden Coordinator maintains a list of community volunteers who may be called upon to help. Community volunteers are often enthusiastic about helping with the garden, particularly the local Master Gardeners. The garden is a great way to get the community invested in Abingdon's success.
+The Garden Coordinator works with Abingdon's Sustainability Coordinator (traditionally the science teacher) to organize garden cleanups, help with procuring supplies, and any other assistance. The Garden Coordinator maintains a list of community volunteers who may be called upon to help. The garden is a great way to get the community invested in Abingdon's success.
 
 - **Location**: School
 - **Time of day**: Weekend daytime, though some weekday availability is a plus to coordinate with staff and students
@@ -207,7 +211,7 @@ The Garden Coordinator works with Abingdon's Sustainability Coordinator (traditi
 
 ### 🔔 After School Enrichment Coordinator
 
-The After School Enrichment Coordinator serves as the liaison with Enrichment Matters to create the schedule for After-School Enrichment at Abingdon. They also work with the Abingdon Student Support Team to enroll students identified for scholarships (funded by the PTA) and ensure that the room reservation request forms for each session are completed.
+The After School Enrichment Coordinator serves as the liaison with Enrichment Matters to create the schedule for After-School Enrichment at Abingdon. The Coordinator also work with the Abingdon Student Support Team to enroll students identified for scholarships (funded by the PTA) and ensure that the room reservation request forms for each session are completed.
 
 - **Location**: School
 - **Time of day**: Immediately after school day
@@ -250,6 +254,8 @@ There are other educational programs available to elementary school students, li
 ### 🧥 Winter Clothing Drive
 
 The PTA supports Abingdon families by collecting winter clothing for children whose families cannot afford them.
+
+The Winter Clothing Drive Coordinator works with our Communications team to publicize the Winter Clothing Drive, and works with Abingdon's Student Support Team to identify the degree and types of needs (coats, hats, mittens, sizes of each) in order to solicit and distribute the right clothing to the right children.
 
 - **Location**: School
 - **Time of day**: School day
@@ -341,6 +347,8 @@ The PTA has held International Night each spring between 2017-2019 and in 2022. 
 
 ### 🎓 5th Grade Promotion
 
+The PTA helps organize and sponsor the school's 5th Grade Promotion ceremony every June.
+
 ### 🍿 Movie Nights
 
 The PTA screened movies in the cafeteria before the pandemic. We are still evaluating how to continue this tradition. We welcome your input and your labor to make it happen!
@@ -361,8 +369,8 @@ The PTA held its first Book Swap in 2022. Volunteers collected donated kids' boo
 
 Volunteers are needed to take pictures at school events for the Abingdon and PTA website, yearbook, Facebook and Twitter accounts.
 
-- **Location**: School  
-- **Time of day**: Mostly evenings and weekends, but some daytime availability is a plus  
+- **Location**: School
+- **Time of day**: Mostly evenings and weekends, but some daytime availability is a plus
 - **Months**: Year-round
 
 ## ❔ Other Role Descriptions
@@ -373,11 +381,19 @@ The PTA works with school officials to produce and distribute the Abingdon Yearb
 
 The Yearbook Coordinator is in charge of creating the yearbook order form, tracking orders received, and formatting the LoveLines submitted by parents for publication in the yearbook. They are also expected to help with yearbook distribution once they are received.
 
-- **Location**: Home  
-- **Time of day**: Any  
+- **Location**: Home
+- **Time of day**: Any
 - **Months**: March to June
 
 ### 🍎 Room Buddy Coordinator
+
+The PTA is starting a "Room Buddies" program. You may have heard about "Room Parents" or "Class Moms" at other schools, and this is intended to be similar.
+
+The Room Buddy Coordinator recruits Room Buddies for as many classrooms as possible. The Coordinator also occasionally polls Room Buddies to get a pulse on various issues or needs throughout the school.
+
+- **Location**: Home, perhaps occasionally school to recruit additional Room Buddies
+- **Time of day**: Any; occasional daytime availability is a plus for in-person recruitment at dropoff and pickup
+- **Months**: Year-round
 
 ### 🗽 Diversity Coordinator
 
@@ -391,13 +407,13 @@ The Virginia PTA requires that our bank statements be opened each month by an in
 
 ### 🙋 Nominating Committee
 
-The  Nominating Committee nominates PTA members to serve as officers the following year. (Officer roles are the President, Treasurer, Secretary, as well as Vice President roles.) Members of the Nominating Committee identify PTA members interested in serving as officers, and report to the general membership a list of nominees for the annual election.
+The Nominating Committee nominates PTA members to serve as officers the following year. (Officer roles are the President, Treasurer, Secretary, as well as Vice President roles.) Members of the Nominating Committee identify PTA members interested in serving as officers, and report to the general membership a list of nominees for the annual election.
 
 At least three people need to serve on the committee. The committee needs to be up and running by March. The nominating committee submits the officer nominees to the general membership in April so that the election can be held in May.
 
-- **Location**: Home  
-- **Time of day**: Evening  
-- **Months**: March and April  
+- **Location**: Home
+- **Time of day**: Evening
+- **Months**: March and April
 
 ### ✅ Audit Committee
 
@@ -405,17 +421,17 @@ The Virginia PTA requires that each PTA audit their finances at the conclusion o
 
 At least three people need to serve on the committee. The Treasurer provides their records to the Committee at the end of the fiscal year (July 1). The Committee drafts the financial report and submits it to the Executive Board and to the general membership in August for their approval at the first meeting of the school year in September. In practice, the Committee spends a few hours in July reviewing the financial records from the prior school year and meets once, perhaps in early August, in order to finalize the report.
 
-- **Location**: Home  
-- **Time of day**: Evening  
-- **Months**: July, maybe August  
+- **Location**: Home
+- **Time of day**: Evening
+- **Months**: July, maybe August
 
 ### 📜 Historian
 
 The historian maintains our [history webpage](/history), and is able to tell people about what Abingdon and the PTA were like back in the day.
 
-- **Location**: History  
-- **Time of day**: The past  
-- **Months**: Long ago  
+- **Location**: History
+- **Time of day**: The past
+- **Months**: Long ago
 
 ### 🐦 Mascot
 
