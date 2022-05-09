@@ -31,6 +31,13 @@ If you're interested in volunteering in the garden, please subscribe to our Gard
 ![](images/IMG_1100.jpg)
 ![](images/IMG_1116.jpg)
 
-## How it started – December 2021
+## Before cleanup – December 2021
 
 ![](images/IMG_6887.jpg)
+
+## May 2018
+
+![](images/995305229703925761_1.jpg)
+![](images/995305229703925761_2.jpg)
+![](images/995305229703925761_3.jpg)
+![](images/995305229703925761_4.jpg)

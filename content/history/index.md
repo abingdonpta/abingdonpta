@@ -9,7 +9,7 @@ Abingdon first opened its doors to students in August 1950. The school has been 
 
 Below is a timeline of Abingdon's history gleaned from newspaper reports. This timeline was largely made possible by a [newspaper digitizing project](https://library.arlingtonva.us/2021/06/21/search-thousands-of-historic-arlington-papers-online-for-free/) by Arlington Library's Center for Local History and the Library of Virginia. We are grateful for their efforts, and we will add more articles as their digitization efforts progress.
 
-### Timeline
+## Timeline
 
 | Date | Source | Narrative | Clip |
 | ---- | ------ | --------- | ---- |
@@ -66,15 +66,15 @@ Below is a timeline of Abingdon's history gleaned from newspaper reports. This t
 | 1968-05-25 | Northern Virginia Sun | Abingdon was slated to receive over a million dollars for a new addition in a bond referendum. | ![](images/1968-05-25.jpg) |
 | 1968-09-05 | Northern Virginia Sun | An editorial advocates for busing Abingdon students to Drew to relieve overcrowding. | ![](images/1968-09-05.jpg) |
 | 1969-11-25 | Northern Virginia Sun | The Northern Virginia Service League (now the Junior League of Northern Virginia) held a presentation on a pilot program strikingly similar to the modern-day Extended Day program. | ![](images/1969-11-25.jpg) |
-| 1969-11-26 | [Project DAPS](https://projectdaps.org/items/show/1421) | The racial breakdown of students in 1969 shows that Abingdon was somewhat integrated at that time. | ![](images/1969-11-26.webp) |
-| 1971-04-15 | Northern Virginia Sun | A former principal advocates for busing Abingdon students to Drew to relieve overcrowding. | ![](images/1971-04-15.jpg) |
+| 1969-11-26 | [Project DAPS](https://projectdaps.org/items/show/1421) | The racial breakdown of students in 1969 is the first document to show that students of color were enrolled at Abingdon. | ![](images/1969-11-26.webp) |
+| 1971-04-15 | Northern Virginia Sun | A former principal of another Arlington school advocates for busing Abingdon students to Drew to relieve overcrowding. | ![](images/1971-04-15.jpg) |
 | 1971-05-03 | Northern Virginia Sun | An editorial advocates for busing Abingdon students to Drew to relieve overcrowding. | ![](images/1971-05-03.jpg) |
 | 1971-1972 | [Arlington Historical Magazine](https://arlingtonhistoricalsociety.org/wp-content/uploads/2020/02/1996-4-Integration.pdf#page=10) | This is a snapshot of the demographics of Arlington elementary schools on the eve of a busing program aimed at racial integration of two formerly segregated schools. | ![](images/1971-07-01.webp) |
 | 1974-12-18 | Northern Virginia Sun | This was the first mention of the potential closure of Fairlington Elementary School. | ![](images/1974-12-18-1.jpg)<br>![](images/1974-12-18-2.jpg) |
 | 1975-05-21 | Northern Virginia Sun | Abingdon hired a new principal. | ![](images/1975-05-21_1.jpg) |
 | 1975-05-21 | Northern Virginia Sun | Abingdon raised money for a field trip by collecting recycling. | ![](images/1975-05-21_2.jpg) |
 | 1977-03-23 | Northern Virginia Sun | Fairlington Elementary was restricted to grades 1-3. | ![](images/1977-03-03.jpg) |
-| 1978-12-08 | [The Washington Post](https://www.washingtonpost.com/archive/local/1978/12/08/arlington-board-votes-to-shut-three-schools/2b460734-f0ad-415d-ad0b-94ac105107df/) | Fairlington Elementary was shut down, and remaining students enrolled in Abingdon. | ![](images/1978-12-08.webp) |
+| 1978-12-08 | [The Washington Post](https://www.washingtonpost.com/archive/local/1978/12/08/arlington-board-votes-to-shut-three-schools/2b460734-f0ad-415d-ad0b-94ac105107df/) | Fairlington Elementary was shut down, and remaining students enrolled in Abingdon starting in the fall of 1979. | ![](images/1978-12-08.webp) |
 | 1984-11-07 | [The Washington Post](https://www.washingtonpost.com/archive/local/1984/11/07/volunteers-work-is-childs-play/ca319fea-11f5-4f64-befd-271dce5697f9/) | Abingdon students provided requirements to a celebrity playground architect. | ![](images/1984-11-07-1.webp)<br>![](images/1984-11-07-2.webp) |
 | 1985-03-14 | The Washington Post | The School Board proposed changes to Abingdon's school attendance boundaries. | ![](images/1985-03-14.webp) |
 | 1986-09-05 | [The Washington Post](https://www.washingtonpost.com/archive/lifestyle/1986/09/05/playgrounds-to-test-the-mind-and-body/36469714-86de-40e7-9f70-e8dd65cd5bb6/) | A description of Abingdon's playground, listed in an article titled "Playgrounds to Test the Mind and Body." | ![](images/1986-09-05.webp)
@@ -114,7 +114,7 @@ Below is a timeline of Abingdon's history gleaned from newspaper reports. This t
 | 2019-06-22 | [Sun-Gazette](https://www.insidenova.com/news/education/fairfax-educator-tapped-to-be-new-principal-in-arlington/article_56731a0e-94f7-11e9-92ad-5b20ffed75a3.html) | Fairfax educator tapped to be new Abingdon principal | |
 | 2019-12-11 | [Good Morning America](https://www.goodmorningamerica.com/living/story/stem-program-girls-rosie-riveters-list-fulfilled-amazon-67608034) | Good Morning America recorded a segment at Abingdon in which they and Amazon donated products to Abingdon. | |
 
-### Principals
+## Principals
 
 | Name | Tenure |
 | ---- | ------ |
@@ -131,7 +131,7 @@ Below is a timeline of Abingdon's history gleaned from newspaper reports. This t
 | Joanne Uyeda | 2001-2019 |
 | David Horak | 2019-present |
 
-### Renovations/Additions
+## Renovations/Additions
 
 | Year | Added |
 | ---- | ----- |
@@ -141,7 +141,7 @@ Below is a timeline of Abingdon's history gleaned from newspaper reports. This t
 | 1990 | Unknown |
 | [2016-2017](https://www.apsva.us/design-and-construction/abingdon-additionrenovations/) | 12 new classrooms, a new gymnasium, a new kitchen, and an outdoor instructional area. |
 
-### Other Documents
+## Other Documents
 
 | Document | Link |
 | -------- | ---- |
