@@ -3,8 +3,6 @@ title: Fundraising
 description: The Abingdon PTA holds several fundraisers throughout the year.
 ---
 
-# Fundraising
-
 ## Donate
 
 The PTA accepts open-ended donations at all times. You may donate to the PTA using any of these three methods, in order of preference:

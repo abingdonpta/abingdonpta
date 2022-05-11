@@ -3,8 +3,6 @@ title: WhatsApp Groups
 description: There are several WhatsApp groups for Abingdon families.
 ---
 
-# WhatsApp Groups
-
 There are several WhatsApp groups for Abingdon families.
 
 <!--You may join more than one group, but please communicate only in the group's designated language.

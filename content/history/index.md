@@ -3,8 +3,6 @@ title: Abingdon History
 description: The history of Abingdon Elementary.
 ---
 
-# Abingdon History
-
 Abingdon first opened its doors to students in August 1950. The school has been in continuous operation since then, educating generations of students in South Arlington.
 
 Below is a timeline of Abingdon's history gleaned from newspaper reports. This timeline was largely made possible by a [newspaper digitizing project](https://library.arlingtonva.us/2021/06/21/search-thousands-of-historic-arlington-papers-online-for-free/) by Arlington Library's Center for Local History and the Library of Virginia. We are grateful for their efforts, and we will add more articles as their digitization efforts progress.

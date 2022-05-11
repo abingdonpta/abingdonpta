@@ -3,15 +3,17 @@ title: Abingdon Elementary School PTA
 Description: Abingdon Elementary PTA in Arlington, VA
 ---
 <style>
-.center{
+.title {
     text-align: center;
 }
-h1 {
+hr {
+    display: none;
+}
+.center {
     text-align: center;
 }
 </style>
-
-{{< figure src="/img/abingdon.webp" alt="Photo of Abingdon" height="414" width="736" >}}
+<img src="/img/abingdon.webp" alt="Photo of Abingdon Elementary" height="414" width="736" >
 
 Abingdon Elementary School serves children in preschool through fifth grade in Arlington, Virginia.
 

@@ -1,7 +1,7 @@
 ---
 title: New School Year, New Website
-date: 2022-02-14
 description: We've launched a new website that's super-fast and easy to use.
+date: 2022-02-14
 ---
 
 The Abingdon PTA has launched a fabulous new website that's **helpful**, **fast**, and **cheap**.

@@ -1,7 +1,7 @@
 ---
 title: Winter Wonderland!
-date: 2022-02-13
 description: Winter Wonderland was a huge success!
+date: 2022-02-13
 categories: events
 ---
 

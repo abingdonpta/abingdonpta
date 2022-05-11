@@ -3,8 +3,6 @@ title: Staff Appreciation
 description: Staff appreciation initiatives from the Abingdon PTA.
 ---
 
-# Staff Appreciation
-
 The PTA shows appreciation for our wonderful Abingdon staff throughout the year.
 
 If you'd like to help organize our staff appreciation activities, please [fill out our volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSdk4KJFIDuigz-EyhdPuWM_GejjZ5rpx9emd6jHxb2xKPQgGA/viewform?usp=sf_link).

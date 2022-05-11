@@ -3,10 +3,6 @@ title: Documents
 description: Documents from the Abingdon PTA
 ---
 
-# Documents
-
----
-
 ## Meeting Documents
 
 Agendas will be available here before each meeting, and meeting minutes will be available soon after each meeting. Additionally, any presentation that is made during the meeting will be posted here. Finally, the treasurer must present a written financial statement (typically a year-to-date budget) at every general membership meeting throughout the year, which will also be shared here.

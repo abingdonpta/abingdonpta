@@ -1,9 +1,7 @@
 ---
-title: Links
+title: Helpful Links
 description: Helpful links to external resources.
 ---
-
-# Helpful links
 
 ## News from Abingdon
 - [🏫 View Abingdon's webpage.](https://abingdon.apsva.us/)
@@ -23,3 +21,10 @@ description: Helpful links to external resources.
 - [🍱 View this week's school lunch menu.](https://apsva.nutrislice.com/menu/abingdon)
 - [📜 View flyers on Peachjar.](https://app.peachjar.com/flyers/all/schools/24854)
 - [❓ Request help with student iPads.](https://abingdon.apsva.us/technology/request-tech-help/)
+
+## Outside Activities
+
+- [Cub Scout Pack 350](https://pack350.mypack.us/)
+- [Girl Scout Troop 60253 (1st Grade)](https://mygs.girlscouts.org/map;troopNumber=Troop%2060253;distanceInMiles=10;address=,,22206,;grades=;season=Current;type=TROOP)
+- [Girl Scount Troop 60199 (2nd Grade)](https://mygs.girlscouts.org/map;troopNumber=Troop%2060199;distanceInMiles=10;address=,,22206,;grades=;season=Current;type=TROOP)
+- [Girl Scout Troop 60183 (4th Grade)](https://mygs.girlscouts.org/map;troopNumber=Troop%2060183;distanceInMiles=10;address=,,22206,;grades=;season=Current;type=TROOP)

@@ -3,8 +3,6 @@ title: Volunteer Opportunities
 description: There are many ways to get involved with the Abingdon PTA.
 ---
 
-# Volunteer Opportunities
-
 ## Volunteer with the PTA
 
 If you're interested in volunteering with the PTA, a great first step is to fill out our Volunteer Form so we can learn more about your interests, skills, and availability. We always need more volunteers!

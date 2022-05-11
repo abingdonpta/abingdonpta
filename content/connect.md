@@ -3,8 +3,6 @@ title: Connect with the PTA
 description: Ways to connect to the Abingdon PTA.
 ---
 
-# Connect with the PTA
-
 There are many ways to stay informed about PTA events and activities:
 
 [<img src="/img/Newsletter.svg" height="20" width="20"> Subscribe to our weekly newsletter.](https://visitor.constantcontact.com/d.jsp?m=1102670663149&p=oi)  

@@ -3,8 +3,6 @@ title: Reflections
 description: The Reflections program at Abingdon PTA
 ---
 
-# Reflections
-
 The Reflections program provides opportunities for recognition and access to the arts which boost student confidence and success in the arts and in life.
 
 Each year, over 300,000 students in Pre-K through Grade 12 create original works of art in response to a student-selected theme. This 50+ year-old program helps them explore their own thoughts, feelings and ideas, develop artistic literacy, increase confidence and find a love for learning that will help them become more successful in school and in life.

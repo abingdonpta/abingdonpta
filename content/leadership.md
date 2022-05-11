@@ -3,8 +3,6 @@ title: Leadership
 description: Leadership of the Abingdon PTA.
 ---
 
-# Leadership
-
 The PTA leadership as well as role descriptions are listed below. If you click on a role, you will see a description for that role.
 
 Please [fill out our volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSdk4KJFIDuigz-EyhdPuWM_GejjZ5rpx9emd6jHxb2xKPQgGA/viewform?usp=sf_link) or reach out to abingdonelementaryPTA@gmail.com if you have interest in one of the vacant roles below. We would be delighted for you to join our team!
