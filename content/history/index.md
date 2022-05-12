@@ -1,17 +1,19 @@
 ---
 title: Abingdon History
 description: The history of Abingdon Elementary.
+images:
+- history/images/1949-10-30.webp
 ---
 
 Abingdon first opened its doors to students in August 1950. The school has been in continuous operation since then, educating generations of students in South Arlington.
 
-Below is a timeline of Abingdon's history gleaned from newspaper reports. This timeline was largely made possible by a [newspaper digitizing project](https://library.arlingtonva.us/2021/06/21/search-thousands-of-historic-arlington-papers-online-for-free/) by Arlington Library's Center for Local History and the Library of Virginia. We are grateful for their efforts, and we will add more articles as their digitization efforts progress.
+Below is a timeline of Abingdon's history gleaned from several sources, mostly newspaper articles. This timeline was largely made possible by a [newspaper digitizing project](https://library.arlingtonva.us/2021/06/21/search-thousands-of-historic-arlington-papers-online-for-free/) by Arlington Library's Center for Local History and the Library of Virginia. We are grateful for their efforts, and we intend to add more articles as their digitization efforts progress.
 
 ## Timeline
 
 | Date | Source | Narrative | Clip |
 | ---- | ------ | --------- | ---- |
-| 1943-12-18 | Arlington Daily | Fairlington Elementary School opened on January 3, 1944. | ![](images/1943-12-18.jpg) |
+| 1943-12-18 | Arlington Daily | Fairlington Elementary School opened on January 3, 1944, in the building currently used as the Fairlington Community Center. | ![](images/1943-12-18.jpg) |
 | 1947-01-31 | Arlington Daily | First known mention of what would become Abingdon Elementary. | ![](images/1947-01-31.jpg) |
 | 1947-09-18 | Arlington Daily | An addition was planned for Fairlington Elementary, possibly as an alternative to Abingdon. | ![](images/1947-09-18.jpg) |
 | 1947-10-10 | Sun | Fairlington Elementary was overcrowded and residents wanted a school in North Fairlington. | ![](images/1947-10-10-1.jpg)<br>![](images/1947-10-10-2.jpg) |

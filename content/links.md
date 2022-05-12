@@ -26,5 +26,5 @@ description: Helpful links to external resources.
 
 - [Cub Scout Pack 350](https://pack350.mypack.us/)
 - [Girl Scout Troop 60253 (1st Grade)](https://mygs.girlscouts.org/map;troopNumber=Troop%2060253;distanceInMiles=10;address=,,22206,;grades=;season=Current;type=TROOP)
-- [Girl Scount Troop 60199 (2nd Grade)](https://mygs.girlscouts.org/map;troopNumber=Troop%2060199;distanceInMiles=10;address=,,22206,;grades=;season=Current;type=TROOP)
+- [Girl Scout Troop 60199 (2nd Grade)](https://mygs.girlscouts.org/map;troopNumber=Troop%2060199;distanceInMiles=10;address=,,22206,;grades=;season=Current;type=TROOP)
 - [Girl Scout Troop 60183 (4th Grade)](https://mygs.girlscouts.org/map;troopNumber=Troop%2060183;distanceInMiles=10;address=,,22206,;grades=;season=Current;type=TROOP)

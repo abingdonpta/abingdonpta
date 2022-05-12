@@ -10,14 +10,17 @@ markup:
       unsafe: true
 
 params:
-  BookTheme: auto
+  BookTheme: dark
   BookLogo: favicon.png
   description: Abingdon Elementary PTA in Arlington, VA
   images: 
-    - share.jpg
+    - share/school.jpg
   twitter: AbingdonPTA
   fb: AbingdonElementaryPTA
   title: Abingdon PTA
+
+permalinks:
+  Posts: /:year/:month/:slug/
   
 copyright: Abingdon PTA
 defaultContentLanguage: en

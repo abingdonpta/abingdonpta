@@ -253,7 +253,7 @@ There are other educational programs available to elementary school students, li
 
 The PTA supports Abingdon families by collecting winter clothing for children whose families cannot afford them.
 
-The Winter Clothing Drive Coordinator works with our Communications team to publicize the Winter Clothing Drive, and works with Abingdon's Student Support Team to identify the degree and types of needs (coats, hats, mittens, sizes of each) in order to solicit and distribute the right clothing to the right children.
+The Winter Clothing Drive Coordinator works with our Communications team to publicize the Winter Clothing Drive, and works with Abingdon's Student Support Team to identify the degree and types of needs (coats, hats, mittens, sizes of each) in order to solicit and distribute the right clothing to the right families.
 
 - **Location**: School
 - **Time of day**: School day

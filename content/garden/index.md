@@ -1,6 +1,8 @@
 ---
 Title: Abingdon's Garden
 description: Abingdon Elementary would love your support to create a successful, sustainable community garden.
+images:
+- garden/images/040222_7.jpg
 ---
 
 Abingdon Elementary would love your support to create a successful, sustainable community garden.  It is our goal to enrich students' and families' knowledge of environmental sustainability and to be good stewards of our Earth, while providing first hand experience in learning about our food supply and our pollinators.

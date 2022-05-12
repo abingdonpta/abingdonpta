@@ -1,6 +1,8 @@
 ---
 title: Donation Drives
 description: The Abingdon PTA organizes many donation drives for our school community.
+images:
+- donations/images/AFAC.jpg
 ---
 
 The Abingdon PTA organizes many donation drives for our school community.
@@ -22,6 +24,12 @@ The PTA supports Abingdon families by collecting winter clothing for children wh
 ![](images/Donation2.jpg)  
 **Left**: Donated clothing. **Right**: Hats lovingly knitted and donated by a dedicated volunteer.
 
+## Adopt-a-Family
+
+The Abingdon PTA partners with the Student Support Team at Abingdon to help support families in need during the holiday season in our school community.
+
+![](images/1201867065147248642.webp)
+
 ## School Supplies Drive
 
 The PTA raises money for school supplies for children whose families cannot afford them.
@@ -33,9 +41,3 @@ The PTA raises money for school supplies for children whose families cannot affo
 The PTA raises money to buy high-quality masks to students, and also collects new masks in packaging to provide to students.
 
 ![](images/1455565332261883910.webp)
-
-## Adopt-a-Family
-
-The Abingdon PTA partners with the Student Support Team at Abingdon to help support families in need during the holiday season in our school community.
-
-![](images/1201867065147248642.webp)
