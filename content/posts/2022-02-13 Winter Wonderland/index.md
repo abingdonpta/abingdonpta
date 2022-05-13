@@ -1,5 +1,5 @@
 ---
-title: Winter Wonderland!
+title: Winter Wonderland Recap
 description: Winter Wonderland was a huge success!
 slug: Winter Wonderland Recap
 date: 2022-02-13
