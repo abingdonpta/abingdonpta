@@ -14,7 +14,7 @@ Below is a timeline of Abingdon's history gleaned from several sources, mostly n
 | Date | Source | Narrative | Clip |
 | ---- | ------ | --------- | ---- |
 | 1943-12-18 | Arlington Daily | Fairlington Elementary School opened on January 3, 1944, in the building currently used as the Fairlington Community Center. | ![](images/1943-12-18.jpg) |
-| 1947-01-31 | Arlington Daily | First known mention of what would become Abingdon Elementary. | ![](images/1947-01-31.jpg) |
+| 1947-01-31 | Arlington Daily | This was the first known mention of what would become Abingdon Elementary. | ![](images/1947-01-31.jpg) |
 | 1947-09-18 | Arlington Daily | An addition was planned for Fairlington Elementary, possibly as an alternative to Abingdon. | ![](images/1947-09-18.jpg) |
 | 1947-10-10 | Sun | Fairlington Elementary was overcrowded and residents wanted a school in North Fairlington. | ![](images/1947-10-10-1.jpg)<br>![](images/1947-10-10-2.jpg) |
 | 1947-10-12 | The Washington Post | The Fairlington Civic Association polled North Fairlington residents and confirmed that they wanted a new school. | ![](images/1947-10-12.webp) |
@@ -58,7 +58,7 @@ Below is a timeline of Abingdon's history gleaned from several sources, mostly n
 | 1964-10-01 | Northern Virginia Sun | Abingdon introduced its new kindergarten program. | ![](images/1964-10-01.jpg) |
 | 1965-01-11 | Northern Virginia Sun | Abingdon held a dedication for its new library. | ![](images/1965-01-11.jpg) |
 | 1965-06-09 | Center for Local History | A publication titled "A Long Range Staff Development Program to Facilitate Effective Integration in the Arlington County Public Schools" ([Library URL](https://libcat.arlingtonva.us/Record/18721)) drafted by the school system stated that there were no Black students at Abingdon in 1965. | ![](images/1965-06-09.webp) |
-| 1966-04-01 | Northern Virginia Sun | Though not directly related to Abingdon, the article noted that there were only two black families living in Fairlington. This would have made it difficult to meaningfully integrate Abingdon. | ![](images/1966-04-01.jpg) |
+| 1966-04-01 | Northern Virginia Sun | Though not directly related to Abingdon, the article noted that there were only two Black families living in Fairlington. This would have made it difficult to meaningfully integrate Abingdon. | ![](images/1966-04-01.jpg) |
 | 1966-04-04 | Northern Virginia Sun | Segregation in Fairlington, which was then a rental community, kept Abingdon segregated long after the Supreme Court had ruled that public school segregation was against the law. | ![](images/1966-04-04.jpg) |
 | 1966-09-28 | Northern Virginia Sun | Abingdon's principal was given lifetime PTA membership. | ![](images/1966-09-28.jpg) |
 | 1967-08-04 | Northern Virginia Sun | Abingdon bought temporary classroms to relieve overcrowding. | ![](images/1967-08-04.jpg) |
