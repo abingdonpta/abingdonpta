@@ -331,17 +331,17 @@ The School Health Advisory Board (SHAB) assists with the development of health p
 
 The PTA's Back to School Picnic has been a tradition for many years. It's held on the weekend before the first day of school. It's a wonderful way for kids and families to reconnect. The picnic is a potluck in which the PTA provides some food while attendees bring side dishes, fruits & vegetables, and desserts.
 
-### 🍂 Fall Event
+### 🎃 Trunk or Treat
 
 In 2021, the PTA held a Trunk or Treat in which volunteers decked out their cars in spooky setups and handed out candy to costumed visitors. In prior years, the PTA held a Fall Festival with games and other activities.
 
-### ❄️ Winter Event
+### ❄️ Winter Wonderland
 
 The PTA organized Winter Wonderland in 2022 with music, games, alpacas, and a garden cleanup.
 
-### 🌱 Spring Event
+### 🇺🇳 International Night
 
-The PTA has held International Night each spring between 2017-2019 and in 2022. International Night celebrates the diverse population of our school and the many countries and cultures they represent.
+The PTA has held International Night each spring between 2017-2019 and in 2022. International Night celebrates the diverse population of our school and the many countries and cultures we represent.
 
 ### 🎓 5th Grade Promotion
 

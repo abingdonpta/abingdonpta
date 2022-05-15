@@ -85,9 +85,9 @@ The Events Committee organizes several events throughout the year. These events 
 | Event | Month |
 |-|-|
 | [👋 Back to School Picnic](/roles#-back-to-school-picnic) | August - September |
-| [🍂 Fall Event](/roles#-fall-event) | October |
-| [❄️ Winter Event](/roles#-winter-event) | December - February |
-| [🌱 Spring Event](/roles#-spring-event) | April |
+| [🎃 Trunk or Treat](/roles#-trunk-or-treat) | October |
+| [❄️ Winter Wonderland](/roles#-winter-wonderland) | December - February |
+| [🇺🇳 International Night](/roles#-international-night) | April |
 | [🎓 5th Grade Promotion](/roles#-5th-grade-promotion) | June |
 | [🍿 Movie Nights](/roles#-movie-nights) | Year-round |
 | [☕ Parent Coffees](/roles#-parent-coffees) | Year-round |
