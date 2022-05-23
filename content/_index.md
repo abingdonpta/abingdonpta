@@ -13,7 +13,7 @@ hr {
     text-align: center;
 }
 </style>
-<img src="/img/abingdon.webp" alt="Photo of Abingdon Elementary" height="414" width="736" >
+<img src="abingdon.webp" alt="Photo of Abingdon Elementary" height="414" width="736" >
 
 Abingdon Elementary School serves children in preschool through fifth grade in Arlington, Virginia.
 

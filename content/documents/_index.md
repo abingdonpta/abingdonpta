@@ -90,7 +90,7 @@ The PTA Treasurer is required to submit this form to the IRS and to the Virginia
 
 ### Application for Tax-Exempt Status
 
-The PTA's tax exempt status [was revoked in 2010](https://apps.irs.gov/app/eos/detailsPage?ein=521289072&name=VIRGINIA%20CONGRESS%20OF%20PARENTS%20AND&city=ARLINGTON&state=VA&countryAbbr=US&dba=TEACHERSABINGDON&type=REVOCATION&orgTags=REVOCATION), and the PTA submitted this form to the IRS on January 22, 2022 in order to request that the tax-exempt status be reinstated.
+The PTA's tax exempt status [was revoked years ago](https://apps.irs.gov/app/eos/detailsPage?ein=521289072&name=VIRGINIA%20CONGRESS%20OF%20PARENTS%20AND&city=ARLINGTON&state=VA&countryAbbr=US&dba=TEACHERSABINGDON&type=REVOCATION&orgTags=REVOCATION), and the PTA submitted this form to the IRS on January 22, 2022 in order to request that the tax-exempt status be reinstated.
 
 {{< button href="Form 1023.pdf" >}}Click Here to View Our Application for Tax-Exempt Status (Form 1023){{< /button >}}
 
