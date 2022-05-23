@@ -140,7 +140,7 @@ Spirit Wear are items with Abingdon branding on them, typically the Cardinal log
 The Spirit Wear Coordinator is responsible for researching the various options for procuring Spirit Wear. Along with the Executive Board, they select which vendor we use. They also place and track orders, manage inventory, and oversee distribution.
 
 - **Location**: Home, with some visits to the school in order to store and organize merchandise
-- **Time of day**: Any
+- **Time of day**: Mixed - some availability during school hours to manage inventory is necessary, as well as availability during school events which are typically evenings and weekends.
 - **Months**: Year-round
 
 ### ✏️ Edukit Coordinator
@@ -199,7 +199,7 @@ The PTA seeks corporate sponsorships from local businesses and institutions. The
 
 ### 🍅 Garden Coordinator
 
-Abingdon Elementary has a garden in the front of the building, to the right of the main entrance. (The garden is sometimes called an "outdoor classroom.") The goal of the garden is to enrich students' and families' knowledge of environmental sustainability and to be good stewards of our Earth, while providing first hand experience in learning about our food supply and our pollinators. More information can be found on the [garden page](/garden).
+Abingdon Elementary has a garden in the front of the building, to the right of the main entrance. (The garden is sometimes called an "outdoor classroom.") The goal of the garden is to enrich students' and families' knowledge of environmental sustainability and to be good stewards of our Earth, while providing first hand experience in learning about our food supply and our pollinators. More information can be found on the [garden page](/garden), and from our [garden newsletter](https://docs.google.com/forms/d/e/1FAIpQLSc62Xf5rFUBG1XqElQa2VQJUJu8k8Kf0RWTWPzoemf8bOLF-A/viewform?usp=sf_link).
 
 The Garden Coordinator works with Abingdon's Sustainability Coordinator (traditionally the science teacher) to organize garden cleanups, help with procuring supplies, and any other assistance. The Garden Coordinator maintains a list of community volunteers who may be called upon to help. The garden is a great way to get the community invested in Abingdon's success.
 
@@ -225,7 +225,7 @@ Due to a lack of volunteers, the Abingdon PTA has not participated in the Reflec
 
 - **Location**: Home, potentially school as well
 - **Time of day**: Unsure
-- **Months**: September and October, potentially November and December too
+- **Months**: September and October, potentially November and December as well
 
 ### 🏃‍♀️ Girls on the Run
 

@@ -9,17 +9,17 @@ Please [fill out our volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSd
 
 ## Officers
 
-| Role | Name |
-|-|-|
-| [🦸 President](/roles#-president) | [Sharon Burd](mailto:abingdonptapresident@gmail.com) |
-| [📣 VP for Communications](/roles#-vice-president) | Laura Chadwick |
-| [💵 VP for Fundraising](/roles#-vice-president) | Clare Rosenberger |
-| [🎓 VP for Educational Programs](/roles#-vice-president) | Ken Venable |
-| [🏘️ VP for Community Relations](/roles#-vice-president) | Megan Miller |
-| [🎉 VP for Events](/roles#-vice-president) | Meredith Greene |
-| [🙏 VP for Staff Appreciation](/roles#-vice-president) | Ashley McCarthy |
-| [💰 Treasurer](/roles#-treasurer) | [Christian Lindstrom](mailto:abingdonptatreasurer@gmail.com) |
-| [✍️ Secretary](/roles#-secretary) | [Dan Burd](mailto:abingdonptasecretary@gmail.com) |
+| Role | Name | Bio |
+|-|-|-|
+| [🦸 President](/roles#-president) | [Sharon Burd](mailto:abingdonptapresident@gmail.com) | [Bio](</2022/05/officer-bios/#-sharon-burd--president>) |
+| [📣 VP for Communications](/roles#-vice-president) | Laura Chadwick | [Bio](</2022/05/officer-bios/#-laura-chadwick--vp-for-communications>) |
+| [💵 VP for Fundraising](/roles#-vice-president) | Clare Rosenberger | [Bio](</2022/05/officer-bios/#-clare-rosenberger--vp-for-fundraising>) |
+| [🎓 VP for Educational Programs](/roles#-vice-president) | Ken Venable | [Bio](</2022/05/officer-bios/#-ken-venable--vp-for-educational-programs>) |
+| [🏘️ VP for Community Relations](/roles#-vice-president) | Megan Miller | [Bio](</2022/05/officer-bios/#-megan-miller--vp-for-community-relations>) |
+| [🎉 VP for Events](/roles#-vice-president) | Meredith Greene | [Bio](</2022/05/officer-bios/#-meredith-greene--vp-for-events>) |
+| [🙏 VP for Staff Appreciation](/roles#-vice-president) | Ashley McCarthy | [Bio](</2022/05/officer-bios/#-ashley-farrugia--vp-for-staff-appreciation>) |
+| [💰 Treasurer](/roles#-treasurer) | [Christian Lindstrom](mailto:abingdonptatreasurer@gmail.com) | [Bio](</2022/05/officer-bios/#-christian-lindstrom--treasurer>) |
+| [✍️ Secretary](/roles#-secretary) | [Dan Burd](mailto:abingdonptasecretary@gmail.com) | [Bio](</2022/05/officer-bios/#-dan-burd--secretary>) |
 
 ## Coordinators
 
@@ -27,18 +27,18 @@ Please [fill out our volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSd
 
 | Role | Name |
 |-|-|
-| [📱 Social Media Coordinator](/roles#-social-media-coordinator) | ***Position Available*** |
-| [📰 Newsletter Coordinator](/roles#-newsletter-coordinator) | ***Position Available*** |
+| [📱 Social Media Coordinator](/roles#-social-media-coordinator) | Laura Chadwick |
+| [📰 Newsletter Coordinator](/roles#-newsletter-coordinator) | *PTA Executive Board* |
 | [🖥️ Website Administrator](/roles#-website-administrator) | Dan Burd |
 | [💬 WhatsApp Administrator](/roles#-whatsapp-administrator) | Dan Burd |
 | [🗯️ Facebook Administrator](/roles#-facebook-administrator) | ***Position Available*** |
 | [☎️ Directory Coordinator](/roles#-directory-coordinator) | Dan Burd |
 | [🖼️ Graphic Designer](/roles#-graphic-designer) | ***Position Available*** |
 | [📄 Copy Coordinator](/roles#-copy-coordinator) | ***Position Available*** |
-| [🌎 Translator (Spanish)](/roles#-translator) | ***Position Available*** |
-| [🌍 Translator (Arabic)](/roles#-translator) | ***Position Available*** |
-| [🌍 Translator (Amharic)](/roles#-translator) | ***Position Available*** |
-| [🌏 Translator (Mongolian)](/roles#-translator) | ***Position Available*** |
+| [🌎 Translators (Spanish)](/roles#-translator) | ***Position Available*** |
+| [🌍 Translators (Arabic)](/roles#-translator) | ***Position Available*** |
+| [🌍 Translators (Amharic)](/roles#-translator) | ***Position Available*** |
+| [🌏 Translators (Mongolian)](/roles#-translator) | ***Position Available*** |
 
 ### 💵 Fundraising
 
