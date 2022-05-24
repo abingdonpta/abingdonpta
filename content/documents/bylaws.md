@@ -1,9 +1,7 @@
 ---
-title: Bylaws
+title: Virginia PTA Local Unit Uniform Bylaws - Revised July 2021
 description: Bylaws for the Abingdon PTA
 ---
-
-# Virginia PTA Local Unit Uniform Bylaws - Revised July 2021
 
 <style type="text/css">
     ol { list-style-type: upper-alpha; }

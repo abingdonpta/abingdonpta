@@ -1,5 +1,5 @@
 ---
-title: Calendars
+title: Calendar
 description: Abingdon PTA's calendar.
 ---
 

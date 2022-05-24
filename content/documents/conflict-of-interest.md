@@ -1,9 +1,7 @@
 ---
-title: Conflict of Interest Policy
+title: Conflict of Interest Policy for Abingdon PTA
 description: Conflict of Interest Policy for the Abingdon PTA.
 ---
-
-# Conflict of Interest Policy for Abingdon Elementary PTA
 
 <style type="text/css">
     ol { list-style-type: lower-alpha; }

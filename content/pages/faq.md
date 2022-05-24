@@ -4,13 +4,11 @@ description: Frequently asked questions about the Abingdon PTA.
 ---
 
 ## What is the PTA?
-
 PTA stands for **P**arent **T**eacher **A**ssociation.
 
 The Abingdon Elementary PTA is an active and enthusiastic group of parents and teachers working together to give our students the best possible educational and social experience during elementary school.
 
 ## What does the PTA do?
-
 For over 70 years, Abingdon's PTA has supported Abingdon Elementary and the surrounding community by:
 
 - **Events**: Organizing events that bring the community together
@@ -20,13 +18,13 @@ For over 70 years, Abingdon's PTA has supported Abingdon Elementary and the surr
 - We also **fundraise** to achieve these goals, and regularly **communicate** with parents and staff in order to raise awareness of our work and recruit volunteers.
 
 ## What type of role can I contribute as a member of the PTA?
-
 There are roles for everyone, and it depends on your interests and skillset:
-- **Technically savvy** - we can use help to update and manage our website, Facebook page, Twitter, meetings, etc.
-- **Bilingual** - you can translate our communications
-- **Organizer** - You can lead a committee or help plan an event
-- **Just want to participate** - we have several events throughout the year and can use volunteers
-- [Check out the roles listed here.](/roles/)
+- **Bilingual** - We can always use help translating our emails and other communications.
+- **Organizer** - You can lead a committee or help plan an event.
+- **Technically savvy** - You can update and manage our website.
+- **Financially savvy** - You can review our credit card statements and audit our finances. (Or serve as Treasurer!)
+- **Just want to participate** - We have several events throughout the year and can use volunteers.
+[Check out the roles listed here.](/roles/), and then fill out our [volunteer form](/volunteer).
 
 ## Does it cost money to be a part of the PTA?
 Annual membership dues are $5 per adult. However, you do not have to be a dues-paying member to volunteer for the PTA or to attend meetings. Membership is required if you want to vote during meetings or be a PTA officer.

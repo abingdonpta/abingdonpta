@@ -110,7 +110,7 @@ When the IRS has reviewed our application for tax-exempt status and decides that
 
 The policy is intended to ensure that PTA leadership is not enriching themselves under the pretense of conducting PTA business. The PTA is required to adhere to such a policy in order to maintain its tax-exempt status. The PTA adopted this policy on January 19, 2022 and it remains in force indefinitely.
 
-{{< button relref="conflictofinterest" >}}Click Here to View Our Conflict of Interest Policy{{< /button >}}
+{{< button relref="conflict-of-interest" >}}Click Here to View Our Conflict of Interest Policy{{< /button >}}
 
 ### Logos
 

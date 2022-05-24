@@ -20,8 +20,10 @@ params:
   title: Abingdon PTA
 
 permalinks:
-  Posts: /:year/:month/:slug/
-  
+  documents: /:sections/:filename/
+  pages: /:sections[1:]/:filename/
+  posts: /:year/:month/:slug/
+
 copyright: Abingdon PTA
 defaultContentLanguage: en
 languages:

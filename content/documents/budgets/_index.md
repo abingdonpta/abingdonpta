@@ -1,3 +1,4 @@
 ---
-title: budgets
+title: Budgets
+description: Budgets for the Abingdon PTA.
 ---
