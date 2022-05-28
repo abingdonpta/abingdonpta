@@ -18,9 +18,10 @@ params:
   twitter: AbingdonPTA
   fb: AbingdonElementaryPTA
   title: Abingdon PTA
+  BookSection: 'moops'
 
 permalinks:
-  documents: /:sections/:filename/
+  docs: /:sections[1:]/:filename/
   pages: /:sections[1:]/:filename/
   posts: /:year/:month/:slug/
 

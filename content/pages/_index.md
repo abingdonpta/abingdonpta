@@ -1,5 +1,5 @@
 ---
-title: docs
-description: Documents for Abingdon PTA
+title: pages
+description: Pages for Abingdon PTA
 headless: true
 ---

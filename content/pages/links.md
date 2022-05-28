@@ -12,8 +12,8 @@ description: Helpful links to external resources.
 - [<img src="/img/RSS.svg" height="20" width="20"> Subscribe to Abindgon's RSS feed.](https://abingdon.apsva.us/feed/)
 
 ## APS Resources
-- [<img src="/img/ParentVUE.png" height="20" width="20"> Learn about ParentVUE](https://www.apsva.us/family-access-center/) and [Log into ParentVue](https://vue.apsva.us).
-- [<img src="/img/SchoolMessenger.png" height="20" width="20"> Learn about School Talk](https://www.apsva.us/schooltalk/), and [set up a School Messenger account to adjust your communications preferences](https://go.schoolmessenger.com/).
+- [<img src="/img/ParentVUE.svg" height="20" width="20"> Learn about ParentVUE](https://www.apsva.us/family-access-center/) and [Log into ParentVue](https://vue.apsva.us).
+- [<img src="/img/SchoolMessenger.svg" height="20" width="20"> Learn about School Talk](https://www.apsva.us/schooltalk/), and [set up a School Messenger account to adjust your communications preferences](https://go.schoolmessenger.com/).
 - [<img src="/img/Canvas.svg" height="20" width="20"> Set up your Canvas account](https://www.apsva.us/digital-devices/digital-learning-device-help/canvas/) and then [log into Canvas](https://apsva.instructure.com/login/canvas).
 
 ## Abingdon Information
