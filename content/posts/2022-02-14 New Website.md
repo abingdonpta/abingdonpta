@@ -15,6 +15,6 @@ If you have suggestions for the new website, share them with the website adminis
 
 For those interested in technical details, the new website runs on [Hugo](https://en.wikipedia.org/wiki/Hugo_(software)), a static site generator. It's uploaded to Github and hosted on Cloudflare.
 
-If you're interested in serving as a backup administrator for this website, please reach out to abingdonptasecretary@gmail.com. We'd be happy to show you the ropes.
+If you'd like to serve as a backup administrator for this website, please reach out to abingdonptasecretary@gmail.com. We'd be happy to show you the ropes.
 
 — Dan Burd, PTA Secretary & Website Administrator

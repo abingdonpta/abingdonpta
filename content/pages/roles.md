@@ -13,25 +13,25 @@ We would be delighted to have you join our team!
 
 ### 🦸 President
 
-The President's official responsibilities are described in [the bylaws](/documents/bylaws/#article-6-duties-of-officers).
+The President's official responsibilities are described in [the bylaws](/bylaws/#article-6-duties-of-officers).
 
 The President leads the PTA. The President presides over PTA meetings, takes the lead in communicating with school officials, and generally ensures that the PTA is running smoothly.
 
 ### 🧙 Vice President
 
-The Vice Presidents' official responsibilities are described in [the bylaws](/documents/bylaws/#article-6-duties-of-officers).
+The Vice Presidents' official responsibilities are described in [the bylaws](/bylaws/#article-6-duties-of-officers).
 
 In our PTA, Vice Presidents oversee a certain subject area (for example, communications or fundraising) and provide supervision and guidance to coordinators in that subject area, while representing their programs with the Executive Board.
 
 ### 💰 Treasurer
 
-The Treasurer's official responsibilities are described in [the bylaws](/documents/bylaws/#article-6-duties-of-officers).
+The Treasurer's official responsibilities are described in [the bylaws](/bylaws/#article-6-duties-of-officers).
 
 The Treasurer manages the PTA's funds and all of the records relating to those funds. The Treasurer pays for things that the PTA needs, prepares financial reports to keep the PTA informed, and makes required submissions to the IRS and the Virginia PTA to ensure that the Abingdon PTA is in good standing.
 
 ### ✍️ Secretary
 
-The Secretary's official responsibilities are described in [the bylaws](/documents/bylaws/#article-6-duties-of-officers).
+The Secretary's official responsibilities are described in [the bylaws](/bylaws/#article-6-duties-of-officers).
 
 The Secretary takes notes during each PTA meeting, and maintains the PTA's non-financial records such as bylaws and membership lists.
 

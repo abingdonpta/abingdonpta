@@ -29,8 +29,12 @@ Attempts to resolve the issue between 2017 and 2021 were not successful. On Janu
 
 The good news is that if our application is approved, our tax exempt status will be reinstated retroactive to the date of our application - January 22, 2022. We believe our application will be approved, and that fundraising conducted from this point forward will not be subject to taxation.
 
-However, we are reluctant to solicit funds from businesses until our tax exemption is formally approved by the IRS. Businesses expect that their contributions to PTA's will be tax-deductible; their bottom line may depend on it. They also often file taxes on a quarterly basis, meaning that they are likely to file taxes before our tax exemption is approved, which means that their tax deduction might be denied by the IRS. This would be a blow to any local business, and would do long-term reputational harm to our PTA.
+However, the IRS may require us to pay taxes on our income between the revocation and the reinstatement. We don't know whether this will happen, how much the IRS would ask of us, or whether we could dispute such a bill. As a precaution, we must set aside funds in our 2022-2023 budget to pay for such an expense, at the risk of becoming insolvent.
 
-Additionally, some businesses will explicitly require that the PTA have a tax exemption before working with us on fundraising. [Our lack of tax exemption is in the public record](https://apps.irs.gov/app/eos/detailsPage?ein=521289072&name=VIRGINIA%20CONGRESS%20OF%20PARENTS%20AND&city=ARLINGTON&state=VA&countryAbbr=US&dba=TEACHERSABINGDON&type=REVOCATION&orgTags=REVOCATION). Anyone can see it.
+Additionally, we are limited in our ability to funds from businesses until our tax exemption is formally approved by the IRS. Businesses expect that their contributions to PTA's will be tax-deductible; their bottom line may depend on it. For that reason, most businesses explicitly require that the PTA have a tax exemption before working with us on fundraising. [Our lack of tax exemption is in the public record](https://apps.irs.gov/app/eos/detailsPage?ein=521289072&name=VIRGINIA%20CONGRESS%20OF%20PARENTS%20AND&city=ARLINGTON&state=VA&countryAbbr=US&dba=TEACHERSABINGDON&type=REVOCATION&orgTags=REVOCATION). Anyone can see it.
 
 We look forward to resuming full fundraising activities as soon as our tax exemption is formally approved by the IRS. We will keep our membership updated on the status of our application.
+
+If you have questions about this, [please email me](mailto:abingdonptasecretary@gmail.com) or [email our Treasurer](mailto:abingdonptatreasurer@gmail.com), Christian Lindstrom.
+
+— Dan Burd, PTA Secretary

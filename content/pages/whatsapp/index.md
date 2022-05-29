@@ -2,6 +2,9 @@
 title: WhatsApp Groups
 description: There are several WhatsApp groups for Abingdon families.
 ---
+<style>
+label[for=toc-control] { display: none; }
+</style>
 
 There are several WhatsApp groups for Abingdon families.
 
