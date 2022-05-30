@@ -8,20 +8,14 @@ description: The Abingdon PTA holds several fundraisers throughout the year.
 The PTA accepts open-ended donations at all times. You may donate to the PTA using any of these three methods, in order of preference:
 
 {{< tabs "donate" >}}
-{{< tab "Zelle" >}}
-Zelle is the preferred method to donate money to the PTA, as there are no fees and no administrative overhead associated with the PTA accepting Zelle payments.
 
-More information about how to donate using Zelle will be published at a later date.
-{{< /tab >}}
 {{< tab "Memberhub" >}}
-You may donate to the PTA using Memberhub. However, a portion of the donation will be used to pay transaction fees ($0.50 + 3.5% of each transaction).
+You may donate to the PTA using Memberhub. A portion of the donation will be used to pay transaction fees ($0.50 + 3.5% of each transaction).
 
 {{< button href="https://abingdonpta.memberhub.com/store/items/62200" >}}Click Here to Donate to the PTA Using Memberhub{{< /button >}}
 {{< /tab >}}
 {{< tab "Check" >}}
-You may donate to the PTA by sending us a check. However, this is the least preferred method as depositing checks and disposing of them securely requires more volunteer time than the other two methods.
-
-You may mail checks to:
+You may donate to the PTA by sending us a check. You may mail checks to:
 ```
 Abingdon Elementary School  
 c/o PTA  
@@ -31,16 +25,12 @@ Arlington, VA 22206
 {{< /tab >}}
 {{< /tabs >}}
 
-{{< hint warning >}}
-Do not use Zelle or checks to pay for Spirit Wear. Only use the Spirit Wear store link below.
-{{< /hint >}}
-
 ## Spirit Wear
 
 Spirit Wear will be available when the PTA places an order. A portion of the proceeds go to the PTA.
-
+<!--
 {{< button href="https://abingdonpta.memberhub.com/store" >}}Click Here to Order Spirit Wear{{< /button >}}
-
+-->
 ## AmazonSmile
 
 Abingdon PTA participates in AmazonSmile. When you choose Abingdon PTA as your designated charity, Amazon donates 0.5% of your purchases to us.
@@ -72,9 +62,10 @@ The Abingdon PTA is excited to host Spirit Nights at local restaurants. Check ou
 Edukit offers prepackaged school supplies that are tailored to meet the needs of each grade at Abingdon Elementary. The program makes it simple for families to acquire what they need, and it also serves as a fundraiser for the PTA.
 
 {{< button href="https://www.edukitinc.com/schools/1287/" >}}Click Here to Order Your Edukit for 2022-2023{{< /button >}}
-
+<!--
 ## Boon Supply Fundraiser 
 
 Boon Supply has a catalog of beautiful, eco-friendly items, online experiences, delicious treats, and other gifts. When you shop using this link, you are supporting the students and teachers at Abingdon. Please set up a personal shopping page and share your link with your family and friends.
 
 {{< button href="https://www.boonsupply.com/collections/616804-abingdon-elementary-school" >}}Click Here to Shop at Boon Supply{{< /button >}}
+-->

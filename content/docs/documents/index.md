@@ -126,9 +126,9 @@ The Abingdon Cardinal and Abingdon PTA logos are below. We recommend using the S
 
 | Type | SVG | PNG | Original |
 | ---- | --- | --- | -------- |
-| Abingdon Cardinal | [SVG](/logos/Abingdon-remastered.svg) | [PNG](/logos/Abingdon-remastered.png) | [Original (Adobe)](/logos/Abingdon-remastered.ai)
-| Abingdon Cardinal B&W | [SVG](/logos/Abingdon-remastered-BW.svg) | [PNG](/logos/Abingdon-remastered-BW.png) |
-| Abingdon PTA | [SVG](/logos/Abingdon-PTA-Logo.svg) | [PNG](/logos/Abingdon-PTA-Logo.png) | [Original (JPEG)](https://www.vapta.org/images/logos/A/abingdonelem.jpg) |
+| Abingdon Cardinal | [SVG](/logos/Abingdon-Cardinal-logo.svg) | [PNG](/logos/Abingdon-Cardinal-logo.png) | [Original (Adobe)](/logos/Abingdon-remastered.ai)
+| Abingdon Cardinal B&W | [SVG](/logos/Abingdon-Cardinal-logo-BW.svg) | [PNG](/logos/Abingdon-Cardinal-logo-BW.png) |
+| Abingdon PTA | [SVG](/logos/Abingdon-PTA-logo.svg) | [PNG](/logos/Abingdon-PTA-logo.png) | [Original (JPEG)](https://www.vapta.org/images/logos/A/abingdonelem.jpg) |
 
 
 ## Provided As Needed
