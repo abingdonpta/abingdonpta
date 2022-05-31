@@ -41,7 +41,11 @@ Abingdon PTA participates in AmazonSmile. When you choose Abingdon PTA as your d
 
 ## Harris Teeter Rebates
 
-Abingdon PTA participates in Harris Teeter's Together in Education (TIE) Program, which provides the PTA a portion of money spent at their stores by customers who sign up for the program. To sign up, click the link below and follow the instructions. Abingdon PTA's number is **5748**.
+Abingdon PTA participates in Harris Teeter's Together in Education (TIE) Program, which provides the PTA a portion of money spent at their stores by customers who sign up for the program.
+
+To sign up, you can:
+- Ask your cashier to link your VIC card with Abingdon PTA. Our number is **5748**.
+- Or, click the link below and follow the instructions:
 
 {{< button href="https://tie.harristeeter.com/tie/login" >}}Click Here to Sign Up for Harris Teeter Rebates{{< /button >}}
 <!--

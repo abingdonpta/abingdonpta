@@ -11,7 +11,7 @@ If you're interested in volunteering with the PTA, a great first step is to fill
 
 {{< button href="https://docs.google.com/forms/d/e/1FAIpQLSdk4KJFIDuigz-EyhdPuWM_GejjZ5rpx9emd6jHxb2xKPQgGA/viewform?usp=sf_link" >}}Click Here to Fill Out the PTA's Volunteer Form{{< /button >}}
 
-Additionally, the PTA requests volunteers to help with events on an ad hoc basis. [Please follow or subscribe to one of our communication tools](/connect), or fill out the Volunteer Form, in order to be informed of these volunteer opportunities. Typically volunteers help set up before events, clean up after events, or assist during events. This is a fun way to meet people and become familiar with the PTA.
+Additionally, the PTA requests volunteers to help with events on an ad hoc basis. [Please follow or subscribe to one of our communication tools](/connect/), or fill out the Volunteer Form, in order to be informed of these volunteer opportunities. Typically volunteers help set up before events, clean up after events, or assist during events. This is a fun way to meet people and become familiar with the PTA.
 
 {{< hint info >}}
 The PTA is run entirely by volunteers. We depend on your time, talent, and financial contributions to do all that we do.

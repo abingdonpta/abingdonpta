@@ -26,7 +26,7 @@ There are roles for everyone, and it depends on your interests and skillset:
 - **Technically savvy** - You can update and manage our website.
 - **Financially savvy** - You can review our credit card statements and audit our finances. (Or serve as Treasurer!)
 - **Just want to participate** - We have several events throughout the year and can use volunteers.
-[Check out the roles listed here.](/roles/), and then fill out our [volunteer form](/volunteer).
+[Check out the roles listed here.](/roles/), and then fill out our [volunteer form](/volunteer/).
 
 ## Does it cost money to be a part of the PTA?
 Annual membership dues are $5 per adult. However, you do not have to be a dues-paying member to volunteer for the PTA or to attend meetings. Membership is required if you want to vote during meetings or be a PTA officer.
@@ -53,7 +53,7 @@ PTA funds are used to support the school and the community, including:
 
 ## I am not English speaking; how can I speak/participate in another language?
 - Our meetings and our website are all accessible in other languages.
-- There are many volunteer opportunties which do not require English fluency, especially helping with events. Fill out our [volunteer form](/volunteer) or email abingdonelementaryPTA@gmail.com (in whatever language you'd like) if you are interested in volunteering with us.
+- There are many volunteer opportunties which do not require English fluency, especially helping with events. Fill out our [volunteer form](/volunteer/) or email abingdonelementaryPTA@gmail.com (in whatever language you'd like) if you are interested in volunteering with us.
 
 ## What type of committees are available?
 - Staff Appreciation Committee (organize and execute events for teachers and other staff members)

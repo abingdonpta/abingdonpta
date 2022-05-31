@@ -12,8 +12,8 @@ Agendas are available here before each meeting, and meeting minutes are availabl
 
 | Meeting Date | Agenda | Minutes | Video | Presentation |
 | ------------ | ------ | ------- | ----- | ------------ |
-| 2022-04-19   | | [Minutes](/minutes/2022-04-19) | | |
-| 2022-03-08   | | [Minutes](/minutes/2022-03-08) | | |
+| 2022-04-19   | | [Minutes](/minutes/2022-04-19/) | | |
+| 2022-03-08   | | [Minutes](/minutes/2022-03-08/) | | |
 | 2022-02-08   | [Agenda](/agendas/2022-02-08.pdf) | [Minutes](/minutes/2022-02-08.pdf) | | |
 | 2021-11-09   | | | | |
 | 2021-10-12   | | [Minutes](/minutes/2021-10-12.pdf) | | [Presentation](/presentations/2021-10-12.pdf) |
@@ -23,7 +23,7 @@ Agendas are available here before each meeting, and meeting minutes are availabl
 
 | Meeting Date | Agenda | Minutes |
 | ------------ | ------ | ------- |
-| 2022-04-03 | | [Minutes](/minutes/2022-04-03) |
+| 2022-04-03 | | [Minutes](/minutes/2022-04-03/) |
 | 2022-02-15 | | [Minutes](/minutes/2022-02-15.pdf) |
 | 2022-01-31 | | [Minutes](/minutes/2022-01-31.pdf) |
 | 2022-01-18 | | |

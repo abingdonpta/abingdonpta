@@ -14,8 +14,8 @@ There are many ways to stay informed about PTA events and activities:
 [<img src="/img/Twitter.svg" height="20" width="20"> Follow us on Twitter.](https://twitter.com/AbingdonPTA)  
 [<img src="/img/Facebook.svg" height="20" width="20"> Follow us on Facebook.](https://www.facebook.com/AbingdonElementaryPTA)  
 [<img src="/img/Facebook.svg" height="20" width="20"> Join our Facebook group.](https://www.facebook.com/AbingdonElementaryPTA)  
-[<img src="/img/WhatsApp.svg" height="20" width="20"> Join our WhatsApp groups.](/whatsapp)  
-[<img src="/img/Calendar.svg" height="20" width="20"> View and subscribe to our calendar.](/calendar)  
+[<img src="/img/WhatsApp.svg" height="20" width="20"> Join our WhatsApp groups.](/whatsapp/)  
+[<img src="/img/Calendar.svg" height="20" width="20"> View and subscribe to our calendar.](/calendar/)  
 [<img src="/img/RSS.svg" height="20" width="20"> Subscribe to our RSS feed.](/posts/index.xml)  
 [<img src="/img/Email.svg" height="20" width="20"> Send us an email.](mailto:abingdonelementaryPTA@gmail.com)  
 <img src="/img/Zoom.svg" height="20" width="20"> The PTA meets on Zoom monthly. The meeting links are shared in our newsletter.

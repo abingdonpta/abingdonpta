@@ -428,11 +428,7 @@ At least three people need to serve on the committee. The Treasurer provides the
 
 ### 📜 Historian
 
-The historian maintains our [history webpage](/history), and is able to tell people about what Abingdon and the PTA were like back in the day.
-
-- **Location**: History
-- **Time of day**: The past
-- **Months**: Long ago
+The historian maintains our [history webpage](/history/), and is able to tell people about what Abingdon and the PTA were like back in the day.
 
 ### 🐦 Mascot
 

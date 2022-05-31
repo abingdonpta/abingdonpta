@@ -11,6 +11,11 @@ The Abingdon PTA has launched a fabulous new website that's **Informative**, **f
 - **Fast**: The site is very fast. Pages load almost instantly and use minimal resources. The new site won't spin up your laptop fan or burn though your mobile data cap.
 - **Cheap**: The site costs nothing to host. This is a considerable savings from our previous website host. We also changed domain registrars; together, the two changes result in savings of $500 per year.
 
+Highlights of the new website include:
+- [The leadership page](/leadership/) lists all of our officers and coordinators - and clicking on each positions provides a detailed description of each role.
+- [The history page](/history/) is a great way to learn more about our school's 72 year history.
+- [The documents page](/documents/) offers easy access to our bylaws, meeting minutes and other helpful information.
+
 If you have suggestions for the new website, share them with the website administrator at abingdonptasecretary@gmail.com.
 
 For those interested in technical details, the new website runs on [Hugo](https://en.wikipedia.org/wiki/Hugo_(software)), a static site generator. It's uploaded to Github and hosted on Cloudflare.
