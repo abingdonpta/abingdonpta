@@ -5,7 +5,7 @@ slug: Winter Wonderland Recap
 date: 2022-02-13
 categories: events
 images: 
-- posts/2022-02-13-winter-wonderland/images/ww.jpg
+- /2022/02/winter-wonderland-recap/images/ww.jpg
 draft: true
 ---
 
