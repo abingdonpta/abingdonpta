@@ -13,35 +13,35 @@ If you'd like to help organize our staff appreciation activities, please [fill o
 ## Teacher Appreciation
 
 ### Spirit Wear for Teachers
-![](images/IMG_2651.jpg)
+![Abingdon staff wearing PTA-supplied Spirit Wear](images/IMG_2651.jpg)
 
 ### Teacher Appreciation Week
-![](images/1521507812924440578_1.jpg)
-![](images/1521507812924440578_2.jpg)
+![Abingdon staff enjoying a PTA-supplied buffet in the teacher's lounge](images/1521507812924440578_1.jpg)
+![Abingdon staff enjoying a PTA-supplied buffet in the teacher's lounge](images/1521507812924440578_2.jpg)
 
 ### Teacher Supply Buffet
 
-![](images/1509672942187257856_1.jpg)
-![](images/1509672942187257856_2.jpg)
+![PTA-purchased supplies in the library for teachers to pick up](images/1509672942187257856_1.jpg)
+![PTA-purchased supplies in the library for teachers to pick up](images/1509672942187257856_2.jpg)
 
 ### Coffee and Snacks for Teachers
 
-![](images/1488984627368898563_1.jpg)
-![](images/1488984627368898563_2.jpg)
-![](images/1471917524140929026.jpg)
-![](images/1521557606921351173.jpg)
-![](images/1493224641820827651.jpg)
+![PTA-supplied coffee and snacks for teachers](images/1488984627368898563_1.jpg)
+![PTA-supplied coffee and snacks for teachers](images/1488984627368898563_2.jpg)
+![Abingdon Cardinal posing with the principal. The Cardinal is handing out coffee to teachers.](images/1471917524140929026.jpg)
+![PTA-supplied coffee and snacks for teachers](images/1521557606921351173.jpg)
+![PTA-supplied snacks for teachers](images/1493224641820827651.jpg)
 
 ## Principal Appreciation
 
-![](images/1482104268190539779_1.jpg)
-![](images/1482104268190539779_2.jpg)
+![Abingdon's principals posing with pizza purchased for them by the PTA](images/1482104268190539779_1.jpg)
+![Abingdon's principals posing with pizza purchased for them by the PTA](images/1482104268190539779_2.jpg)
 
 ## Bus Driver Appreciation
 
-![](images/IMG_3278.jpg)
-![](images/IMG_3288.jpg)
+![Abingdon Cardinal standing in front of school buses with posters showing appreciation for the bus drivers](images/IMG_3278.jpg)
+![Abingdon Cardinal standing in front of school buses with posters showing appreciation for the bus drivers](images/IMG_3288.jpg)
 
 ## Crossing Guard Appreciation
 
-![](images/Crossing.jpg)
+![Abingdon Cardinal standing with Abingdon's crossing guard with a poster thanking her for keeping children safe](images/Crossing.jpg)

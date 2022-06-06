@@ -14,46 +14,46 @@ If you're interested in helping to organize our events, please [fill out our vol
 
 ## Welcome Picnic
 
-![](images/904747149359022082.jpg)
-![](images/904771466805346307.jpg)
+![Buffet at Welcome Picnic](images/904747149359022082.jpg)
+![Magic show at Welcome Picnic](images/904771466805346307.jpg)
 
 ## Trunk or Treat
 
-![](images/1454571445716197381_1.jpg)
-![](images/1454571445716197381_2.jpg)
-![](images/1454571445716197381_3.jpg)
-![](images/1454571445716197381_4.jpg)
+![Trick-or-treating at Trunk or Treat](images/1454571445716197381_1.jpg)
+![Trick-or-treating at Trunk or Treat](images/1454571445716197381_2.jpg)
+![Trick-or-treating at Trunk or Treat](images/1454571445716197381_3.jpg)
+![Costumed family posing in front of their decorated car at Trunk or Treat](images/1454571445716197381_4.jpg)
 
 ## Winter Wonderland
 
-![](images/1492609237989699590_2.jpg)
-![](images/IMG_2663.jpg)
-![](images/IMG_2590.jpg)
-![](images/IMG_2587.jpg)
-![](images/1492609237989699590_1.jpg)
+![Children helping clean up the garden at Winter Wonderland](images/1492609237989699590_2.jpg)
+![Children and Abingdon Cardinal dancing at Winter Wonderland](images/IMG_2663.jpg)
+![Volunteers posing at Winter Wonderland](images/IMG_2590.jpg)
+![Volunteers posing at Winter Wonderland](images/IMG_2587.jpg)
+![Abingdon Cardinal posing in front of photo prop at Winter Wonderland](images/1492609237989699590_1.jpg)
 
 ## International Night
 
-![](images/IMG_7194.jpg)
-![](images/IMG_7199.jpg)
-![](images/IMG_7310.jpg)
-![](images/PXL_20220513_225717941.jpg)
-![](images/IMG_7198.jpg)
-![](images/PXL_20220513_230410310.MP.jpg)
-![](images/IMG_7266.jpg)
-![](images/PXL_20220513_230241415.jpg)
+![Japanese table at International Night](images/IMG_7194.jpg)
+![Kazakh and Uzbek table at International Night](images/IMG_7199.jpg)
+![Irish dancers at International Night](images/IMG_7310.jpg)
+![Henna being placed on childrens' hands at International Night](images/PXL_20220513_225717941.jpg)
+![Peruvian table at International Night](images/IMG_7198.jpg)
+![Participants in Korean dress at International Night](images/PXL_20220513_230410310.MP.jpg)
+![Participants in Salvadorean and Chinese dress at International Night](images/IMG_7266.jpg)
+![A generous and diverse array of food at International Night](images/PXL_20220513_230241415.jpg)
 
 ## 5th Grade Promotion
 
-![](images/1009075392618160128.jpg)
+![Children on stage at their 5th Grade Promotion ceremony](images/1009075392618160128.jpg)
 
 ## Parent Coffees
 
 ## Movie Night
 
-![](images/2020-02-21.jpg)
+![Abingdon Cardinal welcoming participants to Movie Night](images/2020-02-21.jpg)
 
 ## Book Swap
 
-![](images/PXL_20220319_165345334.jpg)
-![](images/PXL_20220319_171526195.jpg)
+![Books in front of Abingdon available to be taken or swapped](images/PXL_20220319_165345334.jpg)
+![People swapping books in front of Abingdon](images/PXL_20220319_171526195.jpg)

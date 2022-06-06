@@ -15,31 +15,31 @@ If you're interested in volunteering in the garden, please subscribe to our Gard
 
 ## Earth Day Cleanup
 
-![](images/040222_1.jpg)
-![](images/040222_2.jpg)
-![](images/040222_3.jpg)
-![](images/040222_4.jpg)
-![](images/040222_5.jpg)
-![](images/040222_6.jpg)
-![](images/040222_7.jpg)
+![Volunteers moving woodchips at the Abingdon Garden](images/040222_1.jpg)
+![Volunteers moving woodchips at the Abingdon Garden](images/040222_2.jpg)
+![Volunteers moving woodchips at the Abingdon Garden](images/040222_3.jpg)
+![Volunteers moving woodchips at the Abingdon Garden](images/040222_4.jpg)
+![Volunteers collecting litter on Abingdon's grounds](images/040222_5.jpg)
+![A volunteer with a big bag of litter collected on Abingdon's grounds](images/040222_6.jpg)
+![The garden looking very tidy after woodchips were placed evenly throughout](images/040222_7.jpg)
 
 ## Donation of Woodchips and Stumps
 
-![](images/040122_1.jpg)
-![](images/040122_2.jpg)
+![A dump truck dumping donated woodchips](images/040122_1.jpg)
+![Company and PTA staff posing behind a pile of donated woodchips](images/040122_2.jpg)
 
 ## MLK Day of Service
 
-![](images/IMG_1100.jpg)
-![](images/IMG_1116.jpg)
+![Children and parents digging out a weed from a pile of dirt](images/IMG_1100.jpg)
+![Abingdon staff and a student posting with a bag containing yard waste taken from the Abingdon garden](images/IMG_1116.jpg)
 
 ## Before cleanup — December 2021
 
-![](images/IMG_6887.jpg)
+![The Abingdon Garden looking very untidy after being mostly unmaintained during the pandemic](images/IMG_6887.jpg)
 
 ## May 2018
 
-![](images/995305229703925761_1.jpg)
-![](images/995305229703925761_2.jpg)
-![](images/995305229703925761_3.jpg)
-![](images/995305229703925761_4.jpg)
+![Volunteers placing mulch in the Abingdon Garden beds](images/995305229703925761_1.jpg)
+![Volunteers placing mulch in the Abingdon Garden beds](images/995305229703925761_2.jpg)
+![Volunteers posing on top of a pile of mulch in the Abingdon Garden](images/995305229703925761_3.jpg)
+![Volunteers placing mulch in the Abingdon Garden beds](images/995305229703925761_4.jpg)

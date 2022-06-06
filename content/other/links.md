@@ -6,16 +6,16 @@ weight: 20
 
 ## News from Abingdon
 - [🏫 View Abingdon's webpage.](https://abingdon.apsva.us/)
-- [<img src="/img/Twitter.svg" height="20" width="20"> Follow Abingdon on Twitter.](https://twitter.com/AbingdonGIFT)
-- [<img src="/img/Facebook.svg" height="20" width="20"> Follow Abingdon on Facebook.](https://facebook.com/AbingdonES)
-- [<img src="/img/Instagram.svg" height="20" width="20"> Follow Abingdon on Instagram.](https://www.instagram.com/abingdongift/)
-- [<img src="/img/Calendar.svg" height="20" width="20"> View Abingdon's calendar](https://abingdon.apsva.us/calendar/), or subscribe to Abingdon's calendar ([Google Calendar](https://calendar.google.com/calendar/render?cid=webcal://abingdon.apsva.us/ical?t=84), [iCal](webcal://abingdon.apsva.us/ical))
-- [<img src="/img/RSS.svg" height="20" width="20"> Subscribe to Abindgon's RSS feed.](https://abingdon.apsva.us/feed/)
+- [<img src="/img/Twitter.svg" height="20" width="20" alt="Twitter logo"> Follow Abingdon on Twitter.](https://twitter.com/AbingdonGIFT)
+- [<img src="/img/Facebook.svg" height="20" width="20" alt="Facebook logo"> Follow Abingdon on Facebook.](https://facebook.com/AbingdonES)
+- [<img src="/img/Instagram.svg" height="20" width="20" alt="Instagram logo"> Follow Abingdon on Instagram.](https://www.instagram.com/abingdongift/)
+- [<img src="/img/Calendar.svg" height="20" width="20" alt="Calendar logo"> View Abingdon's calendar](https://abingdon.apsva.us/calendar/), or subscribe to Abingdon's calendar ([Google Calendar](https://calendar.google.com/calendar/render?cid=webcal://abingdon.apsva.us/ical?t=84), [iCal](webcal://abingdon.apsva.us/ical))
+- [<img src="/img/RSS.svg" height="20" width="20" alt="RSS logo"> Subscribe to Abindgon's RSS feed.](https://abingdon.apsva.us/feed/)
 
 ## APS Resources
-- [<img src="/img/ParentVUE.svg" height="20" width="20"> Learn about ParentVUE](https://www.apsva.us/family-access-center/) and [Log into ParentVue](https://vue.apsva.us).
-- [<img src="/img/SchoolMessenger.svg" height="20" width="20"> Learn about School Talk](https://www.apsva.us/schooltalk/), and [set up a School Messenger account to adjust your communications preferences](https://go.schoolmessenger.com/).
-- [<img src="/img/Canvas.svg" height="20" width="20"> Set up your Canvas account](https://www.apsva.us/digital-devices/digital-learning-device-help/canvas/) and then [log into Canvas](https://apsva.instructure.com/login/canvas).
+- [<img src="/img/ParentVUE.svg" height="20" width="20" alt="ParentVUE logo"> Learn about ParentVUE](https://www.apsva.us/family-access-center/) and [Log into ParentVue](https://vue.apsva.us).
+- [<img src="/img/SchoolMessenger.svg" height="20" width="20" alt="SchoolMessenger logo"> Learn about School Talk](https://www.apsva.us/schooltalk/), and [set up a School Messenger account to adjust your communications preferences](https://go.schoolmessenger.com/).
+- [<img src="/img/Canvas.svg" height="20" width="20" alt="Canvas logo"> Set up your Canvas account](https://www.apsva.us/digital-devices/digital-learning-device-help/canvas/) and then [log into Canvas](https://apsva.instructure.com/login/canvas).
 
 ## Abingdon Information
 - [☎️ View the Staff Directory.](https://abingdon.apsva.us/staff-directory/)
