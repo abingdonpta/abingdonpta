@@ -6,7 +6,7 @@ bookhidden: true
 weight: 65
 ---
 <style>
-label[for=toc-control] { display: none; }
+label[for=toc-control] { visibility: hidden; }
 </style>
 
 There are several WhatsApp groups for Abingdon families.

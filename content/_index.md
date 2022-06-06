@@ -4,7 +4,7 @@ Description: A peaceful world starts here.
 ---
 <style>
 .title, .center { text-align: center; }
-hr, label[for=toc-control] { display: none; }
+hr, label[for=toc-control] { visibility: hidden; }
 </style>
 
 <img src="abingdon.webp" alt="Photo of Abingdon Elementary" height="414" width="736" >

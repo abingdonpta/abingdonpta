@@ -5,7 +5,7 @@ weight: 60
 linktitle: Connect
 ---
 <style>
-label[for=toc-control] { display: none; }
+label[for=toc-control] { visibility: hidden; }
 </style>
 
 There are many ways to stay informed about PTA events and activities:
