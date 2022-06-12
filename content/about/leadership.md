@@ -29,11 +29,11 @@ Please [fill out our volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSd
 | Role | Name |
 |-|-|
 | [📱 Social Media Coordinator](/roles/#-social-media-coordinator) | Laura Chadwick |
-| [📰 Newsletter Coordinator](/roles/#-newsletter-coordinator) | *PTA Executive Board* |
-| [🖥️ Website Administrator](/roles/#-website-administrator) | Dan Burd |
-| [💬 WhatsApp Administrator](/roles/#-whatsapp-administrator) | Dan Burd |
+| [📰 Newsletter Coordinator](/roles/#-newsletter-coordinator) | Laura Chadwick |
+| [🖥️ Website Administrator](/roles/#-website-administrator) | Laura Chadwick |
+| [💬 WhatsApp Administrator](/roles/#-whatsapp-administrator) | ***Position Available*** |
 | [🗯️ Facebook Administrator](/roles/#-facebook-administrator) | ***Position Available*** |
-| [☎️ Directory Coordinator](/roles/#-directory-coordinator) | Dan Burd |
+| [☎️ Directory Coordinator](/roles/#-directory-coordinator) | ***Position Available*** |
 | [🖼️ Graphic Designer](/roles/#-graphic-designer) | ***Position Available*** |
 | [📄 Copy Coordinator](/roles/#-copy-coordinator) | ***Position Available*** |
 | [🌎 Translators (Spanish)](/roles/#-translator) | ***Position Available*** |
@@ -129,6 +129,7 @@ The Staff Appreciation Committee blesses our wonderful Abingdon staff throughout
 |-|-|
 | [📖 Yearbook Coordinator](/roles/#-yearbook-coordinator) | ***Position Available*** |
 | [🍎 Room Buddy Coordinator](/roles/#-room-buddy-coordinator) | ***Position Available*** |
+| [🧸 Lost and Found Coordinator](/roles/#-lost-and-found-coordinator) | ***Position Available*** |
 | [🗽 Diversity Coordinator](/roles/#-diversity-coordinator) | ***Position Available*** |
 | [💳 Bank Statement Reviewer](/roles/#-bank-statement-reviewer) | ***Position Available*** |
 | [🙋 Nominating Committee](/roles/#-nominating-committee) | Named each year |

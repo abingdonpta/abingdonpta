@@ -396,6 +396,16 @@ The Room Buddy Coordinator recruits Room Buddies for as many classrooms as possi
 - **Time of day**: Any; occasional daytime availability is a plus for in-person recruitment at dropoff and pickup
 - **Months**: Year-round
 
+### 🧸 Lost and Found Coordinator
+
+Abingdon has a lost and found near the front entrance. As students rifle through the lost and found looking for their items, it gets messy quite quickly. The lost and found becomes especially full in the fall and the spring, when it is cold in the morning but warmer in the afternoon so that children take off their jackets outside during recess and forget them.
+
+A Lost and Found Coordinator hangs up jackets (which are the most frequently lost item) and organizes other lost items, like water bottles, perhaps once or twice each week. They also take photos of the lost and found once every month or two for social media so that parents can see whether their child's items need to be picked up.
+
+- **Location**: School
+- **Time of day**: School day
+- **Months**: Year-round
+
 ### 🗽 Diversity Coordinator
 
 ### 💳 Bank Statement Reviewer
@@ -420,7 +430,7 @@ At least three people need to serve on the committee. The committee needs to be 
 
 The Virginia PTA requires that each PTA audit their finances at the conclusion of each school year. (This is sometimes called a financial review.) In practice, the audit is more like a checklist, and no financial experience is required to serve on the Committee.
 
-At least three people need to serve on the committee. The Treasurer provides their records to the Committee at the end of the fiscal year (July 1). The Committee drafts the financial report and submits it to the Executive Board and to the general membership in August for their approval at the first meeting of the school year in September. In practice, the Committee spends a few hours in July reviewing the financial records from the prior school year and meets once, perhaps in early August, in order to finalize the report.
+At least three people need to serve on the committee. The Treasurer provides their records to the Committee at the end of the fiscal year (July 1). The Committee drafts the financial report and submits it to the Executive Board and to the general membership in August for their approval at the first meeting of the school year in September. In practice, the Committee spends a few hours in July reviewing the financial records from the prior school year and meets once in order to finalize the report.
 
 - **Location**: Home
 - **Time of day**: Evening
