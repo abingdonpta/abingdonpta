@@ -212,7 +212,7 @@ The Garden Coordinator works with Abingdon's Sustainability Coordinator (traditi
 
 ### 🔔 After School Enrichment Coordinator
 
-The After School Enrichment Coordinator serves as the liaison with Enrichment Matters to create the schedule for After-School Enrichment at Abingdon. The Coordinator also work with the Abingdon Student Support Team to enroll students identified for scholarships (funded by the PTA) and ensure that the room reservation request forms for each session are completed.
+The After School Enrichment Coordinator serves as the liaison with our vendor to create the schedule for After-School Enrichment at Abingdon. The Coordinator also work with the Abingdon Student Support Team to enroll students identified for scholarships (funded by the PTA) and ensure that the room reservation request forms for each session are completed.
 
 - **Location**: School
 - **Time of day**: Immediately after school day
@@ -290,7 +290,11 @@ The PTA partners with the Student Support Team at Abingdon to help support famil
 
 ### 🧮 ACTL Representative
 
-The Advisory Council on Teaching & Learning (ACTL) is made up of representatives from each school and certain community organizations to assist in reviewing the system-wide curriculum and instructional program and in developing recommendations for improvement. ACTL is made up of 40 to 50 individuals who are familiar with or interested in instructional issues. Thirteen curriculum-based / focused advisory committees report to the council annually. Serving on the ACTL is an excellent way to represent our school's interests and positively influence the school curriculum. Read more about ACTL [on their website](https://www.apsva.us/actl).
+The Advisory Council on Teaching & Learning (ACTL) assists in the continuous systematic review of various aspects of the instructional program and in the development of recommendations for instructional improvement. The Council’s work includes:
+1. Reviewing existing instructional programs;
+2. making recommendations for the introduction of new programs; and
+3. conducting studies of instructional topics from time to time as determined by the School Board.
+Serving on the ACTL is an excellent way to represent our school's interests and positively influence the school curriculum. Read more about ACTL [on their website](https://www.apsva.us/actl).
 
 - **Location**: Home
 - **Time of day**: Evening
@@ -327,6 +331,45 @@ The School Health Advisory Board (SHAB) assists with the development of health p
 - **Location**: Home
 - **Time of day**: Evening
 - **Months**: Year-round
+
+### 🚌 ACTC Representative
+
+Advisory Committee on Transportation Choices was created as a joint advisory body of the Arlington County Board and the Arlington School Board for the purpose of advising the Joint Committee on Transportation Choices, which will develop and implement programs that further transportation choices for Arlington Public Schools students, families, and staff. The mission of the Advisory Committee on Transportation Choices is to advise the Joint Committee on Transportation Choices on strategies and plans of action that will develop and promote those transportation choices. Read more about ACTC [on their website](https://www.apsva.us/transportation-services/advisory-committee-transportation-choices-actc/).
+
+### 🏫 FAC Representative
+
+The Advisory Council on School Facilities and Capital Programs assists the School Board in the continuous, systematic review of school facilities and the capital improvement program by:
+1. Making recommendations to the School Board on the biannual school facilities and student accommodation plan which informs the ten-year capital improvement plan and recommendations for funding thereon;
+2. Providing, upon request, recommendations to the School Board on specific issues;
+3. Providing advice on areas identified by the Council regarding the capital program;
+4. Assisting the School Board in providing the community with information concerning school facilities and the capital improvement program;
+5. Receiving and integrating input from the community concerning school facilities and the capital improvement program; and
+6. Receiving and integrating input from Building Level Planning Committees.
+
+Read more about FAC [on their website](https://www.apsva.us/design-and-construction/advisory-council-on-school-facilities-and-capital-programs/).
+
+### 🪙 Budget Advisory Council Representative
+
+Budget Advisory Council provides advice and insight to the School Board to help maintain fiscal integrity, public confidence, and wise stewardship of taxpayer resources by:
+1. Making recommendations on policies and practices related to the presentation and preparation of the operating budget and the financial management of the school system;
+2. Making recommendations to the School Board on budget priorities before the Board gives its annual budget direction to the Superintendent and at other times as appropriate;
+3. Advising on the degree to which the Superintendent’s Proposed Budget supports best fiscal practices and the School Board’s priorities;
+4. Assisting in educating the community about the budgeting process and the contents of each year’s budget; and
+5. Providing, upon the School Board’s request, study and recommendations on special topics or issues.
+
+Read more about the Budget Advisory Council [on their website](http://apsva.us/budget-advisory-council/).
+
+### 🏫 School Plan Advisory Committee Representative
+
+The School Plan Advisory Committee is responsible for assisting the school principal in reviewing the effectiveness of the total school program, including the School Management Plan.
+The committee shall consider the following:
+1. The extent to which the goals and objectives of the Management Plan have been or are being met.
+2. Student performance as determined in the Plan assessment.
+3. The strengths and weaknesses of the school's program including areas that should be improved, expanded, eliminated, or modified.
+4. Recommendations the committee may have for improvements at the school and county levels.
+5. Recommendations for strengthening the school’s community engagement efforts.
+
+More information about School Plan Advisory Committees can be found on [APS Policy B-3.6.36](https://go.boarddocs.com/vsba/arlington/Board.nsf/files/AZ2VS7621799/$file/B-3.6.36%20School%20Plan%20Advisory%20Committees.pdf).
 
 ## 🎉 Event Descriptions
 

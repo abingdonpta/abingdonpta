@@ -31,7 +31,7 @@ There are roles for everyone, and it depends on your interests and skillset:
 ## Does it cost money to be a part of the PTA?
 Annual membership dues are $5 per adult. However, you do not have to be a dues-paying member to volunteer for the PTA or to attend meetings. Membership is required if you want to vote during meetings or be a PTA officer.
 
-Dues can be submitted online, or via check or cash if necessary. [Click here for information about paying dues.](/membership/)
+Dues can be submitted online, or via check or cash if necessary. [Click here for information about paying dues.](/join/)
 
 ## Do I have to be a parent to join the PTA?
 No. Everyone — parents & guardians, educators, students and other community members — is invited to join our PTA.

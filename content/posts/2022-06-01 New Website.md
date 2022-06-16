@@ -16,8 +16,8 @@ Highlights of the new website include:
 - [The history page](/history/) is a great way to learn more about our school's 72 year history.
 - [The documents page](/documents/) offers easy access to our bylaws, meeting minutes and other helpful information.
 
-If you have suggestions for the new website, share them with the website administrator at abingdonptasecretary@gmail.com.
+If you have suggestions for the new website, share them with us at abingdonelementarypta@gmail.com.
 
 For those interested in technical details, the new website runs on [Hugo](https://en.wikipedia.org/wiki/Hugo_(software)), a static site generator. It's uploaded to Github and hosted on Cloudflare.
 
-If you'd like to serve as a backup administrator for this website, please reach out to abingdonptasecretary@gmail.com. We'd be happy to show you the ropes.
+If you'd like to serve as a backup administrator for this website, please reach out to abingdonelementarypta@gmail.com. We'd be happy to show you the ropes.

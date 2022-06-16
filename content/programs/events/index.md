@@ -47,8 +47,6 @@ If you're interested in helping to organize our events, please [fill out our vol
 
 ![Children on stage at their 5th Grade Promotion ceremony](images/1009075392618160128.jpg)
 
-## Parent Coffees
-
 ## Movie Night
 
 ![Abingdon Cardinal welcoming participants to Movie Night](images/2020-02-21.jpg)

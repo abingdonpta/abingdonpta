@@ -26,58 +26,62 @@ Please [fill out our volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSd
 
 ### 📣 Communications
 
-| Role | Name |
-|-|-|
-| [📱 Social Media Coordinator](/roles/#-social-media-coordinator) | Laura Chadwick |
-| [📰 Newsletter Coordinator](/roles/#-newsletter-coordinator) | Laura Chadwick |
-| [🖥️ Website Administrator](/roles/#-website-administrator) | Laura Chadwick |
-| [💬 WhatsApp Administrator](/roles/#-whatsapp-administrator) | ***Position Available*** |
-| [🗯️ Facebook Administrator](/roles/#-facebook-administrator) | ***Position Available*** |
-| [☎️ Directory Coordinator](/roles/#-directory-coordinator) | ***Position Available*** |
-| [🖼️ Graphic Designer](/roles/#-graphic-designer) | ***Position Available*** |
-| [📄 Copy Coordinator](/roles/#-copy-coordinator) | ***Position Available*** |
-| [🌎 Translators (Spanish)](/roles/#-translator) | ***Position Available*** |
-| [🌍 Translators (Arabic)](/roles/#-translator) | ***Position Available*** |
-| [🌍 Translators (Amharic)](/roles/#-translator) | ***Position Available*** |
-| [🌏 Translators (Mongolian)](/roles/#-translator) | ***Position Available*** |
+| Role |
+|-|
+| [📱 Social Media Coordinator](/roles/#-social-media-coordinator) |
+| [📰 Newsletter Coordinator](/roles/#-newsletter-coordinator) |
+| [🖥️ Website Administrator](/roles/#-website-administrator) |
+| [💬 WhatsApp Administrator](/roles/#-whatsapp-administrator) |
+| [🗯️ Facebook Administrator](/roles/#-facebook-administrator) |
+| [☎️ Directory Coordinator](/roles/#-directory-coordinator) |
+| [🖼️ Graphic Designer](/roles/#-graphic-designer) |
+| [📄 Copy Coordinator](/roles/#-copy-coordinator) |
+| [🌎 Translators (Spanish)](/roles/#-translator) |
+| [🌍 Translators (Arabic)](/roles/#-translator) |
+| [🌍 Translators (Amharic)](/roles/#-translator) |
+| [🌏 Translators (Mongolian)](/roles/#-translator) |
 
 ### 💵 Fundraising
 
-| Role | Name |
-|-|-|
-| [💸 Retail Rebates Coordinator](/roles/#-retail-rebates-coordinator) | ***Position Available*** |
-| [👕 Spirit Wear Coordinator](/roles/#-spirit-wear-coordinator) | ***Position Available*** |
-| [✏️ Edukit Coordinator](/roles/#-edukit-coordinator) | Samantha Levine-Finley |
-| [📸 School Pictures Coordinator](/roles/#-school-pictures-coordinator) | ***Position Available*** |
-| [📚 Read-A-Thon Coordinator](/roles/#-read-a-thon-coordinator) | ***Position Available*** |
-| [🌯 Spirit Night Coordinator](/roles/#-spirit-night-coordinator) | ***Position Available*** |
-| [🤝 Sponsorships Coordinator](/roles/#-sponsorships-coordinator) | ***Position Available*** |
+| Role |
+|-|
+| [💸 Retail Rebates Coordinator](/roles/#-retail-rebates-coordinator) |
+| [👕 Spirit Wear Coordinator](/roles/#-spirit-wear-coordinator) |
+| [✏️ Edukit Coordinator](/roles/#-edukit-coordinator) |
+| [📸 School Pictures Coordinator](/roles/#-school-pictures-coordinator) |
+| [📚 Read-A-Thon Coordinator](/roles/#-read-a-thon-coordinator) |
+| [🌯 Spirit Night Coordinator](/roles/#-spirit-night-coordinator) |
+| [🤝 Sponsorships Coordinator](/roles/#-sponsorships-coordinator) |
 
 ### 🎓 Educational Programs
 
-| Role | Name |
-|-|-|
-| [🍅 Garden Coordinator](/roles/#-garden-coordinator) | Lauren Shaub |
-| [🔔 After School Enrichment Coordinator](/roles/#-after-school-enrichment-coordinator) | ***Position Available*** |
-| [🎨 Reflections Chair](/roles/#-reflections-chair) | ***Position Available*** |
-| [🏃‍♀️ Girls on the Run](/roles/#-girls-on-the-run) | ***Position Available*** |
-| [🧠 Odyssey of the Mind](/roles/#-odyssey-of-the-mind) | ***Position Available*** |
+| Role |
+|-|
+| [🍅 Garden Coordinator](/roles/#-garden-coordinator) |
+| [🔔 After School Enrichment Coordinator](/roles/#-after-school-enrichment-coordinator) |
+| [🎨 Reflections Chair](/roles/#-reflections-chair) |
+| [🏃‍♀️ Girls on the Run](/roles/#-girls-on-the-run) |
+| [🧠 Odyssey of the Mind](/roles/#-odyssey-of-the-mind) |
 
 There are other educational programs available to elementary school students, like [🏃‍♂️ Boys Gotta Run](https://www.boysgottarun.com), and [🔬 Science Olympiad](https://www.soinc.org/), with which Abingdon has little or no participation experience; however, the PTA could support Abingdon's participation provided that we have a motivated volunteer.
 
 ### 🏘️ Community Relations
 
-| Role | Name |
-|-|-|
-| [🧥 Winter Clothing Drive](/roles/#-winter-clothing-drive) | ***Position Available*** |
-| [✏️ School Supplies Drive](/roles/#-school-supplies-drive) | ***Position Available*** |
-| [🥫 Canned Food Drive](/roles/#-canned-food-drive) | ***Position Available*** |
-| [😷 Mask Drive](/roles/#-mask-drive) | ***Position Available*** |
-| [👪 Adopt-a-Family](/roles/#-adopt-a-family) | ***Position Available*** |
-| [🧮 ACTL Representative (Advisory Council on Teaching & Learning)](/roles/#-actl-representative) | Jackie Winkelvoss |
-| [🏫 CCPTA Representative (County Council of PTA's)](/roles/#-ccpta-representative) | PTA President |
-| [🏫 SEPTA Representative (Special Education PTA)](/roles/#-septa-representative) | ***Position Available*** |
-| [⚕️ SHAB Representative (Student Health Advisory Board)](/roles/#-shab-representative) | ***Position Available*** |
+| Role |
+|-|
+| [🧥 Winter Clothing Drive](/roles/#-winter-clothing-drive) |
+| [✏️ School Supplies Drive](/roles/#-school-supplies-drive) |
+| [🥫 Canned Food Drive](/roles/#-canned-food-drive) |
+| [😷 Mask Drive](/roles/#-mask-drive) |
+| [👪 Adopt-a-Family](/roles/#-adopt-a-family) |
+| [🧮 ACTL Representative (Advisory Council on Teaching & Learning)](/roles/#-actl-representative) |
+| [🏫 CCPTA Representative (County Council of PTA's)](/roles/#-ccpta-representative) |
+| [🏫 SEPTA Representative (Special Education PTA)](/roles/#-septa-representative) |
+| [⚕️ SHAB Representative (Student Health Advisory Board)](/roles/#-shab-representative) |
+| [🚌 ACTC Representative (Advisory Committee on Transportation Choices)](/roles/#-actc-representative) |
+| [🏫 FAC Representative (Advisory Council on School Facilities and Capital Programs)](/roles/#-fac-representative) |
+| [🪙 Budget Advisory Council Representative](/roles/#-budget-advisory-council-representative) |
+| [🏫 School Plan Advisory Committee Representative](/roles/#-school-plan-advisory-committee-representative) |
 
 ### 🎉 Events
 
@@ -125,14 +129,14 @@ The Staff Appreciation Committee blesses our wonderful Abingdon staff throughout
 
 ### ❔ Other Roles
 
-| Role | Name |
-|-|-|
-| [📖 Yearbook Coordinator](/roles/#-yearbook-coordinator) | ***Position Available*** |
-| [🍎 Room Buddy Coordinator](/roles/#-room-buddy-coordinator) | ***Position Available*** |
-| [🧸 Lost and Found Coordinator](/roles/#-lost-and-found-coordinator) | ***Position Available*** |
-| [🗽 Diversity Coordinator](/roles/#-diversity-coordinator) | ***Position Available*** |
-| [💳 Bank Statement Reviewer](/roles/#-bank-statement-reviewer) | ***Position Available*** |
-| [🙋 Nominating Committee](/roles/#-nominating-committee) | Named each year |
-| [✅ Audit Committee](/roles/#-audit-committee) | Named each year |
-| [📜 Historian](/roles/#-historian) | Dan Burd |
-| [🐦 Mascot](/roles/#-mascot) | Abingdon Cardinal |
+| Role |
+|-|
+| [📖 Yearbook Coordinator](/roles/#-yearbook-coordinator) |
+| [🍎 Room Buddy Coordinator](/roles/#-room-buddy-coordinator) |
+| [🧸 Lost and Found Coordinator](/roles/#-lost-and-found-coordinator) |
+| [🗽 Diversity Coordinator](/roles/#-diversity-coordinator) |
+| [💳 Bank Statement Reviewer](/roles/#-bank-statement-reviewer) |
+| [🙋 Nominating Committee](/roles/#-nominating-committee) |
+| [✅ Audit Committee](/roles/#-audit-committee) |
+| [📜 Historian](/roles/#-historian) |
+| [🐦 Mascot](/roles/#-mascot) |

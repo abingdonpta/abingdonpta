@@ -28,6 +28,10 @@ If you're interested in volunteering in the garden, please subscribe to our Gard
 ![A dump truck dumping donated woodchips](images/040122_1.jpg)
 ![Company and PTA staff posing behind a pile of donated woodchips](images/040122_2.jpg)
 
+## Winter Wonderland Cleanup
+
+![Children helping clean up the garden at Winter Wonderland](images/1492609237989699590_2.jpg)
+
 ## MLK Day of Service
 
 ![Children and parents digging out a weed from a pile of dirt](images/IMG_1100.jpg)
