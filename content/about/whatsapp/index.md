@@ -26,6 +26,8 @@ Please follow these rules:
 - Do not advertise. However, publicizing not-for-profit community events is permitted.
 {{< /hint >}}
 
+<span class="notranslate">
+
 {{< details "English" >}}
 <br>
 {{< button href="https://chat.whatsapp.com/JHmnCVwB6LC7Fol2uOw0Ew" >}} Tap here to join {{< /button >}} or scan the QR code:
@@ -33,7 +35,7 @@ Please follow these rules:
 <img src="images/whatsappen.svg" height="300" width="300" alt="QR Code to join the English WhatsApp chat">
 
 {{< /details >}}
-{{< details "Español (Spanish)" >}}
+{{< details "Español" >}}
 <br>
 <!--El grupo de WhatsApp en español está dirigido por la Sra. Caty Branco, Asistente de Recursos Bilingües de Abingdon.
 <br><br>-->
@@ -41,24 +43,26 @@ Please follow these rules:
 <br><br>
 <img src="images/whatsappes.svg" height="300" width="300" alt="QR Code to join the Spanish WhatsApp chat">
 {{< /details >}}
-{{< details "العربية (Arabic)" >}}
+{{< details "العربية" >}}
 <br>
 أو امسح رمز الاستجابة السريعة ضوئيًا {{< button href="https://chat.whatsapp.com/EJhTfUXY659H09PTIBTq1H" >}} اضغط هنا للانضمام {{< /button >}}
 
 <br><img src="images/whatsappar.svg" height="300" width="300" alt="QR Code to join the Arabic WhatsApp chat">
 
 {{< /details >}}
-{{< details "አማርኛ (Amharic)" >}}
+{{< details "አማርኛ" >}}
 <br>
 {{< button href="https://chat.whatsapp.com/EEAlIiRL3XAJ3OIYAZdH4o" >}} ለመቀላቀል እዚህ ይንኩ። {{< /button >}} ወይም የQR ኮድን ይቃኙ:
 <br><br>
 <img src="images/whatsappam.svg" height="300" width="300" alt="QR Code to join the Amharic WhatsApp chat">
 
 {{< /details >}}
-{{< details "Монгол (Mongolian)" >}}
+{{< details "Монгол" >}}
 <br>
 {{< button href="https://chat.whatsapp.com/IDjEIiLINfm5R5ViLuAKJW" >}} Энд дарж нэгдээрэй {{< /button >}} эсвэл QR кодыг уншина уу:
 <br><br>
 <img src="images/whatsappmn.svg" height="300" width="300" alt="QR Code to join the Mongolian WhatsApp chat">
 
 {{< /details >}}
+
+</span>
