@@ -1,6 +1,6 @@
 ---
 title: WhatsApp Groups
-description: There are several WhatsApp groups for Abingdon families.
+description: The school and the PTA manage WhatsApp groups for Abingdon's language communities.
 linktitle: WhatsApp
 bookhidden: true
 weight: 65
@@ -9,7 +9,7 @@ weight: 65
 label[for=toc-control], #toc-control { display: none; }
 </style>
 
-There are several WhatsApp groups for Abingdon families.
+The school and the PTA manage WhatsApp groups for Abingdon's language communities.
 
 <!--You may join more than one group, but please communicate only in the group's designated language.
 
@@ -28,14 +28,8 @@ Please follow these rules:
 
 <span class="notranslate">
 
-{{< details "English" >}}
-<br>
-{{< button href="https://chat.whatsapp.com/JHmnCVwB6LC7Fol2uOw0Ew" >}} Tap here to join {{< /button >}} or scan the QR code:
-<br><br>
-<img src="images/whatsappen.svg" height="300" width="300" alt="QR Code to join the English WhatsApp chat">
 
-{{< /details >}}
-{{< details "Español" >}}
+{{< details "Grupo hispanohablante" >}}
 <br>
 <!--El grupo de WhatsApp en español está dirigido por la Sra. Caty Branco, Asistente de Recursos Bilingües de Abingdon.
 <br><br>-->
@@ -43,25 +37,32 @@ Please follow these rules:
 <br><br>
 <img src="images/whatsappes.svg" height="300" width="300" alt="QR Code to join the Spanish WhatsApp chat">
 {{< /details >}}
-{{< details "العربية" >}}
+{{< details "المجموعة العربية" >}}
 <br>
 أو امسح رمز الاستجابة السريعة ضوئيًا {{< button href="https://chat.whatsapp.com/EJhTfUXY659H09PTIBTq1H" >}} اضغط هنا للانضمام {{< /button >}}
 
 <br><img src="images/whatsappar.svg" height="300" width="300" alt="QR Code to join the Arabic WhatsApp chat">
 
 {{< /details >}}
-{{< details "አማርኛ" >}}
+{{< details "አማርኛ ቡድን" >}}
 <br>
 {{< button href="https://chat.whatsapp.com/EEAlIiRL3XAJ3OIYAZdH4o" >}} ለመቀላቀል እዚህ ይንኩ። {{< /button >}} ወይም የQR ኮድን ይቃኙ:
 <br><br>
 <img src="images/whatsappam.svg" height="300" width="300" alt="QR Code to join the Amharic WhatsApp chat">
 
 {{< /details >}}
-{{< details "Монгол" >}}
+{{< details "Монгол групп" >}}
 <br>
 {{< button href="https://chat.whatsapp.com/IDjEIiLINfm5R5ViLuAKJW" >}} Энд дарж нэгдээрэй {{< /button >}} эсвэл QR кодыг уншина уу:
 <br><br>
 <img src="images/whatsappmn.svg" height="300" width="300" alt="QR Code to join the Mongolian WhatsApp chat">
+
+{{< /details >}}
+{{< details "Group for English and other languages" >}}
+<br>
+{{< button href="https://chat.whatsapp.com/JHmnCVwB6LC7Fol2uOw0Ew" >}} Tap here to join {{< /button >}} or scan the QR code:
+<br><br>
+<img src="images/whatsappen.svg" height="300" width="300" alt="QR Code to join the WhatsApp chat for English and other languages">
 
 {{< /details >}}
 
