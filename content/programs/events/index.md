@@ -12,10 +12,10 @@ If you're interested in helping to organize our events, please [fill out our vol
 
 ## Rising Kindergarten Playdates
 
-## Welcome Picnic
+## Back to School Picnic
 
-![Buffet at Welcome Picnic](images/904747149359022082.jpg)
-![Magic show at Welcome Picnic](images/904771466805346307.jpg)
+![Buffet at Back to School Picnic](images/904747149359022082.jpg)
+![Magic show at Back to School Picnic](images/904771466805346307.jpg)
 
 ## Trunk or Treat
 
