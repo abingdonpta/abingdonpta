@@ -3,7 +3,6 @@ title: Rising Kindergarten Playdates
 description: The PTA is hosting playdates for rising kindergarteners this summer.
 slug: rising kindergarten playdates
 date: 2022-06-24
-draft: true
 ---
 
 The PTA is hosting playdates for rising kindergarteners this summer!

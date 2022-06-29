@@ -3,151 +3,169 @@ title: School Supply Lists
 description: View the school supply lists for the 2022-23 school year.
 slug: school supply lists
 date: 2022-05-10
+draft: true
 ---
 
-Here are the school supply lists for the 2022-23 school year.
+Here are the school supply lists for the 2022-23 school year. They are also viewable on [Abingdon's website](https://abingdon.apsva.us/about-us/supply-lists/).
 
-If you'd like an easy way to purchase your school supplies while raising money for the PTA, please view our [Edukit page](https://www.edukitinc.com/supply-lists/1287).
+If you'd like an easy way to purchase your school supplies while raising money for the PTA, please view our [Edukit page](https://www.edukitinc.com/schools/1287/).
 
 ## Pre-Kindergarten
 
-- (1) - Backpack, Blanket & Change of clothes
-- (2) - Scotties® Facial Tissues, 2-ply, 185 ct.
-- (1) - Reynolds Presto® Gallon Zipper Bags, 19 ct.
-- (1) - Reynolds Presto® Sandwich Zipper Bags, 40 ct.
-- (1) - Baby Wipes, Unscented, Alcohol-Free, Soft Pack with Flip Top Closure, 80 ct.
+- A towel or blanket with your child’s name on it to be used for quiet time. Please do not send in large blankets or pillows. Towels and  blankets will be sent home periodically for laundering.
+- A complete change of clothing (shirt, pants, socks, underwear)
+- A large backpack
+- 2 boxes of tissue
+- 1 box gallon size Ziploc bags
+- 1 box sandwich size Ziploc bags
+- 1 box of baby wipes
+- 1 set of earbuds or headphones with microphone (personal use for iPad)
+
+*All other materials will be provided for your child to use at school.*
 
 ## Pre-Kindergarten Special Education
 
-- (1) - Backpack, Blanket & Change of clothes
-- (12) - Elmer's Large Washable Disappearing Purple School Glue Stick, .77 oz.
-- (1) - Elmer's Washable School Glue, 4 oz.
-- (1) - Crayola 8 ct. Large Crayons - Tuck Box
-- (1) - Crayola 24 ct. Crayons - Tuck Box
-- (1) - Pacon® SunWorks® Construction Paper, 9" x 12", 50 ct., 10 Assorted Colors
-- (1) - 2 Pocket Heavy Duty Poly Folder with Brads, Assorted Colors
-- (1) - Lysol® Disinfectant Aerosol Spray 12.5oz, Crisp Linen Scent
-- (1) - Antibacterial Hand Soap with Pump, 7.5 oz.
-- (2) - Scotties® Facial Tissues, 2-ply, 185 ct.
-- (1) - Reynolds Presto® Gallon Zipper Bags, 19 ct.
-- (1) - Reynolds Presto® Sandwich Zipper Bags, 40 ct.
-- (1) - Baby Wipes, Unscented, Alcohol-Free, Soft Pack with Flip Top Closure, 80 ct.
+- A towel or blanket with your child’s name on it to be used for quiet time. Please do not send in large blankets or pillows. Towels and  blankets will be sent home periodically for laundering.
+- A large backpack (to fit a blanket, folder, lunch bag and school papers)
+- 12 large Elmer’s glue sticks
+- 1 bottle of Elmer’s glue
+- 1 box of jumbo/large size crayons (8 pack)
+- 1 box of 24 pack crayons
+- 1 pack (50 sheets) of assorted construction paper
+- 1 plastic folder with prongs
+- 1 can of disinfectant spray
+- 1 bottle of hand soap
+- 2 boxes of tissues
+- 1 box gallon size Ziploc bags
+- 1 box sandwich size Ziploc bags
+- 1 box of baby wipes
+- Two complete changes of season appropriate clothing to store at school such as: a shirt, pants, socks, and underwear
+- Diapers or Pull-Ups (if applicable)
+- 1 set of earbuds or headphones with microphone (personal use for iPad)
 
 ## Kindergarten
 
-- (1) - Backpack
-- (2) - Crayola 24 ct. Crayons - Tuck Box
-- (2) - Scotties® Facial Tissues, 2-ply, 185 ct.
-- (24) - Ticonderoga® My First® #2 Pencil, Primary Size with Eraser, Pre-Sharpened, Yellow, 1 ct.
-- (10) - Elmer's Large Washable All Purpose School Glue Stick, .77 oz.
-- (2) - Bevel Eraser, Pink, Latex-Free
-- (1) - Reynolds Presto® Gallon Zipper Bags, 19 ct. OR Sandwich Zipper Bags, 40 ct.
-- (2) - Boulder Clean® Disinfectant Wipes, Flip Top Soft Pack, 72 ct.
-- (5) - 2 Pocket Heavy Duty Poly Folder with Brads, Assorted Colors
-- (1) - Expo® Low Odor Dry Erase Markers, Chisel Tip, 4 ct., Assorted Colors (Black, Blue, Green, Red) OR Crayola® Markers, Classic, Broad Tip, 8 ct.
-- (1) - Antibacterial Hand Soap with Pump, 7.5 oz.
-- (2) - Hand Sanitizer with Pump, 8 oz.
-- (5) - Highland® Self Stick Notes, 3" x 3", 100 sheets, Assorted Pastel Colors
-- (1) - Wide Ruled Composition Book, 100 ct., Black
-- (1) - Pacon® SunWorks® Construction Paper, 9" x 12", 50 ct., 10 Assorted Colors
-- (1) - Sterilite® Small Pencil Box,Translucent Aqua, 8 3/8" x 5 5/8" x 2 1/8"
+- 3 boxes of Crayola crayons (24 count)
+- 2 boxes of tissues
+- 2 boxes of sharpened #2 large primary Ticonderoga pencils
+- 1 package of large glue sticks
+- 1 package of Pink Pearl erasers
+- 1 box of sandwich size Ziploc bags
+- 2 containers of Clorox disinfectant wipes
+- 5 plastic folders with pockets and prongs (multi colors)
+- 1 bottle of hand soap
+- 2 bottles of hand sanitizer
+- 1 5-pack of Post-it notes
+- 1 black-and-white marble composition notebook
+- 1 package of assorted color construction paper (9 by 12”)
+- 1 backpack to send with your child daily
+- 1 plastic pencil box
+- 1 set of earbuds or headphones with microphone (personal use for iPad)
+- Girls: 1 box of gallon size Ziploc bags
+- Girls: 1 pack of Crayola markers (8 pack)
+- Boys: 1 box of sandwich size zip-lock bags
+- Boys: 1 pack of Expo dry erase markers (4 or 8 pack)
+- Extra Clothes: Please send a change of clothing, including underwear and socks, in a plastic bag labeled with your child’s name for minor  accidents. 
+
+*PLEASE do not label supplies as they will be used by the entire class.*
 
 ## Grade 1
 
-- (1) - Crayola 24 ct. Crayons - Tuck Box
-- (1) - Crayola Multicultural Crayons, 8 ct.
-- (1) - Ticonderoga® #2 Pencils, Pre-Sharpened, 12 ct., Yellow
-- (1) - Avery® Standard Weight Sheet Protectors, Top Loading, 3-Hole, 25 ct.
-- (2) - Scotties® Facial Tissues, 2-ply, 185 ct.
-- (2) - Elmer's Jumbo Washable Disappearing Purple School Glue Stick, 1.4 oz.
-- (1) - Expo® Low Odor Dry Erase Markers, Fine Tip, 4 ct. (Black, Blue, Green, Red)
-- (2) - Wide Ruled Composition Book, 100 ct., Black
-- (1) - 2 Pocket Heavy Duty Poly Folder with Brads, Blue
-- (1) - 2 Pocket Heavy Duty Poly Folder with Brads, Green
-- (3) - Highland® Self Stick Notes, 3" x 3", 100 sheets, Assorted Bright Colors
-- (1) - Boulder Clean® Disinfectant Wipes, Flip Top Soft Pack, 72 ct.
-- (1) - Crayola® Ultra-Clean Washable Color Max Markers, Classic Colors, Broad Tip, 12 ct.
-- (1) - Crayola 12 ct. Colored Pencils, Long
-- (1) - Reynolds Presto® Gallon Zipper Bags, 19 ct. OR Sandwich Zipper Bags, 40 ct.
+- 1 box of **CRAYOLA** crayons (24 count)
+- 1 box of multicultural crayons (8 count)
+- 1 box of #2 **TICONDEROGA** pencils (12 count)
+- 1 box of sheet protectors
+- 2 boxes of tissues
+- 2 large Elmer’s Glue Sticks 1.41 oz.
+- 1 box of **fine tip** EXPO dry erase markers
+- 2 composition (**Black and White style**) journals (not spiral)
+- 1 blue pronged plastic pocket folder
+- 1 green pronged plastic pocket folder
+- 1 package of 3×3 Sticky Notes
+- 1 container of Disinfectant Wipes
+- 1 pencil pouch
+- 1 pair of scissors
+- 1 pack of 12 washable Crayola markers
+- 1 pack of 12 Crayola colored pencils
+- 1 set of earbuds or headphones with microphone (personal use for iPad)
+- Girls: 1 pack of gallon sized Ziploc bags
+- Boys: 1 pack of sandwich sized Ziploc bags
 
 ## Grade 2
 
-- (5) - Post-it® Super Sticky Notes, 3" x 3", 90 sheets, Assorted Bright Colors
-- (3) - Jumbo Washable Glue Stick, 1.27 oz.
-- (1) - Elmer's Washable School Glue, 4 oz.
-- (2) - Bevel Eraser, Pink, Latex-Free
-- (3) - Wide Ruled Composition Book, 100 ct., Black
-- (1) - Wide Ruled Filler Paper, 100 ct., 3-Hole Punched, 8" x 10.5"
-- (2) - Laminated Paper Folder, 3-Hole, Red
-- (2) - Laminated Paper Folder, 3-Hole, Blue
-- (2) - Laminated Paper Folder, 3-Hole, Green
-- (2) - Crayola 24 ct. Crayons - Tuck Box
-- (1) - Kids Scissors, Pointed-Tip, 5", Ages 6+, Assorted Colors
-- (2) - Prang® Colored Pencils, Full Length, Sharpened, 12 ct.
-- (4) - Ticonderoga® #2 Pencils, Pre-Sharpened, 12 ct., Yellow
-- (1) - Scotties® Facial Tissues, 2-ply, 185 ct.
-- (2) - Expo® Low Odor Dry Erase Markers, Chisel Tip, 4 ct., Assorted Colors (Black, Blue, Green, Red)
-- (2) - Expo® Low Odor Dry Erase Markers, Fine Tip, 4 ct. (Black, Blue, Green, Red)
-- (2) - Boulder Clean® Disinfectant Wipes, Flip Top Soft Pack, 72 ct.
-- (1) - Hand Sanitizer with Pump, 8 oz.
-- (1) - Reynolds Presto® Gallon Zipper Bags, 19 ct. OR Sandwich Zipper Bags, 40 ct.
-- (2) - Sharpie® Permanent Marker, Fine Tip, Black
-- (1) - Earbuds
+- 5 Super sticky note pads (3inX3in)
+- 1 set of earbuds or headphones with microphone (personal use for iPad)
+- 2 glue sticks
+- 1 bottle of Elmer’s glue
+- 1 2-pack pink erasers
+- 3 single subject spiral notebooks (blue, green, and red)
+- 2 black and white composition notebooks
+- 5 laminated, sturdy, two pocket folders (red, blue and green)
+- 2 boxes of 24 crayons
+- 1 pair scissors
+- 2 – 12 pack of colored pencils
+- 4 boxes of #2 TICONDEROGA pencils
+- 2 boxes of tissues
+- 2 pack of Expo dry erase markers (assorted colors) – thick tip
+- 2 pack of Expo dry erase markers (assorted colors) – thin tip
+- 2 Containers of Clorox/Lysol disinfectant wipes
+- 1 box of 1-gallon Ziploc bags – last name starts with A-M
+- 1 box of sandwich Ziploc bags – last name starts with N-Z
+- 1 2-pack black Sharpie markers
+- 1 zippered pencil pouch
 
 ## Grade 3
 
-- (5) - Heavy Duty Poly Folder, 3-Hole, Assorted Colors
-- (2) - Wide Ruled Filler Paper, 100 ct., 3-Hole Punched, 8" x 10.5"
-- (2) - Ticonderoga® #2 Pencils, Pre-Sharpened, 12 ct., Yellow
-- (2) - Bevel Eraser, Pink, Latex-Free
-- (1) - Crayola 24 ct. Crayons - Tuck Box
-- (2) - Highland® Self Stick Notes, 3" x 3", 100 sheets, Assorted Pastel Colors
-- (2) - Expo® Low Odor Dry Erase Markers, Fine Tip, 4 ct. (Black, Blue, Green, Red)
-- (1) - 3-Ring Nylon Pencil Pouch w/ Mesh Window, 10" x 7.5", Assorted Colors (Black, Blue, Red, Green)
-- (1) - Kids Scissors, Pointed-Tip, 5", Ages 6+, Assorted Colors
-- (2) - Scotties® Facial Tissues, 2-ply, 185 ct.
-- (1) - Jumbo Washable Glue Stick, 1.27 oz.
-- (1) - Wide Ruled Composition Book, 100 ct., Blue
-- (1) - Wide Ruled Composition Book, 100 ct., Green
-- (1) - Wide Ruled Composition Book, 100 ct., Orange
-- (1) - Wide Ruled Composition Book, 100 ct., Red
-- (1) - Wide Ruled Composition Book, 100 ct., Black
-- (2) - Highlighters, Pocket, 5 Pack (Pink, Green, Orange, 2 Yellow)
-- (1) - Earbuds
+- 3 2-Pocket Heavy Duty Poly Folder (3-hole), Assorted Colors
+- 1 pack of loose-leaf paper, wide-ruled, 100 ct 3-hole punched
+- 1 box of #2 **TICONDEROGA** pencils (12 count)
+- 1 Five Star wide-ruled spiral notebook
+- 1 2-pack pink erasers
+- 1 pack of 24 crayons assorted.
+- 2 packs of Sticky Post it notes (3×3) 100 sheets.
+- 1 dry erase board (personal size)
+- 2 Expo Low Odor Dry Erase Markers, Fine tip 4-pack Assorted colors.
+- 1 3-Ring Nylon Pencil Pouch
+- 1 pair of earbuds (personal use IPAD)
+- 1 pair of scissors
+- 2 boxes of Scotties tissue
+- **1 large (Jumbo)** glue sticks 1.27 oz.
+- $6.00 for recorder (instrument)
+- 1 set of earbuds or headphones with microphone (personal use for iPad)
+- $6.00 for recorder (instrument)
 
 ## Grade 4
 
-- (4) - Heavy Duty Poly Folder, 3-Hole, Assorted Colors
-- (3) - Mead® Wide Ruled Spiral Notebook, 100 ct., 3-Hole Punched, Assorted, 10.5" x 8"
-- (1) - Five Star® College Ruled Notebook, 1-Subject, Poly Cover/Pockets, 100 ct., 3-Hole Punched, Assorted Colors, 11" x 8.5"
-- (2) - Ticonderoga® #2 Pencils, Pre-Sharpened, 12 ct., Yellow
-- (1) - Crayola 24 ct. Crayons - Tuck Box
-- (2) - Highland® Self Stick Notes, 3" x 3", 100 sheets, Assorted Pastel Colors
-- (1) - Pacon® Dry Erase Board, 9" x 12", Double Sided, Plain
-- (2) - Expo® Low Odor Dry Erase Markers, Fine Tip, 4 ct. (Black, Blue, Green, Red)
-- (1) - 3-Ring Nylon Pencil Pouch w/ Mesh Window, 10" x 7.5", Assorted Colors (Black, Blue, Red, Green)
-- (1) - Student Scissors, 6",Assorted Colors
-- (2) - Scotties® Facial Tissues, 2-ply, 185 ct.
-- (5) - Elmer's Small Washable All Purpose School Glue Stick, .21 oz.
-- (2) - Bevel Eraser, Pink, Latex-Free
-- (1) - Backpack
-- (1) - Earbuds
+- 4 Pocket folders 3 holes
+- 3 Wide ruled spiral notebooks 100 count 3-hole punch
+- 1 Mead Five Star Premium Notebooks (1 subject each-college ruled) *important that they are Mead*
+- 2 12 pack Ticonderoga pencils sharpened.
+- 1 pack of crayons
+- 2 Post it notes, 3×3, 100 sheets.
+- 1 Dry erase board
+- 2 packs Expo markers fine tip 4 pack (assorted colors)
+- 3-Ring nylon pencil pouch
+- 1 pair of scissors
+- 2 boxes of tissue
+- 5 small glue sticks
+- 1 pack of 2 pink erasers
+- 1 set of earbuds or headphones with microphone (personal use for iPad)
 
 ## Grade 5
 
-- (5) - Wide Ruled Spiral Notebook, 70 ct., 3-Hole Punched, Assorted Colors, 10.5" x 8"
-- (2) - 2 Pocket Heavy Duty Poly Folder, Assorted Colors
-- (1) - 3-Ring Nylon Pencil Pouch w/ Mesh Window, 10" x 7.5", Assorted Colors (Black, Blue, Red, Green)
-- (1) - Pacon® Dry Erase Board, 9" x 12", Double Sided, Plain
-- (8) - Ticonderoga® #2 Pencils, Pre-Sharpened, 12 ct., Yellow
-- (1) - Prang® Colored Pencils, Full Length, Sharpened, 12 ct.
-- (3) - Post-it® Self Stick Notes, 3" x 3", 100 sheets, Assorted Pastel Colors
-- (2) - Scotties® Facial Tissues, 2-ply, 185 ct.
-- (1) - Student Scissors, 6",Assorted Colors
-- (4) - Elmer's Small Washable All Purpose School Glue Stick, .21 oz.
-- (1) - Maped® Pencil Sharpener, Metal Blade, Double Hole, Canister, Assorted Colors
-- (1) - Reynolds Presto® Gallon Zipper Bags, 19 ct.
-- (1) - Expo® Low Odor Dry Erase Markers, Fine Tip, 4 ct. (Black, Blue, Green, Red)
-- (1) - Tank Highlighters, 3 Pack, Assorted Colors
-- (2) - Boulder Clean® Disinfectant Wipes, Flip Top Soft Pack, 72 ct.
-- (1) - Earbuds
+- 5 single-subject notebooks
+- 2 durable 2 pocket folders
+- 1 pencil holder zippered pouch
+- 1 personal whiteboard 8×10 inches
+- 2 packs 48 count Ticonderoga pencils sharpened
+- 1 12 pack of colored pencils
+- 3 3×3 Post It Sticky note pads
+- 2 boxes of tissues
+- 1 pair of scissors
+- 4 small glue sticks
+- 1 handheld pencil sharpener
+- 1 box of Ziploc baggies-gallon size
+- 1 pack of 4 Expo markers
+- 1 pack of highlighters
+- 2 containers of Clorox Wipes Disinfectant Wipes
+- 1 set of earbuds or headphones with microphone (personal use for iPad)
