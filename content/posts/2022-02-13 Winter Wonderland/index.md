@@ -11,4 +11,4 @@ draft: true
 
 Everyone had tons of fun at Winter Wonderland!
 
-![Cardinal mascot looking into the camera](images/ww.jpg)
+{{< photo src="images/ww.jpg" alt="Cardinal mascot looking into the camera" >}}

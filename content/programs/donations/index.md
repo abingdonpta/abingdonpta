@@ -14,15 +14,15 @@ If you're interested in helping to organize our donation drives, please [fill ou
 
 The PTA organizes canned food drives, particularly during school events. A bin is placed in an accessible location and its contents are donated to the Arlington Food Assistance Center (AFAC).
 
-![249 cans and 65 dry goods in front of Abingdon that were collected by the PTA and donated to AFAC](images/AFAC.jpg)  
+{{< photo src="images/AFAC.jpg" alt="249 cans and 65 dry goods in front of Abingdon that were collected by the PTA and donated to AFAC" >}}  
 During Winter Wonderland 2022, Abingdon collected 249 cans and 65 dry goods for AFAC - a total of 292 lbs of food!
 
 ## Winter Clothing Drive
 
 The PTA supports Abingdon families by collecting winter clothing for children whose families cannot afford them. More information will be available this fall.
 
-![Donated jackets](images/Donation1.jpg)
-![Donated, knitted hats](images/Donation2.jpg)  
+{{< photo src="images/Donation1.jpg" alt="Donated jackets" >}}
+{{< photo src="images/Donation2.jpg" alt="Donated, knitted hats" >}}  
 **Left**: Donated clothing. **Right**: Hats lovingly knitted and donated by a dedicated volunteer.
 
 ## Adopt-a-Family

@@ -38,45 +38,45 @@ Here's what's growing in 2022:
 ### Earth Day Cleanup
 *April 2022*
 
-![Volunteers moving woodchips at the Abingdon Garden](images/040222_1.jpg)
-![Volunteers moving woodchips at the Abingdon Garden](images/040222_2.jpg)
-![Volunteers moving woodchips at the Abingdon Garden](images/040222_3.jpg)
-![Volunteers moving woodchips at the Abingdon Garden](images/040222_4.jpg)
-![Volunteers collecting litter on Abingdon's grounds](images/040222_5.jpg)
-![A volunteer with a big bag of litter collected on Abingdon's grounds](images/040222_6.jpg)
-![The garden looking very tidy after woodchips were placed evenly throughout](images/040222_7.jpg)
+{{< photo src="images/040222_1.jpg" alt="Volunteers moving woodchips at the Abingdon Garden" >}}
+{{< photo src="images/040222_2.jpg" alt="Volunteers moving woodchips at the Abingdon Garden" >}}
+{{< photo src="images/040222_3.jpg" alt="Volunteers moving woodchips at the Abingdon Garden" >}}
+{{< photo src="images/040222_4.jpg" alt="Volunteers moving woodchips at the Abingdon Garden" >}}
+{{< photo src="images/040222_5.jpg" alt="Volunteers collecting litter on Abingdon's grounds" >}}
+{{< photo src="images/040222_6.jpg" alt="A volunteer with a big bag of litter collected on Abingdon's grounds" >}}
+{{< photo src="images/040222_7.jpg" alt="The garden looking very tidy after woodchips were placed evenly throughout" >}}
 
 ### Donation of Woodchips and Stumps
 *April 2022*
 
-![A dump truck dumping donated woodchips](images/040122_1.jpg)
-![Company and PTA staff posing behind a pile of donated woodchips](images/040122_2.jpg)
+{{< photo src="images/040122_1.jpg" alt="A dump truck dumping donated woodchips" >}}
+{{< photo src="images/040122_2.jpg" alt="Company and PTA staff posing behind a pile of donated woodchips" >}}
 
 ### Winter Wonderland Cleanup
 *February 2022*
 
-![Children helping clean up the garden at Winter Wonderland](images/1492609237989699590_2.jpg)
-![Children helping clean up the garden at Winter Wonderland with the Abingdon Cardinal looking at the camera](images/IMG_2713.jpg)
-![Children helping clean up the garden at Winter Wonderland with the Abingdon Cardinal looking on](images/IMG_2708.jpg)
+{{< photo src="images/1492609237989699590_2.jpg" alt="Children helping clean up the garden at Winter Wonderland" >}}
+{{< photo src="images/IMG_2713.jpg" alt="Children helping clean up the garden at Winter Wonderland with the Abingdon Cardinal looking at the camera" >}}
+{{< photo src="images/IMG_2708.jpg" alt="Children helping clean up the garden at Winter Wonderland with the Abingdon Cardinal looking on" >}}
 
 ### MLK Day of Service
 *January 2022*
 
-![Children and parents digging out a weed from a pile of dirt](images/IMG_1100.jpg)
-![Abingdon staff and a student posting with a bag containing yard waste taken from the Abingdon garden](images/IMG_1116.jpg)
+{{< photo src="images/IMG_1100.jpg" alt="Children and parents digging out a weed from a pile of dirt" >}}
+{{< photo src="images/IMG_1116.jpg" alt="Abingdon staff and a student posting with a bag containing yard waste taken from the Abingdon garden" >}}
 
 ### Before Cleanup
 *December 2021*
 
-![The Abingdon Garden looking very untidy after being mostly unmaintained during the pandemic](images/IMG_6887.jpg)
-![The Abingdon Garden looking very untidy after being mostly unmaintained during the pandemic](images/IMG_6899.jpg)
-![The Abingdon Garden looking very untidy after being mostly unmaintained during the pandemic](images/IMG_6894.jpg)
-![The Abingdon Garden looking very untidy after being mostly unmaintained during the pandemic](images/IMG_6898.jpg)
+{{< photo src="images/IMG_6887.jpg" alt="The Abingdon Garden looking very untidy after being mostly unmaintained during the pandemic" >}}
+{{< photo src="images/IMG_6899.jpg" alt="The Abingdon Garden looking very untidy after being mostly unmaintained during the pandemic" >}}
+{{< photo src="images/IMG_6894.jpg" alt="The Abingdon Garden looking very untidy after being mostly unmaintained during the pandemic" >}}
+{{< photo src="images/IMG_6898.jpg" alt="The Abingdon Garden looking very untidy after being mostly unmaintained during the pandemic" >}}
 
 ### Garden Setup
 *May 2018*
 
-![Volunteers placing mulch in the Abingdon Garden beds](images/995305229703925761_1.jpg)
-![Volunteers placing mulch in the Abingdon Garden beds](images/995305229703925761_2.jpg)
-![Volunteers posing on top of a pile of mulch in the Abingdon Garden](images/995305229703925761_3.jpg)
-![Volunteers placing mulch in the Abingdon Garden beds](images/995305229703925761_4.jpg)
+{{< photo src="images/995305229703925761_1.jpg" alt="Volunteers placing mulch in the Abingdon Garden beds" >}}
+{{< photo src="images/995305229703925761_2.jpg" alt="Volunteers placing mulch in the Abingdon Garden beds" >}}
+{{< photo src="images/995305229703925761_3.jpg" alt="Volunteers posing on top of a pile of mulch in the Abingdon Garden" >}}
+{{< photo src="images/995305229703925761_4.jpg" alt="Volunteers placing mulch in the Abingdon Garden beds" >}}

@@ -13,35 +13,35 @@ If you'd like to help organize our staff appreciation activities, please [fill o
 ## Teacher Appreciation
 
 ### Spirit Wear for Teachers
-![Abingdon staff wearing PTA-supplied Spirit Wear](images/IMG_2651.jpg)
+{{< photo src="images/IMG_2651.jpg" alt="Abingdon staff wearing PTA-supplied Spirit Wear" >}}
 
 ### Teacher Appreciation Week
-![Abingdon staff enjoying a PTA-supplied buffet in the teacher's lounge](images/1521507812924440578_1.jpg)
-![Abingdon staff enjoying a PTA-supplied buffet in the teacher's lounge](images/1521507812924440578_2.jpg)
+{{< photo src="images/1521507812924440578_1.jpg" alt="Abingdon staff enjoying a PTA-supplied buffet in the teacher's lounge" >}}
+{{< photo src="images/1521507812924440578_2.jpg" alt="Abingdon staff enjoying a PTA-supplied buffet in the teacher's lounge" >}}
 
 ### Teacher Supply Buffet
 
-![PTA-purchased supplies in the library for teachers to pick up](images/1509672942187257856_1.jpg)
-![PTA-purchased supplies in the library for teachers to pick up](images/1509672942187257856_2.jpg)
+{{< photo src="images/1509672942187257856_1.jpg" alt="PTA-purchased supplies in the library for teachers to pick up" >}}
+{{< photo src="images/1509672942187257856_2.jpg" alt="PTA-purchased supplies in the library for teachers to pick up" >}}
 
 ### Coffee and Snacks for Teachers
 
-![PTA-supplied coffee and snacks for teachers](images/1488984627368898563_1.jpg)
-![PTA-supplied coffee and snacks for teachers](images/1488984627368898563_2.jpg)
-![Abingdon Cardinal posing with the principal. The Cardinal is handing out coffee to teachers.](images/1471917524140929026.jpg)
-![PTA-supplied coffee and snacks for teachers](images/1521557606921351173.jpg)
-![PTA-supplied snacks for teachers](images/1493224641820827651.jpg)
+{{< photo src="images/1488984627368898563_1.jpg" alt="PTA-supplied coffee and snacks for teachers" >}}
+{{< photo src="images/1488984627368898563_2.jpg" alt="PTA-supplied coffee and snacks for teachers" >}}
+{{< photo src="images/1471917524140929026.jpg" alt="Abingdon Cardinal posing with the principal. The Cardinal is handing out coffee to teachers." >}}
+{{< photo src="images/1521557606921351173.jpg" alt="PTA-supplied coffee and snacks for teachers" >}}
+{{< photo src="images/1493224641820827651.jpg" alt="PTA-supplied snacks for teachers" >}}
 
 ## Principal Appreciation
 
-![Abingdon's principals posing with pizza purchased for them by the PTA](images/1482104268190539779_1.jpg)
-![Abingdon's principals posing with pizza purchased for them by the PTA](images/1482104268190539779_2.jpg)
+{{< photo src="images/1482104268190539779_1.jpg" alt="Abingdon's principals posing with pizza purchased for them by the PTA" >}}
+{{< photo src="images/1482104268190539779_2.jpg" alt="Abingdon's principals posing with pizza purchased for them by the PTA" >}}
 
 ## Bus Driver Appreciation
 
-![Abingdon Cardinal standing in front of school buses with posters showing appreciation for the bus drivers](images/IMG_3278.jpg)
-![Abingdon Cardinal standing in front of school buses with posters showing appreciation for the bus drivers](images/IMG_3288.jpg)
+{{< photo src="images/IMG_3278.jpg" alt="Abingdon Cardinal standing in front of school buses with posters showing appreciation for the bus drivers" >}}
+{{< photo src="images/IMG_3288.jpg" alt="Abingdon Cardinal standing in front of school buses with posters showing appreciation for the bus drivers" >}}
 
 ## Crossing Guard Appreciation
 
-![Abingdon Cardinal standing with Abingdon's crossing guard with a poster thanking her for keeping children safe](images/Crossing.jpg)
+{{< photo src="images/Crossing.jpg" alt="Abingdon Cardinal standing with Abingdon's crossing guard with a poster thanking her for keeping children safe" >}}

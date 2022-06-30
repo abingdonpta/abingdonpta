@@ -11,6 +11,6 @@ Simply click below and follow the instructions to order the supply kits. The kit
 
 Order by June 30 for the best prices! Extended ordering is available July 1 – August 1 for an additional fee and will be delivered to Abingdon before school begins.
 
-Questions? Contact Samantha Levine-Finley, slevinefinley@gmail.com
+Questions? Contact Samantha Levine-Finley, slevinefinley@gmail.com.
 
 {{< button href="https://www.edukitinc.com/schools/1287/" >}}Click Here to Order Your Edukit for 2022-2023{{< /button >}}
