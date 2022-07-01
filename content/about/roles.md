@@ -334,7 +334,7 @@ The School Health Advisory Board (SHAB) assists with the development of health p
 
 ### 🚌 ACTC Representative
 
-Advisory Committee on Transportation Choices was created as a joint advisory body of the Arlington County Board and the Arlington School Board for the purpose of advising the Joint Committee on Transportation Choices, which will develop and implement programs that further transportation choices for Arlington Public Schools students, families, and staff. The mission of the Advisory Committee on Transportation Choices is to advise the Joint Committee on Transportation Choices on strategies and plans of action that will develop and promote those transportation choices. Read more about ACTC [on their website](https://www.apsva.us/transportation-services/advisory-committee-transportation-choices-actc/).
+The Advisory Committee on Transportation Choices was created as a joint advisory body of the Arlington County Board and the Arlington School Board for the purpose of advising the Joint Committee on Transportation Choices, which will develop and implement programs that further transportation choices for Arlington Public Schools students, families, and staff. The mission of the Advisory Committee on Transportation Choices is to advise the Joint Committee on Transportation Choices on strategies and plans of action that will develop and promote those transportation choices. Read more about ACTC [on their website](https://www.apsva.us/transportation-services/advisory-committee-transportation-choices-actc/).
 
 ### 🏫 FAC Representative
 
@@ -350,7 +350,7 @@ Read more about FAC [on their website](https://www.apsva.us/design-and-construct
 
 ### 🪙 Budget Advisory Council Representative
 
-Budget Advisory Council provides advice and insight to the School Board to help maintain fiscal integrity, public confidence, and wise stewardship of taxpayer resources by:
+The Budget Advisory Council provides advice and insight to the School Board to help maintain fiscal integrity, public confidence, and wise stewardship of taxpayer resources by:
 1. Making recommendations on policies and practices related to the presentation and preparation of the operating budget and the financial management of the school system;
 2. Making recommendations to the School Board on budget priorities before the Board gives its annual budget direction to the Superintendent and at other times as appropriate;
 3. Advising on the degree to which the Superintendent’s Proposed Budget supports best fiscal practices and the School Board’s priorities;
@@ -421,9 +421,9 @@ Volunteers are needed to take pictures at school events for the Abingdon and PTA
 
 ### 📖 Yearbook Coordinator
 
-The PTA works with school officials to produce and distribute the Abingdon Yearbook each year.
+The PTA works with school officials to produce and distribute the Abingdon Yearbook each year. School staff assemble and format the yearbook content.
 
-The Yearbook Coordinator is in charge of creating the yearbook order form, tracking orders received, and formatting the LoveLines submitted by parents for publication in the yearbook. They are also expected to help with yearbook distribution once they are received.
+The Yearbook Coordinator is in charge of ordering the yearbooks from the publisher, and selling them at the end of the school year.
 
 - **Location**: Home
 - **Time of day**: Any
@@ -450,6 +450,8 @@ A Lost and Found Coordinator hangs up jackets (which are the most frequently los
 - **Months**: Year-round
 
 ### 🗽 Diversity Coordinator
+
+Description coming soon.
 
 ### 💳 Bank Statement Reviewer
 

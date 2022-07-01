@@ -32,13 +32,13 @@ Arlington, VA 22206
 Spirit Wear will be available when the PTA places an order. A portion of the proceeds go to the PTA.
 <!--
 {{< button href="https://abingdonpta.memberhub.com/store" >}}Click Here to Order Spirit Wear{{< /button >}}
--->
+
 ## AmazonSmile
 
 Abingdon PTA participates in AmazonSmile. When you choose Abingdon PTA as your designated charity, Amazon donates 0.5% of your purchases to us.
 
 {{< button href="https://smile.amazon.com/ch/52-1289072" >}}Click Here to Choose Abingdon PTA as Your AmazonSmile Charity{{< /button >}}
-
+-->
 ## Harris Teeter Rebates
 
 Abingdon PTA participates in Harris Teeter's Together in Education (TIE) Program, which provides the PTA a portion of money spent at their stores by customers who sign up for the program.

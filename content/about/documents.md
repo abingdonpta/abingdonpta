@@ -8,25 +8,14 @@ weight: 80
 
 Agendas are available here before each meeting, and meeting minutes are available soon after each meeting. Additionally, any presentation that is made during the meeting will be posted here.
 
-### General Membership Meetings
-
-| Meeting Date | Agenda | Minutes | Video | Presentation |
-| ------------ | ------ | ------- | ----- | ------------ |
-| 2022-04-19   | | [Minutes](/minutes/2022-04-19/) | | |
-| 2022-03-08   | | [Minutes](/minutes/2022-03-08/) | | |
-| 2022-02-08   | [Agenda](/agendas/2022-02-08.pdf) | [Minutes](/minutes/2022-02-08.pdf) | | |
+| Meeting Date | Agenda | Minutes | Presentation |
+| ------------ | ------ | ------- | ------------ |
+| 2022-04-19   | | [Minutes](/minutes/2022-04-19/) | |
+| 2022-03-08   | | [Minutes](/minutes/2022-03-08/) | |
+| 2022-02-08   | [Agenda](/agendas/2022-02-08.pdf) | [Minutes](/minutes/2022-02-08.pdf) | |
 | 2021-11-09   | | | | |
-| 2021-10-12   | | [Minutes](/minutes/2021-10-12.pdf) | | [Presentation](/presentations/2021-10-12.pdf) |
-| 2021-09-21   | | | | |
-
-### Executive Board Meetings
-
-| Meeting Date | Agenda | Minutes |
-| ------------ | ------ | ------- |
-| 2022-04-03 | | [Minutes](/minutes/2022-04-03/) |
-| 2022-02-15 | | [Minutes](/minutes/2022-02-15.pdf) |
-| 2022-01-31 | | [Minutes](/minutes/2022-01-31.pdf) |
-| 2022-01-18 | | |
+| 2021-10-12   | | [Minutes](/minutes/2021-10-12.pdf) | [Presentation](/presentations/2021-10-12.pdf) |
+| 2021-09-21   | | | |
 
 ---
 
@@ -34,7 +23,7 @@ Agendas are available here before each meeting, and meeting minutes are availabl
 
 ### Bylaws
 
-The Abingdon PTA is required to adhere to the [Virginia PTA uniform bylaws](https://www.vapta.org/pta-basics/bylaws-home/local-unit-bylaws). A local copy is maintained below. 
+The Abingdon PTA is required to adhere to the [Virginia PTA uniform bylaws](https://www.vapta.org/27-committees/bylaws). A local copy is maintained below. 
 
 {{< button relref="bylaws" >}}Click Here to View the Bylaws for 2021-2022{{< /button >}}
 
@@ -75,7 +64,7 @@ The Treasurer must prepare an annual financial report at the close of the fiscal
 
 ### Audits
 
-The PTA is required to conduct an audit of its finances every fiscal year. In the spring, the general membership either approves an audit committee or hires an auditor to conduct an audit. The audit then must be approved by the general membership in the beginning of the next school year, and is then submitted to the Virginia PTA.
+The PTA is required to conduct an audit of its finances every fiscal year. (This is also known as a financial review.) In the spring, the general membership approves an audit committee to conduct an audit. The audit is submitted to the Virginia PTA and also must be approved by the general membership in the beginning of the next school year.
 
 | Audits |
 |-|
