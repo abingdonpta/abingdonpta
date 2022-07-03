@@ -1,5 +1,5 @@
 ---
-title: Virginia PTA Local Unit Uniform Bylaws - Revised July 2021
+title: Virginia PTA Local Unit Uniform Bylaws - Adopted May 21, 2022
 description: Bylaws for the Abingdon PTA
 ---
 
@@ -9,23 +9,23 @@ description: Bylaws for the Abingdon PTA
 
 ## PTA Mission
 
-To make every child’s potential a reality by engaging and empowering families and communities to advocate for all children.
+To make every child's potential a reality by engaging and empowering families and communities to advocate for all children.
 
 ## PTA Values
 
 **Collaboration:** We will work in partnership with a wide array of individuals and organizations to broaden and enhance our ability to serve and advocate for all children and families.
 
-**Commitment:** We are dedicated to children’s educational success, health, and well-being through strong family and community engagement, while remaining accountable to the principles upon which our association was founded.
+**Commitment:** We are dedicated to children's educational success, health, and well-being through strong family and community engagement, while remaining accountable to the principles upon which our association was founded.
 
 **Diversity:** We acknowledge the potential of everyone without regard, including but not limited to: age, culture, economic status, educational background, ethnicity, gender, geographic location, legal status, marital status, mental ability, national origin, organizational position, parental status, physical ability, political philosophy, race, religion, sexual orientation, and work experience.
 
-**Respect:** We value the individual contributions of members, employees, volunteers, and partners as we work collaboratively to achieve our association’s goals.
+**Respect:** We value the individual contributions of members, employees, volunteers, and partners as we work collaboratively to achieve our association's goals.
 
-**Accountability:** All members, employees, volunteers, and partners have a shared responsibility to align their efforts toward the achievement of our association’s strategic initiatives.
+**Accountability:** All members, employees, volunteers, and partners have a shared responsibility to align their efforts toward the achievement of our association's strategic initiatives.
 
 ## Article 1: Purpose
 
-**Section 1. Objectives.** The purposes of this local PTA in common with those of Virginia PTA and National PTA corporation, will hereafter pursue are:
+**Section 1. Objectives.** The purposes this local parent teacher association of the Virginia PTA ("PTA") (or parent teacher student association of the Virginia PTA ("PTSA"), as applicable, in common with those of VIRGINIA CONGRESS OF PARENTS AND TEACHERS, a Virginia nonstock corporation ("Virginia PTA"), and the National Congress of Parents and Teachers, a District of Columbia nonprofit corporation ("National PTA"), will hereafter pursue are:
 
 1. To promote the welfare of children and youth in home, school, places of worship, and throughout the community.
 1. To raise the standards of home life.
@@ -34,79 +34,78 @@ To make every child’s potential a reality by engaging and empowering families 
 1. To engage the public in united efforts to secure the physical, mental, emotional, spiritual, and social well-being of all children and youth, and
 1. To advocate for fiscal responsibility regarding public tax dollars in public education funding.
 
-**Section 2. Awareness.** The purposes of the PTA are promoted through advocacy and education in collaboration with parents, families, teachers, educators, students, and the public; developed through conferences, committees, projects, and programs; and governed and qualified by the basic principles set forth in Article 3.
+**Section 2. Awareness.** The purposes of this local PTA/PTSA are promoted through advocacy and education in collaboration with parents, families, teachers, educators, students, and the public; developed through conferences, committees, projects, and programs; and governed and qualified by the basic principles set forth in Article 2.
 
-**Section 3. Federal Status.** The association is organized exclusively for the charitable, scientific, literary or educational purposes within the meaning of Section 501(c)(3) of the Internal Revenue Code or corresponding section of any future federal tax code (hereinafter referred to as “Internal Revenue Code”).
+**Section 3. Federal Status.** This association is organized and shall operate exclusively for charitable, scientific, literary and educational purposes within the meaning of Section 501(c)(3) of the Internal Revenue Code or corresponding section of any future federal tax code (hereinafter referred to as "Internal Revenue Code") of the Virginia PTA. It is intended that this association will qualify and shall operate at all times as an organization exempt from federal income tax under Section 501(c)(3) of the Internal Revenue Code, and that it will qualify and shall operate at all times as an organization to which deductible charitable contributions may be made pursuant to Sections 170(c)(2), 2106, 2055, or 2522 of the Internal Revenue Code. No dividends shall be paid, no distributions shall be made, and no part of the net earnings of this association shall inure to the benefit of any member, incorporator, organizer, trustee, director, or officer of the association or any private individual within the meaning of Section 501(c)(3) of the Internal Revenue Code, except that reasonable compensation may be paid for services rendered to or for the association in furtherance of one or more of the association's purposes. No member, incorporator, trustee, organizer, director, officer, or private individual shall be entitled to share in the distribution of any association assets upon its dissolution. Notwithstanding any other provisions of these bylaws, the association shall not carry on any other activities not permitted to be carried on by a corporation that (a) is exempt from federal income tax under Section 501(c)(3) of the Internal Revenue Code or (b) receives contributions that are deductible under Sections 170(c)(2), 2106, 2055, or 2522 of the Internal Revenue Code.
 
 ## Article 2: Principles
 
-The following are basic principles of this local PTA in common with those of Virginia PTA and National PTA:
+The following are basic principles of this local PTA/PTSA in common with those of Virginia PTA and National PTA:
 
 1. The association shall be noncommercial, nonsectarian, and nonpartisan.
-1. The association shall work to engage and empower children, families, and educators within schools and communities to provide quality education for all children and youth and shall seek to participate in the decision-making process by influencing school policy and advocating for children’s issues, recognizing that the legal responsibility to make decisions has been delegated by the people to boards of education, state education authorities, and local education authorities.
+1. The association shall work to engage and empower children, families, and educators within schools and communities to provide quality education for all children and youth and shall seek to participate in the decision-making process by influencing school policy and advocating for children's issues, recognizing that the legal responsibility to make decisions has been delegated by the people to boards of education, state education authorities, and local education authorities.
 1. The association shall work to promote the health and welfare of children and youth, and shall seek to promote collaboration among families, schools, and the community at large.
-1. Commitment to inclusiveness and equity, knowledge of PTA, and professional expertise shall be guiding principles for service in Virginia PTA
+1. Commitment to inclusiveness and equity, knowledge of the Virginia PTA, and professional expertise shall be guiding principles for service in Virginia PTA.
 
 ## Article 3: Relationship with National PTA, Virginia PTA and Constituent Associations
 
-**Section 1.** The articles of organization of a constituent association include (a) the bylaws of such association and (b) the certificate of incorporation or articles of incorporation of such association (in cases which the association is a corporation) or the articles of organization by whatever name (in cases in which the association exists as an unincorporated association).
+**Section 1.** The governing documents of a constituent association include (a) the bylaws of such association and (b) the certificate of incorporation and articles of incorporation of such association (in cases which the association is a corporation) or the articles of organization by whatever name (in cases in which the association exists as an unincorporated association).
 
-**Section 2.** Local PTA/PTSAs shall be organized and chartered under the authority of Virginia PTA in the area in which the Local PTA/PTSAs functions, in conformity with such rules and regulations, not in conflict with the bylaws of Virginia PTA or National PTA.
+**Section 2.** Local PTA/PTSAs shall be organized and chartered under the authority of Virginia PTA in the area in which the local PTA/PTSA functions in conformity with such rules and regulations as provided by the Virginia PTA, not in conflict with the bylaws of Virginia PTA or National PTA.
 
-**Section 3.** Virginia PTA shall issue to each local PTA/PTSA in its area a charter evidencing the due association and good standing of this local PTA/PTSA. A local PTA/PTSA in good standing shall:
+**Section 3.** Virginia PTA shall issue to each local PTA/PTSA in its area a charter evidencing the due association and good standing of the local PTA/PTSA. A local PTA/PTSA in good standing shall:
 
-1. Adhere to the purposes and basic policies of the PTA.
+1. Adhere to purposes and basic policies of the Virginia PTA and National PTA.
 1. Have a minimum of three (3) elected officers, to include one (1) president, a secretary, and one (1) treasurer.
-1. Submit local PTA/PTSA Organizational Structure Form to the Virginia PTA state office annually. Review the Standards of Affiliation (SOA) form for annual compliance.
-1. Submit local unit officers contact information form and verification of local unit's employer identification number (EIN) to the Virginia PTA state office immediately upon election of officers annually.
-1. Submit a copy of the fiscal year-end financial review report to the Virginia PTA state office within fifteen (15) days following the adoption of the report by the general membership.
-1. Submit a copy of the filed 990N, 990EZ or, 990 form to the Virginia PTA state office within fifteen (15) days of filing.
-1. Submit proof of insurance to the office.
-1. Remit the Virginia PTA and the National PTA portion of dues to Virginia PTA by dates designated in these bylaws.
-1. Provide information for members who have joined the association during the reporting period as prescribed by the Virginia PTA.
-1. Meet other criteria as may be prescribed by Virginia PTA.
+1. Submit a local unit officers' contact information form and verification of local unit's employer identification number (EIN) to the Virginia PTA state office, as prescribed by the Virginia PTA, by June 15 annually.
+1. Maintain on-file with the Virginia PTA records adapting local unit bylaws to the needs of the local unit, as prescribed by the Virginia PTA.
+1. Submit a copy of the fiscal year-end financial review, and any interim financial reviews prepared since the previous year-end financial review, to the Virginia PTA, as prescribed by the Virginia PTA, by August 1 annually. Such financial reviews need not be adopted by the general membership at the time they are submitted to the Virginia PTA state office. They shall be submitted for adoption at the next general membership meeting, however, and the Virginia PTA state office shall be notified promptly if the general membership fails to adopt any such financial review.
+1. Submit a copy of the filed Form 990N, 990EZ, or 990 to the Virginia PTA, as prescribed by the Virginia PTA, by August 1 annually.
+1. Submit proof of insurance to the Virginia PTA, as prescribed by the Virginia PTA, by June 15 annually.  
+*Proviso: For 2022, the deadline for submitting proof of insurance to the Virginia PTA is October 1, 2022.*
+1. Remit the Virginia PTA and National PTA portion of the dues to the Virginia PTA by the dates designated in these bylaws.
+1. Provide membership list with contact information, in accordance with the requirements under Chapter 10, Article 15, **Section 13.**1-932(C) of the Virginia Nonstock Corporation Act (1950), as amended ("Act"), for those who have joined the association during the reporting period as prescribed by the Virginia PTA.
+1. Meet other criteria as shall be prescribed by the Virginia PTA.
 
-**Section 4.** The adoption of an amendment to any provision of the bylaws of National PTA shall serve automatically and without the requirement of further action by the local PTA/PTSA to amend correspondingly the bylaws of the local PTA/PTSA.
+**Section 4.** The adoption of an amendment to any provision of the bylaws of National PTA or Virginia PTA shall serve automatically and without the requirement of further action by the local PTA/PTSA to amend correspondingly the bylaws of the local PTA/PTSA.
 
 **Section 5.** Each officer or board member of a local PTA/PTSA shall be a member of such local PTA/PTSA.
 
-**Section 6.** Only members of a local PTA/PTSA who have paid dues for the current membership year may participate in the business of this association.
+**Section 6.** Only members in good standing of a local PTA/PTSA who have paid dues for the current membership year may participate in the business of this association.
 
 **Section 7.** Each local PTA/PTSA shall keep such permanent books of account and records as shall be sufficient to establish the items of gross income, receipts, and disbursements of the local unit including, specifically, the number of its members, the dues collected from its members, and the amounts of dues remitted to Virginia PTA and council (if member of a council). Such books of account and records shall at all reasonable times be open to inspection by an authorized representative of Virginia PTA or, where directed by the committee on state and local relations. Such authorized representative shall have full access in cases where account information and records are required from banks.
 
-**Section 8.** There will be no proxy voting by local PTA/PTSA, nor any constituent association of National PTA.
+**Section 8.** There will be no proxy voting by the local PTA/PTSA, nor any constituent association of National PTA. Voting by proxy is prohibited.
 
 **Section 9.** The members of the nominating committee for officers of a local PTA/PTSA shall be elected by the general membership.
 
-**Section 10.** A local PTA/PTSA member shall not serve as a voting member of a constituent association's board at the local, council, district, state, or national level while serving as a paid employee of, or under contract to, that constituent association.
+**Section 10.** A local PTA/PTSA member shall not serve as a voting member of a National PTA constituent association's board at the local, council, state, or national level while serving as a paid employee of, or under contract to, that constituent association.
 
-**Section 11.** A local PTA/PTSA may address legislative items or issues if the position on the legislative item or issue does not conflict with that of the Virginia PTA Legislation Program. The local unit's name must be used and not that of Virginia PTA.
+**Section 11.** A local PTA/PTSA may address legislative items or issues if the position on the legislative item or issue does not conflict with that of the Virginia PTA Legislative Program and such legislative advocacy does not conflict with or jeopardize the local PTA/PTSA's or Virginia PTA's tax exemption pursuant to Section 501(c)(3) of the Internal Revenue Code. The local unit's name must be used and not that of Virginia PTA.
 
 **Section 12.** The fiscal year of this local PTA/PTSA shall begin on July 1 and end on June 30.
 
-**Section 13.** The charter of a local PTA/PTSA shall be subject to withdrawal and the status of such association as a PTA/PTSA unit shall be subject to termination, in the manner and under the circumstances provided in the bylaws of Virginia PTA.
+**Section 13.** The charter of a local PTA/PTSA shall be subject to withdrawal and the status of such association as a Virginia PTA unit shall be subject to termination, in the manner and under the circumstances provided in the bylaws of Virginia PTA.
 
 **Section 14.** Each local PTA/PTSA is obligated upon withdrawal of its charter by Virginia PTA to:
 
-1. Yield and surrender all of its books and records and all of its assets and property to Virginia PTA or to such agency as may be designated by Virginia PTA or to another local PTA/PTSA organized under the authority of Virginia PTA.
-1. Cease and desist from the further use of any name that implies or connotes association with Virginia PTA, National PTA or status as a constituent association of National PTA.
+1. Yield up and surrender all of its books and records and all of its assets and property to Virginia PTA or to such agency as may be designated by Virginia PTA or to another local PTA/PTSA organized under the authority of Virginia PTA.
+1. Cease and desist from the further use of any name that implies or connotes association with Virginia PTA, National PTA or status as a constituent association of the Virginia PTA or the National PTA.
 1. Carry out promptly, under the supervision and direction of Virginia PTA, all proceedings necessary for the purpose of dissolving such local PTA/PTSA.
 
 **Section 15.** Any dissolution of a local PTA/PTSA and termination of its affairs shall take place in the following manner:
 
-1. The executive board shall adopt a written resolution recommending that the local PTA/PTSA be dissolved and directing that the question of such dissolution be submitted to a vote at a special meeting of the general membership having voting rights at the time of the meeting.
-
-    1. Only those funds approved by the general membership in the current budget year may be spent.
-    1. Written notice of the adoption of such resolution accompanied by a copy of the notice of the special meeting for the members shall be given to the president of Virginia PTA at least thirty (30) days before the date fixed for such special meeting of the members.
-    1. A complete membership list including contact information shall be provided to the Virginia PTA state office at least thirty (30) days before the date fixed for such special meeting of the members.
-
-1. Written notice stating the purpose of such meeting to consider dissolving the local PTA/PTSA shall be given to each member at least thirty (30) days prior to the date of such meeting. Such meeting shall be held only during the academic school year.
-1. A dissolution quorum must be met for the general membership of the local PTA/PTSA to consider the resolution to dissolve. The dissolution quorum includes the required quorum for general membership meetings per local PTA/PTSA bylaws plus a majority of the executive board members.
-1. Prior to the vote on dissolution, the president of Virginia PTA, or his/her designated representative, shall be permitted to attend the meeting and shall be allowed to speak for a minimum of sixty (60) minutes followed by a maximum of sixty (60) minutes question and answer session.
+1. The local PTA/PTSA's executive board (and the local PTA/PTSA's board of directors if such local PTA/PTSA is a Virginia nonstock corporation) shall adopt a written resolution recommending that the local PTA/PTSA be dissolved and directing that the question of such dissolution be submitted to a vote at a special in-person meeting, at which ballots on the question of dissolution will be collected, of the local PTA/PTSA's general membership having voting rights at the time of the meeting.
+    1. Only those funds approved by the local PTA/PTSA's general membership in the current budget year may be spent.
+    1. Written notice of the adoption of such resolution accompanied by a copy of the notice of the special meeting for the members of the local PTA/PTSA shall be given to the president of the Virginia PTA at least thirty (30) days before the date fixed for such special meeting of the members of the local PTA/PTSA.
+    1. The local PTA/PTSA shall provide a complete membership list including contact information to the Virginia PTA state office at least thirty (30) days before the date fixed for such special meeting of the members of the local PTA/PTSA.
+1. Written notice stating the purpose of such meeting to consider dissolving the local PTA/PTSA shall be given to each member of the local PTA/PTSA at least thirty (30) days prior to the date of such meeting. Such meeting shall be held only during the academic school year.
+1. A dissolution quorum must be met for the general membership of the local PTA/PTSA to consider the resolution to dissolve. The dissolution quorum includes the required quorum for general membership meetings per local unit bylaws plus a majority of the executive board members. Unless a greater vote is required by the Act (if the local PTA/PTSA is a Virginia nonstock corporation), the affirmative vote by at least two-thirds (2/3s) of those with voting rights at a meeting with a dissolution quorum present shall be required to approve the dissolution.
+1. Prior to the vote on dissolution, the president of the Virginia PTA, or their designated representative, shall be permitted to attend the meeting, either in-person or, at the option of the president or representative, remotely in a manner that allows the president or representative to see and hear the meeting attendees and that allows the meeting attendees to see and hear the president or representative, and shall be allowed to speak for a minimum of sixty (60) minutes followed by a maximum of sixty (60) minute question and answer session.
 1. Voting shall be by ballot.
-1. Only those persons who are members of the local PTA/PTSA on the date of adoption of the resolution and who continue to be members on the date of the special meeting shall be entitled to vote on dissolution.
-1. Upon the dissolution of this local PTA/PTSA, after paying or adequately providing for the debts and obligations of the association, the association’s financial holdings, property, all records and all remaining assets shall be distributed to Virginia PTA held in escrow and if not claimed by the resolved unit within two years it remains with the Virginia PTA in order to further the mission and purpose of the Virginia PTA.
-1. Upon adoption to dissolve, the local PTA/PTSA's charter will be withdrawn by Virginia PTA in accordance with state bylaws.
+1. Only those persons who are members of the local PTA/PTSA in good standing on the date of adoption of the resolution and who continue to be members in good standing on the date of the special meeting shall be entitled to vote on dissolution.
+1. Upon the dissolution of the local PTA/PTSA, after paying or adequately providing for the debts and obligations of the local PTA/PTSA, the local PTA/PTSA's financial holdings, property, all records and all remaining assets shall be distributed to the Virginia PTA to be held in escrow and, if not claimed by the resolved unit within two (2) years, shall remain with the Virginia PTA in order to further the mission and purpose of the Virginia PTA.
+1. Upon adoption to dissolve, the unit's charter will be withdrawn by the Virginia PTA in accordance with the Virginia PTA's bylaws, unless such charter was previously withdrawn by the Virginia PTA.
 
 ## Article 4: Membership and Dues
 
@@ -118,60 +117,62 @@ The following are basic principles of this local PTA in common with those of Vir
 
 **Section 4.** PTSAs with students in secondary schools, as defined by their local school division, shall offer membership to students.
 
-**Section 5.** A person may hold membership in one or more local PTA/PTSAs upon payment of all-inclusive dues as required in each local PTA/PTSAs’ bylaws.
+**Section 5.** A person may hold membership in one or more local PTA/PTSAs upon payment of all-inclusive dues as required in each local PTA/PTSAs' bylaws.
 
 **Section 6.** Only members of this local PTA/PTSA shall be eligible to vote in the business of this local PTA/PTSA or to serve in any of its elected or appointed positions.
 
 **Section 7.** Each member of this local PTA/PTSA shall pay annual dues as may be determined by this association. The amount of such dues shall include the portion payable to Virginia PTA (the "state portion") and the portion payable to National PTA (the "national portion").
 
-**Section 8.** Each member of a local PTA/PTSA shall pay annual dues to the association as approved by two-thirds (2/3) vote of members present and voting after having been given at least thirty (30) days’ notice. The amount of such annual dues shall include the portions payable to the local unit, Virginia PTA and National PTA.
+**Section 8.** Each member of a local PTA/PTSA shall pay annual dues to the association as approved by a two-thirds (2/3s) vote of members present and voting after having been given at least thirty (30) days written notice. The amount of such annual dues shall include the portions payable to the local PTA/PTSA, council (if the local unit a member of a council), Virginia PTA, and National PTA. Each local PTA/PTSA shall remit a portion of such dues to Virginia PTA and its council (if the local unit a member of a council) by the dates designated in these bylaws.
 
-**Section 9.** The amount of the Virginia PTA state portion of each member’s dues shall be determined by the Virginia PTA. The Virginia PTA portion of each member’s dues shall be one dollar and fifty cents ($1.50) per annum. The National PTA portion of each member’s dues shall be two dollars and twenty-five cents ($2.25) per annum.
+**Section 9.** The amount of the Virginia PTA state portion of each member's dues shall be determined by the Virginia PTA. The Virginia PTA portion of each member's dues shall be one dollar and fifty cents ($1.50) per annum. The National PTA portion of each member's dues shall be two dollars and twenty-five cents ($2.25) per annum.
 
-**Section 10.** Virginia PTA and National PTA portions of the dues paid by each member of this local PTA/PTSA shall be set aside by this local PTA/PTSA and remitted to Virginia PTA through such channels and at such times as Virginia PTA bylaws may provide. Each state PTA shall pay to National PTA the amount of the national portion of dues paid by all members of local PTAs in its area.
+**Section 10.** Virginia PTA and National PTA portions of the dues paid by each member of this local PTA/PTSA shall be set aside by this local PTA/PTSA and remitted to Virginia PTA through such channels and at such times as Virginia PTA bylaws may provide. Each state PTA shall pay to National PTA the amount of the national portion of dues paid by all members of local PTA/PTSAs in its area.
 
-**Section 11.** The membership term is July1 through June 30. Membership expires on October 30, allowing a grace period (from July 1 to October 30) for our members to renew their membership. During the grace period, members are entitled to their full membership rights, including approval of the PTA budget and program at the summer or fall association meetings.
+**Section 11.** The membership term is July 1 through June 30. Membership expires on September 30, allowing a grace period (from July 1 to September 30) for our members to renew their membership. During the grace period, members are entitled to their full membership rights, including approval of the local unit budget and program at the summer or fall association meetings.
 
 **Section 12.** Payment of Virginia PTA and National PTA dues:
-1. The Virginia PTA and National PTA portions of the dues paid by each member of a local PTA/PTSA shall be the property of Virginia PTA and National PTA, respectively, and shall not be included in the local PTA/PTSA's budget.
-1. Membership dues shall be remitted to Virginia PTA at the Virginia PTA state office before November 1. Additional membership dues received after November 1 shall be remitted to Virginia PTA at the Virginia PTA state office before December 1. Membership dues received after December 1 shall be remitted to Virginia PTA at the Virginia PTA state office before March 1. Membership dues received after March 1 shall be remitted to Virginia PTA at the Virginia PTA state office before June 30.
+
+1. The Virginia PTA, National PTA, and council portions of the dues paid by each member of a local PTA/PTSA shall be the property of Virginia PTA, National PTA, and council, respectively, and shall not be included in the local PTA/PTSA's budget.
+1. The Virginia PTA and National PTA portion of membership dues shall be remitted to the Virginia PTA as prescribed by the Virginia PTA on or before the first of each month for all membership dues received prior and not yet remitted.
 1. A list of members who joined the association during the reporting period shall be kept by the local PTA/PTSA units and submitted as prescribed by Virginia PTA.
 
 **Section 13.** Virginia PTA Honorary Life Membership may be conferred for distinguished service, for which a fee shall be paid to Virginia PTA. This fee shall be deposited in the special Life Membership Scholarship Fund of Virginia PTA. Virginia PTA Honorary Life Membership entitles a recipient to attend Virginia PTA annual meeting as a non-voting participant without payment of the registration fee.
 
-**Section 14.** National PTA Life Achievement Award may be conferred for distinguished service, for which a fee shall be paid to the National PTA for the Endowment Fund. The National PTA Life Achievement Award provides only National Convention guest privileges upon payment of the convention registration fee.
+**Section 14.** A holder of a Virginia PTA Honorary Life Membership or National PTA Life Achievement Award may be an active member only upon payment of dues in a local PTA/PTSA.
 
-**Section 15.** A holder of a Virginia PTA Honorary Life Membership or National PTA Life Achievement Award may be an active member only upon payment of dues in a local PTA/PTSA unit.
+**Section 15.** The Virginia PTA or National PTA may terminate or restrict the membership or participation of an individual member in the local PTA/PTSA or impose other disciplinary actions on an individual member pursuant to the bylaws, policies, and procedures of the Virginia PTA or the bylaws, policies, and procedures of the National PTA, respectively.
 
 ## Article 5: Officers and Their Election
 
-**Section 1.** The elected officers of this local PTA/PTSA shall be a president, one or more vice president(s), a secretary, and a treasurer.
+**Section 1.** The elected officers of this local PTA/PTSA shall be a president, a secretary, and a treasurer.
 
 *Proviso: Units currently with the president-elect structure will be allowed to continue this structure until election year 2023.*
 
-**Section 2.** Only members whose individual dues are paid to this local PTA/PTSA for the current fiscal year shall be eligible to hold office, and to serve on the executive committee, executive board, standing or special committees, or to serve as a delegate or alternate to the council or district.
+**Section 2.** Only members in good standing whose individual dues are paid to this local PTA/PTSA for the current fiscal year shall be eligible to hold office, and to serve on the executive committee, executive board, standing or special committees, or to serve as a delegate or alternate to the council or annual meeting of the Virginia PTA.
 
 **Section 3.** Nominating committee:
 
 1. Each member of the nominating committee must be a member of this local PTA/PTSA.
 1. The nominating committee shall consist of an uneven number, not less than three (3) members, who shall be elected by the members of this local PTA/PTSA at their regular general membership meeting at least two (2) months prior to the election of officers. The committee shall elect its own chairman.
-1. The nominating committee shall nominate an eligible person for each office to be filled and report its nominees to the members at a regular general membership meeting at least thirty (30) days prior to the general membership election meeting. At the general membership election meeting, additional nominations may be made from the floor.
+1. The nominating committee shall nominate at least one (1) eligible person for each office to be filled and report its nominees to the members at a regular general membership meeting at least thirty (30) days prior to the general membership election meeting. If the nominating committee is unable to recruit a candidate for an office that the nominating committee determines is qualified and who is willing to serve, the nominating committee shall declare the position "VACANT" to provide notice that nominations from the floor shall be necessary to fill the position. Similarly, if a nominating committee is not formed in a timely manner, then for each office for which there is or will be a vacancy, nominations shall be received from the floor. At the general membership election meeting, additional nominations may be made from the floor.
 1. Only those persons who have signified their consent to serve, if elected, shall be nominated for or elected to such office.
 
 **Section 4.** Officers shall be elected by the following method:
 
 1. Officers shall be elected at the last general membership meeting of the fiscal year.
-1. If there is more than one nominee for office, then the voting shall be by ballot. A majority of the votes cast shall constitute which nominees are elected. However, if there is but one nominee for office, election for that office may be by voice vote. If by ballot vote, the secretary shall be responsible for destroying all ballots at the end of the general membership election meeting.
+1. If there is more than one nominee for office, then the voting shall be by ballot. A majority of the votes cast at a meeting with quorum shall constitute which nominees are elected. However, if there is but one nominee for office, election for that office may be by voice vote. If by ballot vote, the secretary shall be responsible for destroying all ballots at the end of the general membership election meeting.
 1. Officers shall take office by July 1.
 
-**Section 5.** Officers shall serve for a term of either one (1) or two (2) year(s) or until their successors are elected. No person shall hold more than one (1) elected office at a time on this local unit board. No local unit officer shall serve more than either two (2), three (3), or four (4) consecutive terms, not to exceed four (4) years in the same office. Officers who have served in an office for more than one- half (1/2) of a full term shall be deemed to have served a full term in such office.
+**Section 5.** Officers shall serve for a term of either one (1) or two (2) year(s) or until their successors are elected. No person shall hold more than one (1) elected office at a time for this PTA/PTSA. No local unit officer shall serve more than two (2), three (3), or four (4) consecutive terms, as approved by the general membership on the Organizational Structure Form. No local unit officer shall exceed four (4) years in the same office. Officers who have served in an office for more than one-half (1/2) of a full term shall be deemed to have served a full term in such office.
 
 **Section 6.** Vacancies in any office shall be filled by the following method:
 
-1. A vacancy occurring in any office except that of president shall be filled for the unexpired term by a person elected by a majority vote of the Executive Board at their next scheduled meeting. In case of a vacancy in the office of president, the first vice president shall become president and shall hold office for the balance of the term. In the interim, the duties of the vice president shall be delegated by the president.
-1. In the event of a vacancy in the office of president, and also in the absence of a vice president, the general membership shall elect the next president.
-1. If there is more than one nominee for any office, then the voting shall be by ballot. A majority of the votes cast shall constitute which nominees are elected. However, if there is but one nominee for office, election for that office may be by voice vote. If by ballot vote, the secretary shall be responsible for destroying all ballots at the end of the meeting.
-1. When a ten (10) day notice of the election is given, a majority of votes cast shall constitute an election. Without such notice a two-thirds (2/3) vote of those present shall be required.
+1. A vacancy occurring in any office except that of president shall be filled for the unexpired term by a person elected by a majority vote of the executive board within sixty (60) days. In case of a vacancy in the office of president, the first vice president, if any, shall become president and shall hold office for the balance of the term. In the interim, the duties of the vice president shall be delegated by the president.
+1. Instead of filling a vacancy under subsection A, the executive board may choose to have the general membership elect an individual to fill the vacancy for the unexpired term.
+1. In the event of a vacancy in the office of president and the absence of a vice president, the general membership shall elect the next president.
+1. If there is more than one nominee for any office, then the voting shall be by ballot. However, if there is but one nominee for office, election for that office may be by voice vote. If by ballot vote, the secretary shall be responsible for destroying all ballots at the end of the meeting.
+1. When a ten (10) day notice of the election is given, a majority of votes cast at a meeting with quorum shall constitute an election. Without such notice, a two-thirds (2/3s) vote of those present at a meeting with quorum shall be required.
 
 ## Article 6: Duties of Officers
 
@@ -190,12 +191,13 @@ The following are basic principles of this local PTA in common with those of Vir
 1. Understand that by accepting the nomination of president-elect, they agree to automatically succeed to the office of president at the end of their term as president-elect.
 1. Perform other delegated duties as assigned.
 
-*PROVISIO: This position is only for local units with an approved president-elect position. It is not required to elect a president-elect. Position to be phased out election year 2023.*
+*PROVISIO: This position is only for local units with an approved president-elect position. It is not required to elect a president-elect. Until phased out, the president-elect shall be the first vice
+president for the purposes of succession for the office of the president. Position to be phased out election year 2023.*
 
 **Section 3.** The vice president(s) shall:
 
 1. Act as aide(s) to the president.
-1. In their designated order, perform the duties of the president in the absence or inability of the officer to act. If more than one vice president, must list job title for each vice president as approved by general membership on the Organizational Structure Form.
+1. In their designated order, perform the duties of the president in the absence or inability of the president to act. If more than one vice president, the executive board must list job title for each vice president as approved by general membership on the Organizational Structure Form.
 1. Perform other delegated duties as assigned.
 
 **Section 4.** The secretary shall:
@@ -214,73 +216,74 @@ The following are basic principles of this local PTA in common with those of Vir
 1. Present a written financial statement at every meeting of the local PTA/PTSA and at other times when requested by the executive board.
 1. Prepare an annual financial report at the close of the fiscal year.
 1. Have the accounts examined according to the auditing procedures outlined in these bylaws.
-1. Submit a copy of the fiscal year-end financial review report to the Virginia PTA state office within fifteen (15) days following the adoption of the audit by the membership.
-1. Submit a 990N, 990EZ, or 990 form per IRS regulations. A copy of this form shall be sent to the Virginia PTA state office within fifteen (15) days of filing.
-1. Remit by November 1 to the Virginia PTA state office, Virginia PTA and National PTA dues for membership received prior to November 1. Remit by December 1, dues received after November 1. Remit by March 1, dues received after December 1. Remit by June 30, all Virginia PTA and National PTA dues received after March 1.
+1. Submit a copy of the fiscal year-end financial review, and any interim financial reviews prepared since the previous year-end financial review, as prescribed by the Virginia PTA, by August 1 annually.
+1. Submit a Form 990N, 990EZ, or 990 per Internal Revenue Service ("IRS") regulations. A copy of this form shall be sent to the to the Virginia PTA, as prescribed by the Virginia PTA, by August 1 annually.
+1. Remit the Virginia PTA and National PTA portion of membership dues to the Virginia PTA as prescribed by the Virginia PTA on or before the first of each month for all membership dues received prior and not yet remitted.
+1. Remit the council dues as prescribed by such council, if the local PTA/PTSA is a member of a council.
 1. Perform other delegated duties as assigned.
 
-**Section 6.** All officers shall perform the duties outlined in these bylaws. Upon the expiration of the term of office or in case of resignation, each officer shall turn over to the president, without delay, all records, books, and other materials pertaining to the office.
+**Section 6.** All officers shall perform the duties outlined in these bylaws. Upon the expiration of the term of office or in case of resignation or removal, each officer shall turn over to the president, without delay, all records, books, and other materials pertaining to the office.
 
 ## Article 7: Executive Committee
 
-**Section 1.** The executive committee shall consist of the elected officers of the association and the principal of the school.
+**Section 1.** The executive committee shall consist of the elected officers of the association.
 
 **Section 2.** The executive committee shall:
 
 1. Develop goals for the local PTA/PTSA for presentation to the executive board and general membership for approval.
 1. Appoint standing and special committee chairmen and members of the standing and special committees, except the nominating committee.
+1. Remove standing and special committee chairs and members of the standing and special committees, except for the nominating committee, with or without cause.
 
 **Section 3.** The executive committee shall meet within thirty (30) days after their election for the purpose of appointing standing committee chairmen. Special committee chairmen shall be appointed as necessary. Members of the standing and special committees shall be appointed as soon as possible after the appointment of the committee chairmen.
 
-**Section 4.** Meetings of the executive committee shall be held by the call of the president or a majority of the executive committee, as approved by general membership on the organizational structure form. A quorum of the executive committee shall be a majority of the members of the committee then in office.
+**Section 4.** Meetings of the executive committee shall be held by the call of the president or a majority of the executive committee, as approved by general membership on the Organizational Structure Form. A quorum of the executive committee shall be a majority of the members of the committee then in office.
 
-**Section 5.** The executive committee shall reserve the right to vote on business via electronic meeting. Only the president shall have the authority to call for an electronic vote and to establish the guidelines for that vote. The established quorum of the executive committee shall prevail. Voting results must be recorded in the minutes and ratified at the next executive committee meeting.
+**Section 5.** Only the president shall have the authority to call for an electronic meeting of the executive committee. The established quorum of the executive committee shall prevail. Results of any vote(s) taken during an electronic meeting must be recorded in the minutes and the minutes must be accepted by the executive committee.
 
 **Section 6.** The executive committee may hold meetings by telephone conference or through other electronic communications media so long as all the members can simultaneously hear each other and participate during the meeting. Some or all of the members may participate electronically at a meeting held at a central location so long as all the members can simultaneously hear each other and participate during the meeting.
 
 ## Article 8: Executive Board
 
-**Section 1.** The executive board of this local PTA/PTSA shall consist of the elected officers and the chairmen of the standing committees. The principal of the school or his/her designee and a staff representative or his/her alternate, appointed by the principal or elected by the faculty, also may serve on the executive board. The chairmen of the standing committees shall be appointed by the officers of the association not more than thirty (30) days following the election of officers.
+**Section 1.** The executive board of this local PTA/PTSA shall consist of the elected officers and the chairmen of the standing committees. The principal of the school or, if the local PTA/PTSA is not affiliated with only one school, an appropriate educational representative duly selected by the local PTA/PTSA, or a designee thereof is an ex officio member of the executive board who shall have full right to participate and vote in deliberations, but who shall not be counted for purposes of determining or making quorum. The chairmen of the standing committees shall be appointed by the officers of the association not more than thirty (30) days following the election of officers.
 
-**Section 2.** A PTA/PTSA member shall not serve as a voting member of a constituent association’s board at the local, council, district, region, state, or national level while serving as a paid employee of, or under contract to, that constituent association.
-
-**Section 3.** The executive board shall:
+**Section 2.** The executive board shall:
 
 1. Transact necessary business in the intervals between general membership meetings and such other business as may be referred to it by this local PTA/PTSA and present a report to the general membership at the general membership meetings.
 1. Create, change or eliminate standing and special committees.
 1. Approve the plans of work of the standing and special committees.
-1. Select an auditing committee, experienced auditor, or attend an external audit exchange.
+1. Select an auditing committee or experienced auditor, or attend an external financial multi-review.
 1. Approve the proposed budget to be presented to the general membership for adoption.
 1. Obtain general membership approval for any changes to the adopted budget over five hundred dollars ($500.00) per fiscal year.
 
-**Section 4.** Financial Review Procedures:
+**Section 3.** Financial Review Procedures:
 
-1. The executive board shall select an auditing committee, experienced auditor or choose to participate in an external financial multi-review (former known as audit exchange) prior to the end of the fiscal year. A financial review committee shall consist of no fewer than three (3) members and no one with signature authority shall sit on their own unit’s committee. All financial reviews shall be coordinated with at least one (1) other PTA/PTSA unit.
+1. The executive board shall select an auditing committee or experienced auditor or choose to participate in an external financial multi-review (formerly known as audit exchange) prior to the end of the fiscal year. A financial review committee shall consist of no fewer than three (3) members and no one with signature authority shall sit on their own unit's committee. All external financial multi-reviews shall be coordinated with at least one (1) other PTA/PTSA unit.
 1. The local PTA/PTSA treasurer shall submit books to the financial reviewing committee, experienced auditor, or the external financial multi-review at the end of the fiscal year. The report of the financial review shall be submitted in writing to the executive board prior to finalization of the proposed budget for the coming school year.
-1. The executive board of a local PTA/PTSA shall upon resignation of the treasurer during a term select a committee for financial review or an experienced auditor within one (1) week of the resignation. The financial review shall be performed with fiscal year-end procedures and shall be complete within three (3) weeks of the resignation. This financial review shall not be performed in lieu of the year-end audit.
-1. The newly elected treasurer shall not undertake any banking responsibilities of that office with the exception of depository duties, reconciliation of bank statements, change of signatory or other clerical duties not requiring signatory until the financial review is presented to the executive board.
-1. All reports of the financial review shall be presented to the general membership for adoption. The fiscal year-end financial review report shall be presented to the membership for adoption at the first general membership meeting held after the completion of the report. A copy of the fiscal year-end financial review shall be sent to the Virginia PTA state office within fifteen (15) days following the adoption of the report by the general membership.
-1. The local PTA/PTSA is required to file a 990N, 990EZ, or 990 form per IRS regulations. A copy of this form shall be sent to the Virginia PTA state office within fifteen (15) days of filing.
+1. The executive board of a local PTA/PTSA shall upon resignation of the treasurer during a term select a committee for financial review or an experienced auditor within one (1) week of the resignation. The financial review shall be performed with fiscal year-end procedures and shall be complete within three (3) weeks of the resignation. This financial review shall not be performed in lieu of the year-end financial review.
+1. The newly elected treasurer shall not undertake any banking responsibilities of that office with the exception of depository duties, reconciliation of bank statements, change of signatory, and other clerical duties not requiring signatory until the financial review is presented to the executive board.
+1. The newly elected treasurer shall submit the financial review to the Virginia PTA, as prescribed by the Virginia PTA, by August 1.
+1. All reports of the financial review shall be presented to the general membership for adoption. The fiscal year-end financial review report shall be presented to the membership for adoption at the first general membership meeting held after the completion of the report. The Virginia PTA state office shall be notified promptly if the general membership fails to adopt the financial review.
+1. The local PTA/PTSA is required to file a Form 990N, 990EZ, or 990 per IRS regulations. A copy of this form shall be sent to the Virginia PTA, as prescribed by the Virginia PTA, by August 1.
 
-**Section 5.** If any member of the executive board shall at any time, cease to meet the qualifications or fulfill the duties of the position, that person may be removed from the board by a majority vote of the executive board.
+**Section 4.** If any member of the executive board shall at any time, cease to meet the qualifications or fulfill the duties of the position, that person may be removed from the board and from such office as the member may hold in the local PTA/PTSA by a majority vote of the executive board, provided notice of the proposed removal and the basis for removal is provided in the call for the meeting at which removal will be considered.
 
-**Section 6.** The executive board shall hold meetings as approved by general membership on the organizational structure form. The time and place of meetings shall be set at the first meeting of the executive board after their election. Special meetings of the executive board may be called by the president or by a majority of the members of the executive board, as approved by general membership on the organizational structure form. A quorum of the executive board members shall be a majority of the members of the executive board then in office.
+**Section 5.** The executive board shall hold meetings as approved by general membership on the Organizational Structure Form. The time and place of meetings shall be set at the first meeting of the executive board after their election. Special meetings of the executive board may be called by the president or by a majority of the members of the executive board, as approved by general membership on the Organizational Structure Form. A quorum of the executive board members shall be a majority of the members of the executive board then in office.
 
-**Section 7.** The executive board shall reserve the right to vote on business via electronic meeting. Only the president shall have the authority to call for an electronic meeting and to establish the guidelines for voting. The established quorum of the executive board shall prevail. Voting results must be recorded in the minutes and the minutes must be accepted by the executive board at the next executive board meeting.
+**Section 6:** Only the president shall have the authority to call for an electronic meeting of the executive board. The established quorum of the executive board shall prevail. Results of any vote(s) taken during an electronic meeting must be recorded in the minutes and the minutes must be accepted by the executive board.
 
-**Section 8.** The executive board may hold meetings by telephone conference or through other electronic communications media so long as all the members can simultaneously hear each other and participate during the meeting. Some or all of the members may participate electronically at a meeting held at a central location so long as all the members can simultaneously hear each other and participate during the meeting.
+**Section 7.** The executive board may hold meetings by telephone conference or through other electronic communications media so long as all the members can simultaneously hear each other and participate during the meeting. Some or all of the members may participate electronically at a meeting held at a central location so long as all the members can simultaneously hear each other and participate during the meeting.
 
 ## Article 9: Committees
 
-**Section 1.** Chairmen and members of all standing and special committees shall be members of this local PTA/PTSA.
+**Section 1.** Chairmen and members of all standing and special committees shall be members of this local PTA/PTSA in good standing.
 
-**Section 2.** The executive board may create, change or eliminate such standing committees as it may deem necessary to promote the purposes and carry on the work of the local PTA/PTSA. Standing committee chairmen and committee members shall be appointed by the executive committee, except for the nominating committee. In the absence of an executive committee then the executive board shall make the appointments. The term of each chairman shall be as approved by general membership on the organizational structure form or until the selection of a successor. No chairman shall be eligible to serve in the same capacity for more than two (2) consecutive terms.
+**Section 2.** The executive board may create, change or eliminate such standing committees as it may deem necessary to promote the purposes and carry on the work of the local PTA/PTSA. Standing committee chairmen and committee members shall be appointed by the executive committee, except for the nominating committee. In the absence of an executive committee then the executive board shall make the appointments. The term of each chairman shall be as approved by general membership on the Organizational Structure Form or until the selection of a successor. No chairman shall be eligible to serve in the same capacity for more than two (2) consecutive terms.
 
 **Section 3.** The executive board may create, change or eliminate such special committees as it may deem necessary or as may be directed by the local PTA/PTSA. Special committee chairmen and committee members shall be appointed by the executive committee. In the absence of an executive committee then the executive board shall make the appointments. The term of each special committee chairman is ended upon completion of the task assigned to the committee. No special committee chairman shall be eligible to serve in the same capacity for more than two (2) consecutive terms.
 
 **Section 4.** The chairman of each standing and special committee shall present a plan of work to the executive board for approval. No committee work shall be undertaken without the consent of the executive board.
 
-**Section 5.** The committee shall reserve the right to vote on business via electronic meeting. Only the committee chair shall have the authority to call for an electronic meeting and to establish the guidelines for voting. The established quorum of the committee shall prevail. Voting results must be recorded in the minutes and accepted by the committee at the next committee meeting.
+**Section 5.** Only the committee chair shall have the authority to call for an electronic meeting of such committee. The established quorum of the committee shall prevail. Results of any votes taken during an electronic meeting must be recorded in the minutes and the minutes must be accepted by the committee.
 
 **Section 6.** Committees may hold meetings by telephone conference or through other electronic communications media so long as all the members can simultaneously hear each other and participate during the meeting. Some or all of the members may participate electronically at a meeting held at a central location so long as all the members can simultaneously hear each other and participate during the meeting.
 
@@ -294,54 +297,58 @@ The following are basic principles of this local PTA in common with those of Vir
 
 **Section 1.** Regular meetings of this local PTA/PTSA shall be held at least 3 times during the school year, 14 days' notice having been given.
 
-**Section 2.** The general membership election meeting shall be held in the month as approved by general membership on the organizational structure form.
+**Section 2.** The general membership election meeting shall be held in the months as approved by general membership on the Organizational Structure Form.
 
-**Section 3.** Special meetings of this local PTA/PTSA may be called by the president or by a majority of the executive board, with notice as approved by general membership on the organizational structure form.
+**Section 3.** Special meetings of this local PTA/PTSA may be called by the president or by a majority of the executive board, with notice as approved by general membership on the Organizational Structure Form.
 
-**Section 4.** Voting on routine matters may be by voice vote as long as all members can see and hear each other; however, motions requiring a two-thirds (2/3) affirmative vote (e.g. votes on bylaws) shall be by a rising vote, electronic vote, or show of hands as long as members can see and hear each verified member of this local PTA/PTSA.
+**Section 4.** Voting on routine matters may be by voice vote as long as all members can see and hear each other; however, motions requiring a two-thirds (2/3s) affirmative vote shall be by a rising vote, electronic vote, or show of hands as long as members can see and hear each verified member of this local PTA/PTSA.
 
-**Section 5.** Either ten (10) members or fifty percent (50%) of the membership of this local PTA, whichever number is less, shall constitute a quorum for the transaction of business in any general meeting of this local PTA/PTSA.
+**Section 5.** The general membership shall have the authority to remove elected officers, with or without cause, and to hold an immediate election to fill vacancies thereby created, provided either (1) the executive board, by majority vote, instruct the secretary that such removal is to be considered at a regular or special meeting of the general membership or (2) at least ten (10) members provide written notice to the secretary fifteen (15) days before the next meeting. Notice of the proposed removal shall be included in the call of the meeting, but failure to include such notice shall not void a decision by the general membership to remove one or more officers.
 
-**Section 6.** General membership meetings may be held by video or audio conference calls. Voting on routine matters shall be as prescribed in these bylaws. Virginia PTA electronic meeting guidelines shall govern electronic meetings.
+**Section 6.** Either ten (10) members or fifty percent (50%) of the membership of this local PTA, whichever number is less, shall constitute a quorum for the transaction of business in any general meeting of this local PTA/PTSA.
 
-**Section 7.** Voting by proxy is prohibited.
+**Section 7.** General membership meetings may be held by video or audio conference calls. Voting on routine matters shall be as prescribed in these bylaws. Virginia PTA electronic meeting guidelines shall govern electronic meetings.
 
-**Section 8.** Last general membership meeting of the fiscal year shall be held in April, May, or June.
+**Section 8.** Voting by proxy is prohibited.
+
+**Section 9.** Last general membership meeting of the fiscal year shall be held in April, May, or June.
 
 ## Article 11: Council Membership
 
-**Section 1.** The local PTA/PTSA shall be represented in meetings of their local council as designated by Virginia PTA, by the president or alternate, the principal or alternate and no more than two (2) delegates appointed by executive committee each term year.
+**Section 1.** The local PTA/PTSA shall be represented in meetings of their local council as designated by Virginia PTA, by the president or alternate and no more than two (2) delegates appointed by executive committee each term year.
 
-**Section 2.** This local PTA/PTSA shall pay annual dues as prescribed in council bylaws to the Council PTA as approved by the council membership.
+**Section 2.** This local PTA/PTSA shall pay annual dues as prescribed in council bylaws as approved by the council membership.
 
 **Section 3.** Responsibilities of delegates:
 
 1. Delegates shall report activities of the council to the local PTA/PTSA and shall present to council such matters as may be referred to it by the local PTA/PTSA.
 1. Delegates shall vote on all issues as instructed by their local PTA/PTSA; but if not instructed, they shall use their own discretion, except as provided by council bylaws.
 
-## Article 12: District Membership
-
-**Section 1.** This local PTA/PTSA shall be a member of the district designated by Virginia PTA.
-
-**Section 2.** The district shall act as liaison between Virginia PTA and local units, to coordinate policies and current programs of local units with those of Virginia PTA.
-
-**Section 3.** Local units in good standing are entitled to be represented at the Annual District Meeting.
-
-**Section 4.** Local PTA/PTSA delegates for the district shall report activities of the district to their local PTA/PTSA and shall present to the district such matters as may be referred to it by their local PTA/PTSA. Delegates shall vote on all issues as instructed by their local PTA/PTSA; but if not instructed, they shall use their own discretion.
-
-## Article 13: Fiscal Year
+## Article 12: Fiscal Year
 
 The fiscal year of this local PTA/PTSA shall begin on July 1 and end on June 30.
 
-## Article 14: Amendments to VAPTA Uniform Bylaws
+## Article 13: Amendments to VAPTA Uniform Bylaws
 
-**Section 1.** These bylaws may be amended by a two-thirds vote at the Virginia PTA annual meeting, provided the amendments have been approved by the Virginia PTA board of directors. Notice of the proposed amendments shall be sent to each member of the Virginia PTA board of directors, council presidents, and local PTA presidents at least 30 days prior to the opening day of the Virginia PTA annual meeting.
+**Section 1.** These bylaws may be amended by a two-thirds (2/3s) vote at the Virginia PTA annual meeting, provided the amendments have been approved by the Virginia PTA board of directors. Notice of the proposed amendments shall be sent to each member of the Virginia PTA board of directors, council presidents, and local PTA/PTSA presidents at least 30 days prior to the opening day of the Virginia PTA annual meeting.
 
 **Section 2.** Except as otherwise provided in the amendment or a proviso thereto, amendments to these bylaws shall become effective on July 1 after the Virginia PTA annual meeting at which they were adopted.
 
+**Section 3.** The Virginia Board of Directors may further amend these bylaws to incorporate changes to the Bylaws of the Virginia PTA, duly adopted at an Annual Meeting of the Virginia PTA, affecting the governance of local PTAs/PTSAs.
+
+## Article 14: Adapting Uniform Bylaws
+
+**Section 1.** Proposed adaptations of the bylaws, through adoption or amendment of an Organizational Structure Form, may be proffered by either the executive board or a committee appointed by the general membership at a meeting of the general membership.
+
+**Section 2.** Notice of proposed adaptations of the bylaws shall be provided in either the call of the meeting at which such adaptations shall be considered or by oral notice at the prior general membership meeting. Such notice shall be provided at least thirty (30) days before the general membership meeting at which the proposed adaptation will be considered.
+
+**Section 3.** Unless an adaptation of the bylaws requires a higher voting threshold under the bylaws in force or policies and procedures of the Virginia PTA, or under the Act (if the organization is a Virginia nonstock corporation), a proposed adaptation of the bylaws shall require a two-thirds (2/3s) vote of those present and voting at a general membership meeting at which quorum has been established.
+
+**Section 4.** The executive board shall have the authority to direct the secretary to adopt ministerial changes that accord with existing adaptations—for example by adopting or amending an Organizational Structure Form that accords with the existing governance structure such as bylaw provisions previously adopted by the local PTA/PTSA that have not been directly superseded or rescinded—when necessary to comply with Virginia PTA policies and procedures for adapting local unit uniform bylaws.
+
 ## Article 15: Parliamentary Authority
 
-The rules contained in the current edition of Robert’s Rules of Order Newly Revised shall govern National PTA and its constituent associations in all cases in which they are applicable and in which they are not in conflict with these bylaws, the bylaws of Virginia PTA, and the bylaws of National PTA, or the Virginia Non-Stock Corporation Act and Articles of Incorporation.
+The rules contained in the current edition of Robert's Rules of Order Newly Revised shall govern National PTA and its constituent associations in all cases in which they are applicable and in which they are not in conflict with these bylaws, the bylaws of Virginia PTA, the bylaws of National PTA, the Act, and Articles of Incorporation of the local PTA/PTSA, if any.
 
 ## Article 16: Application of These Uniform Bylaws
 

@@ -26,7 +26,7 @@ Agendas are available here before each meeting, and meeting minutes are availabl
 
 The Abingdon PTA is required to adhere to the [Virginia PTA uniform bylaws](https://www.vapta.org/27-committees/bylaws). A local copy is maintained below. 
 
-{{< button relref="bylaws" >}}Click Here to View the Bylaws for 2021-2022{{< /button >}}
+{{< button relref="bylaws" >}}Click Here to View the Bylaws for 2022-2023{{< /button >}}
 
 ### Organizational Structure Form
 
