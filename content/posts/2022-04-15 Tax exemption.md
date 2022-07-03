@@ -1,7 +1,7 @@
 ---
-title: A History of Our Tax Exemption Issues
+title: A Briefing on Our Tax Exemption Issues
 description: Abingdon PTA's tax exemption was revoked years ago. We're working on having it reinstated.
-slug: tax exemption history
+slug: tax exemption
 date: 2022-04-15
 ---
 

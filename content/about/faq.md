@@ -44,7 +44,7 @@ General membership meetings are held once a month while school is in session, ty
 ## How can I submit a topic to be addressed for a PTA meeting?
 You can email the PTA at abingdonelementaryPTA@gmail.com.
 
-## What are the funds raised from the fundraiser use for?
+## What does the PTA do with the money raised from fundraisers?
 PTA funds are used to support the school and the community, including:
 - Securing vendors, food, and rental equipment for events
 - Support teacher appreciation activities and supplies
@@ -54,12 +54,6 @@ PTA funds are used to support the school and the community, including:
 ## I am not English speaking; how can I speak/participate in another language?
 - Our meetings and our website are all accessible in other languages.
 - There are many volunteer opportunties which do not require English fluency, especially helping with events. Fill out our [volunteer form](/volunteer/) or email abingdonelementaryPTA@gmail.com (in whatever language you'd like) if you are interested in volunteering with us.
-
-## What type of committees are available?
-- Staff Appreciation Committee (organize and execute events for teachers and other staff members)
-- Events Committee (events that are held at Abingdon)
-- Nominating Committee (identifying PTA officers for the following school year)
-- Audit Committee (auditing the previous school year's finances)
 
 ## How does the PTA communicate with parents?
 - All of our communication methods are listed [here](/connect/). We especially recommend subscribing to our e-mail newsletter, the Cardinal Courier.

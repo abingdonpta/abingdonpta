@@ -2,7 +2,7 @@
 title: Calendar
 description: Abingdon PTA's calendar.
 weight: 70
-bookHidden: true
+draft: true
 ---
 
 ## PTA Calendar

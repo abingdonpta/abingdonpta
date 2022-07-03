@@ -1,7 +1,7 @@
 ---
 title: Room Buddies
 description: Room Buddies program at Abingdon PTA
-bookHidden: true
+draft: true
 ---
 
 Abingdon Elementary PTA is starting a "Room Buddies" program. You may have heard about "Room Parents" or "Class Moms" at other schools, and this is intended to be similar.

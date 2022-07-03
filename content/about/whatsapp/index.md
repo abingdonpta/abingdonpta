@@ -11,19 +11,11 @@ label[for=toc-control], #toc-control { display: none; }
 
 The school and the PTA manage WhatsApp groups for Abingdon's language communities.
 
-<!--You may join more than one group, but please communicate only in the group's designated language.
-
-The purposes of the groups are:
-- To allow for the PTA and Abingdon staff to share helpful information.
-- To provide families a place to talk to other families about topics related to Abingdon.
-- To enhance the sense of community among Abingdon families.
--->
 {{< hint warning >}}
 Please follow these rules:
 - Only parents and guardians of current Abingdon students, and Abingdon staff, may join.
 - Do not criticize individuals (parents, staff members, or students).
-- Do not share content that will not be in the interest of the majority of group members.
-- Do not advertise. However, publicizing not-for-profit community events is permitted.
+- Only share content that will be in the interest of most group members.
 {{< /hint >}}
 
 <span class="notranslate">
