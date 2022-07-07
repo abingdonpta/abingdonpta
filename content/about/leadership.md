@@ -13,45 +13,16 @@ Please [fill out our volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSd
 | Role | Name | Bio |
 |-|-|-|
 | [🦸 President](/roles/#-president) | [Sharon Burd](mailto:abingdonptapresident@gmail.com) | [Bio](</2022/05/officer-bios/#-sharon-burd--president>) |
-| [📣 VP for Communications](/roles/#-vice-president) | Laura Chadwick | [Bio](</2022/05/officer-bios/#-laura-chadwick--vp-for-communications>) |
-| [💵 VP for Fundraising](/roles/#-vice-president) | Clare Rosenberger | [Bio](</2022/05/officer-bios/#-clare-rosenberger--vp-for-fundraising>) |
 | [🎓 VP for Educational Programs](/roles/#-vice-president) | Ken Venable | [Bio](</2022/05/officer-bios/#-ken-venable--vp-for-educational-programs>) |
+| [💵 VP for Fundraising](/roles/#-vice-president) | Clare Rosenberger | [Bio](</2022/05/officer-bios/#-clare-rosenberger--vp-for-fundraising>) |
 | [🏘️ VP for Community Relations](/roles/#-vice-president) | Megan Miller | [Bio](</2022/05/officer-bios/#-megan-miller--vp-for-community-relations>) |
+| [📣 VP for Communications](/roles/#-vice-president) | Laura Chadwick | [Bio](</2022/05/officer-bios/#-laura-chadwick--vp-for-communications>) |
 | [🎉 VP for Events](/roles/#-vice-president) | Meredith Greene | [Bio](</2022/05/officer-bios/#-meredith-greene--vp-for-events>) |
 | [🙏 VP for Staff Appreciation](/roles/#-vice-president) | Ashley McCarthy | [Bio](</2022/05/officer-bios/#-ashley-farrugia--vp-for-staff-appreciation>) |
 | [💰 Treasurer](/roles/#-treasurer) | [Christian Lindstrom](mailto:abingdonptatreasurer@gmail.com) | [Bio](</2022/05/officer-bios/#-christian-lindstrom--treasurer>) |
 | [✍️ Secretary](/roles/#-secretary) | [Dan Burd](mailto:abingdonptasecretary@gmail.com) | [Bio](</2022/05/officer-bios/#-dan-burd--secretary>) |
 
 ## Coordinators
-
-### 📣 Communications
-
-| Role |
-|-|
-| [📱 Social Media Coordinator](/roles/#-social-media-coordinator) |
-| [📰 Newsletter Coordinator](/roles/#-newsletter-coordinator) |
-| [🖥️ Website Administrator](/roles/#-website-administrator) |
-| [💬 WhatsApp Administrator](/roles/#-whatsapp-administrator) |
-| [🗯️ Facebook Administrator](/roles/#-facebook-administrator) |
-| [☎️ Directory Coordinator](/roles/#-directory-coordinator) |
-| [🖼️ Graphic Designer](/roles/#-graphic-designer) |
-| [📄 Copy Coordinator](/roles/#-copy-coordinator) |
-| [🌎 Translators (Spanish)](/roles/#-translator) |
-| [🌍 Translators (Arabic)](/roles/#-translator) |
-| [🌍 Translators (Amharic)](/roles/#-translator) |
-| [🌏 Translators (Mongolian)](/roles/#-translator) |
-
-### 💵 Fundraising
-
-| Role |
-|-|
-| [💸 Retail Rebates Coordinator](/roles/#-retail-rebates-coordinator) |
-| [👕 Spirit Wear Coordinator](/roles/#-spirit-wear-coordinator) |
-| [✏️ Edukit Coordinator](/roles/#-edukit-coordinator) |
-| [📸 School Pictures Coordinator](/roles/#-school-pictures-coordinator) |
-| [📚 Read-A-Thon Coordinator](/roles/#-read-a-thon-coordinator) |
-| [🌯 Spirit Night Coordinator](/roles/#-spirit-night-coordinator) |
-| [🤝 Sponsorships Coordinator](/roles/#-sponsorships-coordinator) |
 
 ### 🎓 Educational Programs
 
@@ -64,6 +35,18 @@ Please [fill out our volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSd
 | [🧠 Odyssey of the Mind](/roles/#-odyssey-of-the-mind) |
 
 There are other educational programs available to elementary school students, like [🏃‍♂️ Boys Gotta Run](https://www.boysgottarun.com), and [🔬 Science Olympiad](https://www.soinc.org/), with which Abingdon has little or no participation experience; however, the PTA could support Abingdon's participation provided that we have a motivated volunteer.
+
+### 💵 Fundraising
+
+| Role |
+|-|
+| [💸 Retail Rebates Coordinator](/roles/#-retail-rebates-coordinator) |
+| [👕 Spirit Wear Coordinator](/roles/#-spirit-wear-coordinator) |
+| [✏️ Edukit Coordinator](/roles/#-edukit-coordinator) |
+| [📸 School Pictures Coordinator](/roles/#-school-pictures-coordinator) |
+| [📚 Read-A-Thon Coordinator](/roles/#-read-a-thon-coordinator) |
+| [🌯 Spirit Night Coordinator](/roles/#-spirit-night-coordinator) |
+| [🤝 Sponsorships Coordinator](/roles/#-sponsorships-coordinator) |
 
 ### 🏘️ Community Relations
 
@@ -82,6 +65,23 @@ There are other educational programs available to elementary school students, li
 | [🏫 FAC Representative (Advisory Council on School Facilities and Capital Programs)](/roles/#-fac-representative) |
 | [🪙 Budget Advisory Council Representative](/roles/#-budget-advisory-council-representative) |
 | [🏫 School Plan Advisory Committee Representative](/roles/#-school-plan-advisory-committee-representative) |
+
+### 📣 Communications
+
+| Role |
+|-|
+| [📱 Social Media Coordinator](/roles/#-social-media-coordinator) |
+| [📰 Newsletter Coordinator](/roles/#-newsletter-coordinator) |
+| [🖥️ Website Administrator](/roles/#-website-administrator) |
+| [💬 WhatsApp Administrator](/roles/#-whatsapp-administrator) |
+| [🗯️ Facebook Administrator](/roles/#-facebook-administrator) |
+| [☎️ Directory Coordinator](/roles/#-directory-coordinator) |
+| [🖼️ Graphic Designer](/roles/#-graphic-designer) |
+| [📄 Copy Coordinator](/roles/#-copy-coordinator) |
+| [🌎 Translators (Spanish)](/roles/#-translator) |
+| [🌍 Translators (Arabic)](/roles/#-translator) |
+| [🌍 Translators (Amharic)](/roles/#-translator) |
+| [🌏 Translators (Mongolian)](/roles/#-translator) |
 
 ### 🎉 Events
 

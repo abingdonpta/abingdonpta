@@ -11,11 +11,9 @@ Here are the bios of the nominees for PTA Officers during the 2022-2023 school y
 
 Hi, I am humbled to announce my candidacy for President of the Abingdon PTA. It would be an honor to advocate for our children. As an Events Committee Co-Chair, I am thankful for the opportunities to help our diverse Abingdon family by planning social events, coordinating service drives, and building community inside and outside the classroom. To that end, I also enjoy working with fellow garden volunteers and partnering with local organizations to support the Abingdon Community Garden. I hope to weave in the strength of our volunteers and foster community connections to build a multilingual PTA reflective of our school’s demographics. A strong family-school partnership will enhance student achievement and propel our flock of cardinals to soar. Prior to being a stay at home parent, I worked in the U.S. Senate for about 10 years. I am conversationally fluent in Cantonese and Mandarin, and occasionally wear the Cardinal mascot costume. My husband Dan and I are blessed to be parents to two children who love Abingdon too.
 
-## 📣 Laura Chadwick — VP for Communications
+## 🎓 Ken Venable — VP for Educational Programs
 
-My name is Laura Chadwick and I am so pleased to be considered for the position of the VP of Communications for the Abingdon Elementary School PTA for the ’22-’23 school year. I am the mom of Jack and Luke, both age 8 and in the second grade. I am passionate about public service and public schools, and know how important parental involvement is too!.
-
-I have spent my career advocating for thoughtful and inclusive public policy, serving as a Legislative Assistant on Capitol Hill, a federal government relations professional and currently as head of membership, marketing, recruitment and events for the XR Association. I am thrilled to be bringing these skills to the VP of Communications position. This year, we will focus on expanding the type of news and stories — including efforts to highlight and profile PTA leaders, volunteers, Abingdon staff, and others. We will also look to offer new and additional ways to share Abingdon PTA news so that it stays top of mind. Lastly, we will provide opportunities for parents and kids to come together and learn about social media best practices. Abingdon PTA social media is a great opportunity and perhaps one of few that can help families observe and discuss what thoughtful and respectful online sharing looks like.
+I am originally from Oxford, North Carolina currently residing in Arlington Virginia. I am a twenty-two-year veteran of the Marine Corps. While serving in the Marine Corps I was an infantryman and nuclear, biological, and chemical officer. I taught critical thinking and criminal justice at Crave County Community College. I served as a contractor in support of Naval Aviation human system integration. Currently serve as a senior analyst for the Marine Corps in support of Countering Weapons of Mass Destruction (CWMD). I have served four years as Abingdon Elementary school representative to the Academic Council for Teaching and Learning (ACTL). I am married to Lorin Venable, and we have two children. We have a fourth and second grader attending Abingdon. My goal is to serve the students at Abingdon Elementary School educational needs.
 
 ## 💵 Clare Rosenberger — VP for Fundraising
 
@@ -23,13 +21,15 @@ Thank you for the nomination to be the VP of Fundraising for the Abingdon PTA fo
 
 I have been a part of the Abingdon community for six years, and I still have five more to go. I am very invested in the success of our school and our students, and see this role on the PTA board as an opportunity to help others become invested in it as well.
 
-## 🎓 Ken Venable — VP for Educational Programs
-
-I am originally from Oxford, North Carolina currently residing in Arlington Virginia. I am a twenty-two-year veteran of the Marine Corps. While serving in the Marine Corps I was an infantryman and nuclear, biological, and chemical officer. I taught critical thinking and criminal justice at Crave County Community College. I served as a contractor in support of Naval Aviation human system integration. Currently serve as a senior analyst for the Marine Corps in support of Countering Weapons of Mass Destruction (CWMD). I have served four years as Abingdon Elementary school representative to the Academic Council for Teaching and Learning (ACTL). I am married to Lorin Venable, and we have two children. We have a fourth and second grader attending Abingdon. My goal is to serve the students at Abingdon Elementary School educational needs.
-
 ## 🏘️ Megan Miller — VP for Community Relations
 
 Thank you for the nomination for VP of Community Relations for the 2022-2023 School Year! I am excited to work with an amazing community of parents and teachers at Abingdon. I am mom to Grace in 3rd Grade and Hunter in 1st grade and we reside in Claremont. I have enjoyed my experience with the PTA Sponsored events here at Abingdon, which sparked my interest in further engaging with the PTA. In my "day job" I am a Global Program Manager for Schneider Electric, an energy management corporation. I have lived in Arlington for over 15 years and look forward to serving Abingdon and our students in the endeavors to support our community.
+
+## 📣 Laura Chadwick — VP for Communications
+
+My name is Laura Chadwick and I am so pleased to be considered for the position of the VP of Communications for the Abingdon Elementary School PTA for the ’22-’23 school year. I am the mom of Jack and Luke, both age 8 and in the second grade. I am passionate about public service and public schools, and know how important parental involvement is too!.
+
+I have spent my career advocating for thoughtful and inclusive public policy, serving as a Legislative Assistant on Capitol Hill, a federal government relations professional and currently as head of membership, marketing, recruitment and events for the XR Association. I am thrilled to be bringing these skills to the VP of Communications position. This year, we will focus on expanding the type of news and stories — including efforts to highlight and profile PTA leaders, volunteers, Abingdon staff, and others. We will also look to offer new and additional ways to share Abingdon PTA news so that it stays top of mind. Lastly, we will provide opportunities for parents and kids to come together and learn about social media best practices. Abingdon PTA social media is a great opportunity and perhaps one of few that can help families observe and discuss what thoughtful and respectful online sharing looks like.
 
 ## 🎉 Meredith Greene — VP for Events
 
