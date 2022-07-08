@@ -2,8 +2,7 @@
 title: New School Year, New Website
 description: We've launched a new website that's super-fast and easy to use.
 slug: New Website
-date: 2022-07-15
-draft: true
+date: 2022-07-08
 ---
 
 The Abingdon PTA has launched a fabulous new website that's **Informative**, **fast**, and **cheap**.
@@ -19,6 +18,6 @@ Highlights of the new website include:
 
 If you have suggestions for the new website, share them with us at abingdonelementarypta@gmail.com.
 
-For those interested in technical details, the new website runs on [Hugo](https://en.wikipedia.org/wiki/Hugo_(software)), a static site generator. It's uploaded to Github and hosted on Cloudflare.
+For those interested in technical details, the new website runs on [Hugo](https://en.wikipedia.org/wiki/Hugo_(software)), a static site generator. It's uploaded to Github and hosted on Cloudflare Pages.
 
 If you'd like to serve as a backup administrator for this website, please reach out to abingdonelementarypta@gmail.com. We'd be happy to show you the ropes.
