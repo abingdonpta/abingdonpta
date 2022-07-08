@@ -8,7 +8,7 @@ weight: 25
 
 There are many roles for volunteers at the Abingdon PTA. We've provided descriptions of the type of work that we do as a PTA.
 
-Please [fill out our volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSdk4KJFIDuigz-EyhdPuWM_GejjZ5rpx9emd6jHxb2xKPQgGA/viewform?usp=sf_link) or [email us](mailto:abingdonelementaryPTA@gmail.com) if you have interest in one of the roles below.
+Please [fill out our volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSf50HFDkNfDxP5VfE2LzsxKbUPZdmRGQTeNEUhXkU_qLCLWZQ/viewform?usp=sf_link) or [email us](mailto:abingdonelementarypta@gmail.com) if you have interest in one of the roles below.
 
 We would be delighted to have you join our team!
 
@@ -287,92 +287,6 @@ The committee shall consider the following:
 
 More information about School Plan Advisory Committees can be found on [APS Policy B-3.6.36](https://go.boarddocs.com/vsba/arlington/Board.nsf/files/AZ2VS7621799/$file/B-3.6.36%20School%20Plan%20Advisory%20Committees.pdf).
 
-## 📣 Communications Role Descriptions
-
-### 📱 Social Media Coordinator
-
-The Abingdon PTA maintains a Twitter account and a Facebook page. The Social Media Coordinator uses these accounts to share information about PTA activities, as well as to share pertinent updates from Abingdon and from APS.
-
-- **Location**: Home
-- **Time of day**: Any, but some daytime availability would be a plus
-- **Months**: Year-round
-
-### 📰 Newsletter Coordinator
-
-The Cardinal Courier is the PTA's weekly e-newsletter, distributed via Constant Contact. It is the main way that the PTA updates families on PTA activities.
-
-The Newsletter Coordinator helps to gather updates from other PTA coordinators for inclusion in the newsletter, and may draft original content as well.
-
-The newsletter typically goes out on Tuesdays. We try to have a Friday deadline for new content to give the Newsletter Coordinator time to assemble the newsletter and get it translated.
-
-- **Location**: Home
-- **Time of day**: Any
-- **Months**: Year-round
-
-### 🖥️ Website Administrator
-
-The website administrator maintains this very website, adding and updating content when necessary.
-
-- **Location**: Home
-- **Time of day**: Any
-- **Months**: Year-round
-
-### 💬 WhatsApp Administrator
-
-The PTA operates WhatsApp groups for Abingdon families. The WhatsApp administrator moderates these groups, shares PTA information in the groups and helps answer questions that families have about the PTA and about Abingdon.
-
-- **Location**: Home
-- **Time of day**: Any
-- **Months**: Year-round
-
-### 🗯️ Facebook Administrator
-
-The PTA operates a Facebook group for Abingdon families. The Facebook administrator moderates these groups, shares PTA information in the group and helps answer questions that families have about the PTA and about Abingdon.
-
-- **Location**: Home
-- **Time of day**: Any
-- **Months**: Year-round
-
-### ☎️ Directory Coordinator
-
-The Abingdon PTA intends to create a student directory during the 2022-2023 school year. This would be the first student directory in several years. It will contain information for only those families who have opted in to share such information with the PTA via the checkbox on the Annual Online Verification Process that all families complete annually.
-
-The Directory Coordinator collects and organizes student and family data as provided by the school registrar and formats the information to prepare for inclusion in the online student directory.
-
-- **Location**: Home
-- **Time of day**: Any
-- **Months**: September and October
-
-### 🖼️ Graphic Designer
-
-The Graphic Designer(s) designs PTA flyers and may also help design new Spirit Gear products.
-
-- **Location**: Home
-- **Time of day**: Any
-- **Months**: Year-round
-
-### 📄 Copy Coordinator
-
-Abingdon students typically bring home to their parents a paper folder from the school each Tuesday (the "Tuesday folder") containing work that they have done in the previous week, as well as various flyers and other updates from the school. These may include updates from the PTA, including flyers for upcoming events. Many parents learn about PTA events from flyers placed in the Tuesday folders.
-
-The Copy Coordinator is responsible for copying PTA flyers on Monday mornings and distributing the appropriate number of flyers to each classroom teachers' mailbox. (The classroom teachers then place the flyers in each student's Tuesday folder.) Occasionally, copies may need to be made on a Friday before a holiday on Monday.
-
-It is ideal to have at least two people in this role, if not more, to ensure coverage each week. While we have many ways of sharing information with families, paper flyers are still the best way to get a message across to the most people.
-
-- **Location**: School
-- **Time of day**: School day
-- **Months**: Year-round
-
-### 🌎 Translator
-
-Translators help the PTA by translating emails and flyers into other languages that are commonly spoken by Abingdon families. Approximately 160 families at Abingdon speak Spanish at home, and about 30 families each speak Arabic, Amharic and Mongolian at home.
-
-Translators may also help us translate live PTA meetings if they are able to do so, though this is not necessary. We would be grateful for any help that a translator is able to provide.
-
-- **Location**: Home
-- **Time of day**: Any
-- **Months**: Year-round
-
 ## 🎉 Event Descriptions
 
 ### 👋 Back to School Picnic
@@ -420,6 +334,54 @@ Volunteers are needed to take pictures at school events for the Abingdon and PTA
 - **Months**: Year-round
 
 ## ❔ Other Role Descriptions
+
+### 🖥️ Website Administrator
+
+The website administrator maintains this very website, adding and updating content when necessary.
+
+- **Location**: Home
+- **Time of day**: Any
+- **Months**: Year-round
+
+### ☎️ Directory Coordinator
+
+The Abingdon PTA intends to create a student directory during the 2022-2023 school year. This would be the first student directory in several years. It will contain information for only those families who have opted in to share such information with the PTA via the checkbox on the Annual Online Verification Process that all families complete annually.
+
+The Directory Coordinator collects and organizes student and family data as provided by the school registrar and formats the information to prepare for inclusion in the online student directory.
+
+- **Location**: Home
+- **Time of day**: Any
+- **Months**: September and October
+
+### 🖼️ Graphic Designer
+
+The Graphic Designer(s) designs PTA flyers and may also help design new Spirit Gear products.
+
+- **Location**: Home
+- **Time of day**: Any
+- **Months**: Year-round
+
+### 📄 Copy Coordinator
+
+Abingdon students typically bring home to their parents a paper folder from the school each Tuesday (the "Tuesday folder") containing work that they have done in the previous week, as well as various flyers and other updates from the school. These may include updates from the PTA, including flyers for upcoming events. Many parents learn about PTA events from flyers placed in the Tuesday folders.
+
+The Copy Coordinator is responsible for copying PTA flyers on Monday mornings and distributing the appropriate number of flyers to each classroom teachers' mailbox. (The classroom teachers then place the flyers in each student's Tuesday folder.) Occasionally, copies may need to be made on a Friday before a holiday on Monday.
+
+It is ideal to have at least two people in this role, if not more, to ensure coverage each week. While we have many ways of sharing information with families, paper flyers are still the best way to get a message across to the most people.
+
+- **Location**: School
+- **Time of day**: School day
+- **Months**: Year-round
+
+### 🌎 Translator
+
+Translators help the PTA by translating emails and flyers into other languages that are commonly spoken by Abingdon families. Approximately 160 families at Abingdon speak Spanish at home, and about 30 families each speak Arabic, Amharic and Mongolian at home.
+
+Translators may also help us translate live PTA meetings if they are able to do so, though this is not necessary. We would be grateful for any help that a translator is able to provide.
+
+- **Location**: Home
+- **Time of day**: Any
+- **Months**: Year-round
 
 ### 📖 Yearbook Coordinator
 

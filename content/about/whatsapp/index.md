@@ -3,6 +3,7 @@ title: WhatsApp Groups
 description: The school and the PTA manage WhatsApp groups for Abingdon's language communities.
 linktitle: WhatsApp
 bookhidden: true
+bookSearchExclude: true
 weight: 65
 ---
 <style>

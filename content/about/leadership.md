@@ -6,7 +6,7 @@ weight: 20
 
 The PTA leadership for the 2022-2023 School Year are listed below, as well as role descriptions. If you click on a role, you will see a description for that role.
 
-Please [fill out our volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSdk4KJFIDuigz-EyhdPuWM_GejjZ5rpx9emd6jHxb2xKPQgGA/viewform?usp=sf_link) or reach out to abingdonelementaryPTA@gmail.com if you have interest in one of the vacant roles below. We would be delighted for you to join our team!
+Please [fill out our volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSf50HFDkNfDxP5VfE2LzsxKbUPZdmRGQTeNEUhXkU_qLCLWZQ/viewform?usp=sf_link) or reach out to abingdonelementarypta@gmail.com if you have interest in one of the vacant roles below. We would be delighted for you to join our team!
 
 ## Officers
 
@@ -65,26 +65,9 @@ There are other educational programs available to elementary school students, li
 | [🪙 Budget Advisory Council Representative](/roles/#-budget-advisory-council-representative) |
 | [🏫 School Plan Advisory Committee Representative](/roles/#-school-plan-advisory-committee-representative) |
 
-### 📣 Communications
-
-| Role |
-|-|
-| [📱 Social Media Coordinator](/roles/#-social-media-coordinator) |
-| [📰 Newsletter Coordinator](/roles/#-newsletter-coordinator) |
-| [🖥️ Website Administrator](/roles/#-website-administrator) |
-| [💬 WhatsApp Administrator](/roles/#-whatsapp-administrator) |
-| [🗯️ Facebook Administrator](/roles/#-facebook-administrator) |
-| [☎️ Directory Coordinator](/roles/#-directory-coordinator) |
-| [🖼️ Graphic Designer](/roles/#-graphic-designer) |
-| [📄 Copy Coordinator](/roles/#-copy-coordinator) |
-| [🌎 Translators (Spanish)](/roles/#-translator) |
-| [🌍 Translators (Arabic)](/roles/#-translator) |
-| [🌍 Translators (Amharic)](/roles/#-translator) |
-| [🌏 Translators (Mongolian)](/roles/#-translator) |
-
 ### 🎉 Events
 
-The Events Committee organizes several events throughout the year. These events strengthen our community spirit, and they're a lot of fun too! We couldn't do it without volunteer support, so please help us by [joining the Events Committee](https://docs.google.com/forms/d/e/1FAIpQLSdk4KJFIDuigz-EyhdPuWM_GejjZ5rpx9emd6jHxb2xKPQgGA/viewform?usp=sf_link).
+The Events Committee organizes several events throughout the year. These events strengthen our community spirit, and they're a lot of fun too! We couldn't do it without volunteer support, so please help us by [joining the Events Committee](https://docs.google.com/forms/d/e/1FAIpQLSf50HFDkNfDxP5VfE2LzsxKbUPZdmRGQTeNEUhXkU_qLCLWZQ/viewform?usp=sf_link).
 
 | Event | Month |
 |-|-|
@@ -101,7 +84,9 @@ The Events Committee organizes several events throughout the year. These events 
 
 ### 🙏 Staff Appreciation
 
-The Staff Appreciation Committee blesses our wonderful Abingdon staff throughout the year. We would like to honor as many of the days listed below as possible! Please help us by [joining the Staff Appreciation Committee](https://docs.google.com/forms/d/e/1FAIpQLSdk4KJFIDuigz-EyhdPuWM_GejjZ5rpx9emd6jHxb2xKPQgGA/viewform?usp=sf_link).
+The Staff Appreciation Committee blesses our wonderful Abingdon staff throughout the year. Please help us by [joining the Staff Appreciation Committee](https://docs.google.com/forms/d/e/1FAIpQLSf50HFDkNfDxP5VfE2LzsxKbUPZdmRGQTeNEUhXkU_qLCLWZQ/viewform?usp=sf_link).
+
+<!--
 
 | Event | Month |
 |-|-|
@@ -126,10 +111,17 @@ The Staff Appreciation Committee blesses our wonderful Abingdon staff throughout
 | School Lunch Hero Day | [May](https://schoolnutrition.org/schoollunchheroday/) |
 | Speech Pathologist Day | May |
 
+-->
+
 ### ❔ Other Roles
 
 | Role |
 |-|
+| [🖥️ Website Administrator](/roles/#-website-administrator) |
+| [☎️ Directory Coordinator](/roles/#-directory-coordinator) |
+| [🖼️ Graphic Designer](/roles/#-graphic-designer) |
+| [📄 Copy Coordinator](/roles/#-copy-coordinator) |
+| [🌎 Translators](/roles/#-translator) |
 | [📖 Yearbook Coordinator](/roles/#-yearbook-coordinator) |
 | [🍎 Room Buddy Coordinator](/roles/#-room-buddy-coordinator) |
 | [🧸 Lost and Found Coordinator](/roles/#-lost-and-found-coordinator) |
