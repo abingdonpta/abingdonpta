@@ -72,7 +72,9 @@ Due to a lack of volunteers, the Abingdon PTA has not participated in the Reflec
 
 ### 🏃‍♀️ Girls on the Run
 
-Girls on the Run is a youth development program for girls in 3rd-8th grade. They teach life skills through dynamic interactive lessons and running games. The program culminates with the girls being physically and emotionally prepared to complete a celebratory 5K running event. The goal of the program is to unleash confidence through accomplishment while establishing a lifetime appreciation of health and fitness. 
+Girls on the Run is a youth development program for girls in 3rd-8th grade. They teach life skills through dynamic interactive lessons and running games. The program culminates with the girls being physically and emotionally prepared to complete a celebratory 5K running event. The goal of the program is to unleash confidence through accomplishment while establishing a lifetime appreciation of health and fitness.
+
+Abingdon has not participated in Girls on the Run since the pandemic started. During the 2022-23 school year, we would like to bring back Girls on the Run to Abingdon.
 
 Learn more about Girls on the Run on [their website](https://www.girlsontherun.org) and their [local Northern Virginia unit's website](https://gotrnova.org).
 
