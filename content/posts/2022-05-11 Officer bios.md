@@ -25,12 +25,6 @@ I have been a part of the Abingdon community for six years, and I still have fiv
 
 Thank you for the nomination for VP of Community Relations for the 2022-2023 School Year! I am excited to work with an amazing community of parents and teachers at Abingdon. I am mom to Grace in 3rd Grade and Hunter in 1st grade and we reside in Claremont. I have enjoyed my experience with the PTA Sponsored events here at Abingdon, which sparked my interest in further engaging with the PTA. In my "day job" I am a Global Program Manager for Schneider Electric, an energy management corporation. I have lived in Arlington for over 15 years and look forward to serving Abingdon and our students in the endeavors to support our community.
 
-## 📣 Laura Chadwick — VP for Communications
-
-My name is Laura Chadwick and I am so pleased to be considered for the position of the VP of Communications for the Abingdon Elementary School PTA for the ’22-’23 school year. I am the mom of Jack and Luke, both age 8 and in the second grade. I am passionate about public service and public schools, and know how important parental involvement is too!.
-
-I have spent my career advocating for thoughtful and inclusive public policy, serving as a Legislative Assistant on Capitol Hill, a federal government relations professional and currently as head of membership, marketing, recruitment and events for the XR Association. I am thrilled to be bringing these skills to the VP of Communications position. This year, we will focus on expanding the type of news and stories — including efforts to highlight and profile PTA leaders, volunteers, Abingdon staff, and others. We will also look to offer new and additional ways to share Abingdon PTA news so that it stays top of mind. Lastly, we will provide opportunities for parents and kids to come together and learn about social media best practices. Abingdon PTA social media is a great opportunity and perhaps one of few that can help families observe and discuss what thoughtful and respectful online sharing looks like.
-
 ## 🎉 Meredith Greene — VP for Events
 
 Thank you for the nomination to be the VP of Events for 2022-2023!
