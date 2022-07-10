@@ -123,7 +123,6 @@ The Staff Appreciation Committee blesses our wonderful Abingdon staff throughout
 | [📄 Copy Coordinator](/roles/#-copy-coordinator) |
 | [🌎 Translators](/roles/#-translator) |
 | [📖 Yearbook Coordinator](/roles/#-yearbook-coordinator) |
-| [🍎 Room Buddy Coordinator](/roles/#-room-buddy-coordinator) |
 | [🧸 Lost and Found Coordinator](/roles/#-lost-and-found-coordinator) |
 | [🗽 Diversity Coordinator](/roles/#-diversity-coordinator) |
 | [💳 Bank Statement Reviewer](/roles/#-bank-statement-reviewer) |

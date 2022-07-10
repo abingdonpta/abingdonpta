@@ -393,16 +393,6 @@ The Yearbook Coordinator is in charge of ordering the yearbooks from the publish
 - **Time of day**: Any
 - **Months**: March to June
 
-### 🍎 Room Buddy Coordinator
-
-The PTA is starting a "Room Buddies" program. You may have heard about "Room Parents" or "Class Moms" at other schools, and this is intended to be similar.
-
-The Room Buddy Coordinator recruits Room Buddies for as many classrooms as possible. The Coordinator also occasionally polls Room Buddies to get a pulse on various issues or needs throughout the school.
-
-- **Location**: Home, perhaps occasionally school to recruit additional Room Buddies
-- **Time of day**: Any; occasional daytime availability is a plus for in-person recruitment at dropoff and pickup
-- **Months**: Year-round
-
 ### 🧸 Lost and Found Coordinator
 
 Abingdon has a lost and found near the front entrance. As students rifle through the lost and found looking for their items, it gets messy quite quickly. The lost and found becomes especially full in the fall and the spring, when it is cold in the morning but warmer in the afternoon so that children take off their jackets outside during recess and forget them.
