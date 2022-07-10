@@ -21,6 +21,6 @@ There are many ways to stay informed about PTA events and activities:
 
 Also, if you are able, please:
 
-🔨 [Volunteer](https://docs.google.com/forms/d/e/1FAIpQLSf50HFDkNfDxP5VfE2LzsxKbUPZdmRGQTeNEUhXkU_qLCLWZQ/viewform?usp=sf_link)  
-👪 [Become a Member](https://abingdonpta.memberhub.com/store/items/717576)  
-🎁 [Donate](https://abingdonpta.memberhub.com/store/items/62200)
+🔨 [Volunteer](/volunteer/)  
+👪 [Become a Member](/join/)  
+🎁 [Donate](/fundraising/)
