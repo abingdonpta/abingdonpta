@@ -86,6 +86,8 @@ Learn more about Girls on the Run on [their website](https://www.girlsontherun.o
 
 The Odyssey of the Mind Coordinator organizes students' participation in a problem-solving and critical thinking competition. The competition encourages creativity and cooperation as teams of students work together to produce a "solution" to problems; these solutions generally involve putting on a skit that incorporates props, costumes, and even songs. Learn more about Odyssey of the Mind on [their website](https://www.odysseyofthemind.com) and their [Virginia unit's website](https://vaodyssey.org).
 
+Abingdon has not participated in the Reflections program in several years. We would like to bring Odyssey back to Abingdon if we have the volunteers and the interest to do so.
+
 - **Location**: School and competition location(s)
 - **Time of day**: Immediately after school day and competition time
 - **Months**: Unsure

@@ -91,13 +91,7 @@ The PTA Treasurer is required to submit this form to the IRS and to the Virginia
 
 | IRS Form 990 |
 |-|
-| Coming soon - Fall 2022 |
-
-### Application for Tax-Exempt Status
-
-The PTA's tax exempt status [was revoked years ago](https://apps.irs.gov/app/eos/detailsPage?ein=521289072&name=VIRGINIA%20CONGRESS%20OF%20PARENTS%20AND&city=ARLINGTON&state=VA&countryAbbr=US&dba=TEACHERSABINGDON&type=REVOCATION&orgTags=REVOCATION), and the PTA submitted this form to the IRS on January 22, 2022 in order to request that the tax-exempt status be reinstated.
-
-{{< button href="/tax/Form 1023.pdf" >}}Click Here to View Our Application for Tax-Exempt Status (Form 1023){{< /button >}}
+| [2021-2022 990N](/990/2021-2022.pdf) |
 
 ### IRS Determination Letter
 
@@ -133,3 +127,4 @@ The Abingdon Cardinal and Abingdon PTA logos are below. We recommend using the S
 - **Insurance Policy**: The PTA is required to be covered by insurance at all times. The policy is submitted to the Virginia PTA each year.
 - **Tax Exempt Letter from Virginia PTA**: After the PTA has sent all of the required documents to the Virginia PTA, it receives a letter confirming that it is a tax-exempt subordinate to the Virginia PTA. PTA volunteers can use this letter to solicit donations from businesses, as it provides assurance that any donations made to the PTA are tax-deductible.
 - **Sales Tax Exemption Letter**: Once the PTA's tax-exempt status is reinstated, we will apply for a sales tax exemption from Virginia's Department of Taxation. This will allow the PTA to purchase items without paying sales tax.
+- **Application for Tax Exempt Status (IRS Form 1023)**: The PTA's tax exempt status [was revoked years ago](https://apps.irs.gov/app/eos/detailsPage?ein=521289072&name=VIRGINIA%20CONGRESS%20OF%20PARENTS%20AND&city=ARLINGTON&state=VA&countryAbbr=US&dba=TEACHERSABINGDON&type=REVOCATION&orgTags=REVOCATION), and the PTA submitted this form to the IRS on January 22, 2022 in order to request that the tax-exempt status be reinstated.
