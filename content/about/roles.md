@@ -58,13 +58,13 @@ The After School Enrichment Coordinator serves as the liaison with our vendor to
 - **Time of day**: Immediately after school day
 - **Months**: Year-round
 
-### 🎨 Reflections Chair
+### 🎨 Reflections
 
 Reflections is a national PTA-sponsored program that encourages students to express themselves artistically. Learn more about Reflections [on the National PTA's website](https://www.pta.org/home/programs/reflections).
 
-The Reflections Chair organizes Abingdon's Reflections program by publicizing the program and recruiting volunteers to help judge the submissions. To make things easier, the National PTA publishes a "[Local Leader's Guide](https://www.pta.org/docs/default-source/files/programs/reflections/current_reflections-21-22/21-22_local-leaders-guide_reflections69c84cf1aa3e63899f67ff00009b2bd9.pdf)" which provides step-by-step instructions on how to manage the Reflections program. They also provide [a great deal of promotional material](https://www.pta.org/home/programs/reflections/startyourprogram) that our PTA can use to raise awareness of the program.
+The Reflections Chair organizes Abingdon's Reflections program by publicizing the program and recruiting volunteers to help judge the submissions. To make things easier, the National PTA publishes a "[Local Leader's Guide](https://www.pta.org/docs/default-source/files/programs/reflections/current_reflections-21-22/21-22_local-leaders-guide_reflections69c84cf1aa3e63899f67ff00009b2bd9.pdf)" which provides step-by-step instructions on how to manage the Reflections program. They also provide [a great deal of promotional material](https://www.pta.org/home/programs/reflections/startyourprogram) that our PTA can use to raise awareness of the program. The National PTA recommends that local units recruit a committee of 4-6 parent and teacher volunteers.
 
-Due to a lack of volunteers, the Abingdon PTA has not participated in the Reflections program in several years. During the 2022-23 school year, we would like to bring back Reflections to Abingdon.
+Abingdon has not participated in the Reflections program in several years. We would like to bring Reflections back to Abingdon if we have the volunteers and the interest to do so.
 
 - **Location**: Home, potentially school as well
 - **Time of day**: Unsure
@@ -74,7 +74,7 @@ Due to a lack of volunteers, the Abingdon PTA has not participated in the Reflec
 
 Girls on the Run is a youth development program for girls in 3rd-8th grade. They teach life skills through dynamic interactive lessons and running games. The program culminates with the girls being physically and emotionally prepared to complete a celebratory 5K running event. The goal of the program is to unleash confidence through accomplishment while establishing a lifetime appreciation of health and fitness.
 
-Abingdon has not participated in Girls on the Run since the pandemic started. During the 2022-23 school year, we would like to bring back Girls on the Run to Abingdon.
+Abingdon has not participated in Girls on the Run since the pandemic started. We would like to bring Girls on the Run back to Abingdon if we have the volunteers and the interest to do so.
 
 Learn more about Girls on the Run on [their website](https://www.girlsontherun.org) and their [local Northern Virginia unit's website](https://gotrnova.org).
 
@@ -86,7 +86,7 @@ Learn more about Girls on the Run on [their website](https://www.girlsontherun.o
 
 The Odyssey of the Mind Coordinator organizes students' participation in a problem-solving and critical thinking competition. The competition encourages creativity and cooperation as teams of students work together to produce a "solution" to problems; these solutions generally involve putting on a skit that incorporates props, costumes, and even songs. Learn more about Odyssey of the Mind on [their website](https://www.odysseyofthemind.com) and their [Virginia unit's website](https://vaodyssey.org).
 
-Abingdon has not participated in the Reflections program in several years. We would like to bring Odyssey back to Abingdon if we have the volunteers and the interest to do so.
+Abingdon has not participated in the Odyssey of the Mind in several years. We would like to bring Odyssey back to Abingdon if we have the volunteers and the interest to do so.
 
 - **Location**: School and competition location(s)
 - **Time of day**: Immediately after school day and competition time

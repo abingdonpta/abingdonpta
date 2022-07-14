@@ -29,7 +29,7 @@ Please [fill out our volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSf
 |-|
 | [🍅 Garden Coordinator](/roles/#-garden-coordinator) |
 | [🔔 After School Enrichment Coordinator](/roles/#-after-school-enrichment-coordinator) |
-| [🎨 Reflections Chair](/roles/#-reflections-chair) |
+| [🎨 Reflections](/roles/#-reflections) |
 | [🏃‍♀️ Girls on the Run](/roles/#-girls-on-the-run) |
 | [🧠 Odyssey of the Mind](/roles/#-odyssey-of-the-mind) |
 

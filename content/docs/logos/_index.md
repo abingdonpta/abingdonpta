@@ -22,9 +22,8 @@ The PTA created their own PTA logo as a result of the official logo provided by 
 
 A PTA volunteer created the two Abingdon Cardinal logos below in September 2014.
 
-They were based off of a design used by a T-shirt company to create Spirit Gear for the PTA sometime between 2011 and 2014, although either the company either wouldn't provide the logo file or the PTA didn't request it.
-
-<!--That, in turn, was based off of a “thumbs up” cardinal image from the website iStock, which the PTA purchased from iStock in order to ensure that it had the rights to it before creating the logo files seen below.-->
+<!--
+They were based off of a design used by a T-shirt company to create Spirit Gear for the PTA sometime between 2011 and 2014, although either the company either wouldn't provide the logo file or the PTA didn't request it. That, in turn, was based off of a “thumbs up” cardinal image from the website iStock, which the PTA purchased from iStock in order to ensure that it had the rights to it before creating the logo files seen below.-->
 
 | Type | SVG | Original |
 | ---- | --- | -------- |

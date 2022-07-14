@@ -3,7 +3,7 @@ title: Events
 description: The Abingdon PTA organizes several events throughout the year.
 images:
 - events/images/IMG_2663.jpg
-weight: 10
+weight: 30
 ---
 
 The PTA organizes several events throughout the year. These events strengthen our community spirit, and they're a lot of fun too!
