@@ -12,8 +12,8 @@ If you'd like to help organize our staff appreciation activities, please [fill o
 
 ## Teacher Appreciation
 
-### Spirit Wear for Teachers
-{{< photo src="images/IMG_2651.jpg" alt="Abingdon staff wearing PTA-supplied Spirit Wear" >}}
+### Spirit Gear for Teachers
+{{< photo src="images/IMG_2651.jpg" alt="Abingdon staff wearing PTA-supplied Spirit Gear" >}}
 
 ### Teacher Appreciation Week
 {{< photo src="images/1521507812924440578_1.jpg" alt="Abingdon staff enjoying a PTA-supplied buffet in the teacher's lounge" >}}

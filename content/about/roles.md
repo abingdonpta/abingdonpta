@@ -106,11 +106,11 @@ The Coordinator also works with the PTA communications team to publicize these p
 - **Time of day**: Any
 - **Months**: Year-round
 
-### 👕 Spirit Wear Coordinator
+### 👕 Spirit Gear Coordinator
 
-Spirit Wear are items with Abingdon branding on them, typically the Cardinal logo, that the PTA sells to families as a fundraiser or simply to foster school spirit. (It can also include magnets, bumper stickers, and other items that aren't necessarily "worn.")
+Spirit Gear are items with Abingdon branding on them, typically the Cardinal logo, that the PTA sells to families as a fundraiser or simply to foster school spirit. (It can also include magnets, bumper stickers, and other items that aren't necessarily "worn.")
 
-The Spirit Wear Coordinator is responsible for researching the various options for procuring Spirit Wear. Along with the Executive Board, they select which vendor we use. They also place and track orders, manage inventory, and oversee distribution.
+The Spirit Gear Coordinator is responsible for researching the various options for procuring Spirit Gear. Along with the Executive Board, they select which vendor we use. They also place and track orders, manage inventory, and oversee distribution.
 
 - **Location**: Home, with some visits to the school in order to store and organize merchandise
 - **Time of day**: Mixed - some availability during school hours to manage inventory is necessary, as well as availability during school events which are typically evenings and weekends.

@@ -40,7 +40,7 @@ There are other educational programs available to elementary school students, li
 | Role |
 |-|
 | [💸 Retail Rebates Coordinator](/roles/#-retail-rebates-coordinator) |
-| [👕 Spirit Wear Coordinator](/roles/#-spirit-wear-coordinator) |
+| [👕 Spirit Gear Coordinator](/roles/#-spirit-gear-coordinator) |
 | [✏️ Edukit Coordinator](/roles/#-edukit-coordinator) |
 | [📸 School Pictures Coordinator](/roles/#-school-pictures-coordinator) |
 | [📚 Read-A-Thon Coordinator](/roles/#-read-a-thon-coordinator) |

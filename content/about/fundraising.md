@@ -47,9 +47,9 @@ Edukit offers prepackaged school supplies that are tailored to meet the needs of
 
 Abingdon holds a Read-A-Thon every year - a fundraiser when students track the number of pages they read over the course of two weeks and and sponors (usually parents and grandparents) pledge to give to the PTA a certain amount of money for each page the student has read. The PTA also awards prizes to students and classes who have read the most. The Read-A-Thon is the biggest PTA fundraiser of the year.
 
-## Spirit Wear
+## Spirit Gear
 
-We aren't currently selling Spirit Wear (t-shirts, hats, etc.), but we hope to start soon. Cheeck our newsletter and social media for updates on Spirit Wear availability.
+We aren't currently selling Spirit Gear (t-shirts, hats, etc.), but we hope to start soon. Check our newsletter and social media for updates on Spirit Gear availability.
 
 A portion of the proceeds go to the PTA.
 
