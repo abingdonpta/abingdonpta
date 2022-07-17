@@ -14,6 +14,10 @@ url: /stuff/
 
 {{< button relref="boardminutes" >}}Click Here to View Our Executive Board minutes{{< /button >}}
 
+## Tax Exemption Letter from Virginia PTA
+
+## Sales Tax Exemption Letter
+
 ## Form 1023
 
 The PTA's tax exempt status was revoked years ago, and the PTA submitted this form to the IRS on January 22, 2022 in order to request that the tax-exempt status be reinstated.
