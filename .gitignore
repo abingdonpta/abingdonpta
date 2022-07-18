@@ -1,3 +1,5 @@
 .hugo_build.lock
 /public
 /resources
+/content/docs/memos
+/content/docs/insurance
