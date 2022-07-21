@@ -1,7 +1,7 @@
 ---
 title: Staff Grants
 description: The Abingdon PTA provides grants to meet the needs of the school.
-weight: 60
+weight: 70
 ---
 
 The Abingdon PTA provides grants to support Abingdon students. We encourage Abingdon staff to apply for grants using the form below.
