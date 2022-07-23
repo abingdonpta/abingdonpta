@@ -8,45 +8,7 @@ Description: A peaceful world starts here.
 hr, label[for=toc-control], #toc-control { display: none; }
 </style>
 
- <!-- Slideshow container - https://www.w3schools.com/howto/howto_js_slideshow.asp -->
-<div class="slideshow-container">
-
-  <!-- Full-width images with number and caption text -->
-  <div class="mySlides fade">
-    <div class="numbertext"></div>
-    <img src="/carousel/abingdon.webp" width="736" height="414" alt="A photo of Abingdon Elementary School">
-    <div class="text"></div>
-  </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext"></div>
-    <img src="/carousel/IMG_2663.webp" width="736" height="414" alt="A photo of a PTA event, Winter Wonderland">
-    <div class="text"></div>
-  </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext"></div>
-    <img src="/carousel/IMG_5072.webp" width="736" height="414" alt="A photo of a PTA event, Trunk or Treat">
-    <div class="text"></div>
-  </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext"></div>
-    <img src="/carousel/IMG_7308.webp" width="736" height="414" alt="A photo of a PTA event, International Night">
-    <div class="text"></div>
-  </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext"></div>
-    <img src="/carousel/IMG_2669.webp" width="736" height="414" alt="A photo of a PTA event, Winter Wonderland">
-    <div class="text"></div>
-  </div>
-
-  <div class="mySlides fade">
-    <div class="numbertext"></div>
-    <img src="/carousel/040222_3.webp" width="736" height="414" alt="A photo of volunteers working in the Abingdon Garden">
-    <div class="text"></div>
-  </div>
+{{< carousel items="1" height="56.25" unit="%" duration="5000" >}}
 
 Abingdon Elementary School serves children in preschool through fifth grade in Arlington, Virginia.
 

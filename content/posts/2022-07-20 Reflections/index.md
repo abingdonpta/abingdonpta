@@ -8,6 +8,7 @@ images:
 - social/r---show-your-voice_facebook.webp
 aliases:
     - /reflections
+categories: reflections
 ---
 
 The Abingdon PTA is proud to announce the Reflections Arts Program for 2022!
