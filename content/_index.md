@@ -23,5 +23,5 @@ Abingdon's PTA is an active and enthusiastic group of parents and teachers worki
 <h2>View the Latest Abingdon PTA News:</h2>
 </div>
 
-<link rel="stylesheet" href="/css/carousel.css">
-<script type="text/javascript" src="/js/carousel.js"></script>
+<link rel="stylesheet" href="/css/carousel2.css">
+<script type="text/javascript" src="/js/carousel2.js"></script>
