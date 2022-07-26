@@ -6,10 +6,10 @@ weight: 20
 
 ## News from Abingdon
 - [🏫 View Abingdon's webpage.](https://abingdon.apsva.us/)
+- [<img src="/images/Calendar.svg" height="20" width="20" alt="Calendar logo"> View Abingdon's calendar.](https://abingdon.apsva.us/calendar/)
 - [<img src="/images/Twitter.svg" height="20" width="20" alt="Twitter logo"> Follow Abingdon on Twitter.](https://twitter.com/AbingdonGIFT)
 - [<img src="/images/Facebook.svg" height="20" width="20" alt="Facebook logo"> Follow Abingdon on Facebook.](https://facebook.com/AbingdonES)
 - [<img src="/images/Instagram.svg" height="20" width="20" alt="Instagram logo"> Follow Abingdon on Instagram.](https://www.instagram.com/abingdongift/)
-- [<img src="/images/Calendar.svg" height="20" width="20" alt="Calendar logo"> View Abingdon's calendar](https://abingdon.apsva.us/calendar/), or subscribe to Abingdon's calendar ([Google Calendar](https://calendar.google.com/calendar/render?cid=webcal://abingdon.apsva.us/ical?t=84), [iCal](webcal://abingdon.apsva.us/ical))
 <!--- [<img src="/images/RSS.svg" height="20" width="20" alt="RSS logo"> Subscribe to Abindgon's RSS feed.](https://abingdon.apsva.us/feed/)
 -->
 

@@ -11,8 +11,8 @@ The PTA accepts open-ended donations at all times, using the following methods:
 
 {{< tabs "donate" >}}
 
-{{< tab "Memberhub" >}}
-You may donate to the PTA using Memberhub. A portion of the donation will be used to pay transaction fees ($0.50 + 3.5% of each transaction).
+{{< tab "Credit Card" >}}
+You may donate to the PTA using a credit card on Memberhub. A portion of the donation will be used to pay transaction fees ($0.50 + 3.5% of each transaction).
 
 {{< button href="https://abingdonpta.memberhub.com/store/items/62200" >}}Click Here to Donate to the PTA Using Memberhub{{< /button >}}
 {{< /tab >}}

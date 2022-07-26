@@ -13,11 +13,10 @@ The Abingdon Elementary PTA is an active and enthusiastic group of parents and t
 ## What does the PTA do?
 For over 70 years, Abingdon's PTA has supported Abingdon Elementary and the surrounding community by:
 
+- **Educational Programs**: Providing extra learning opportunities to children by organizing after-school classes, extra-curricular activities, and other programs
+- **Community Relations**: Raising funds to provide food, clothing, and school supplies to families who cannot afford them
 - **Events**: Organizing events that bring the community together
 - **Staff Appreciation**: Showing appreciation for Abingdon staff with acts of kindness and generosity
-- **Community Relations**: Raising funds to provide food, clothing, and school supplies to families who cannot afford them
-- **Educational Programs**: Providing extra learning opportunities to children by organizing after-school classes, art contests, and other activities
-- We also **fundraise** to achieve these goals, and regularly **communicate** with parents and staff in order to raise awareness of our work and recruit volunteers.
 
 ## What type of role can I contribute as a member of the PTA?
 There are roles for everyone, and it depends on your interests and skillset:

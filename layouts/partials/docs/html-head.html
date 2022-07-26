@@ -4,15 +4,14 @@
 <meta name="theme-color" content="#FFFFFF">
 <meta name="color-scheme" content="light dark">
 
-{{ template "_internal/twitter_cards.html" . }}
+{{- template "_internal/twitter_cards.html" . }}
 <meta name="twitter:site" content="{{ .Site.Params.twitter }}" />
 <meta name="twitter:creator" content="{{ .Site.Params.twitter }}" />
 
-{{- template "_internal/opengraph.html" . -}}
-<!--<meta property="og:image" content="{{.Site.BaseURL}}{{ .Site.Params.og_image }}">-->
-<!--<meta property="og:image:secure" content="{{.Site.BaseURL}}{{ .Site.Params.images }}" />-->
-<meta property="og:site_name" content="{{ .Site.Params.title }}" />
-<meta name="fb_admins_meta_tag" content="{{ .Site.Params.fb }}" />
+{{- template "_internal/opengraph.html" . }}<!--
+<meta property="og:image" content="{{.Site.BaseURL}}{{ .Site.Params.og_image }}">
+<meta property="og:image:secure" content="{{.Site.BaseURL}}{{ .Site.Params.images }}" />
+--><meta name="fb_admins_meta_tag" content="{{ .Site.Params.fb }}" />
 <meta property="fb:admins" content="{{ .Site.Params.fb }}" />
 
 <title>{{ partial "docs/html-head-title" . }}</title>
