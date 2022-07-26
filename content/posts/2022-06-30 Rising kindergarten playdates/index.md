@@ -1,6 +1,6 @@
 --- 
 title: Rising Kindergarten Playdates
-description: The PTA is hosting popsicle playdates for rising kindergarteners this summer.
+summary: The PTA is hosting popsicle playdates for rising kindergarteners this summer.
 slug: rising kindergarten playdates
 date: 2022-06-30
 ---

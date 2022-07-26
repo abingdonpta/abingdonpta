@@ -1,6 +1,6 @@
 ---
 title: Leadership
-description: Leadership of the Abingdon PTA.
+summary: Leadership of the Abingdon PTA.
 weight: 20
 ---
 

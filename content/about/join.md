@@ -1,6 +1,6 @@
 ---
 title: Join the PTA
-description: Join the Abingdon PTA today!
+summary: Join the Abingdon PTA today!
 linkTitle: Join
 weight: 40
 ---

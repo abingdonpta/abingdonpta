@@ -1,6 +1,6 @@
 ---
 title: Conflict of Interest Policy for Abingdon PTA
-description: Conflict of Interest Policy for the Abingdon PTA.
+summary: Conflict of Interest Policy for the Abingdon PTA.
 ---
 
 <style type="text/css">

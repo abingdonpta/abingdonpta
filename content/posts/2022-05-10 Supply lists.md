@@ -1,6 +1,6 @@
 --- 
 title: School Supply Lists
-description: View the school supply lists for the 2022-23 school year.
+summary: View the school supply lists for the 2022-23 school year.
 slug: school supply lists
 date: 2022-05-10
 draft: true

@@ -1,6 +1,6 @@
 ---
 title: Role Descriptions
-description: Role Descriptions of the Abingdon PTA.
+summary: Role Descriptions of the Abingdon PTA.
 bookhidden: true
 linktitle: Roles
 weight: 25

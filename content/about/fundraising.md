@@ -1,6 +1,6 @@
 ---
 title: Fundraising
-description: The Abingdon PTA holds several fundraisers throughout the year.
+summary: The Abingdon PTA holds several fundraisers throughout the year.
 weight: 50
 linktitle: Fundraising / Donate
 ---

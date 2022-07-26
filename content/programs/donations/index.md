@@ -1,6 +1,6 @@
 ---
 title: Donation Drives
-description: The Abingdon PTA organizes many donation drives for our school community.
+summary: The Abingdon PTA organizes many donation drives for our school community.
 images:
 - donations/images/AFAC.jpg
 weight: 20

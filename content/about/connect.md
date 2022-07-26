@@ -1,6 +1,6 @@
 ---
 title: Connect with the PTA
-description: Ways to connect to the Abingdon PTA.
+summary: Ways to connect to the Abingdon PTA.
 weight: 60
 linktitle: Connect
 ---

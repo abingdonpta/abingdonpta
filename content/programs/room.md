@@ -1,6 +1,6 @@
 ---
 title: Room Buddies
-description: Room Buddies program at Abingdon PTA
+summary: Room Buddies program at Abingdon PTA
 draft: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Volunteer Opportunities
-description: There are many ways to get involved with the Abingdon PTA.
+summary: There are many ways to get involved with the Abingdon PTA.
 linkTitle: Volunteer
 weight: 30
 ---

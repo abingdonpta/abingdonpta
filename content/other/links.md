@@ -1,6 +1,6 @@
 ---
 title: Helpful Links
-description: Helpful links to external resources.
+summary: Helpful links to external resources.
 weight: 20
 ---
 

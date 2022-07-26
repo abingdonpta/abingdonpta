@@ -1,6 +1,6 @@
 ---
 title: Documents
-description: Documents from the Abingdon PTA
+summary: Documents from the Abingdon PTA
 weight: 80
 ---
 

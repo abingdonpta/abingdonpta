@@ -1,6 +1,6 @@
 ---
 title: Calendar
-description: Abingdon PTA's calendar.
+summary: Abingdon PTA's calendar.
 weight: 70
 ---
 

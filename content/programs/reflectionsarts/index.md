@@ -1,6 +1,6 @@
 ---
 title: Reflections
-description: The Reflections program at Abingdon PTA
+summary: The Reflections program at Abingdon PTA
 weight: 50
 aliases:
     - /reflections

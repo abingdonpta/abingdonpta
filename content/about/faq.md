@@ -1,6 +1,6 @@
 ---
 title: Frequently Asked Questions
-description: Frequently asked questions about the Abingdon PTA.
+summary: Frequently asked questions about the Abingdon PTA.
 linktitle: FAQ's
 weight: 10
 ---
@@ -25,7 +25,7 @@ There are roles for everyone, and it depends on your interests and skillset:
 - **Technically savvy** - You can update and manage our website.
 - **Financially savvy** - You can review our credit card statements and audit our finances. (Or serve as Treasurer!)
 - **Just want to participate** - We have several events throughout the year and can use volunteers.
-[Check out the roles listed here.](/roles/), and then fill out our [volunteer form](/volunteer/).
+[Check out the roles listed here](/roles/), and then fill out our [volunteer form](/volunteer/).
 
 ## Does it cost money to be a part of the PTA?
 Annual membership dues are $5 per adult. However, you do not have to be a dues-paying member to volunteer for the PTA or to attend meetings. Membership is required if you want to vote during meetings or be a PTA officer.

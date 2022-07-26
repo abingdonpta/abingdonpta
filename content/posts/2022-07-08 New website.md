@@ -1,6 +1,6 @@
 ---
 title: We've Launched a New Website
-description: We've launched a new website that's super-fast and easy to use.
+summary: We've launched a new website that's super-fast and easy to use.
 slug: New Website
 date: 2022-07-08
 ---

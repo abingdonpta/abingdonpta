@@ -1,6 +1,6 @@
 ---
 title: Meeting Agendas
-description: Meeting agendas from the Abingdon PTA
+summary: Meeting agendas from the Abingdon PTA
 url: /agendas/
 ---
 

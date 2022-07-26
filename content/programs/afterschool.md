@@ -1,6 +1,6 @@
 ---
 title: After School Enrichment
-description: Information about After School Enrichment Programs from the Abingdon PTA.
+summary: Information about After School Enrichment Programs from the Abingdon PTA.
 weight: 10
 ---
 

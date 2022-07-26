@@ -1,6 +1,6 @@
 --- 
 title: Edukit is Available to Order
-description: You can now order your school supplies for the 2022-23 school year in one convenient package.
+summary: You can now order your school supplies for the 2022-23 school year in one convenient package.
 slug: edukit available
 date: 2022-04-26
 ---

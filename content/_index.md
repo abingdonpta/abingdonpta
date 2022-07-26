@@ -1,6 +1,6 @@
 ---
 title: Abingdon Elementary School PTA
-Description: A peaceful world starts here.
+summary: A peaceful world starts here.
 ---
 
 <style>

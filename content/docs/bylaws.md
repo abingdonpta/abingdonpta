@@ -1,6 +1,6 @@
 ---
 title: Virginia PTA Local Unit Uniform Bylaws - Adopted May 21, 2022
-description: Bylaws for the Abingdon PTA
+summary: Bylaws for the Abingdon PTA
 ---
 
 <style type="text/css">

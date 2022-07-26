@@ -1,6 +1,6 @@
 ---
 title: Draft Budget for July 1, 2022 - June 30, 2023
-description: 2022-2023 Budget for the Abingdon PTA.
+summary: 2022-2023 Budget for the Abingdon PTA.
 bookhidden: true
 bookSearchExclude: true
 ---

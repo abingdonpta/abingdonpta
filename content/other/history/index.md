@@ -1,6 +1,6 @@
 ---
 title: Abingdon History
-description: The history of Abingdon Elementary.
+summary: The history of Abingdon Elementary.
 images:
 - history/images/1949-10-30.webp
 weight: 40
