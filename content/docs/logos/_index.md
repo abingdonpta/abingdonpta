@@ -13,7 +13,7 @@ At around the same time, a PTA volunteer created the PTA logo below, made to loo
 
 | Logo | SVG | PNG | Original |
 | ---- | --- | --- | -------- |
-| Abingdon Cardinal | [SVG](/logos/Abingdon-Cardinal-logo.svg) | [PNG](/logos/Abingdon-Cardinal-logo.png) | [Adobe Illustrator](/logos/Abingdon-remastered.ai)
+| Abingdon Cardinal | [SVG](/logos/Abingdon-Cardinal-logo.svg) | [PNG](/logos/Abingdon-Cardinal-logo.png) | [Adobe Illustrator](/logos/Abingdon-remastered.ai) |
 | Abingdon Cardinal B&W | [SVG](/logos/Abingdon-Cardinal-logo-BW.svg) | [PNG](/logos/Abingdon-Cardinal-logo-BW.png) |
 | Abingdon PTA | [SVG](/logos/Abingdon-PTA-logo.svg) | [PNG](/logos/Abingdon-PTA-logo.png) | [JPEG](/logos/abingdonelem.jpg) |
 

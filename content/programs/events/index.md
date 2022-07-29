@@ -4,6 +4,8 @@ summary: The Abingdon PTA organizes several events throughout the year.
 images:
 - events/images/IMG_2663.jpg
 weight: 30
+aliases:
+    - /community-events
 ---
 
 The PTA organizes several events throughout the year. These events strengthen our community spirit, and they're a lot of fun too!
@@ -56,7 +58,7 @@ If you're interested in helping to organize our events, please [fill out our vol
 
 {{< photo src="images/2020-02-21.jpg" alt="Abingdon Cardinal welcoming participants to Movie Night" >}}
 
-## Book Swap
+## Free Book Swap
 
 {{< photo src="images/PXL_20220319_165345334.jpg" alt="Books in front of Abingdon available to be taken or swapped" >}}
 {{< photo src="images/PXL_20220319_171526195.jpg" alt="People swapping books in front of Abingdon" >}}

@@ -3,6 +3,8 @@ title: Frequently Asked Questions
 summary: Frequently asked questions about the Abingdon PTA.
 linktitle: FAQ's
 weight: 10
+aliases:
+    - /about-pta
 ---
 
 ## What is the PTA?
@@ -46,8 +48,8 @@ You can email the PTA at abingdonelementarypta@gmail.com.
 ## What does the PTA do with the money raised from fundraisers?
 PTA funds are used to support the school and the community, including:
 - Securing vendors, food, and rental equipment for events
-- Support teacher appreciation activities and supplies
-- Supplies for educational programs, including the school garden and the school play
+- Support staff appreciation activities and supplies
+- Supplies for educational programs, including the Abingdon community garden and the school play
 - Contributions to charity drives
 
 ## I am not English speaking; how can I speak/participate in another language?

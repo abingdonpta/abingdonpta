@@ -3,6 +3,10 @@ title: Connect with the PTA
 summary: Ways to connect to the Abingdon PTA.
 weight: 60
 linktitle: Connect
+aliases:
+    - /meetings
+    - /contact-us
+    - /cardinal-courrier
 ---
 <style>
 label[for=toc-control], #toc-control { display: none; }

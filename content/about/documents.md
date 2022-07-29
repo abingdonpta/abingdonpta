@@ -10,7 +10,7 @@ Agendas are available here before each meeting, and meeting minutes are availabl
 
 | Meeting Date | Agenda | Minutes | Presentation |
 | ------------ | ------ | ------- | ------------ |
-| 2022-05-24   | [Agenda](/agendas/2022-05-24/) | | |
+| 2022-05-24   | [Agenda](/agendas/2022-05-24/) | [Minutes](/minutes/2022-05-24/) | |
 | 2022-04-19   | [Agenda](/agendas/2022-04-19/) | [Minutes](/minutes/2022-04-19/) | |
 | 2022-03-08   | [Agenda](/agendas/2022-03-08/) | [Minutes](/minutes/2022-03-08/) | |
 | 2022-02-08   | [Agenda](/agendas/2022-02-08/) | [Minutes](/minutes/2022-02-08/) | [Presentation](/presentations/2022-02-08.pdf) |
@@ -27,12 +27,6 @@ Agendas are available here before each meeting, and meeting minutes are availabl
 The Abingdon PTA is required to adhere to the [Virginia PTA Local Unit Uniform Bylaws](https://www.vapta.org/27-committees/bylaws). Our local PDF version [can be found here](/bylawsfolder/2022-2023.pdf), while an easy-to-read webpage with the bylaws is maintained below.
 
 {{< button relref="bylaws" >}}Click Here to View the Bylaws for 2022-2023{{< /button >}}
-
-| Previous Bylaws |
-|-|
-| [2021-2022 Bylaws](/bylaws/2021-2022.pdf) |
-| [2020-2021 Bylaws](/bylaws/2020-2021.pdf) |
-| [2015-2020 Bylaws](/bylaws/2015-2020.pdf) |
 
 ### Organizational Structure Form
 

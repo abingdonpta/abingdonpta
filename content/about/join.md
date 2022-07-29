@@ -3,6 +3,8 @@ title: Join the PTA
 summary: Join the Abingdon PTA today!
 linkTitle: Join
 weight: 40
+aliases:
+    - /join-pta
 ---
 
 Everyone — parents & guardians, educators, students and other community members — is invited to become a member of our PTA.
