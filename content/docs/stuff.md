@@ -1,7 +1,6 @@
 ---
 title: Board Documents
 summary: Documents and files for the PTA Board.
-bookhidden: true
 bookSearchExclude: true
 url: /stuff/
 ---

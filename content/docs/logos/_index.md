@@ -1,7 +1,6 @@
 ---
 title: Logos
 summary: Abingdon PTA Logos
-bookhidden: true
 bookSearchExclude: true
 url: /logos/
 ---

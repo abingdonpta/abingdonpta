@@ -30,9 +30,9 @@ The Abingdon PTA is required to adhere to the [Virginia PTA Local Unit Uniform B
 
 | Previous Bylaws |
 |-|
-| [2021-2022 Bylaws](/bylawsfolder/2021-2022.pdf) |
-| [2020-2021 Bylaws](/bylawsfolder/2020-2021.pdf) |
-| [2015-2020 Bylaws](/bylawsfolder/2015-2020.pdf) |
+| [2021-2022 Bylaws](/bylaws/2021-2022.pdf) |
+| [2020-2021 Bylaws](/bylaws/2020-2021.pdf) |
+| [2015-2020 Bylaws](/bylaws/2015-2020.pdf) |
 
 ### Organizational Structure Form
 
@@ -62,7 +62,7 @@ The treasurer must present a written financial statement (typically a year-to-da
 
 | Monthly Financial Statements |
 |-|
-| Coming soon - Fall 2022 |
+| Coming soon |
 
 ### Annual Financial Reports
 
@@ -81,7 +81,7 @@ The PTA is required to conduct an audit of its finances every fiscal year. (This
 
 | Audits |
 |-|
-| Coming soon - Fall 2022 |
+| [2021-2022 Audit](/audits/2021-2022.pdf) |
 
 ---
 
@@ -105,7 +105,7 @@ When the IRS has reviewed our application for tax-exempt status and decides that
 
 | IRS Determination Letter |
 |-|
-| Coming soon - Fall 2022? |
+| Coming soon |
 
 ---
 
