@@ -9,9 +9,9 @@ weight: 40
 
 Abingdon Elementary would love your support to create a successful, sustainable community garden.  It is our goal to enrich students' and families' knowledge of environmental sustainability and to be good stewards of our Earth, while providing first hand experience in learning about our food supply and our pollinators.
 
-If you're interested in volunteering in the garden, please subscribe to our Garden Newsletter below.
+If you're interested in volunteering in the garden, please click on the link below.
 
-{{< button href="https://docs.google.com/forms/d/e/1FAIpQLSc62Xf5rFUBG1XqElQa2VQJUJu8k8Kf0RWTWPzoemf8bOLF-A/viewform?usp=sf_link" >}}Click Here to Subscribe to our Garden Newsletter{{< /button >}}
+{{< button href="https://lp.constantcontactpages.com/su/SjhlqrR" >}}Click Here to Receive Updates About Garden Volunteer Opportunities{{< /button >}}
 
 ## What's Growing?
 
@@ -34,6 +34,19 @@ Here's what's growing in 2022:
 | Bed 11 | Cabbage (left)<br>Bok choy (center left)<br>Watermelon (middle)<br>Pumpkins (center right)<br>Cucumber (front right)<br>Zinnia (back right) |
 
 ## Photos
+
+### Thriving Plants
+*July 2022*
+
+{{< photo src="images/IMG_0056.jpg" alt="Plant growing in the Abingdon Garden" >}}
+{{< photo src="images/IMG_0058.jpg" alt="Zinnia growing in the Abingdon Garden" >}}
+{{< photo src="images/IMG_0061.jpg" alt="Pumpkins growing in the Abingdon Garden" >}}
+{{< photo src="images/IMG_0062.jpg" alt="Pumpkins growing in the Abingdon Garden" >}}
+{{< photo src="images/IMG_0063.jpg" alt="Watermelon growing in the Abingdon Garden" >}}
+{{< photo src="images/IMG_0064.jpg" alt="Okra growing in the Abingdon Garden" >}}
+{{< photo src="images/IMG_0069.jpg" alt="Squash growing in the Abingdon Garden" >}}
+{{< photo src="images/IMG_0072.jpg" alt="Everything growing in the Abingdon Garden" >}}
+{{< photo src="images/IMG_9929.jpg" alt="Pumpkins growing in the Abingdon Garden" >}}
 
 ### Earth Day Cleanup
 *April 2022*
