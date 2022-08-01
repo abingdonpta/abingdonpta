@@ -66,6 +66,7 @@ The Treasurer must prepare an annual financial report at the close of the fiscal
 
 | Annual Financial Reports |
 |-|
+| [2021-2022 Financial Report](/financialreports/2021-2022.pdf) |
 | [2020-2021 Financial Report](/financialreports/2020-2021.pdf) |
 | [2019-2020 Financial Report](/financialreports/2019-2020.pdf) |
 | [2018-2019 Financial Report](/financialreports/2018-2019.pdf) |

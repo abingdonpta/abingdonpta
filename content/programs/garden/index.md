@@ -38,6 +38,7 @@ Here's what's growing in 2022:
 ### Thriving Plants
 *July 2022*
 
+{{< photo src="images/IMG_0118.jpg" alt="Everything growing in the Abingdon Garden" >}}
 {{< photo src="images/IMG_0056.jpg" alt="Plant growing in the Abingdon Garden" >}}
 {{< photo src="images/IMG_0058.jpg" alt="Zinnia growing in the Abingdon Garden" >}}
 {{< photo src="images/IMG_0061.jpg" alt="Pumpkins growing in the Abingdon Garden" >}}
@@ -45,7 +46,6 @@ Here's what's growing in 2022:
 {{< photo src="images/IMG_0063.jpg" alt="Watermelon growing in the Abingdon Garden" >}}
 {{< photo src="images/IMG_0064.jpg" alt="Okra growing in the Abingdon Garden" >}}
 {{< photo src="images/IMG_0069.jpg" alt="Squash growing in the Abingdon Garden" >}}
-{{< photo src="images/IMG_0072.jpg" alt="Everything growing in the Abingdon Garden" >}}
 {{< photo src="images/IMG_9929.jpg" alt="Pumpkins growing in the Abingdon Garden" >}}
 
 ### Earth Day Cleanup

@@ -8,6 +8,12 @@
   <meta http-equiv="Refresh" content="0; url='{{ . }}'" />
 {{- end -}}
 
+{{- if .IsHome }}
+<meta name="robots" content="index, nofollow">
+{{- else }}
+<meta name="robots" content="noindex, nofollow">
+{{- end }}
+
 {{- template "_internal/opengraph.html" . -}}
 <meta name="fb_admins_meta_tag" content="{{ .Site.Params.fb }}" />
 <meta property="fb:admins" content="{{ .Site.Params.fb }}" />
