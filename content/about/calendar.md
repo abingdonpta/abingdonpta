@@ -15,6 +15,8 @@ The calendar is also viewable here:
 
 <iframe src="https://calendar.google.com/calendar/embed?src=abingdonelementarypta@gmail.com&ctz=America%2FNew_York" title="Abingdon PTA Calendar" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
+---
+
 ## School Calendar
 
 Also, don't forget to view and subscribe to the school's calendar, which is available here: [https://abingdon.apsva.us/calendar](https://abingdon.apsva.us/calendar)

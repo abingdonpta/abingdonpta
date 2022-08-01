@@ -25,7 +25,7 @@ Here's what's growing in 2022:
 | Bed 2  | Pumpkins |
 | Bed 3  | Cabbage (front left)<br>Okra (middle)<br>Cabbage (right, harvested) |
 | Bed 4  | Bok choy (left) |
-| Bed 5  | Cabbage (left)<br>Cantaloupe (back middle)<br>Pumpkin (front right)<br>Cilantro (right)<br>Oregano (right) |
+| Bed 5  | Pumpkins |
 | Bed 6  | Radishes (left)<br>Tomatoes (middle)<br>Beans (front right)<br>Carrots (back right) |
 | Bed 7  | Mint (back left and front right)<br>Milkweed (everywhere else) |
 | Bed 8  | Cabbage |
