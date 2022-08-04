@@ -179,9 +179,9 @@ The Winter Clothing Drive Coordinator works with our Communications team to publ
 - **Location**: School
 - **Time of day**: School day
 - **Months**: October to December
-
+<!--
 ### ✏️ School Supplies Drive
-
+-->
 ### 🥫 Canned Food Drive
 
 The PTA organizes canned food drives, particularly during school events. A bin is placed in an accessible location and its contents are donated to the Arlington Food Assistance Center (AFAC).
