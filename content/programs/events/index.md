@@ -33,11 +33,12 @@ If you're interested in helping to organize our events, please [fill out our vol
 
 ## Winter Wonderland
 
-{{< photo src="images/1492609237989699590_2.jpg" alt="Children helping clean up the garden at Winter Wonderland" >}}
 {{< photo src="images/IMG_2663.jpg" alt="Children and Abingdon Cardinal dancing at Winter Wonderland" >}}
+{{< photo src="images/IMG_2669.jpg" alt="Children and Abingdon Cardinal dancing at Winter Wonderland" >}}
 {{< photo src="images/IMG_2590.jpg" alt="Volunteers posing at Winter Wonderland" >}}
 {{< photo src="images/IMG_2587.jpg" alt="Volunteers posing at Winter Wonderland" >}}
 {{< photo src="images/1492609237989699590_1.jpg" alt="Abingdon Cardinal posing in front of photo prop at Winter Wonderland" >}}
+{{< photo src="images/1492609237989699590_2.jpg" alt="Children helping clean up the garden at Winter Wonderland" >}}
 
 ## International Night
 

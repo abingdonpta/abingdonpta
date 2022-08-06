@@ -23,7 +23,7 @@ This means that any revenue brought in by the PTA after the revocation is potent
 
 ## Attempted resolutions
 
-Attempts to resolve the issue between 2017 and 2021 were not successful. On January 22, 2022, the PTA filed a Form 1023 with the IRS, which is an application for (re)-recognition of a tax exemption. Unfortunately, the IRS [has a backlog of about eight months](https://www.irs.gov/charities-non-profits/charitable-organizations/wheres-my-application-for-tax-exempt-status) for reviewing this type of form. As a result, the IRS will likely not begin to review our application until late September 2022 at the earliest.
+Attempts to resolve the issue between 2017 and 2021 were not successful. On January 22, 2022, the PTA filed a Form 1023 with the IRS, which is an application for (re)-recognition of a tax exemption. Unfortunately, the IRS [has a backlog of about nine months](https://www.irs.gov/charities-non-profits/charitable-organizations/wheres-my-application-for-tax-exempt-status) for reviewing this type of form. As a result, the IRS will likely not begin to review our application until late October 2022 at the earliest.
 
 ## What this means for us
 
