@@ -1,6 +1,6 @@
 --- 
-title: Back to School Picnic
-summary: Come join us on Saturday, August 20th to catch up with friends and meet new ones!
+title: You're Invited to the Back-to-School Picnic
+summary: Come join us on Saturday, August 20th to catch up with friends and meet new ones.
 slug: back to school picnic
 date: 2022-08-04
 ---

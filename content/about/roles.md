@@ -168,6 +168,14 @@ The PTA seeks corporate sponsorships from local businesses and institutions. The
 - **Time of day**: Any
 - **Months**: Year-round
 
+### ❤️ Lovelines Coordinator
+
+Parents/guardians, grandparents, and other sponsors can place congratulatory notes in yearbooks that we call "lovelines." The proceeds from lovelines help to offset the cost of printing the yearbook. The Lovelines Coordinator solicits lovelines from the community and ensures that they are provided to the yearbook distributor by their deadline.
+
+- **Location**: Home
+- **Time of day**: Any
+- **Months**: March - May
+
 ## 🏘️ Community Relations Role Descriptions
 
 ### 🧥 Winter Clothing Drive

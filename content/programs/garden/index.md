@@ -35,6 +35,14 @@ Here's what's growing in 2022:
 
 ## Photos
 
+### Summer Garden Cleanup
+*August 2022*
+
+{{< photo src="images/IMG_0273.jpg" alt="Volunteers working in the Abingdon Garden" >}}
+{{< photo src="images/IMG_0267.jpg" alt="Looking at Zinnias in the Abingdon Garden" >}}
+{{< photo src="images/IMG_0271.jpg" alt="Planting seeds for the fall in the Abingdon Garden" >}}
+{{< photo src="images/IMG_0256.jpg" alt="Volunteers working in the Abingdon Garden" >}}
+
 ### Thriving Plants
 *July 2022*
 
