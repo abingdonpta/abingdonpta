@@ -2,7 +2,7 @@
 title: We've Launched a New Website
 summary: We've launched a new website that's super-fast and easy to use.
 slug: New Website
-date: 2022-07-08
+date: 2022-07-08T07:00:00-04:00
 ---
 
 The Abingdon PTA has launched a new website that's **Informative**, **fast**, and **cheap**.

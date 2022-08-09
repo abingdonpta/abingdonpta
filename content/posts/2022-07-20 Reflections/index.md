@@ -2,7 +2,7 @@
 title: Reflections Arts Program 2022
 summary: Learn about the Reflections Arts Program that the Abingdon PTA is organizing this fall.
 slug: reflections
-date: 2022-07-20
+date: 2022-07-20T07:00:00-04:00
 draft: true
 images:
 - social/r---show-your-voice_facebook.webp
