@@ -27,8 +27,8 @@ Please [fill out our volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSf
 
 | Role | Coordinator |
 |-|-|
-| [🍅 Garden Coordinator](/roles/#-garden-coordinator) | Lauren Shaub |
-| [🔔 After School Enrichment Coordinator](/roles/#-after-school-enrichment-coordinator) |
+| [🍅 Garden](/roles/#-garden) | Lauren Shaub |
+| [🔔 After School Enrichment](/roles/#-after-school-enrichment) |
 | [🎨 Reflections](/roles/#-reflections) |
 | [🏃‍♀️ Girls on the Run](/roles/#-girls-on-the-run) |
 | [🧠 Odyssey of the Mind](/roles/#-odyssey-of-the-mind) |
@@ -39,24 +39,24 @@ There are other educational programs available to elementary school students, li
 
 | Role | Coordinator |
 |-|-|
-| [💸 Retail Rebates Coordinator](/roles/#-retail-rebates-coordinator) |
-| [👕 Spirit Gear Coordinator](/roles/#-spirit-gear-coordinator) |
-| [✏️ Edukit Coordinator](/roles/#-edukit-coordinator) | Samantha Levine-Finley |
-| [📸 School Pictures Coordinator](/roles/#-school-pictures-coordinator) |
-| [📚 Read-A-Thon Coordinator](/roles/#-read-a-thon-coordinator) |
-| [🌯 Spirit Night Coordinator](/roles/#-spirit-night-coordinator) |
-| [🤝 Sponsorships Coordinator](/roles/#-sponsorships-coordinator) |
-| [❤️ Lovelines Coordinator](/roles/#-lovelines-coordinator) |
+| [💸 Retail Rebates](/roles/#-retail-rebates) |
+| [👕 Spirit Gear](/roles/#-spirit-gear) |
+| [✏️ Edukit](/roles/#-edukit) | Samantha Levine-Finley |
+| [📸 School Pictures](/roles/#-school-pictures) |
+| [📚 Read-A-Thon](/roles/#-read-a-thon) |
+| [🌯 Spirit Night](/roles/#-spirit-night) |
+| [🤝 Sponsorships](/roles/#-sponsorships) |
+| [📜 Grants](/roles/#-grants) |
+| [❤️ Lovelines](/roles/#-lovelines) | Ellen Sillery |
 
 ### 🏘️ Community Relations
 
 | Role | Coordinator |
 |-|-|
 | [🧥 Winter Clothing Drive](/roles/#-winter-clothing-drive) |
-| [✏️ School Supplies Drive](/roles/#-school-supplies-drive) |
 | [🥫 Canned Food Drive](/roles/#-canned-food-drive) |
-| [😷 Mask Drive](/roles/#-mask-drive) |
 | [👪 Adopt-a-Family](/roles/#-adopt-a-family) |
+| [🥨 Food Pantry](/roles/#-food-pantry) |
 | [🧮 ACTL Representative (Advisory Council on Teaching & Learning)](/roles/#-actl-representative) | Jackie Winkelvoss |
 | [🏫 CCPTA Representative (County Council of PTA's)](/roles/#-ccpta-representative) | Megan Miller &<br>Ken Venable |
 | [🏫 SEPTA Representative (Special Education PTA)](/roles/#-septa-representative) |
@@ -119,15 +119,14 @@ The Staff Appreciation Committee blesses our wonderful Abingdon staff throughout
 | Role | Coordinator |
 |-|-|
 | [🖥️ Website Administrator](/roles/#-website-administrator) | Dan Burd |
-| [☎️ Directory Coordinator](/roles/#-directory-coordinator) | Dan Burd |
+| [☎️ Directory](/roles/#-directory) | Dan Burd |
 | [🖼️ Graphic Designer](/roles/#-graphic-designer) |
-| [📄 Copy Coordinator](/roles/#-copy-coordinator) |
+| [📄 Photocopying Flyers](/roles/#-photocopying-flyers) |
 | [🌎 Translators](/roles/#-translator) |
-| [📖 Yearbook Coordinator](/roles/#-yearbook-coordinator) |
-| [🧸 Lost and Found Coordinator](/roles/#-lost-and-found-coordinator) |
+| [📖 Yearbook](/roles/#-yearbook) |
+| [🧸 Lost and Found](/roles/#-lost-and-found) |
 | [🗽 Diversity Coordinator](/roles/#-diversity-coordinator) |
 | [💳 Bank Statement Reviewer](/roles/#-bank-statement-reviewer) |
 | [🙋 Nominating Committee](/roles/#-nominating-committee) | Selected in March |
 | [✅ Audit Committee](/roles/#-audit-committee) | Selected in May |
-| [📜 Historian](/roles/#-historian) | Dan Burd |
 | [🐦 Mascot](/roles/#-mascot) | Abingdon Cardinal |

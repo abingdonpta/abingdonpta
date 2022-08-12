@@ -24,7 +24,7 @@ The President leads the PTA. The President presides over PTA meetings, takes the
 
 The Vice Presidents' official responsibilities are described in [the bylaws](/bylaws/#article-6-duties-of-officers).
 
-In our PTA, Vice Presidents oversee a certain subject area (for example, communications or fundraising) and provide supervision and guidance to coordinators in that subject area, while representing their programs with the Executive Board.
+In our PTA, Vice Presidents oversee a certain subject area (for example, fundraising or educational programs) and provide supervision and guidance to coordinators in that subject area, while representing their programs with the Executive Board. They may also choose to directly perform much of the work in their subject area.
 
 ### 💰 Treasurer
 
@@ -40,7 +40,7 @@ The Secretary takes notes during each PTA meeting, and maintains the PTA's non-f
 
 ## 🎓 Educational Programs Role Descriptions
 
-### 🍅 Garden Coordinator
+### 🍅 Garden
 
 Abingdon Elementary has a garden in the front of the building, to the right of the main entrance. (The garden is sometimes called an "outdoor classroom.") The goal of the garden is to enrich students' and families' knowledge of environmental sustainability and to be good stewards of our Earth, while providing first hand experience in learning about our food supply and our pollinators. More information can be found on the [garden page](/garden), and from our [garden newsletter](https://docs.google.com/forms/d/e/1FAIpQLSc62Xf5rFUBG1XqElQa2VQJUJu8k8Kf0RWTWPzoemf8bOLF-A/viewform?usp=sf_link).
 
@@ -50,7 +50,7 @@ The Garden Coordinator works with Abingdon's Sustainability Coordinator (traditi
 - **Time of day**: Weekend daytime, though some weekday availability is a plus to coordinate with staff and students
 - **Months**: Year-round except for winter
 
-### 🔔 After School Enrichment Coordinator
+### 🔔 After School Enrichment
 
 The After School Enrichment Coordinator serves as the liaison with our vendor to create the schedule for After-School Enrichment at Abingdon. The Coordinator also work with the Abingdon Student Support Team to enroll students identified for scholarships (funded by the PTA) and ensure that the room reservation request forms for each session are completed.
 
@@ -96,17 +96,15 @@ There are other educational programs available to elementary school students, li
 
 ## 💵 Fundraising Role Descriptions
 
-### 💸 Retail Rebates Coordinator
+### 💸 Retail Rebates
 
 The Retail Rebates Coordinator identifies corporate rebate programs and subscribes the PTA to them. Some examples include AmazonSmile and Harris Teeter.
-
-The Coordinator also works with the PTA communications team to publicize these programs.
 
 - **Location**: Home
 - **Time of day**: Any
 - **Months**: Year-round
 
-### 👕 Spirit Gear Coordinator
+### 👕 Spirit Gear
 
 Spirit Gear are items with Abingdon branding on them, typically the Cardinal logo, that the PTA sells to families as a fundraiser or simply to foster school spirit. (It can also include magnets, bumper stickers, and other items that aren't necessarily "worn.")
 
@@ -116,7 +114,7 @@ The Spirit Gear Coordinator is responsible for researching the various options f
 - **Time of day**: Mixed - some availability during school hours to manage inventory is necessary, as well as availability during school events which are typically evenings and weekends.
 - **Months**: Year-round
 
-### ✏️ Edukit Coordinator
+### ✏️ Edukit
 
 The Edukit program organizes pre-packaged school supplies to sell to Abingdon families. This helps ensure that families can procure the proper school supplies for their students quickly and easily, and is also a fundraiser for the PTA.
 
@@ -126,7 +124,7 @@ The Edukit Coordinator oversees the Edukit program. In the spring the coordinato
 - **Time of day**: Any
 - **Months**: March and April, August
 
-### 📸 School Pictures Coordinator
+### 📸 School Pictures
 
 Picture Day is held twice annually at Abingdon - once in the fall and once in the spring. The PTA organizes Picture Day in coordination with a vendor. Picture Day provides families with a snapshot of their children and also serves as a fundraiser for the PTA.
 
@@ -136,7 +134,7 @@ The School Pictures Coordinator selects dates in consultation with school offici
 - **Time of day**: School day
 - **Months**: Fall (typically October) and Spring (typically April)
 
-### 📚 Read-A-Thon Coordinator
+### 📚 Read-A-Thon
 
 Abingdon holds a Read-A-Thon every year - a fundraiser when students track the number of pages they read over the course of two weeks and and sponors (usually parents and grandparents) pledge to give to the PTA a certain amount of money for each page the student has read. The PTA also awards prizes to students and classes who have read the most. The Read-A-Thon is the biggest PTA fundraiser of the year.
 
@@ -150,17 +148,17 @@ The Read-A-Thon Coordinator:
 - **Time of day**: Any, with school visits taking place during the school day
 - **Months**: March and April
 
-### 🌯 Spirit Night Coordinator
+### 🌯 Spirit Night
 
 The PTA coordinates with local restaurants so that a portion of their revenue on a particular evening will be donated to the PTA. The customers typically have to inform the restaurant at the time of purchase that they are participating in the Spirit Night so that a portion of their purchase goes to the PTA (this is important).
 
-The Spirit Night Coordinator works with local restaurants to schedule the fundraiser, and works with the communications team to promote the event.
+The Spirit Night Coordinator works with local restaurants to schedule the fundraiser, and promotes the event.
 
 - **Location**: Home and around the community
 - **Time of day**: Evening
 - **Months**: Year-round
 
-### 🤝 Sponsorships Coordinator
+### 🤝 Sponsorships
 
 The PTA seeks corporate sponsorships from local businesses and institutions. These could be in the form of money, gift cards, or a tangible object that would support school programs (like a garden shed).
 
@@ -168,7 +166,15 @@ The PTA seeks corporate sponsorships from local businesses and institutions. The
 - **Time of day**: Any
 - **Months**: Year-round
 
-### ❤️ Lovelines Coordinator
+### 📜 Grants
+
+There are many organizations in our area and around the country that provide grants to PTA's like our own, often for specific purposes or to meet targeted needs. Our PTA would benefit from someone who has the time to research grant opportunities and draft applications.
+
+- **Location**: Home
+- **Time of day**: Any
+- **Months**: Year-round
+
+### ❤️ Lovelines
 
 Parents/guardians, grandparents, and other sponsors can place congratulatory notes in yearbooks that we call "lovelines." The proceeds from lovelines help to offset the cost of printing the yearbook. The Lovelines Coordinator solicits lovelines from the community and ensures that they are provided to the yearbook distributor by their deadline.
 
@@ -198,14 +204,6 @@ The PTA organizes canned food drives, particularly during school events. A bin i
 - **Time of day**: School day and during weekend events
 - **Months**: Intermittently
 
-### 😷 Mask Drive
-
-The PTA raises money to buy high-quality masks to students, and also collects new masks in packaging to provide to students.
-
-- **Location**: School
-- **Time of day**: School day
-- **Months**: Intermittently
-
 ### 👪 Adopt-a-Family
 
 The PTA partners with the Student Support Team at Abingdon to help support families in need during the holiday season in our school community.
@@ -213,6 +211,10 @@ The PTA partners with the Student Support Team at Abingdon to help support famil
 - **Location**: School
 - **Time of day**: School day
 - **Months**: November and December
+
+### 🥨 Food Pantry
+
+Description coming soon.
 
 ### 🧮 ACTL Representative
 
@@ -353,7 +355,7 @@ The website administrator maintains this very website, adding and updating conte
 - **Time of day**: Any
 - **Months**: Year-round
 
-### ☎️ Directory Coordinator
+### ☎️ Directory
 
 The Abingdon PTA intends to create a student directory during the 2022-2023 school year. This would be the first student directory in several years. It will contain information for only those families who have opted in to share such information with the PTA via the checkbox on the Annual Online Verification Process that all families complete annually.
 
@@ -371,11 +373,11 @@ The Graphic Designer(s) designs PTA flyers and may also help design new Spirit G
 - **Time of day**: Any
 - **Months**: Year-round
 
-### 📄 Copy Coordinator
+### 📄 Photocopying Flyers
 
 Abingdon students typically bring home to their parents a paper folder from the school each Tuesday (the "Tuesday folder") containing work that they have done in the previous week, as well as various flyers and other updates from the school. These may include updates from the PTA, including flyers for upcoming events. Many parents learn about PTA events from flyers placed in the Tuesday folders.
 
-The Copy Coordinator is responsible for copying PTA flyers on Monday mornings and distributing the appropriate number of flyers to each classroom teachers' mailbox. (The classroom teachers then place the flyers in each student's Tuesday folder.) Occasionally, copies may need to be made on a Friday before a holiday on Monday.
+We need volunteers to photocopy PTA flyers on Monday mornings and to distribute the appropriate number of flyers to each classroom teachers' mailbox. (The classroom teachers then place the flyers in each student's Tuesday folder.) Occasionally, copies may need to be made on a Friday before a holiday on Monday.
 
 It is ideal to have at least two people in this role, if not more, to ensure coverage each week. While we have many ways of sharing information with families, paper flyers are still the best way to get a message across to the most people.
 
@@ -393,7 +395,7 @@ Translators may also help us translate live PTA meetings if they are able to do 
 - **Time of day**: Any
 - **Months**: Year-round
 
-### 📖 Yearbook Coordinator
+### 📖 Yearbook
 
 The PTA works with school officials to produce and distribute the Abingdon Yearbook each year. School staff assemble and format the yearbook content.
 
@@ -403,7 +405,7 @@ The Yearbook Coordinator is in charge of ordering the yearbooks from the publish
 - **Time of day**: Any
 - **Months**: March to June
 
-### 🧸 Lost and Found Coordinator
+### 🧸 Lost and Found
 
 Abingdon has a lost and found near the front entrance. As students rifle through the lost and found looking for their items, it gets messy quite quickly. The lost and found becomes especially full in the fall and the spring, when it is cold in the morning but warmer in the afternoon so that children take off their jackets outside during recess and forget them.
 
@@ -444,10 +446,6 @@ At least three people need to serve on the committee. The Treasurer provides the
 - **Location**: Home
 - **Time of day**: Evening
 - **Months**: July, maybe August
-
-### 📜 Historian
-
-The historian maintains our [history webpage](/history/), and is able to tell people about what Abingdon and the PTA were like back in the day.
 
 ### 🐦 Mascot
 
