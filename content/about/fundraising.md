@@ -32,13 +32,20 @@ Arlington, VA 22206
 
 ## Harris Teeter Rebates
 
-Abingdon PTA participates in Harris Teeter's Together in Education (TIE) Program, which provides the PTA a portion of money spent at their stores by customers who sign up for the program.
+Abingdon PTA participates in Harris Teeter's Together in Education (TIE) Program, which provides the PTA a portion of money spent at their stores by customers who link their VIC Card to Abingdon.
 
-To sign up, you can:
+Help raise money for Abingdon by linking your VIC Card! Please encourage friends, families, and neighbors to also link their VIC card as well.
+
+To link your VIC Card, you can do one of the following:
+- [Fill out this very simple form.](https://docs.google.com/forms/d/e/1FAIpQLSeiAe72qt4qTb_b2xmB-TUZByVkD-QxfVNyFEEHGc6sGkFzYQ/viewform)
 - Ask your cashier to link your VIC card with Abingdon PTA. Our number is **5748**.
-- Or, click the link below and follow the instructions:
+- Or, [visit the Harris Teeter website](https://tie.harristeeter.com/tie/login) and follow the instructions.
 
-{{< button href="https://tie.harristeeter.com/tie/login" >}}Click Here to Sign Up for Harris Teeter Rebates{{< /button >}}
+{{< hint warning >}}
+**Those who linked their VIC Cards to Abingdon last school year must do so again, starting August 1.** VIC Card links are reset at the end of each school year.
+{{< /hint >}}
+
+During the 2021-2022 school year, the 60 people who were signed up helped earn $670 for Abingdon. Thank you!
 
 ## Edukit
 
