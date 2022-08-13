@@ -50,7 +50,14 @@ Please follow these rules:
 <br><br>
 <img src="images/whatsappmn.svg" height="300" width="300" alt="QR Code to join the Mongolian WhatsApp chat">
 
-{{< /details >}}
+{{< /details >}}<!--
+{{< details "گروه فارسی" >}}
+<br>
+یا کد QR را اسکن کنید {{< button href="https://chat.whatsapp.com/LRXNbiNbc9YI0Hs6iWwnhf" >}} برای عضویت اینجا ضربه بزنید {{< /button >}}
+
+<br><img src="images/whatsappfa.svg" height="300" width="300" alt="QR Code to join the WhatsApp chat for Persian">
+
+{{< /details >}}-->
 {{< details "Group for English and other languages" >}}
 <br>
 {{< button href="https://chat.whatsapp.com/JHmnCVwB6LC7Fol2uOw0Ew" >}} Tap here to join {{< /button >}} or scan the QR code:

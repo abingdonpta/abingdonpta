@@ -68,7 +68,7 @@ There are other educational programs available to elementary school students, li
 
 ### 🎉 Events
 
-The Events Committee organizes several events throughout the year. These events strengthen our community spirit, and they're a lot of fun too! We couldn't do it without volunteer support, so please help us by [joining the Events Committee](https://docs.google.com/forms/d/e/1FAIpQLSf50HFDkNfDxP5VfE2LzsxKbUPZdmRGQTeNEUhXkU_qLCLWZQ/viewform?usp=sf_link).
+The PTA organizes several events throughout the year. These events strengthen our community spirit, and they're a lot of fun too! We couldn't do it without volunteer support, so please help us by [filling out the volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSf50HFDkNfDxP5VfE2LzsxKbUPZdmRGQTeNEUhXkU_qLCLWZQ/viewform?usp=sf_link) and indicating your interest in helping with events.
 
 | Event | Month |
 |-|-|
@@ -85,7 +85,7 @@ The Events Committee organizes several events throughout the year. These events 
 
 ### 🙏 Staff Appreciation
 
-The Staff Appreciation Committee blesses our wonderful Abingdon staff throughout the year. Please help us by [joining the Staff Appreciation Committee](https://docs.google.com/forms/d/e/1FAIpQLSf50HFDkNfDxP5VfE2LzsxKbUPZdmRGQTeNEUhXkU_qLCLWZQ/viewform?usp=sf_link).
+The PTA blesses our wonderful Abingdon staff throughout the year. Please help us by [filling out the volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSf50HFDkNfDxP5VfE2LzsxKbUPZdmRGQTeNEUhXkU_qLCLWZQ/viewform?usp=sf_link) and indicating your interest in helping with Staff Appreciation.
 
 <!--
 

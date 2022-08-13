@@ -387,7 +387,7 @@ It is ideal to have at least two people in this role, if not more, to ensure cov
 
 ### 🌎 Translator
 
-Translators help the PTA by translating emails and flyers into other languages that are commonly spoken by Abingdon families. Approximately 160 families at Abingdon speak Spanish at home, and about 30 families each speak Arabic, Amharic and Mongolian at home.
+Translators help the PTA by translating emails and flyers into other languages that are commonly spoken by Abingdon families. Approximately 160 families at Abingdon speak Spanish at home, and many families speak Arabic, Amharic, Mongolian and Persian at home.
 
 Translators may also help us translate live PTA meetings if they are able to do so, though this is not necessary. We would be grateful for any help that a translator is able to provide.
 
