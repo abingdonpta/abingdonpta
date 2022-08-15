@@ -24,6 +24,6 @@ APS requires that all parents volunteering in the building complete a Volunteer 
 - take a training that is provided by APS
 - have a criminal background check processed by APS
 
- The process takes about a week to complete.
+The process takes about a week to complete. When you start your application, please notify Nikki Jondahl, Abingdon's Volunteer and Partnership Liaison, at [Nicole.jondahl@apsva.us](mailto:Nicole.jondahl@apsva.us).
 
 {{< button href="https://abingdon.apsva.us/families/volunteer" >}}Click Here to Volunteer with Abingdon Elementary{{< /button >}}

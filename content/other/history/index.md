@@ -2,9 +2,11 @@
 title: Abingdon History
 summary: The history of Abingdon Elementary.
 images:
-- history/images/1949-10-30.webp
+- history/images/IMG_5818.webp
 weight: 40
 ---
+
+<img src="images/IMG_5818.webp" alt="Old Abingdon Classroom Photo" >
 
 Abingdon first opened its doors to students in August 1950. The school has been in continuous operation since then, educating generations of students in South Arlington.
 
