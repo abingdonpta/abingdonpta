@@ -57,12 +57,12 @@ There are other educational programs available to elementary school students, li
 | [🥫 Canned Food Drive](/roles/#-canned-food-drive) |
 | [👪 Adopt-a-Family](/roles/#-adopt-a-family) |
 | [🥨 Food Pantry](/roles/#-food-pantry) |
-| [🧮 ACTL Representative (Advisory Council on Teaching & Learning)](/roles/#-actl-representative) | Jackie Winkelvoss |
-| [🏫 CCPTA Representative (County Council of PTA's)](/roles/#-ccpta-representative) | Megan Miller &<br>Ken Venable |
-| [🏫 SEPTA Representative (Special Education PTA)](/roles/#-septa-representative) |
-| [⚕️ SHAB Representative (Student Health Advisory Board)](/roles/#-shab-representative) |
-| [🚌 ACTC Representative (Advisory Committee on Transportation Choices)](/roles/#-actc-representative) |
-| [🏫 FAC Representative (Advisory Council on School Facilities and Capital Programs)](/roles/#-fac-representative) |
+| [🧮 ACTL Representative](/roles/#-actl-representative) | Jackie Winkelvoss |
+| [🏫 CCPTA Representative](/roles/#-ccpta-representative) | Megan Miller &<br>Ken Venable |
+| [🏫 SEPTA Representative](/roles/#-septa-representative) |
+| [⚕️ SHAB Representative](/roles/#-shab-representative) |
+| [🚌 ACTC Representative](/roles/#-actc-representative) |
+| [🏫 FAC Representative](/roles/#-fac-representative) |
 | [🪙 Budget Advisory Council Representative](/roles/#-budget-advisory-council-representative) |
 | [🏫 School Plan Advisory Committee Representative](/roles/#-school-plan-advisory-committee-representative) |
 
@@ -118,8 +118,6 @@ The PTA blesses our wonderful Abingdon staff throughout the year. Please help us
 
 | Role | Coordinator |
 |-|-|
-| [🖥️ Website Administrator](/roles/#-website-administrator) | Dan Burd |
-| [☎️ Directory](/roles/#-directory) | Dan Burd |
 | [🖼️ Graphic Designer](/roles/#-graphic-designer) |
 | [📄 Photocopying Flyers](/roles/#-photocopying-flyers) |
 | [🌎 Translators](/roles/#-translator) |
@@ -127,6 +125,8 @@ The PTA blesses our wonderful Abingdon staff throughout the year. Please help us
 | [🧸 Lost and Found](/roles/#-lost-and-found) |
 | [🗽 Diversity Coordinator](/roles/#-diversity-coordinator) |
 | [💳 Bank Statement Reviewer](/roles/#-bank-statement-reviewer) |
+| [🖥️ Website Administrator](/roles/#-website-administrator) | Dan Burd |
+| [☎️ Directory](/roles/#-directory) | Dan Burd |
 | [🙋 Nominating Committee](/roles/#-nominating-committee) | Selected in March |
 | [✅ Audit Committee](/roles/#-audit-committee) | Selected in May |
 | [🐦 Mascot](/roles/#-mascot) | Abingdon Cardinal |

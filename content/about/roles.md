@@ -262,11 +262,11 @@ The School Health Advisory Board (SHAB) assists with the development of health p
 
 ### 🚌 ACTC Representative
 
-The Advisory Committee on Transportation Choices was created as a joint advisory body of the Arlington County Board and the Arlington School Board for the purpose of advising the Joint Committee on Transportation Choices, which will develop and implement programs that further transportation choices for Arlington Public Schools students, families, and staff. The mission of the Advisory Committee on Transportation Choices is to advise the Joint Committee on Transportation Choices on strategies and plans of action that will develop and promote those transportation choices. Read more about ACTC [on their website](https://www.apsva.us/transportation-services/advisory-committee-transportation-choices-actc/).
+The Advisory Committee on Transportation Choices (ACTC) was created as a joint advisory body of the Arlington County Board and the Arlington School Board for the purpose of advising the Joint Committee on Transportation Choices, which will develop and implement programs that further transportation choices for Arlington Public Schools students, families, and staff. The mission of the Advisory Committee on Transportation Choices is to advise the Joint Committee on Transportation Choices on strategies and plans of action that will develop and promote those transportation choices. Read more about ACTC [on their website](https://www.apsva.us/transportation-services/advisory-committee-transportation-choices-actc/).
 
 ### 🏫 FAC Representative
 
-The Advisory Council on School Facilities and Capital Programs assists the School Board in the continuous, systematic review of school facilities and the capital improvement program by:
+The Advisory Council on School Facilities and Capital Programs (FAC) assists the School Board in the continuous, systematic review of school facilities and the capital improvement program by:
 1. Making recommendations to the School Board on the biannual school facilities and student accommodation plan which informs the ten-year capital improvement plan and recommendations for funding thereon;
 2. Providing, upon request, recommendations to the School Board on specific issues;
 3. Providing advice on areas identified by the Council regarding the capital program;
@@ -285,7 +285,7 @@ The Budget Advisory Council provides advice and insight to the School Board to h
 4. Assisting in educating the community about the budgeting process and the contents of each year’s budget; and
 5. Providing, upon the School Board’s request, study and recommendations on special topics or issues.
 
-Read more about the Budget Advisory Council [on their website](http://apsva.us/budget-advisory-council/).
+Read more about the Budget Advisory Council [on their website](https://www.apsva.us/budget-advisory-council/).
 
 ### 🏫 School Plan Advisory Committee Representative
 
@@ -346,24 +346,6 @@ Volunteers are needed to take pictures at school events for the Abingdon and PTA
 - **Months**: Year-round
 
 ## ❔ Other Role Descriptions
-
-### 🖥️ Website Administrator
-
-The website administrator maintains this very website, adding and updating content when necessary.
-
-- **Location**: Home
-- **Time of day**: Any
-- **Months**: Year-round
-
-### ☎️ Directory
-
-The Abingdon PTA intends to create a student directory during the 2022-2023 school year. This would be the first student directory in several years. It will contain information for only those families who have opted in to share such information with the PTA via the checkbox on the Annual Online Verification Process that all families complete annually.
-
-The Directory Coordinator collects and organizes student and family data as provided by the school registrar and formats the information to prepare for inclusion in the online student directory.
-
-- **Location**: Home
-- **Time of day**: Any
-- **Months**: September and October
 
 ### 🖼️ Graphic Designer
 
@@ -427,6 +409,24 @@ The Virginia PTA requires that our bank statements be opened each month by an in
 - **Time of day**: Any
 - **Months**: Year-round
 
+### 🖥️ Website Administrator
+
+The website administrator maintains this very website, adding and updating content when necessary.
+
+- **Location**: Home
+- **Time of day**: Any
+- **Months**: Year-round
+
+### ☎️ Directory
+
+The Abingdon PTA intends to create a student directory during the 2022-2023 school year. This would be the first student directory in several years. It will contain information for only those families who have opted in to share such information with the PTA via the checkbox on the Annual Online Verification Process that all families complete annually.
+
+The Directory Coordinator collects and organizes student and family data as provided by the school registrar and formats the information to prepare for inclusion in the online student directory.
+
+- **Location**: Home
+- **Time of day**: Any
+- **Months**: September and October
+
 ### 🙋 Nominating Committee
 
 The Nominating Committee nominates PTA members to serve as officers the following year. (Officer roles are the President, Treasurer, Secretary, as well as Vice President roles.) Members of the Nominating Committee identify PTA members interested in serving as officers, and report to the general membership a list of nominees for the annual election.
@@ -439,13 +439,13 @@ At least three people need to serve on the committee. The committee needs to be 
 
 ### ✅ Audit Committee
 
-The Virginia PTA requires that each PTA audit their finances at the conclusion of each school year. (This is sometimes called a financial review.) In practice, the audit is more like a checklist, and no financial experience is required to serve on the Committee.
+The Virginia PTA requires that each PTA audit their finances at the conclusion of each school year. (This is sometimes called a financial review.) In practice, the audit is more like a checklist, and no financial experience is required to serve on the committee.
 
-At least three people need to serve on the committee. The Treasurer provides their records to the Committee at the end of the fiscal year (July 1). The Committee drafts the financial report and submits it to the Executive Board and to the general membership in August for their approval at the first meeting of the school year in September. In practice, the Committee spends a few hours in July reviewing the financial records from the prior school year and meets once in order to finalize the report.
+At least three people need to serve on the committee. The Treasurer provides their records to the committee at the end of the fiscal year (July 1). The committee drafts the financial review and submits it to the Virginia PTA by August 1. The general membership then votes to approve the financial review at their first meeting of the school year in September. In practice, the committee spends a few hours in July reviewing the financial records from the prior school year and meets once in order to finalize the review.
 
 - **Location**: Home
 - **Time of day**: Evening
-- **Months**: July, maybe August
+- **Months**: July
 
 ### 🐦 Mascot
 

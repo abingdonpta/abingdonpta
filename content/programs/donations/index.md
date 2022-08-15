@@ -39,6 +39,6 @@ The PTA raises money for school supplies for children whose families cannot affo
 -->
 ## Mask Drive
 
-The PTA raises money to buy high-filtration masks to students, and also collects new masks in packaging to provide to students.
+The PTA raised money to buy high-filtration masks to students, and also collected new masks in packaging to provide to students.
 
 ![Twitter post describing the mask drive](images/1455565332261883910.webp)
