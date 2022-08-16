@@ -73,6 +73,8 @@ Disallow: /logos
 Disallow: /logos/
 Disallow: /minutes
 Disallow: /minutes/
+Disallow: /newsletters
+Disallow: /newsletters/
 Disallow: /organizational
 Disallow: /organizational/
 Disallow: /other

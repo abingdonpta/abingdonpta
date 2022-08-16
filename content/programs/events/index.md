@@ -14,9 +14,9 @@ If you're interested in helping to organize our events, please [fill out our vol
 
 ## Rising Kindergarten Playdates
 
-{{< photo src="images/Kindergarten_Playdate_3.jpg" alt="Coloring pages at a Rising Kindergarten Playdate" >}}
+{{< photo src="images/pop2.jpg" alt="Meeting neighbors and classmates at a Rising Kindergarten Playdate" >}}
 {{< photo src="images/Kindergarten_Playdate_4.jpg" alt="Finding some shade at a Rising Kindergarten Playdate" >}}
-{{< photo src="images/Kindergarten_Playdate_2.jpg" alt="Meeting neighbors and classmates at a Rising Kindergarten Playdate" >}}
+{{< photo src="images/Kindergarten_Playdate_3.jpg" alt="Coloring pages at a Rising Kindergarten Playdate" >}}
 {{< photo src="images/Kindergarten_Playdate_1.jpg" alt="Meeting administrators at a Rising Kindergarten Playdate" >}}
 
 ## Back to School Picnic
