@@ -2,6 +2,8 @@
   <strong>{{ partial "docs/date" (dict "Date" . "Format" $.Site.Params.BookDateFormat) }}</strong>
 {{ end }}
 
+<!--
+
 {{ range $taxonomy, $_ := .Site.Taxonomies }}
   {{ with $terms := $.GetTerms $taxonomy }}
   <div>
@@ -11,6 +13,8 @@
   </div>
   {{ end }}
 {{ end }}
+
+-->
 
 {{ if .Params.image }}
 <p>

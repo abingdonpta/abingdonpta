@@ -34,10 +34,10 @@ languages:
     weight: 1
     languageName: English
     title: Abingdon PTA
-#  es:
-#    weight: 2
-#    languageName: Español
-#    title: PTA de Abingdon
+  es:
+    weight: 2
+    languageName: Español
+    title: PTA de Abingdon
 #  ar:
 #    weight: 3
 #    languageName: العربية

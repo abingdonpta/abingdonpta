@@ -3,6 +3,7 @@ title: Tears & Cheers Coffee for Kindergarten Parents/Guardians
 summary: After you drop your kindergartener off, you are invited to attend the Tears & Cheers Coffee to meet fellow parents/guardians.
 slug: tears and cheers
 date: 2022-08-09T07:00:00-04:00
+categories: events
 ---
 
 Calling all kindergarten parents/guardians!
