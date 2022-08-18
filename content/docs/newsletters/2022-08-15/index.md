@@ -2,7 +2,6 @@
 title: Cardinal Courier – August 15, 2022
 summary: The Cardinal Courier newsletter for August 15, 2022.
 date: 2022-08-15T05:00:00-04:00
-bookSearchExclude: true
 images:
 - share/pta.png
 ---
