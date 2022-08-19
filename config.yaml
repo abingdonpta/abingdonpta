@@ -25,7 +25,7 @@ permalinks:
   about: /:sections[1:]/:filename/
   programs: /:sections[1:]/:filename/
   other: /:sections[1:]/:filename/
-  posts: /:year/:month/:slug/
+  posts: /:year/:month/:day/:slug/
 
 copyright: Abingdon PTA
 defaultContentLanguage: en
@@ -38,16 +38,20 @@ languages:
     weight: 2
     languageName: Español
     title: PTA de Abingdon
-#  ar:
-#    weight: 3
-#    languageName: العربية
-#    title: جمعية الاباء والمعلمين ابينجدون
-#    languagedirection: rtl
-#  am:
-#    weight: 4
-#    languageName: አማርኛ
-#    title: አቢንግዶን PTA
-#  mn:
-#    weight: 5
-#    languageName: Монгол
-#    title: Абингон PТА
+  ar:
+    weight: 3
+    languageName: العربية
+    title: جمعية الاباء والمعلمين ابينجدون
+    languagedirection: rtl
+  am:
+    weight: 4
+    languageName: አማርኛ
+    title: አቢንግዶን PTA
+  mn:
+    weight: 5
+    languageName: Монгол
+    title: Абингон PТА
+  fa:
+    weight: 6
+    languageName: فارسی
+    title: ابینگدون PTA

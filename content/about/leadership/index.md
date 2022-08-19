@@ -12,14 +12,14 @@ Please [fill out our volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSf
 
 | Role | Name | Bio |
 |-|-|-|
-| [🦸 President](/roles/#-president) | [Sharon Burd](mailto:abingdonptapresident@gmail.com) | [Bio](</2022/05/officer-bios/#-sharon-burd--president>) |
-| [🎓 VP for Educational Programs](/roles/#-vice-president) | Ken Venable | [Bio](</2022/05/officer-bios/#-ken-venable--vp-for-educational-programs>) |
-| [💵 VP for Fundraising](/roles/#-vice-president) | Clare Rosenberger | [Bio](</2022/05/officer-bios/#-clare-rosenberger--vp-for-fundraising>) |
-| [🏘️ VP for Community Relations](/roles/#-vice-president) | Megan Miller | [Bio](</2022/05/officer-bios/#-megan-miller--vp-for-community-relations>) |
-| [🎉 VP for Events](/roles/#-vice-president) | Meredith Greene | [Bio](</2022/05/officer-bios/#-meredith-greene--vp-for-events>) |
-| [🙏 VP for Staff Appreciation](/roles/#-vice-president) | Ashley McCarthy | [Bio](</2022/05/officer-bios/#-ashley-farrugia--vp-for-staff-appreciation>) |
-| [💰 Treasurer](/roles/#-treasurer) | [Christian Lindstrom](mailto:abingdonptatreasurer@gmail.com) | [Bio](</2022/05/officer-bios/#-christian-lindstrom--treasurer>) |
-| [✍️ Secretary](/roles/#-secretary) | [Dan Burd](mailto:abingdonptasecretary@gmail.com) | [Bio](</2022/05/officer-bios/#-dan-burd--secretary>) |
+| [🦸 President](/roles/#-president) | [Sharon Burd](mailto:abingdonptapresident@gmail.com) | [Bio](</2022/05/11/officer-bios/#-sharon-burd--president>) |
+| [🎓 VP for Educational Programs](/roles/#-vice-president) | Ken Venable | [Bio](</2022/05/11/officer-bios/#-ken-venable--vp-for-educational-programs>) |
+| [💵 VP for Fundraising](/roles/#-vice-president) | Clare Rosenberger | [Bio](</2022/05/11/officer-bios/#-clare-rosenberger--vp-for-fundraising>) |
+| [🏘️ VP for Community Relations](/roles/#-vice-president) | Megan Miller | [Bio](</2022/05/11/officer-bios/#-megan-miller--vp-for-community-relations>) |
+| [🎉 VP for Events](/roles/#-vice-president) | Meredith Greene | [Bio](</2022/05/11/officer-bios/#-meredith-greene--vp-for-events>) |
+| [🙏 VP for Staff Appreciation](/roles/#-vice-president) | Ashley McCarthy | [Bio](</2022/05/11/officer-bios/#-ashley-farrugia--vp-for-staff-appreciation>) |
+| [💰 Treasurer](/roles/#-treasurer) | [Christian Lindstrom](mailto:abingdonptatreasurer@gmail.com) | [Bio](</2022/05/11/officer-bios/#-christian-lindstrom--treasurer>) |
+| [✍️ Secretary](/roles/#-secretary) | [Dan Burd](mailto:abingdonptasecretary@gmail.com) | [Bio](</2022/05/11/officer-bios/#-dan-burd--secretary>) |
 
 {{< flyer src="images/meettheboard.webp" alt="Meet Your PTA Board flyer" >}}
 

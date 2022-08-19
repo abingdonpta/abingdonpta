@@ -1,10 +1,14 @@
 ---
 title: Cardinal Courier – August 15, 2022
 summary: The Cardinal Courier newsletter for August 15, 2022.
-slug: 15 newsletter
+slug: cardinal courier
 date: 2022-08-15T05:00:00-04:00
 categories: newsletters
+images: 
+- /2022/08/15/newsletter/images/Cardi-1.jpg
 ---
+
+{{< button href="https://lp.constantcontactpages.com/su/t3ku1aP" >}}Click here to receive the Cardinal Courier newsletter in your inbox.{{< /button >}}
 
 ## President’s Welcome
 
