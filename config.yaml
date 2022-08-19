@@ -12,10 +12,10 @@ markup:
 params:
   BookTheme: auto
   BookLogo: favicon.png
-  description: Abingdon Elementary PTA in Arlington, VA
+  description: A peaceful world starts here.
   images: 
     - share/school.jpg
-  twitter: AbingdonPTA
+  twitter: "@AbingdonPTA"
   fb: AbingdonElementaryPTA
   title: Abingdon PTA
   BookSection: '*'
