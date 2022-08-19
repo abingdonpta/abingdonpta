@@ -27,6 +27,8 @@ permalinks:
   other: /:sections[1:]/:filename/
   posts: /:year/:month/:day/:slug/
 
+buildFuture: true
+
 copyright: Abingdon PTA
 defaultContentLanguage: en
 languages:
