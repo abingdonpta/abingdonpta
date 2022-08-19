@@ -5,7 +5,7 @@ slug: cardinal courier
 date: 2022-08-15T05:00:00-04:00
 categories: newsletters
 images: 
-- /2022/08/15/newsletter/images/Cardi-1.jpg
+- /2022/08/15/cardinal-courier/images/Cardi-1.jpg
 ---
 
 {{< button href="https://lp.constantcontactpages.com/su/t3ku1aP" >}}Haga clic aquí para recibir el boletín Cardinal en su bandeja de entrada.{{< /button >}}
