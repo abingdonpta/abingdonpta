@@ -49,7 +49,7 @@ There are other educational programs available to elementary school students, li
 | [🌯 Spirit Night](/roles/#-spirit-night) |
 | [🤝 Sponsorships](/roles/#-sponsorships) |
 | [📜 Grants](/roles/#-grants) |
-| [❤️ Lovelines](/roles/#-lovelines) | Ellen Sillery |
+| [❤️ Lovelines](/roles/#-lovelines) | Ellen Dobro |
 
 ### 🏘️ Community Relations
 
