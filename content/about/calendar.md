@@ -13,7 +13,7 @@ The PTA maintains a calendar for events and meetings. Click on one of the links 
 
 The calendar is also viewable here:
 
-<iframe src="https://calendar.google.com/calendar/embed?src=abingdonelementarypta@gmail.com&ctz=America%2FNew_York" title="Abingdon PTA Calendar" style="border: 0" width="736" height="552" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=abingdonelementarypta@gmail.com&ctz=America%2FNew_York&mode=AGENDA" title="Abingdon PTA Calendar" style="border: 0" width="736" height="552" frameborder="0" scrolling="no"></iframe>
 
 ---
 
