@@ -31,7 +31,7 @@ Please [fill out our volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSf
 |-|-|
 | [🍅 Garden](/roles/#-garden) | Lauren Shaub |
 | [🔔 After School Enrichment](/roles/#-after-school-enrichment) |
-| [🎨 Reflections](/roles/#-reflections) |
+| [🎨 Reflections](/roles/#-reflections) | Mary Savig<br>Dan Burd |
 | [🏃‍♀️ Girls on the Run](/roles/#-girls-on-the-run) |
 | [🧠 Odyssey of the Mind](/roles/#-odyssey-of-the-mind) |
 
@@ -60,7 +60,7 @@ There are other educational programs available to elementary school students, li
 | [👪 Adopt-a-Family](/roles/#-adopt-a-family) |
 | [🥨 Food Pantry](/roles/#-food-pantry) |
 | [🧮 ACTL Representative](/roles/#-actl-representative) | Jackie Winkelvoss |
-| [🏫 CCPTA Representative](/roles/#-ccpta-representative) | Megan Miller &<br>Ken Venable |
+| [🏫 CCPTA Representative](/roles/#-ccpta-representative) | Megan Miller<br>Ken Venable |
 | [🏫 SEPTA Representative](/roles/#-septa-representative) |
 | [⚕️ SHAB Representative](/roles/#-shab-representative) |
 | [🚌 ACTC Representative](/roles/#-actc-representative) |
@@ -128,7 +128,7 @@ The PTA blesses our wonderful Abingdon staff throughout the year. Please help us
 | [🗽 Diversity Coordinator](/roles/#-diversity-coordinator) |
 | [💳 Bank Statement Reviewer](/roles/#-bank-statement-reviewer) |
 | [🖥️ Website Administrator](/roles/#-website-administrator) | Dan Burd |
-| [☎️ Directory](/roles/#-directory) | Dan Burd |
+| [☎️ Directory](/roles/#-directory) | Kathryn Vesey White<br>Dan Burd |
 | [🙋 Nominating Committee](/roles/#-nominating-committee) | Selected in March |
 | [✅ Audit Committee](/roles/#-audit-committee) | Selected in May |
 | [🐦 Mascot](/roles/#-mascot) | Abingdon Cardinal |

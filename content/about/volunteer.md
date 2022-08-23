@@ -19,7 +19,7 @@ Additionally, the PTA requests volunteers to help with events on an ad hoc basis
 
 We also recommend that parents and other community members sign up to volunteer directly with the school. These volunteer opportunities include reading to students, chaperoning field trips, and other fun and enriching activities.
 
-APS requires that all parents volunteering in the building complete a Volunteer Application. Propsective volunteers:
+APS requires that all parents volunteering in the building complete a Volunteer Application. Prospective volunteers:
 - provide proof of receiving a COVID-19 vaccine
 - take a training that is provided by APS
 - have a criminal background check processed by APS

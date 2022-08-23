@@ -21,8 +21,8 @@ If you're interested in helping to organize our events, please [fill out our vol
 
 ## Back to School Picnic
 
-{{< photo src="images/904747149359022082.jpg" alt="Buffet at Back to School Picnic" >}}
-{{< photo src="images/904771466805346307.jpg" alt="Magic show at Back to School Picnic" >}}
+{{< photo src="images/IMG_1082.jpg" alt="Back to School Picnic" >}}
+{{< photo src="images/IMG_1084.jpg" alt="Back to School Picnic" >}}
 
 ## Trunk or Treat
 
