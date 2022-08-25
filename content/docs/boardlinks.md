@@ -5,13 +5,13 @@ bookSearchExclude: true
 url: /boardlinks/
 ---
 
-{{< button href="https://docs.google.com/spreadsheets/d/1JoCuzG1w8KfeTtAXAAksfECotXyADt9CaBysqmTRt9Y/edit#gid=487929193" >}}Volunteer Form Responses{{< /button >}}
+{{< button href="https://docs.google.com/spreadsheets/d/1JoCuzG1w8KfeTtAXAAksfECotXyADt9CaBysqmTRt9Y/edit" >}}Volunteer Form Responses{{< /button >}}
 
 Owner: abingdonelementarypta@gmail.com
 
 ---
 
-{{< button href="https://docs.google.com/spreadsheets/d/1lwkpLRaBPJnYPb7YHF_9EGwYrtq7eh3u62ZJnNaPWtE/edit#gid=1632759401" >}}Staff Grant Form Responses{{< /button >}}
+{{< button href="https://docs.google.com/spreadsheets/d/1lwkpLRaBPJnYPb7YHF_9EGwYrtq7eh3u62ZJnNaPWtE/edit" >}}Staff Grant Form Responses{{< /button >}}
 
 Owner: abingdonelementarypta@gmail.com
 
@@ -29,7 +29,7 @@ Owner: abingdonelementarypta@gmail.com
 
 ---
 
-{{< button href="https://docs.google.com/forms/d/e/1FAIpQLSdmaxE-YnEtz5M0omi3GEsyZsLxe3fbxUhF4sXZS074P2VHpQ/viewform?usp=sf_link" >}}Expense Authorization Form{{< /button >}}
+{{< button href="https://docs.google.com/forms/d/e/1FAIpQLSdmaxE-YnEtz5M0omi3GEsyZsLxe3fbxUhF4sXZS074P2VHpQ/viewform" >}}Expense Authorization Form{{< /button >}}
 
 Owner: abingdonptatreasurer@gmail.com
 
