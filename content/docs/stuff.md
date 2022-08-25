@@ -26,7 +26,3 @@ The PTA's tax exempt status was revoked years ago, and the PTA submitted this fo
 ## Logos
 
 {{< button relref="logos" >}}Click Here to View Our Logos{{< /button >}}
-
-## Newsletters
-
-{{< button relref="newsletters" >}}Click Here to View Our Newsletters{{< /button >}}
