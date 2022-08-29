@@ -35,7 +35,7 @@ Owner: abingdonptatreasurer@gmail.com
 
 ---
 
-{{< button href="https://drive.google.com/drive/u/6/folders/1cHdrw8yFx8WMAjEV5JfK0rOipuARvZXS" >}}Minutes and Agendas folder{{< /button >}}
+{{< button href="https://drive.google.com/drive/u/6/folders/1cHdrw8yFx8WMAjEV5JfK0rOipuARvZXS" >}}Minutes and Agendas Folder{{< /button >}}
 
 Owner: abingdonptasecretary@gmail.com
 

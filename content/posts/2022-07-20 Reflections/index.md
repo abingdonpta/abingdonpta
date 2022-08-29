@@ -33,7 +33,7 @@ While the Abingdon PTA learns how to organize the Reflections program, we are li
 If you have any questions, please email us at abingdonelementarypta@gmail.com.
 
 {{< hint warning >}}
-Please submit your art and your Entry Form by **October 20** in order to participate.
+Please submit your art and your Entry Form by **Thursday, October 20** in order to participate.
 {{< /hint >}}
 
 Thank you very much, and we are excited to see what you create!

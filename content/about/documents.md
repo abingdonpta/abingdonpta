@@ -15,7 +15,7 @@ Agendas are available here before each meeting, and meeting minutes are availabl
 | 2022-03-08   | [Agenda](/agendas/2022-03-08/) | [Minutes](/minutes/2022-03-08/) | |
 | 2022-02-08   | [Agenda](/agendas/2022-02-08/) | [Minutes](/minutes/2022-02-08/) | [Presentation](/presentations/2022-02-08.pdf) |
 | 2021-11-09   | | [Minutes](/minutes/2021-11-09/) | | |
-| 2021-10-12   | | [Minutes](/minutes/2021-10-12/) | [Presentation](/presentations/2021-10-12.pdf) |
+| 2021-10-12   | | [Minutes](/minutes/2021-10-12/) | [Gifted](/presentations/2021-10-12-2.pdf)<br>[Budget](/presentations/2021-10-12.pdf) |
 | 2021-09-21   | | | |
 
 ---

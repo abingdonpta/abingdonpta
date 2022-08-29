@@ -120,7 +120,7 @@ The Edukit program organizes pre-packaged school supplies to sell to Abingdon fa
 
 The Edukit Coordinator oversees the Edukit program. In the spring the coordinator communicates with the school to get supply lists from each grade, and communicates with the EduKit rep to get the program up and running, including checking the EduKit lists to ensure accuracy. In August the coordinator spends a few hours at the school (with other volunteers) to distribute the boxes to each teachers' classroom. There's no money collection and minimal spreadsheets, though there is a form to complete. The role mostly entails facilitating the program and staying on top of dates and communication. The work is mostly done from home, except for August distribution.
 
-- **Location**: Home, except August distrbution is done at school
+- **Location**: Home, except August distribution is done at school
 - **Time of day**: Any
 - **Months**: March and April, August
 
