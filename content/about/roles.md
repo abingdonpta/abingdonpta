@@ -111,7 +111,7 @@ Spirit Gear are items with Abingdon branding on them, typically the Cardinal log
 The Spirit Gear Coordinator is responsible for researching the various options for procuring Spirit Gear. Along with the Executive Board, they select which vendor we use. They also place and track orders, manage inventory, and oversee distribution.
 
 - **Location**: Home, with some visits to the school in order to store and organize merchandise
-- **Time of day**: Mixed - some availability during school hours to manage inventory is necessary, as well as availability during school events which are typically evenings and weekends.
+- **Time of day**: Mixed — some availability during school hours to manage inventory is necessary, as well as availability during school events which are typically evenings and weekends.
 - **Months**: Year-round
 
 ### ✏️ Edukit
@@ -126,7 +126,7 @@ The Edukit Coordinator oversees the Edukit program. In the spring the coordinato
 
 ### 📸 School Pictures
 
-Picture Day is held twice annually at Abingdon - once in the fall and once in the spring. The PTA organizes Picture Day in coordination with a vendor. Picture Day provides families with a snapshot of their children and also serves as a fundraiser for the PTA.
+Picture Day is held twice annually at Abingdon — once in the fall and once in the spring. The PTA organizes Picture Day in coordination with a vendor. Picture Day provides families with a snapshot of their children and also serves as a fundraiser for the PTA.
 
 The School Pictures Coordinator selects dates in consultation with school officials, distributes photo order packets to teachers, works with photographers to ensure picture days run smoothly, and distributes photo packages to students via teachers.
 
@@ -136,7 +136,7 @@ The School Pictures Coordinator selects dates in consultation with school offici
 
 ### 📚 Read-A-Thon
 
-Abingdon holds a Read-A-Thon every year - a fundraiser when students track the number of pages they read over the course of two weeks and and sponors (usually parents and grandparents) pledge to give to the PTA a certain amount of money for each page the student has read. The PTA also awards prizes to students and classes who have read the most. The Read-A-Thon is the biggest PTA fundraiser of the year.
+Abingdon holds a Read-A-Thon every year — a fundraiser when students track the number of pages they read over the course of two weeks and and sponors (usually parents and grandparents) pledge to give to the PTA a certain amount of money for each page the student has read. The PTA also awards prizes to students and classes who have read the most. The Read-A-Thon is the biggest PTA fundraiser of the year.
 
 The Read-A-Thon Coordinator:
 - Schedules the Read-A-Thon in consultation with the PTA Executive Board and Abingdon's administration
@@ -180,7 +180,7 @@ Parents/guardians, grandparents, and other sponsors can place congratulatory not
 
 - **Location**: Home
 - **Time of day**: Any
-- **Months**: March - May
+- **Months**: March – May
 
 ## 🏘️ Community Relations Role Descriptions
 

@@ -1,5 +1,5 @@
 ---
-title: Cardinal Courier – 15 أغسطس 2022
+title: Cardinal Courier — 15 أغسطس 2022
 summary: النشرة الإخبارية لـ Cardinal Courier بتاريخ 15 أغسطس 2022.
 slug: cardinal courier
 date: 2022-08-15T05:00:00-04:00

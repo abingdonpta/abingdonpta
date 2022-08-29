@@ -18,7 +18,7 @@ If you are interested, [sign up here](https://www.signupgenius.com/go/30E0A44ACA
 
 ## Literacy Volunteers
 
-Ms. Holly will be coordinating volunteers to help label phonic supplies. The literacy team needs 5-10 volunteers to assist with labeling phonic supplies. 
+Ms. Naomi Holly, reading specialist at Abingdon, will be coordinating volunteers to help label phonic supplies. The literacy team needs 5-10 volunteers to assist with labeling phonic supplies. 
 
 She can do an initial meeting with volunteers at one of the following times below to detail the process (approx. 10 minutes). Once she shows volunteers how to label a kit, there is flexibility during school hours when volunteers choose to come in to label. 
 

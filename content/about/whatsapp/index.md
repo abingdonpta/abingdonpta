@@ -26,44 +26,39 @@ Please follow these rules:
 <br>
 <!--El grupo de WhatsApp en español está dirigido por la Sra. Caty Branco, Asistente de Recursos Bilingües de Abingdon.
 <br><br>-->
-{{< button href="https://chat.whatsapp.com/CZF8UWJJbLvDt8WFmvTXhu" >}} Toque aquí para unirse {{< /button >}} o escanear el código QR:
-<br><br>
-<img src="images/whatsappes.svg" height="300" width="300" alt="QR Code to join the Spanish WhatsApp chat">
+Toque, haga clic o escanee el código QR para unirse:
+
+<a href="https://chat.whatsapp.com/CZF8UWJJbLvDt8WFmvTXhu"><img src="images/whatsappes.svg" height="300" width="300" alt="QR Code to join the Spanish WhatsApp chat"></a>
 {{< /details >}}
 {{< details "المجموعة العربية" >}}
 <br>
-أو امسح رمز الاستجابة السريعة ضوئيًا {{< button href="https://chat.whatsapp.com/EJhTfUXY659H09PTIBTq1H" >}} اضغط هنا للانضمام {{< /button >}}
+اضغط أو انقر أو امسح رمز الاستجابة السريعة للانضمام:
 
-<br><img src="images/whatsappar.svg" height="300" width="300" alt="QR Code to join the Arabic WhatsApp chat">
-
+<a href="https://chat.whatsapp.com/EJhTfUXY659H09PTIBTq1H"><img src="images/whatsappar.svg" height="300" width="300" alt="QR Code to join the Arabic WhatsApp chat"></a>
 {{< /details >}}
 {{< details "አማርኛ ቡድን" >}}
 <br>
-{{< button href="https://chat.whatsapp.com/EEAlIiRL3XAJ3OIYAZdH4o" >}} ለመቀላቀል እዚህ ይንኩ። {{< /button >}} ወይም የQR ኮድን ይቃኙ:
-<br><br>
-<img src="images/whatsappam.svg" height="300" width="300" alt="QR Code to join the Amharic WhatsApp chat">
+ለመቀላቀል የQR ኮድን ነካ ያድርጉ፣ ጠቅ ያድርጉ ወይም ይቃኙ፡-
 
+<a href="https://chat.whatsapp.com/EEAlIiRL3XAJ3OIYAZdH4o"><img src="images/whatsappam.svg" height="300" width="300" alt="QR Code to join the Amharic WhatsApp chat"></a>
 {{< /details >}}
 {{< details "Монгол групп" >}}
 <br>
-{{< button href="https://chat.whatsapp.com/IDjEIiLINfm5R5ViLuAKJW" >}} Энд дарж нэгдээрэй {{< /button >}} эсвэл QR кодыг уншина уу:
-<br><br>
-<img src="images/whatsappmn.svg" height="300" width="300" alt="QR Code to join the Mongolian WhatsApp chat">
+Нэгдэхийн тулд QR кодыг товш, товших эсвэл сканнердах:
 
+<a href="https://chat.whatsapp.com/IDjEIiLINfm5R5ViLuAKJW"><img src="images/whatsappmn.svg" height="300" width="300" alt="QR Code to join the Mongolian WhatsApp chat"></a>
 {{< /details >}}<!--
 {{< details "گروه فارسی" >}}
 <br>
-یا کد QR را اسکن کنید {{< button href="https://chat.whatsapp.com/LRXNbiNbc9YI0Hs6iWwnhf" >}} برای عضویت اینجا ضربه بزنید {{< /button >}}
+برای پیوستن روی کد QR ضربه بزنید، کلیک کنید یا اسکن کنید:
 
-<br><img src="images/whatsappfa.svg" height="300" width="300" alt="QR Code to join the WhatsApp chat for Persian">
-
+<a href="https://chat.whatsapp.com/LRXNbiNbc9YI0Hs6iWwnhf"><img src="images/whatsappfa.svg" height="300" width="300" alt="QR Code to join the WhatsApp chat for Persian"></a>
 {{< /details >}}-->
 {{< details "Group for English and other languages" >}}
 <br>
-{{< button href="https://chat.whatsapp.com/JHmnCVwB6LC7Fol2uOw0Ew" >}} Tap here to join {{< /button >}} or scan the QR code:
-<br><br>
-<img src="images/whatsappen.svg" height="300" width="300" alt="QR Code to join the WhatsApp chat for English and other languages">
+Tap, click, or scan the QR code to join:
 
+<a href="https://chat.whatsapp.com/JHmnCVwB6LC7Fol2uOw0Ew"><img src="images/whatsappen.svg" height="300" width="300" alt="QR Code to join the WhatsApp chat for English and other languages"></a>
 {{< /details >}}
 
 </span>

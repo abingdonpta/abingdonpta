@@ -1,5 +1,5 @@
 ---
-title: El Boletín Cardinal – 15 de agosto de 2022
+title: El Boletín Cardinal — 15 de agosto de 2022
 summary: El Boletín Cardinal del 15 de agosto de 2022.
 slug: cardinal courier
 date: 2022-08-15T05:00:00-04:00

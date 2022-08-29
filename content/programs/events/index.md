@@ -24,6 +24,12 @@ If you're interested in helping to organize our events, please [fill out our vol
 {{< photo src="images/IMG_1082.jpg" alt="Back to School Picnic" >}}
 {{< photo src="images/IMG_1084.jpg" alt="Back to School Picnic" >}}
 
+## Tears and Cheers
+
+{{< photo src="images/IMG_2290.jpg" alt="Tears and Cheers poster for the first day of school" >}}
+{{< photo src="images/IMG_2294.jpg" alt="Parents gathering in front of the school for our Tears and Cheers event on the first day of school" >}}
+{{< photo src="images/IMG_2297.jpg" alt="Parents gathering in front of the school for our Tears and Cheers event on the first day of school" >}}
+
 ## Trunk or Treat
 
 {{< photo src="images/1454571445716197381_1.jpg" alt="Trick-or-treating at Trunk or Treat" >}}

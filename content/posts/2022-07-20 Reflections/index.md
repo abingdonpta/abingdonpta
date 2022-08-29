@@ -20,7 +20,7 @@ Reflections is a national PTA-sponsored program that encourages students to expr
 This year's theme is **Show Your Voice**. Abingdon students are invited to create works of visual art that reflects this theme.
 
 {{< hint info >}}
-While the Abingdon PTA learns how to organize the Reflections program, we are limiting this year's submissions to **visual arts** - paintings, sculptures, and similar works. Next year we may accept other types of submissions.
+While the Abingdon PTA learns how to organize the Reflections program, we are limiting this year's submissions to **visual arts** — paintings, sculptures, and similar works. Next year we may accept other types of submissions.
 {{< /hint >}}
 
 ## Participation instructions

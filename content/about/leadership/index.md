@@ -74,14 +74,14 @@ The PTA organizes several events throughout the year. These events strengthen ou
 
 | Event | Month |
 |-|-|
-| [👋 Back to School Picnic](/roles/#-back-to-school-picnic) | August - September |
+| [👋 Back to School Picnic](/roles/#-back-to-school-picnic) | August – September |
 | [🎃 Trunk or Treat](/roles/#-trunk-or-treat) | October |
-| [❄️ Winter Wonderland](/roles/#-winter-wonderland) | December - February |
+| [❄️ Winter Wonderland](/roles/#-winter-wonderland) | December – February |
 | [🇺🇳 International Night](/roles/#-international-night) | April |
 | [🎓 5th Grade Promotion](/roles/#-5th-grade-promotion) | June |
 | [🍿 Movie Nights](/roles/#-movie-nights) | Year-round |
 | [☕ Parent Coffees](/roles/#-parent-coffees) | Year-round |
-| [🎈 Rising Kindergarten Playdates](/roles/#-rising-kindergarten-playdates) | March - August |
+| [🎈 Rising Kindergarten Playdates](/roles/#-rising-kindergarten-playdates) | March – August |
 | [📚 Book Swap](/roles/#-book-swap) | March |
 | [📷 Photographer](/roles/#-photographer) | N/A |
 

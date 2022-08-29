@@ -6,7 +6,7 @@ images:
 weight: 40
 ---
 
-<img src="images/IMG_5818.webp" alt="Old Abingdon Classroom Photo" width="736" height="352" loading="lazy">
+<img src="images/IMG_5818.webp" alt="Old Abingdon Classroom Photo" width="736" height="352">
 
 Abingdon first opened its doors to students in August 1950. The school has been in continuous operation since then, educating generations of students in South Arlington.
 

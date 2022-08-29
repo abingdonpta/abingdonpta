@@ -13,7 +13,7 @@ You're invited to the Back-to-School Picnic! Come join us on Saturday, August 20
 - **Who**: Parents, students & families
 - **What**: Back-to-school outdoor fun!
 - **Where**: Abingdon Back Playground Area
-- **When**: Saturday, August 20, 10 am - 12 pm
+- **When**: Saturday, August 20, 10 am – 12 pm
 - **Why**: To catch up with friends and to make new ones before school begins
 
 Please bring your picnic food of choice for your family, and a blanket if you wish. The PTA will provide drinks, chips/snacks, and sweet treats. We will utilize the picnic tables at the back of the school.

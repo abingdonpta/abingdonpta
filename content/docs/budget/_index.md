@@ -1,5 +1,5 @@
 ---
-title: Approved Budget for July 1, 2021 - June 30, 2022
+title: Approved Budget for July 1, 2021 — June 30, 2022
 summary: 2021-2022 Budget for the Abingdon PTA.
 url: /budget/
 ---
