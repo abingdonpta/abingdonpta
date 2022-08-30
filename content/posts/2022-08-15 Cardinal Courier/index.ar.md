@@ -25,8 +25,8 @@ images:
 شارون بورد
 رئيس منطقة التجارة التفضيلية
 
-{{<photo src = "images / flyer.webp" alt = "نشرة العودة إلى المدرسة للنزهات">}}
-{{<photo src = "images / flyer-es.webp" alt = "نشرة رحلات العودة إلى المدرسة باللغة الإسبانية">}}
+{{< half src = "images/flyer.webp" alt = "نشرة العودة إلى المدرسة للنزهات">}}
+{{< half src = "images/flyer-es.webp" alt = "نشرة رحلات العودة إلى المدرسة باللغة الإسبانية">}}
 
 ## حفظ التواريخ
 
@@ -52,7 +52,7 @@ images:
 نحتاج إلى مساعدتك فيما يلي:
 
 - ** PTA Back-to-School Picnic ** - يرجى الاتصال بـ Meredith Greene على [meregreene5@gmail.com](mailto:meregreene5@gmail.com) للمساعدة في الإعداد أو إحضار الثلج أو التنظيف.
-- ** Abingdon Community Garden ** - إذا كنت مهتمًا بالتطوع في حديقة المدرسة لدعم فريق Abingdon Eco Action ، يرجى النقر على الرابط [هنا](https://lp.constantcontactpages.com/su/SjhlqrR؟ source_id = 0061ea0d-9950-4d52-82be-4559d1474d3b & source_type = em & c =).
+- ** Abingdon Community Garden ** - إذا كنت مهتمًا بالتطوع في حديقة المدرسة لدعم فريق Abingdon Eco Action ، يرجى النقر على الرابط [هنا](https://lp.constantcontactpages.com/su/SjhlqrR?source_id=0061ea0d-9950-4d52-82be-4559d1474d3b&source_type=em&c=).
 
 ## فرصة عمل
 
@@ -74,8 +74,8 @@ Abingdon PTA تشارك في Harris Teeter's Together in Education Program. سا
 
 أرادت تميمة الكاردينال الخاصة بنا أن نشارككم الصور الصيفية التالية:
 
-{{<photo src="images/Cardi-1.jpg" alt="كاردينال أبينجدون يقرأ بجانب المسبح">}}
-{{<photo src="images/Cardi-2.jpg" alt="أبينغدون كاردينال يغمس إصبع قدمه في المسبح">}}
-{{<photo src="images/Cardi-3.jpg" alt="أبينجدون كاردينال يقفز فرحًا">}}
+{{< half src="images/Cardi-1.jpg" alt="كاردينال أبينجدون يقرأ بجانب المسبح">}}
+{{< half src="images/Cardi-2.jpg" alt="أبينغدون كاردينال يغمس إصبع قدمه في المسبح">}}
+{{< half src="images/Cardi-3.jpg" alt="أبينجدون كاردينال يقفز فرحًا">}}
 
 **أبينجدون كاردينال حريص على العودة لرؤية القطيع!**

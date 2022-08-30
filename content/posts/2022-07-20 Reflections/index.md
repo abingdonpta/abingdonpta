@@ -13,7 +13,7 @@ categories: reflections
 
 The Abingdon PTA is proud to announce the Reflections Arts Program for 2022!
 
-{{< flyer src="social/r---show-your-voice_facebook.webp" alt="Reflections Call for Entries flyer" >}}
+{{< full src="social/r---show-your-voice_facebook.webp" alt="Reflections Call for Entries flyer" >}}
 
 Reflections is a national PTA-sponsored program that encourages students to express themselves artistically. Each year the National PTA selects a theme and students create and submit a work of art that reflects the theme. The work is then judged by volunteers here at Abingdon, and then at the county level if they advance.
 

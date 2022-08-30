@@ -16,4 +16,4 @@ Please help us clean up our school garden for fall season planting. We will also
 <!--
 Los invitamos a que nos ayude a limpiar el jardín de nuestra escuela para la temporada de otoño. También estaremos cosechando vegetales. Si desea unirse a nosotros, por favor traiga su botella de agua y guantes de jardín (si los tiene). Para registrarse, por favor visite [este enlace](https://docs.google.com/forms/d/e/1FAIpQLSc62Xf5rFUBG1XqElQa2VQJUJu8k8Kf0RWTWPzoemf8bOLF-A/viewform).
 -->
-{{< flyer src="images/flyer.webp" alt="Abingdon Community Garden Cleanup flyer in English and Spanish" >}}
+{{< full src="images/flyer.webp" alt="Abingdon Community Garden Cleanup flyer in English and Spanish" >}}

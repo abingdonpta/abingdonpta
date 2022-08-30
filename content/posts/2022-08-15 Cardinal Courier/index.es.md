@@ -25,8 +25,8 @@ Con agradecimiento,
 Sharon Burd  
 Presidente de la Asociación de Padres y Maestros
 
-{{< photo src="images/flyer.webp" alt="Folleto de picnic de regreso a clases" >}}
-{{< photo src="images/flyer-es.webp" alt="Folleto de picnic de regreso a clases en español" >}}
+{{< half src="images/flyer.webp" alt="Folleto de picnic de regreso a clases" >}}
+{{< half src="images/flyer-es.webp" alt="Folleto de picnic de regreso a clases en español" >}}
 
 ## Guarda las fechas
 
@@ -74,8 +74,8 @@ Etiquete todas las pertenencias de su estudiante (por ejemplo, mochila, lonchera
 
 Nuestra mascota Cardinal quería que compartiéramos las siguientes fotos de verano con ustedes:
 
-{{< photo src="images/Cardi-1.jpg" alt="Abingdon Cardinal leyendo junto a la piscina" >}}
-{{< photo src="images/Cardi-2.jpg" alt="Abingdon Cardinal sumergiendo un dedo del pie en la piscina" >}}
-{{< photo src="images/Cardi-3.jpg" alt="Abingdon Cardinal saltando de alegría" >}}
+{{< half src="images/Cardi-1.jpg" alt="Abingdon Cardinal leyendo junto a la piscina" >}}
+{{< half src="images/Cardi-2.jpg" alt="Abingdon Cardinal sumergiendo un dedo del pie en la piscina" >}}
+{{< half src="images/Cardi-3.jpg" alt="Abingdon Cardinal saltando de alegría" >}}
 
 **¡El Cardenal de Abingdon está ansioso por volar de regreso para ver el rebaño!**

@@ -1,0 +1,9 @@
+{{- $img := .Page.Resources.GetMatch .Destination -}}
+{{ $img := $img.Resize "736x" }}
+
+<img 
+    src="{{ .Destination | safeURL }}" 
+    alt="{{ .Text }}" {{ with .Title}} title="{{ . }}"{{ end }} 
+    width={{ $img.Width }}
+    height={{ $img.Height }}
+/>

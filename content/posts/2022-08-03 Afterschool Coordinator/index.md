@@ -11,4 +11,4 @@ Baroody Camps, Inc. is looking to hire an On-Site Enrichment Coordinator to over
 
 Please reach out to abingdonelementarypta@gmail.com for more information and/or submit your resume and cover letter for consideration. Thank you.
 
-{{< flyer src="images/flyer.webp" alt="Afterschool Enrichment Coordinator Flyer" >}}
+{{< full src="images/flyer.webp" alt="Afterschool Enrichment Coordinator Flyer" >}}
