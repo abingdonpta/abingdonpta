@@ -26,11 +26,10 @@ weight: 20
 - [❓ Request help with student iPads.](https://abingdon.apsva.us/technology/request-tech-help/)
 
 ## Outside Activities
-- [Cub Scout Pack 350](https://pack350.mypack.us/)
-- [Girl Scout Troop 60291 (K and 1st)](https://mygs.girlscouts.org/map;troopNumber=Troop%2060291;distanceInMiles=10;address=,,22206,;grades=;season=Current;type=TROOP)
-- [Girl Scout Troop 60253 (2nd Grade)](https://mygs.girlscouts.org/map;troopNumber=Troop%2060253;distanceInMiles=10;address=,,22206,;grades=;season=Current;type=TROOP)
-- [Girl Scout Troop 60199 (3rd Grade)](https://mygs.girlscouts.org/map;troopNumber=Troop%2060199;distanceInMiles=10;address=,,22206,;grades=;season=Current;type=TROOP)
-- [Girl Scout Troop 60183 (5th Grade)](https://mygs.girlscouts.org/map;troopNumber=Troop%2060183;distanceInMiles=10;address=,,22206,;grades=;season=Current;type=TROOP)
+- [Girl Scout Troop 60291 (K and 1st)](https://mygs.girlscouts.org/map;troopNumber=Troop%2060291;distanceInMiles=10;address=,,22206,;grades=;season=Current;type=TROOP) — meets at Abingdon
+- [Girl Scout Troop 60038 (4th and 5th Grade)](https://mygs.girlscouts.org/map;troopNumber=Troop%2060038;distanceInMiles=10;address=,,22206,;grades=;season=Current;type=TROOP) — meets at Abingdon
+- [Girl Scout Troop 60183 (5th Grade)](https://mygs.girlscouts.org/map;troopNumber=Troop%2060183;distanceInMiles=10;address=,,22206,;grades=;season=Current;type=TROOP) — meets at Abingdon
+- [Cub Scout Pack 350](https://pack350.mypack.us/) — meets at Fairlington United Methodist Church
 
 <!--
 ## Old PTA websites
