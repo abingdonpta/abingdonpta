@@ -30,8 +30,8 @@ Please [fill out our volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSf
 | Role | Coordinator |
 |-|-|
 | [🍅 Garden](/roles/#-garden) | Lauren Shaub |
-| [🔔 After School Enrichment](/roles/#-after-school-enrichment) |
-| [🎨 Reflections](/roles/#-reflections) | Mary Savig<br>Dan Burd |
+| [🔔 After School Enrichment](/roles/#-after-school-enrichment) | Ken Venable |
+| [🎨 Reflections](/roles/#-reflections) | Mary Savig |
 | [🏃‍♀️ Girls on the Run](/roles/#-girls-on-the-run) |
 | [🧠 Odyssey of the Mind](/roles/#-odyssey-of-the-mind) |
 
@@ -128,7 +128,7 @@ The PTA blesses our wonderful Abingdon staff throughout the year. Please help us
 | [🗽 Diversity Coordinator](/roles/#-diversity-coordinator) |
 | [💳 Bank Statement Reviewer](/roles/#-bank-statement-reviewer) |
 | [🖥️ Website Administrator](/roles/#-website-administrator) | Dan Burd |
-| [☎️ Directory](/roles/#-directory) | Kathryn Vesey White<br>Dan Burd |
+| [☎️ Directory](/roles/#-directory) | Kathryn Vesey White |
 | [🙋 Nominating Committee](/roles/#-nominating-committee) | Selected in March |
 | [✅ Audit Committee](/roles/#-audit-committee) | Selected in May |
 | [🐦 Mascot](/roles/#-mascot) | Abingdon Cardinal |
