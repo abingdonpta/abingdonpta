@@ -1,6 +1,6 @@
 --- 
 title: Register for Fall After-School Enrichment Classes
-summary: Registration is open until September 9, and is NOT first-come, first-served.
+summary: Registration is open until September 9.
 slug: enrichment
 date: 2022-09-01T15:00:00-04:00
 categories: enrichment

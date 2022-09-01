@@ -1,6 +1,6 @@
 --- 
-title: Register for the Fall Session of After-School Enrichment Classes
-summary: Registration is open, but it is NOT first-come-first-served this session.
+title: Regístrese para la sesión de otoño de clases de enriquecimiento después de la escuela
+summary: El registro está abierto hasta el viernes 9 de septiembre.
 slug: enrichment
 date: 2022-09-01T15:00:00-04:00
 categories: enrichment
@@ -18,4 +18,4 @@ Hemos distribuido formularios en papel a los maestros de clase para que los colo
 
 ¿Preguntas? Contáctenos en abingdonelementarypta@gmail.com. Gracias.
 
-{{< full src="images/IMG_2483.jpg" alt="Fall enrichment paper forms" >}}
+{{< half src="images/IMG_2483.jpg" alt="Fall enrichment paper forms" >}}
