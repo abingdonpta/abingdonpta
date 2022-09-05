@@ -1,0 +1,38 @@
+--- 
+title: Call For Entries – Reflections Art Contest
+summary: Learn about the Reflections Arts Contest that the Abingdon PTA is organizing this fall.
+slug: reflections
+date: 2022-09-07T07:00:00-04:00
+images:
+- social/r---show-your-voice_facebook.webp
+aliases:
+    - /reflections
+categories: reflections
+---
+
+<img src="social/r---show-your-voice_facebook-cropped.webp" alt="Reflections Call for Entries flyer" width="246" height="345" >
+
+Reflections is a national PTA-sponsored program that encourages students to express themselves artistically. Each year the National PTA selects a theme and students create and submit a work of art that reflects the theme.
+
+This year's theme is **Show Your Voice**.
+
+## About the Competition
+
+All Abingdon students are invited to create theme-based artwork in the categories of **literature** (written works) and **visual arts** (paintings, sculptures, drawings, and prints). All artworks will be recognized, celebrated, and judged by Abingdon volunteers by grade-level divisions. A selection of entries will advance to the county-wide competition.
+
+**Submit entries online by Thursday, October 20, 2022.**
+
+## Participation instructions
+
+Create a work of visual art that reflects this year's theme of Show Your Voice. Ensure it meets the guidelines published by the national PTA ([English](guides/English/visual-arts-category-guidelines_reflections.pdf), [Spanish](guides/Spanish/visual-arts-cat-guidelines_reflections-es.pdf)).
+
+1. Clearly label the back or underside of your work with your name and your teacher's name.
+1. Carefully drop off your work in the bin in the main office that says "Reflections" on it.
+1. Fill out our Entry Form ([English](forms/fillable-form_local-leader.pdf), [Spanish](forms/fillable-form_local-leader---es.pdf)) and send it to abingdonreflections@gmail.com.
+1. If you have any questions, please email us at abingdonreflections@gmail.com.
+
+{{< hint warning >}}
+Please submit your art and your Entry Form by **Thursday, October 20** in order to participate.
+{{< /hint >}}
+
+Thank you very much, and we are excited to see what you create!
