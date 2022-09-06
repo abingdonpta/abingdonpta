@@ -6,6 +6,7 @@ url: /bylaws/
 
 <style type="text/css">
     ol { list-style-type: upper-alpha; }
+    ol ol { list-style-type: decimal; }
 </style>
 
 ## PTA Mission

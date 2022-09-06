@@ -2,7 +2,7 @@
 title: Abingdon Student Directory Coming This Fall
 summary: Be sure to opt in to be included.
 slug: directory
-date: 2022-09-06T07:00:00-04:00
+date: 2022-09-06T05:00:00-04:00
 ---
 
 The Abingdon PTA is pleased to announce we intend to create an **online student directory** during the 2022-2023 school year. This new directory will help families in the Abingdon community connect to arrange playdates or carpools, discuss classroom activities, and share other school-related information. It will contain information for only those families who have **opted in** to share such information with the PTA as part of the Annual Online Verification Process that all families complete annually. **Only those families who “opt in” will have access to the directory** and the PTA will not release the information to businesses or any other third-party.
