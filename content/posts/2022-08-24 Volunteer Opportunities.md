@@ -3,7 +3,7 @@ title: Volunteer Opportunities This Week
 summary: The PTA is looking for help distributing Edukits, and the school needs help labeling phonic supplies.
 slug: volunteer opportunities
 date: 2022-08-24T07:00:00-04:00
-categories: volunteering
+categories: "volunteer opportunities"
 ---
 
 We are sharing two volunteer opportunities this week. If you're able to help out, please fill out the Signup Genius and email the volunteer lead(s) listed below. As you may know, APS requires that all parents volunteering in the building complete a Volunteer Application Form; [more information is available here](https://abingdon.apsva.us/families/volunteer). 

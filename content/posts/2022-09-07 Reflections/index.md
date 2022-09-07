@@ -2,11 +2,11 @@
 title: Call For Entries – Reflections Art Contest
 summary: Learn about the Reflections Arts Contest that the Abingdon PTA is organizing this fall.
 slug: reflections
-date: 2022-09-07T07:00:00-04:00
+date: 2022-09-07T05:00:00-04:00
 images:
 - social/r---show-your-voice_facebook-cropped.webp
 aliases:
-    - /reflections
+    - /reflections/
 categories: reflections
 ---
 
@@ -30,12 +30,13 @@ All Abingdon students are invited to create theme-based artwork in the categorie
 
 ## Participation instructions
 
-Create a work of visual art that reflects this year's theme of Show Your Voice. Ensure it meets the guidelines published by the national PTA ([English](guides/English/visual-arts-category-guidelines_reflections.pdf), [Spanish](guides/Spanish/visual-arts-cat-guidelines_reflections-es.pdf)).
+Create a work of visual art that reflects this year's theme of Show Your Voice. Ensure it meets the guidelines published by the National PTA ([English](guides/English/visual-arts-category-guidelines_reflections.pdf), [Spanish](guides/Spanish/visual-arts-cat-guidelines_reflections-es.pdf)).
 
-1. Clearly label the back or underside of your work with your name and your teacher's name.
-1. Carefully drop off your work in the Reflections bin inside the school. ***We will update this page with the bin's precise location once we have identified the best place for it.***
+1. Clearly label the back or underside of your work with your name, your teacher's name, and the title of your work.
+1. Carefully drop off your work in the Reflections bin inside the school. ***We will update this page with the bin's location once we have identified the best place for it.***
 1. Fill out our Entry Form ([English](forms/fillable-form_local-leader.pdf), [Spanish](forms/fillable-form_local-leader---es.pdf)) and send it to abingdonreflections@gmail.com.
-1. If you have any questions, please email us at abingdonreflections@gmail.com.
+
+If you have any questions, please email us at abingdonreflections@gmail.com.
 
 {{< hint warning >}}
 Please submit your art and your Entry Form by **Thursday, October 20** in order to participate.
