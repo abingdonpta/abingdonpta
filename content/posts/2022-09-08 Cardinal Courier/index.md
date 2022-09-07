@@ -8,6 +8,14 @@ images:
 - /2022/09/08/cardinal-courier/images/IMG_1248.jpg
 ---
 
+<style type="text/css">
+    .flyer {
+        float: right;
+        padding-left: 25px;
+        padding-bottom: 25px;
+    }
+</style>
+
 ## President's Message
 
 Welcome to the 2022-2023 school year! I hope your children are having a wonderful start to the school year. I've enjoyed seeing everyone at the Back to School Picnic, Open House, and at Tears and Cheers. I'm excited to continue strengthening our Abingdon community with new programs. Keep reading to learn about how you can help!
@@ -56,6 +64,8 @@ The Abingdon PTA is pleased to announce we intend to create an **online student 
 To learn more about the directory and how to opt in, view the announcement on our website: https://www.abingdonpta.org/2022/09/06/directory/
 
 ## New This Year — Reflections Art Contest
+
+<img src="images/r---show-your-voice_facebook-cropped.webp" alt="Reflections Call for Entries flyer" width="360" height="505" class="flyer" >
 
 The Abingdon PTA is excited to announce that we will be participating in the Reflections Art Contest this year. Reflections is a national PTA-sponsored program that encourages students to express themselves artistically. Each year the National PTA selects a theme and students create and submit a work of art that reflects the theme.
 
