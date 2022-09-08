@@ -5,7 +5,7 @@ slug: enrichment
 date: 2022-09-01T15:00:00-04:00
 categories: enrichment
 images:
-- /2022/09/01/enrichment/images/IMG_2483.jpg
+    - /2022/09/01/enrichment/images/IMG_2483.jpg
 ---
 
 Хичээлийн дараах баяжуулах хичээлийн намрын чуулганд бүртгүүлэх цаг боллоо! Abingdon PTA нь Baroody Camps-тай хамтран энэхүү хөтөлбөрийг санал болгож байна.

@@ -2,10 +2,12 @@
 title: Cardinal Courier — September 8, 2022
 summary: The Cardinal Courier newsletter for September 8, 2022.
 slug: cardinal courier
-date: 2022-09-07T21:00:00-04:00
+date: 2022-09-08T05:00:00-04:00
 categories: newsletters
 images: 
 - /2022/09/08/cardinal-courier/images/IMG_1248.jpg
+aliases:
+    - /2022/09/07/cardinal-courier/
 ---
 
 <style type="text/css">
