@@ -58,7 +58,7 @@ There are other educational programs available to elementary school students, li
 | [🧥 Winter Clothing Drive](/roles/#-winter-clothing-drive) |
 | [🥫 Canned Food Drive](/roles/#-canned-food-drive) |
 | [👪 Adopt-a-Family](/roles/#-adopt-a-family) |
-| [🥨 Food Pantry](/roles/#-food-pantry) |
+| [🥨 Food Pantry](/roles/#-food-pantry) | Megan Miller |
 | [🧮 ACTL Representative](/roles/#-actl-representative) | Jackie Winkelvoss |
 | [🏫 CCPTA Representative](/roles/#-ccpta-representative) | Megan Miller<br>Ken Venable |
 | [🏫 SEPTA Representative](/roles/#-septa-representative) |
