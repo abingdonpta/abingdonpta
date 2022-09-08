@@ -10,13 +10,7 @@ Agendas are available here before each meeting, and meeting minutes are availabl
 
 | Meeting Date | Agenda | Minutes | Presentation |
 | ------------ | ------ | ------- | ------------ |
-| 2022-05-24   | [Agenda](/agendas/2022-05-24/) | [Minutes](/minutes/2022-05-24/) | |
-| 2022-04-19   | [Agenda](/agendas/2022-04-19/) | [Minutes](/minutes/2022-04-19/) | |
-| 2022-03-08   | [Agenda](/agendas/2022-03-08/) | [Minutes](/minutes/2022-03-08/) | |
-| 2022-02-08   | [Agenda](/agendas/2022-02-08/) | [Minutes](/minutes/2022-02-08/) | [Presentation](/presentations/2022-02-08.pdf) |
-| 2021-11-09   | | [Minutes](/minutes/2021-11-09/) | | |
-| 2021-10-12   | | [Minutes](/minutes/2021-10-12/) | [Gifted](/presentations/2021-10-12-2.pdf)<br>[Budget](/presentations/2021-10-12.pdf) |
-| 2021-09-21   | | | |
+| 2022-09-12   | [Agenda](/agendas/2022-09-12/) | | |
 
 ---
 
@@ -48,7 +42,7 @@ The policy is intended to ensure that PTA leadership is not enriching themselves
 
 The PTA's annual budget must be approved by the general membership at the beginning of each school year.
 
-{{< button relref="budget" >}}Click Here to View the Budget for 2021-2022{{< /button >}}
+{{< button relref="budget" >}}Click Here to View the Budget for 2022-2023{{< /button >}}
 
 ### Monthly Financial Statements
 

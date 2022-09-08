@@ -51,8 +51,6 @@ During the 2021-2022 school year, the 60 people who were signed up helped earn $
 
 Edukit offers prepackaged school supplies that are tailored to meet the needs of each grade at Abingdon Elementary. The program makes it simple for families to acquire what they need, and it also serves as a fundraiser for the PTA.
 
-{{< button href="https://www.edukitinc.com/schools/1287/" >}}Click Here to Order Your Edukit for 2022-2023{{< /button >}}
-
 ## Read-A-Thon
 
 Abingdon holds a Read-A-Thon every year — a fundraiser when students track the number of pages they read over the course of two weeks and and sponors (usually parents and grandparents) pledge to give to the PTA a certain amount of money for each page the student has read. The PTA also awards prizes to students and classes who have read the most. The Read-A-Thon is the biggest PTA fundraiser of the year.
