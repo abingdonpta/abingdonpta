@@ -5,7 +5,9 @@ slug: cardinal courier
 date: 2022-09-07T21:00:00-04:00
 categories: newsletters
 images: 
-- /2022/09/08/cardinal-courier/images/IMG_1248.jpg
+- /2022/09/07/cardinal-courier/images/IMG_1248.jpg
+aliases:
+    - /es/2022/09/08/cardinal-courier/
 ---
 
 <style type="text/css">
@@ -30,7 +32,7 @@ Con agradecimiento,
 sharon burd
 Presidente de la Asociación de Padres y Maestros
 
-PD [No olvide vincular su tarjeta VIC de Harris Teeter a Abingdon Elementary.](https://docs.google.com/forms/d/e/1FAIpQLSeiAe72qt4qTb_b2xmB-TUZByVkD-QxfVNyFEEHGc6sGkFzYQ/viewform) Actualmente tenemos 54 participantes para esta escuela año.
+[No olvide vincular su tarjeta VIC de Harris Teeter a Abingdon Elementary.](https://docs.google.com/forms/d/e/1FAIpQLSeiAe72qt4qTb_b2xmB-TUZByVkD-QxfVNyFEEHGc6sGkFzYQ/viewform) Actualmente tenemos 54 participantes para esta escuela año.
 
 ## 📅 ​​Guarda las fechas
 
