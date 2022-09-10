@@ -16,4 +16,4 @@ Every year, as part of the [Annual Online Verification Process](https://www.apsv
 Please contact [Abingdon](https://abingdon.apsva.us/contact-us/) for assistance in activating your ParentVUE account or completing the AOVP. 
 
 #### More information about the directory:
-Once the AOVP deadline has passed, the school registrar will provide student and family data to the PTA for inclusion in the new online student directory. Based on the current deadline of October 31st for families to complete the AOVP, the Abingdon PTA hopes to publish the directory sometime in November. For questions about the directory, please contact Kathryn White at kveseywhite@gmail.com.
+Once the AOVP deadline has passed, the school registrar will provide student and family data to the PTA for inclusion in the new online student directory. Based on the current deadline of October 31st for families to complete the AOVP, the Abingdon PTA hopes to publish the directory sometime in November. For questions about the directory, please contact Kathryn White at abingdondirectory@gmail.com.
