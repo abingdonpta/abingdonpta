@@ -2,7 +2,7 @@
 title: Conéctese con la PTA
 summary: Formas de conectarse con la PTA de Abingdon.
 weight: 60
-linktitle: Connect
+linktitle: Conéctese
 aliases:
     - /meetings
     - /contact-us

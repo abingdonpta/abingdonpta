@@ -51,7 +51,7 @@ Note: View and subscribe to the PTA calendar on our new website [here](https://w
 
 You’re invited to our first PTA virtual meeting of the school year on **Monday, September 12 at 7:00 PM**, on Zoom. Come meet our PTA team. Principal Horak will also deliver his monthly report with a question and answer session afterwards. We’ll be asking our General Membership to vote on a few such as our proposed PTA budget. Please review our agenda [here](https://www.abingdonpta.org/agendas/2022-09-12).
 
-> For security reasons, we do not share Zoom meeting codes on our website. [Please subscribe to our newsletter, the Cardinal Courier](https://lp.constantcontactpages.com/su/t3ku1aP), to make sure you receive PTA meeting codes.
+> For security reasons, we do not share Zoom meeting codes on our website. [Please subscribe to the email edition of our newsletter](https://lp.constantcontactpages.com/su/t3ku1aP) to make sure you receive PTA meeting codes.
 
 ## 🏫 Register for After-School Enrichment Fall Classes
 
@@ -61,7 +61,7 @@ Registration for Fall after-school enrichment classes through Baroody Camps has 
 
 Lifetouch Picture Day order forms were placed in teacher’s mailboxes to be distributed in students’ backpacks this week. If you would prefer to pay online, visit [the Lifetouch site](https://my.lifetouch.com/mylifetouch/#/) and enter Abingdon's Picture Day ID:
 
-> For security reasons, we do not share Lifetouch Picture Day codes on our website. [Please subscribe to our newsletter, the Cardinal Courier](https://lp.constantcontactpages.com/su/t3ku1aP), to make sure you receive Lifetouch Picture Day codes.
+> For security reasons, we do not share Lifetouch Picture Day codes on our website. [Please subscribe to the email edition of our newsletter](https://lp.constantcontactpages.com/su/t3ku1aP) to make sure you receive Lifetouch Picture Day codes.
 
 ## 📱 Student Directory Coming Soon
 
