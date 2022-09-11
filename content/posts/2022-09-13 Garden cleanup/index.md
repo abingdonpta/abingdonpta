@@ -1,0 +1,19 @@
+--- 
+title: Abingdon Community Garden Cleanup
+summary: Come to the Abingdon Community Garden on Saturday, September 24 to help weed.
+slug: garden cleanup
+date: 2022-09-13T05:00:00-04:00
+categories: events
+images: 
+- /2022/09/13/garden-cleanup/images/flyer.webp
+draft: true
+---
+
+Please help us clean up weed our school garden. If you would like to join us, please bring your water bottle and garden gloves (if you have them).
+
+- **When**: Saturday, September 24 from 9:00 am – 11:00 am
+- **Where**: Abingdon Community Garden, next to the school.
+
+To sign up to receive updates about garden volunteer opportunities, please visit [this link](https://lp.constantcontactpages.com/su/SjhlqrR).
+
+{{< full src="images/flyer.webp" alt="Abingdon Community Garden Cleanup flyer in English and Spanish" >}}
