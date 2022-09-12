@@ -21,6 +21,10 @@ We will only share documents sent to the entire school, not to a particular clas
 
 {{< half src="images/2022-09-13_1.webp" alt="Family Science Night flyer" >}}
 
+#### Reflections Flyer
+
+{{< half src="images/2022-09-13_2.webp" alt="Reflections flyer" >}}
+
 -->
 
 ## September 6, 2022

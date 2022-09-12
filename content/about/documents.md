@@ -10,7 +10,7 @@ Agendas are available here before each meeting, and meeting minutes are availabl
 
 | Meeting Date | Agenda | Minutes | Presentation |
 | ------------ | ------ | ------- | ------------ |
-| 2022-09-12   | [Agenda](/agendas/2022-09-12/) | | |
+| 2022-09-12   | [Agenda](/agendas/2022-09-12/) | | [Budget Report 1](/presentations/2022-09-12_1.pdf)<br>[Budget Report 2](/presentations/2022-09-12_2.pdf) |
 
 ---
 

@@ -6,6 +6,8 @@ aliases:
     - /budget/2022-2023/
 ---
 
+This budget will be considered for adoption at the September 12, 2022 General Membership meeting.
+
 | ***Activity*** | **Income** | **Expenses** |
 | ------------------------------------------------------------ | ------- | -------- |
 | 💵 **Fundraising** | | |
