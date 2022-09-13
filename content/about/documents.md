@@ -26,7 +26,7 @@ The Abingdon PTA is required to adhere to the [Virginia PTA Local Unit Uniform B
 
 The Organizational Structure Form provides important details about how this PTA conducts business, including timing of elections and term limits on officers. The PTA must complete this form and have it approved by the general membership at the beginning of each school year. The Treasurer then submits the form to the Virginia PTA.
 
-{{< button href="/organizational/2021-2022.pdf" >}}Click Here to View the Organizational Structure Form for 2021-2022{{< /button >}}
+{{< button href="/organizational/2022-2023.pdf" >}}Click Here to View the Organizational Structure Form for 2022-2023{{< /button >}}
 
 ### Conflict of Interest Policy
 
@@ -43,20 +43,6 @@ The policy is intended to ensure that PTA leadership is not enriching themselves
 The PTA's annual budget must be approved by the general membership at the beginning of each school year.
 
 {{< button relref="budget" >}}Click Here to View the Budget for 2022-2023{{< /button >}}
-
-<!--
-
-### Monthly Financial Statements
-
-The treasurer must present a written financial statement (typically a year-to-date budget) at each monthly general membership meeting.
-
-| Monthly Financial Statements |
-|-|
-| [2022-05-24 Statement](/financialstatements/2022-05-24.pdf) |
-| [2022-04-19 Statement](/financialstatements/2022-04-19.pdf) |
-| [2021-10-12 Statement](/financialstatements/2021-10-12.pdf) |
-
--->
 
 ### Annual Financial Reports
 

@@ -13,23 +13,13 @@ We will only share documents sent to the entire school, not to a particular clas
 
 ---
 
-<!--
-
 ## September 13, 2022
-
-#### Family Science Night
 
 {{< half src="images/2022-09-13_1.webp" alt="Family Science Night flyer" >}}
 
-#### Reflections
-
 {{< half src="images/2022-09-13_2.webp" alt="Reflections flyer" >}}
 
-#### Harris Teeter Rebates
-
 {{< half src="images/2022-09-13_3.webp" alt="Harris Teeter Rebates flyer" >}}
-
--->
 
 ## September 6, 2022
 
