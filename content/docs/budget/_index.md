@@ -1,12 +1,12 @@
 ---
-title: Draft Budget for July 1, 2022 — June 30, 2023
+title: Approved Budget for July 1, 2022 — June 30, 2023
 summary: 2022-2023 Budget for the Abingdon PTA.
 url: /budget/
 aliases:
     - /budget/2022-2023/
 ---
 
-This budget will be considered for adoption at the September 12, 2022 General Membership meeting.
+This budget was adopted by the PTA's General Membership at our September 12, 2022 meeting.
 
 | ***Activity*** | **Income** | **Expenses** |
 | ------------------------------------------------------------ | ------- | -------- |

@@ -10,7 +10,7 @@ Agendas are available here before each meeting, and meeting minutes are availabl
 
 | Meeting Date | Agenda | Minutes | Presentation |
 | ------------ | ------ | ------- | ------------ |
-| 2022-09-12   | [Agenda](/agendas/2022-09-12/) | | [Budget Report 1](/presentations/2022-09-12_1.pdf)<br>[Budget Report 2](/presentations/2022-09-12_2.pdf) |
+| 2022-09-12   | [Agenda](/agendas/2022-09-12/) | | [Financial Statement 1](/presentations/2022-09-12_1.pdf)<br>[Financial Statement 2](/presentations/2022-09-12_2.pdf) |
 
 ---
 
@@ -44,6 +44,8 @@ The PTA's annual budget must be approved by the general membership at the beginn
 
 {{< button relref="budget" >}}Click Here to View the Budget for 2022-2023{{< /button >}}
 
+<!--
+
 ### Monthly Financial Statements
 
 The treasurer must present a written financial statement (typically a year-to-date budget) at each monthly general membership meeting.
@@ -53,6 +55,8 @@ The treasurer must present a written financial statement (typically a year-to-da
 | [2022-05-24 Statement](/financialstatements/2022-05-24.pdf) |
 | [2022-04-19 Statement](/financialstatements/2022-04-19.pdf) |
 | [2021-10-12 Statement](/financialstatements/2021-10-12.pdf) |
+
+-->
 
 ### Annual Financial Reports
 
