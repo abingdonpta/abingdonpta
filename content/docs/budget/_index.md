@@ -125,7 +125,7 @@ We received about $1,000 in yearbook sales last year, while spending about $4,00
 
 ### 💸 Retail Rebates
 
-Retail rebates are programs like Harris Teeter's "Together in Education" and AmazonSmile in which community members "link" their accounts with the PTA, which receives a portion of money spent at the vendor. We intend to start up AmazonSmile once our tax exemption is reinstated.
+Retail rebates are programs like Harris Teeter's "Together in Education" and AmazonSmile in which community members "link" their accounts with the PTA, which receives a portion of money spent at the vendor.
 
 ### ✏️ EduKit
 
@@ -133,7 +133,7 @@ Edukit offers prepackaged school supplies that are tailored to meet the needs of
 
 ### 🌯 Spirit Nights
 
-Spirit Nights are scheduled by the PTA at select restaurants and businesses in our area during which they donate a percentage of proceeds back to the PTA. We have not done this for awhile but we intend to do so once our tax exemption is reinstated.
+Spirit Nights are scheduled by the PTA at select restaurants and businesses in our area during which they donate a percentage of proceeds back to the PTA.
 
 
 ## 🎓 Educational Programs

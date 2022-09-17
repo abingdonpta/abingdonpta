@@ -10,7 +10,7 @@ Agendas are available here before each meeting, and meeting minutes are availabl
 
 | Meeting Date | Agenda | Minutes | Presentation |
 | ------------ | ------ | ------- | ------------ |
-| 2022-09-12   | [Agenda](/agendas/2022-09-12/) | | [Financial Statement 1](/presentations/2022-09-12_1.pdf)<br>[Financial Statement 2](/presentations/2022-09-12_2.pdf) |
+| 2022-09-12   | [Agenda](/agendas/2022-09-12/) | [Minutes](/minutes/2022-09-12) | [Financial Statement 1](/presentations/2022-09-12_1.pdf)<br>[Financial Statement 2](/presentations/2022-09-12_2.pdf) |
 
 ---
 
@@ -71,23 +71,21 @@ The PTA is required to conduct an audit of its finances every fiscal year. (This
 
 ### Employer Identification Number (EIN)
 
-Abingdon PTA's EIN is **52-1289072**. This is also known as a "Tax ID."
+Abingdon PTA's EIN is **52-1289072** — this is also known as a "Tax ID."
 
 ### IRS Form 990
 
-The PTA Treasurer is required to submit this form to the IRS and to the Virginia PTA each year in order to maintain its tax-exempt status. We will start filing these again once our tax exemption is reinstated.
+The PTA Treasurer is required to submit this form to the IRS and to the Virginia PTA each year in order to maintain our tax-exempt status.
 
 | IRS Form 990 |
 |-|
-| Coming soon |
+| Coming Summer 2023 |
 
 ### IRS Determination Letter
 
-When the IRS has reviewed our application for tax-exempt status and decides that we meet the requirements for a 501(c)(3) organization, it will send us a "determination letter" officially approving our application and designating us a tax-exempt organization under the Internal Revenue Code. We will place that letter here when we receive it.
+The IRS issued a "Determination Letter" that officially identifies the PTA as a 501(c)3 tax-exempt organization.
 
-| IRS Determination Letter |
-|-|
-| Coming soon |
+{{< button href="/determination/determination-letter.pdf" >}}Click Here to View Our Determination Letter{{< /button >}}
 
 ---
 
@@ -95,6 +93,6 @@ When the IRS has reviewed our application for tax-exempt status and decides that
 
 - **Insurance Policy**: The PTA is required to be covered by insurance at all times. The policy is submitted to the Virginia PTA each year.
 - **Tax Exemption Letter from Virginia PTA**: After the PTA has sent all of the required documents to the Virginia PTA, it receives a letter confirming that it is a tax-exempt subordinate to the Virginia PTA. PTA volunteers can use this letter to solicit donations from businesses, as it provides assurance that any donations made to the PTA are tax-deductible.
-- **Sales Tax Exemption Letter**: Once the PTA's tax-exempt status is reinstated, we will apply for a sales tax exemption from Virginia's Department of Taxation. This will allow the PTA to purchase items without paying sales tax.
-- **Application for Tax Exempt Status (IRS Form 1023)**: The PTA's tax exempt status was revoked years ago, and the PTA submitted this form to the IRS on January 22, 2022 in order to request that the tax-exempt status be reinstated.
+- **Sales Tax Exemption Letter**: We will apply for a sales tax exemption from Virginia's Department of Taxation. This will allow the PTA to purchase items without paying sales tax.
+- **Application for Tax Exempt Status (IRS Form 1023)**: The PTA submitted this form to the IRS on January 22, 2022 in order to request that the tax-exempt status be reinstated. This request was successful. We maintain the application in our files.
 - **Logos**: We retain vector image files of the Abingdon Cardinal logo and the Abingdon PTA logo.

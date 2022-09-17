@@ -1,12 +1,16 @@
 ---
-title: A Briefing on Our Tax Exemption Issues
-summary: Abingdon PTA's tax exemption was revoked years ago. We're working on having it reinstated.
+title: Our Tax Exemption Has Been Reinstated
+summary: The IRS recognizes the Abingdon PTA as a 501(c)3 organization.
 slug: tax exemption
-date: 2022-04-15T07:00:00-04:00
+date: 2022-09-16T19:00:00-04:00
+draft: true
 ---
+
+{{< half src="images/determination-letter-1.webp" alt="Page 1 of the IRS Determination Letter" >}}
+{{< half src="images/determination-letter-2.webp" alt="Page 2 of the IRS Determination Letter" >}}
+
 <!--
-**EDIT 9/16/2022**: [Our tax-exemption has been reinstated.](/2022/09/16/tax-exemption)
--->
+
 ## Summary
 
 The IRS revoked Abingdon Elementary PTA's tax exemption years ago. Despite efforts by previous PTA officers, the tax exemption has not been reinstated. However, we believe we are close to having the issue resolved, and we hope to have it reinstated in autumn or winter 2022-2023.
@@ -36,3 +40,5 @@ However, the IRS may require us to pay taxes on our income between the revocatio
 Additionally, we are limited in our ability to funds from businesses until our tax exemption is formally approved by the IRS. Businesses typically expect that their contributions to PTA's will be tax-deductible; their bottom line may depend on it. For that reason, most businesses explicitly require that the PTA have a tax exemption before working with us on fundraising. We can only partner with businesses who do not mind that their contributions may not be tax-exempt.
 
 We look forward to resuming full fundraising activities as soon as our tax exemption is formally approved by the IRS. We will keep our membership updated on the status of our application.
+
+-->
