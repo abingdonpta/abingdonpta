@@ -4,9 +4,9 @@ summary: Abingdon PTA's tax exemption was revoked years ago. We're working on ha
 slug: tax exemption
 date: 2022-04-15T07:00:00-04:00
 ---
-<!--
-**EDIT 9/16/2022**: [Our tax-exemption has been reinstated.](/2022/09/16/tax-exemption)
--->
+
+**EDIT 9/21/2022**: [Our tax-exemption has been reinstated.](/2022/09/21/tax-exemption)
+
 ## Summary
 
 The IRS revoked Abingdon Elementary PTA's tax exemption years ago. Despite efforts by previous PTA officers, the tax exemption has not been reinstated. However, we believe we are close to having the issue resolved, and we hope to have it reinstated in autumn or winter 2022-2023.
