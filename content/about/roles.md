@@ -212,7 +212,7 @@ The PTA partners with the Student Support Team at Abingdon to help support famil
 - **Time of day**: School day
 - **Months**: November and December
 
-### 🥨 Food Pantry
+### 🥨 Snack Pantry
 
 Description coming soon.
 

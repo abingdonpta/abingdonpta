@@ -98,6 +98,7 @@ The IRS issued a Determination Letter on September 6, 2022 that reinstated the P
 ## Provided As Needed
 
 - **Insurance Policy**: The PTA is required to be covered by insurance at all times. The policy is submitted to the Virginia PTA each year.
-- **Sales Tax Exemption Letter**: We will apply for a sales tax exemption from Virginia's Department of Taxation. This will allow the PTA to purchase items without paying sales tax.
+- **Sales Tax Exemption Letter**: The PTA applied for a sales tax exemption from Virginia's Department of Taxation. This will allow us to purchase items without paying sales tax.
 - **Application for Tax Exempt Status (IRS Form 1023)**: The PTA submitted this form to the IRS on January 22, 2022 in order to request that the tax-exempt status be reinstated. This request was successful. We maintain the application in our files.
-- **Logos**: We retain vector image files of the Abingdon Cardinal logo and the Abingdon PTA logo.
+- **Executive Board Agendas and Minutes**: The PTA keeps records of Executive Board meetings.
+- **Logos**: The PTA retains vector image files of the Abingdon Cardinal logo and the Abingdon PTA logo.

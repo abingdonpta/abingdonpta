@@ -23,8 +23,6 @@ Disallow: /990
 Disallow: /990/
 Disallow: /about
 Disallow: /about/
-Disallow: /afterschool
-Disallow: /afterschool/
 Disallow: /agendas
 Disallow: /agendas/
 Disallow: /appreciation
@@ -53,6 +51,10 @@ Disallow: /documents
 Disallow: /documents/
 Disallow: /donations
 Disallow: /donations/
+Disallow: /afterschool
+Disallow: /afterschool/
+Disallow: /enrichment
+Disallow: /enrichment/
 Disallow: /events
 Disallow: /events/
 Disallow: /faq

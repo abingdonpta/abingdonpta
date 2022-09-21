@@ -192,7 +192,7 @@ The PTA collaborates with the Student Services Team to feed needy Abingdon famil
 
 ### 🍲 Food Pantry
 
-The PTA intends to operate a food pantry with donated funds this year.
+The PTA intends to operate a food/snack pantry with donated funds this year.
 
 ### ☕ Coffee Events
 

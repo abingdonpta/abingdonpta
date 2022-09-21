@@ -3,6 +3,7 @@ title: Job Opportunity — Afterschool Enrichment Coordinator
 summary: Abingdon PTA is partnering with Baroody Camps to offer fall enrichment classes. They are looking to hire a part-time after-school enrichment coordinator at Abingdon.
 slug: afterschool coordinator
 date: 2022-08-03T07:00:00-04:00
+categories: enrichment
 images: 
 - /2022/08/03/afterschool-coordinator/images/flyer.webp
 ---
