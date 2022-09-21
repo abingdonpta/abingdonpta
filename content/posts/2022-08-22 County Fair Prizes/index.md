@@ -3,6 +3,7 @@ title: Abingdon's Garden Wins Prizes at County Fair
 summary: Plants from Abingdon's garden won prizes in several categories.
 slug: county fair prizes
 date: 2022-08-22T07:00:00-04:00
+categories: garden
 images: 
 - /2022/08/22/county-fair-prizes/images/IMG_1501.jpg
 ---

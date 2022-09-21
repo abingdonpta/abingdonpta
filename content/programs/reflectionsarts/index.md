@@ -10,4 +10,8 @@ In the Reflections program, students in Pre-K through Grade 12 create original w
 
 Abingdon students participate in the appropriate division for their grade: Primary (Pre-K - Grade 2) or Intermediate (Grades 3-5).
 
-**For information about the 2022 Reflections Program at Abingdon, [view our announcement here](/2022/09/07/reflections/).**
+[**Click here to learn about the 2022 Reflections program at Abingdon.**](/2022/09/07/reflections)
+
+<!--
+{{< button relref="/categories/reflections/" >}}Click Here for the Latest News about Reflections{{< /button >}}
+-->

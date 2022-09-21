@@ -13,6 +13,10 @@ If you're interested in volunteering in the garden, please click on the link bel
 
 {{< button href="https://lp.constantcontactpages.com/su/SjhlqrR" >}}Click Here to Receive Updates About Garden Volunteer Opportunities{{< /button >}}
 
+## What's New in the Garden?
+
+{{< button relref="/categories/garden/" >}}Click Here for the Latest Garden News{{< /button >}}
+
 ## What's Growing?
 
 Here's what's growing in 2022:
