@@ -214,7 +214,11 @@ The PTA partners with the Student Support Team at Abingdon to help support famil
 
 ### 🥨 Snack Pantry
 
-Description coming soon.
+[Abingdon received a significant donation from Amazon in the 2022-2023 school year.](/2022/09/21/amazon-donation/) The PTA will take the lead in ordering snacks for children, storing it a central location within the school, and ensuring classrooms are well-stocked.
+
+- **Location**: School
+- **Time of day**: School day
+- **Months**: Year-round
 
 ### 🧮 ACTL Representative
 
@@ -399,7 +403,11 @@ A Lost and Found Coordinator hangs up jackets (which are the most frequently los
 
 ### 🗽 Diversity Coordinator
 
-Description coming soon.
+Our Diversity Coordinator works with Abingdon's Diversity, Equity and Inclusion (DEI) Committee as well as Abingdon's [Family & Community Engagement](https://www.apsva.us/face/) (FACE) team to ensure Abingdon's diverse voices are represented, included, and valued. DEI and FACE meetings are in-person at the school, typically at 3:00 PM on weekdays.
+
+- **Location**: School
+- **Time of day**: School day
+- **Months**: Year-round
 
 ### 💳 Bank Statement Reviewer
 

@@ -15,7 +15,7 @@ Additionally, the PTA requests volunteers to help with events on an ad hoc basis
 
 ---
 
-## Volunteer application Abingdon Elementary
+## Abingdon Elementary's Volunteer Application
 
 We also strongly recommend that parents and other community members complete a volunteer application with the school. **APS requires that all parents volunteering in the building complete a Volunteer Application**, including on-site PTA volunteers.
 

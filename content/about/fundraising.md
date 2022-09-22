@@ -47,6 +47,16 @@ To link your VIC Card, you can do one of the following:
 
 During the 2021-2022 school year, the 60 people who were signed up helped earn $670 for Abingdon. Thank you!
 
+## Box Tops for Education
+
+Abingdon PTA participates in Box Tops for Education, which raises 10 cents for every box top scanned.
+
+Instructions: 
+
+1. Download the Box Tops app ([Android](https://play.google.com/store/apps/details?id=com.generalmills.btfe&hl=en_US), [iOS](https://apps.apple.com/us/app/box-tops-for-education/id1150038564)).
+1. Select Abingdon Elementary as your school.
+1. Scan receipts after buying participating products. [(Here is a list of participating products.)](https://www.boxtops4education.com/s/box-tops-products)
+
 ## Edukit
 
 Edukit offers prepackaged school supplies that are tailored to meet the needs of each grade at Abingdon Elementary. The program makes it simple for families to acquire what they need, and it also serves as a fundraiser for the PTA.
