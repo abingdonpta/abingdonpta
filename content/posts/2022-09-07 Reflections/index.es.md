@@ -30,11 +30,11 @@ Todos los estudiantes de Abingdon están invitados a crear obras de arte basadas
 
 ## Instrucciones de participación
 
-Cree una obra de arte visual o literatura que refleje el tema de este año de Show Your Voice. Asegúrese de que cumpla con las pautas publicadas por la PTA Nacional ([Inglés](guides/English/visual-arts-category-guidelines_reflections.pdf), [Español](guides/Spanish/visual-arts-cat-guidelines_reflections-es.pdf)).
+Cree una obra de arte visual o literatura que refleje el tema de este año de Show Your Voice. Asegúrese de que cumpla con las pautas publicadas por la PTA Nacional ([Arte Visual](guides/Spanish/visual-arts-cat-guidelines_reflections-es.pdf), [Literatura](guides/Spanish/literature-cat-guidelines_reflections-es.pdf)).
 
 1. Etiquete claramente la parte posterior o inferior de su trabajo con su nombre, el nombre de su maestro y el título de su trabajo.
 1. Deje con cuidado su trabajo en el contenedor de Reflections dentro de la escuela. ***Actualizaremos esta página con la ubicación del contenedor una vez que hayamos identificado el mejor lugar para colocarlo.***
-1. Rellena nuestro Formulario de Inscripción ([Inglés](forms/fillable-form_local-leader.pdf), [Español](forms/fillable-form_local-leader---es.pdf)) y envíalo a abingdonreflections@gmail. com.
+1. Rellena nuestro Formulario de Inscripción ([Inglés](forms/fillable-form_local-leader.pdf), [Español](forms/fillable-form_local-leader---es.pdf)) y envíalo a abingdonreflections@gmail.com.
 
 Si tiene alguna pregunta, envíenos un correo electrónico a abingdonreflections@gmail.com.
 
