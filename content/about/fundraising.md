@@ -55,7 +55,7 @@ Instructions:
 
 1. Download the Box Tops app ([Android](https://play.google.com/store/apps/details?id=com.generalmills.btfe&hl=en_US), [iOS](https://apps.apple.com/us/app/box-tops-for-education/id1150038564)).
 1. Select Abingdon Elementary as your school.
-1. Scan receipts after buying participating products. [(Here is a list of participating products.)](https://www.boxtops4education.com/s/box-tops-products)
+1. Scan receipts within 14 days of buying participating products. [(Here is a list of participating products.)](https://www.boxtops4education.com/s/box-tops-products)
 
 ## Edukit
 
