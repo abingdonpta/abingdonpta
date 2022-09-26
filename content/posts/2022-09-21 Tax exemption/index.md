@@ -5,8 +5,8 @@ slug: tax exemption
 date: 2022-09-21T05:00:00-04:00
 ---
 
-{{< half src="images/reinstatement-letter-1.webp" alt="Page 1 of the IRS Reinstatement Letter" >}}
-{{< half src="images/reinstatement-letter-2.webp" alt="Page 2 of the IRS Reinstatement Letter" >}}
+{{< half src="images/reinstatement-1.webp" alt="Page 1 of the IRS Reinstatement Letter" >}}
+{{< half src="images/reinstatement-2.webp" alt="Page 2 of the IRS Reinstatement Letter" >}}
 
 The IRS has reinstated the Abingdon PTA's federal tax exemption, several years after it was revoked. [(We described the revocation here.)](/2022/04/15/tax-exemption)
 
