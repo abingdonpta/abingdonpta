@@ -31,13 +31,22 @@ Here's what's growing in 2022:
 | Bed 4  | Okra<br>Cantaloupe |
 | Bed 5  | Pumpkins |
 | Bed 6  | Radishes (left)<br>Tomatoes (middle)<br>Beans (front right)<br>Carrots (back right) |
-| Bed 7  | Mint (back left and front right)<br>Milkweed (everywhere else) |
-| Bed 8  | Cabbage |
+| Bed 7  | Black-eyed Susan (right) |
+| Bed 8  | Black-eyed Susan (right) |
 | Bed 9  | Pumpkin (left)<br>Butterfly weed (left center)<br>Tomato (middle)<br>Basil (back right)<br>Zinnia (front right) |
 | Bed 10 | Peppers (left)<br>Butterfly weed (back center)<br>Cucumber (front center)<br>Pumpkins (front right) |
 | Bed 11 | Cabbage (left)<br>Bok choy (center left)<br>Watermelon (middle)<br>Pumpkins (center right)<br>Cucumber (front right)<br>Zinnia (back right) |
 
 ## Photos
+
+### Autumn Garden Cleanup
+*September 2022*
+
+{{< half src="images/IMG_3714.jpg" alt="Volunteers posing for a photo in the Abingdon Garden" >}}
+{{< half src="images/IMG_3700.jpg" alt="Volunteers working in the Abingdon Garden" >}}
+{{< half src="images/IMG_3694.jpg" alt="Volunteer holding a pumpkin in the Abingdon Garden" >}}
+{{< half src="images/IMG_3703.jpg" alt="Volunteers clearing garden beds in the Abingdon Garden" >}}
+{{< half src="images/IMG_3719.jpg" alt="Volunteers chatting in the Abingdon Garden" >}}
 
 ### Summer Garden Cleanup
 *August 2022*
