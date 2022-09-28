@@ -13,6 +13,10 @@ We will only share documents sent to the entire school, not to a particular clas
 
 ---
 
+## September 27, 2022
+
+{{< half src="images/2022-09-27_1.webp" alt="Membership Drive flyer" >}}
+
 ## September 20, 2022
 
 No known schoolwide flyers.

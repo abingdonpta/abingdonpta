@@ -19,7 +19,7 @@ If you're interested in volunteering in the garden, please click on the link bel
 
 ## What's Growing?
 
-Here's what's growing in 2022:
+Here's what is growing (or grew) in 2022:
 
 <a href="images/garden-map.svg"><img src="images/garden-map.svg" width="736" height="368" alt="Garden Map"></a>
 
