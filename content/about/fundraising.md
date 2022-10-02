@@ -75,7 +75,7 @@ A portion of the proceeds go to the PTA.
 
 The Abingdon PTA is excited to host Spirit Nights at local restaurants. Check our newsletter and social media for updates about Spirit Nights.
 
-## Corporate Donations
+## Business Donations
 
 Would your company like to support your neighborhood school? The Abingdon PTA has a number of picture-perfect donation opportunities that will benefit children. Please reach out to us at abingdonelementarypta@gmail.com if you are interested.
 

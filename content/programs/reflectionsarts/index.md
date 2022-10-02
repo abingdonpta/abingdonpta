@@ -1,7 +1,7 @@
 ---
 title: Reflections
 summary: The Reflections program at Abingdon PTA
-weight: 50
+weight: 60
 ---
 
 ![Reflections Logo](images/reflectionslogo.webp)

@@ -3,7 +3,7 @@ title: Staff Appreciation
 summary: Staff appreciation initiatives from the Abingdon PTA.
 images:
     - appreciation/images/IMG_2651.jpg
-weight: 60
+weight: 70
 ---
 
 The PTA shows appreciation for our wonderful Abingdon staff throughout the year.
