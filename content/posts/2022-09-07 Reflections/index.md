@@ -33,7 +33,7 @@ All Abingdon students are invited to create theme-based artwork in the categorie
 Create a work of visual art or literature that reflects this year's theme of Show Your Voice. Ensure it meets the guidelines published by the National PTA (**Visual Arts guidelines**: [English](guides/English/visual-arts-category-guidelines_reflections.pdf), [Spanish](guides/Spanish/visual-arts-cat-guidelines_reflections-es.pdf)), and **Literature guidelines**: [English](guides/English/literature-category-guidelines_reflections.pdf), [Spanish](guides/Spanish/literature-cat-guidelines_reflections-es.pdf)).
 
 1. Clearly label the back or underside of your work with your name, your teacher's name, and the title of your work.
-1. Carefully drop off your work in the Reflections bin inside the school. ***We will update this page with the bin's location once we have identified the best place for it.***
+1. Carefully drop off your work in the Reflections bin inside the school. **The submissions bin is in front of the door to Room 154A.**
 1. Fill out our Entry Form ([English](forms/fillable-form_local-leader.pdf), [Spanish](forms/fillable-form_local-leader---es.pdf)) and send it to abingdonreflections@gmail.com.
 
 If you have any questions, please email us at abingdonreflections@gmail.com.

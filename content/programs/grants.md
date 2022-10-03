@@ -33,7 +33,7 @@ Grant requests should provide a beneficial impact to a wide range of students (e
 
 Grants cannot be used to pay for items already purchased, something that will only benefit a small number of students or an individual teacher, capital expenses, IEP materials, professional memberships or training, or curriculum materials which are the responsibility of APS.
 
-> **Grant requests should be between $100 and $500.**
+**Grant requests should be between $100 and $500.**
 
 ## How do I apply?
 
