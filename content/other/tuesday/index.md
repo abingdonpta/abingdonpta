@@ -1,7 +1,7 @@
 --- 
 title: Tuesday Folder
 summary: Documents in Abingdon's Tuesday Folders.
-weight: 30
+weight: 20
 linktitle: Tuesday Folder
 ---
 

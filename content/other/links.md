@@ -1,7 +1,7 @@
 ---
 title: Helpful Links
 summary: Helpful links to external resources.
-weight: 20
+weight: 10
 ---
 
 ## News from Abingdon

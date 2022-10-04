@@ -10,6 +10,6 @@ categories: "snack pantry"
 
 **The Abingdon PTA is accepting the donation on behalf of the school.** The PTA will take the lead in ordering the food, storing it a central location within the school, and ensuring classrooms are well-stocked.
 
-The PTA is run solely by volunteers. We could use your help to ensure this program is a success. If you are able to help, [please complete our volunteer form]("https://docs.google.com/forms/d/e/1FAIpQLSf50HFDkNfDxP5VfE2LzsxKbUPZdmRGQTeNEUhXkU_qLCLWZQ/viewform?usp=sf_link) and select the "food pantry" checkbox.
+The PTA is run solely by volunteers. We could use your help to ensure this program is a success. If you are able to help, [please complete our volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSf50HFDkNfDxP5VfE2LzsxKbUPZdmRGQTeNEUhXkU_qLCLWZQ/viewform?usp=sf_link) and select the "food pantry" checkbox.
 
 Thank you to Amazon for the generous donation!

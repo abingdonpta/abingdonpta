@@ -121,6 +121,7 @@ Below is a timeline of Abingdon's history gleaned from several sources, mostly n
 | 2018-12-06 | [The Washington Post](https://www.washingtonpost.com/local/education/as-arlington-rezones-schools-communities-fight-to-stay-together/2018/12/05/97102b7c-f337-11e8-80d0-f7e1948d55f4_story.html) | Changes to Abingdon's boundaries were divisive. | [PDF](images/PDF/2018-12-06.pdf) |
 | 2019-06-22 | [Sun-Gazette](https://www.insidenova.com/news/education/fairfax-educator-tapped-to-be-new-principal-in-arlington/article_56731a0e-94f7-11e9-92ad-5b20ffed75a3.html) | Abingdon hired a new principal. | |
 | 2019-12-11 | [Good Morning America](https://www.goodmorningamerica.com/living/story/stem-program-girls-rosie-riveters-list-fulfilled-amazon-67608034) | Good Morning America recorded a segment at Abingdon in which they and Amazon donated products to Abingdon. | |
+| 2022-09-20 | [Amazon](https://www.aboutamazon.com/news/community/amazon-alleviating-hunger-for-students-throughout-hq2-region) | Amazon donated money for snack baskets in Abingdon classrooms. | |
 
 ## Principals
 

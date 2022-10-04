@@ -1,7 +1,7 @@
 --- 
 title: Staff Wishlists
 summary: Abingdon staff have put together wishlists for classroom supplies.
-weight: 40
+weight: 30
 linktitle: Staff Wishlists
 ---
 
