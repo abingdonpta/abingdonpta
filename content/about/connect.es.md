@@ -3,10 +3,6 @@ title: Conéctese con la PTA
 summary: Formas de conectarse con la PTA de Abingdon.
 weight: 60
 linktitle: Conéctese
-aliases:
-    - /meetings
-    - /contact-us
-    - /cardinal-courrier
 ---
 <style>
 label[for=toc-control], #toc-control { display: none; }
