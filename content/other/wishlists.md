@@ -5,7 +5,7 @@ weight: 30
 linktitle: Staff Wishlists
 ---
 
-Please see below for the wish lists of our teachers, who thank you in advance for supporting their classrooms.
+Please see below for the wish lists of our teachers. Thank you in advance for supporting their classrooms! *Please note, you are not obligated to purchase anything from the wish lists.*
 
 {{< hint warning >}}
 **APS policy prohibits teachers from accepting gift cards to purchase classroom supplies, so please do not send them in.**
