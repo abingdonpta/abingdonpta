@@ -13,6 +13,12 @@ We will only share documents sent to the entire school, not to a particular clas
 
 ---
 
+## October 4, 2022
+
+{{< half src="images/2022-10-04_1.webp" alt="Coat Drive flyer" >}}
+
+{{< half src="images/2022-10-04_2.webp" alt="Trunk or Treat flyer" >}}
+
 ## September 27, 2022
 
 {{< half src="images/2022-09-27_1.webp" alt="Membership Drive flyer" >}}
