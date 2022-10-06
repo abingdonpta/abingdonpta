@@ -15,8 +15,6 @@ When sending packages directly to the school, please include "ATTN: [Staff name]
 
 If you work at Abingdon and would like your wishlist featured on this page, please email the PTA at abingdonelementarypta@gmail.com.
 
-{{< hint info >}}
-*Wishlists coming soon.*
-{{< /hint >}}
+## Kindergarten
 
-<!--https://www.acmpta.com/mpsa-news/teacher-wish-lists-->
+- [Ms. Platt](https://www.amazon.com/hz/wishlist/ls/UW5CNNPMGAFB)
