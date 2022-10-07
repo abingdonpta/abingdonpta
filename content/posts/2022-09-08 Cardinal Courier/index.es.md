@@ -108,4 +108,4 @@ También, gracias a nuestro equipo de riego de verano - Pat, Lauren, Amy, Matt y
 
 ¡El Cardenal de Abingdon realizó una excursión a la Feria del Condado de Arlington el mes pasado y quedó asombrado al ver los premiados okra, pimientos banana, menta, albahaca, tomates y zinnia de Abingdon!
 
-{{< full src="images/IMG_1248.jpg" alt="El cardenal de Abingdon en la feria del condado de Arlington con plantas premiadas del jardín de Abingdon" >}}
+{{< halfcenter src="images/IMG_1248.jpg" alt="El cardenal de Abingdon en la feria del condado de Arlington con plantas premiadas del jardín de Abingdon" >}}

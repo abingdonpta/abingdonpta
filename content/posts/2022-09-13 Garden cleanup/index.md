@@ -15,4 +15,4 @@ Please help us weed our school garden. If you would like to join us, please brin
 
 To receive updates about garden volunteer opportunities, please [sign up here](https://lp.constantcontactpages.com/su/SjhlqrR).
 
-{{< full src="images/flyer.webp" alt="Abingdon Community Garden Cleanup flyer in English and Spanish" >}}
+{{< halfcenter src="images/flyer.webp" alt="Abingdon Community Garden Cleanup flyer in English and Spanish" >}}

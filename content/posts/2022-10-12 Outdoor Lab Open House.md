@@ -2,7 +2,7 @@
 title: Outdoor Lab Open House
 summary: The Arlington Outdoor Lab is having an Open House on Sunday, October 16th.
 slug: outdoor lab open house
-date: 2022-10-06T18:00:00-04:00
+date: 2022-10-12T05:00:00-04:00
 draft: true
 ---
 

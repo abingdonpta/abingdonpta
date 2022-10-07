@@ -73,6 +73,8 @@ The Abingdon PTA is creating an **online student directory** for the 2022-2023 s
 
 Our PTA is participating in Reflections - a national PTA-sponsored program that encourages students to express themselves artistically. We’re calling all Abingdon students to create visual art or literature reflecting this year’s theme: “Show Your Voice.” Students can create theme-based artwork in the categories of **literature** (written works) and **visual arts** (paintings, sculptures, drawings, and prints). All artworks will be recognized, celebrated, and judged by Abingdon volunteers by grade-level divisions. A selection of entries will advance to the county-wide competition. We are excited to see your talent! More info [here](https://www.abingdonpta.org/reflections/).
 
+<p style="clear:right;"></p>
+
 ## 🫶 Volunteer with Us
 
 <img src="images/6sh7py.jpg" alt="Call for volunteers" width="500" height="500" class="flyer" >
@@ -108,4 +110,4 @@ Also, thank you to our summer watering team - Pat, Lauren, Amy, Matt, and Karen 
 
 The Abingdon Cardinal took a field trip to the Arlington County Fair last month and was in awe of seeing Abingdon’s prize-winning okra, banana peppers, mint, basil, tomatoes, and zinnia!
 
-{{< full src="images/IMG_1248.jpg" alt="The Abingdon Cardinal at the Arlington County Fair with prize-winning plants from Abingdon's garden" >}}
+{{< halfcenter src="images/IMG_1248.jpg" alt="The Abingdon Cardinal at the Arlington County Fair with prize-winning plants from Abingdon's garden" >}}

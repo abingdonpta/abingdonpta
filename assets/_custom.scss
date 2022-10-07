@@ -14,3 +14,19 @@
 .book-menu > .book-menu-content > nav > ul > li > label {
     font-weight: 700;
 }
+
+.halfright {
+    float: right;
+    padding-left: 25px;
+    padding-bottom: 25px;
+}
+.halfleft {
+    float: left;
+    padding-right: 25px;
+    padding-bottom: 25px;
+}
+.halfcenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
