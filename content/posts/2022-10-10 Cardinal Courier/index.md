@@ -14,7 +14,7 @@ images:
 
 Dear Abingdon Friends and Families,
 
-I am pleased to share that Abingdon PTA’s tax exemption status has recently been reinstated after over a decade of being revoked. To celebrate this milestone, we will be hosting a community celebration next month: Spirit Night at Chipotle in Columbia Pike. These fundraising activities support our free community-building events (e.g., Trunk or Treat) and educational programs such as the Cardinal Kids Mentoring Program and our School Play. Furthermore, we are delighted to launch our [staff grants program](https://www.abingdonpta.org/grants/) to help meet needs for our educators that are not provided for by the school district such as funding for field trips. Living right next door to the nation’s capital affords us a wealth of learning opportunities for our Cardinals to learn and explore. 
+I am pleased to share that Abingdon PTA’s tax exemption status has recently been reinstated after over a decade of being revoked. To celebrate this milestone, we will be hosting a community celebration next month: Spirit Night at Chipotle on Columbia Pike. These fundraising activities support our free community-building events (e.g., Trunk or Treat) and educational programs such as the Cardinal Kids Mentoring Program and our School Play. Furthermore, we are delighted to launch our [staff grants program](https://www.abingdonpta.org/grants/) to help meet needs for our educators that are not provided for by the school district such as funding for field trips. Living right next door to the nation’s capital affords us a wealth of learning opportunities for our Cardinals to learn and explore. 
 
 While our volunteer team generously supports enriching our Cardinals’ classroom experience, another priority is to collectively influence policymakers to best support our students. For example, you may have noticed that Abingdon’s oldest tree in the back playground was recently removed prior to the start of the school year due to heart rot; we have asked our school district to consider providing commercial sail shade coverage for our back (red) playground to make recess more enjoyable during the extremely hot and sunny days. We have also initiated conversations with fellow Arlingon PTAs through the Arlington County Council of PTAs (CCPTA) about how we can best support field trips.
 
@@ -96,7 +96,7 @@ If you are able to volunteer, [please sign up here](https://docs.google.com/form
 
 <p style="clear:right;"></p>
 
-## 🐌🌲🐛Outdoor Lab
+## 🐌🌲🐛 Outdoor Lab
 
 {{< halfright src="images/outdoor-lab.webp" alt="Outdoor Lab flyer" >}}
 
@@ -118,7 +118,7 @@ The PTA is launching our first Cardinal Coding Club! Students in 3rd - 5th grade
 
 *Cardinal Coding Club: Mixing hands-on coding with interactive play, your young Computer Scientist will learn basic coding principles that allow them to bring stories to life. Using Scratch, a drag-and-drop multimedia programming language designed by MIT, children learn algorithms and programming all while developing and illustrating their own personal stories. Ms. Fisher, Abingdon’s Instructional Technology Coordinator (ITC), will model how to plan, develop, and create a story using Scratch. Even Pixar will be impressed with the final creations!*
 
-## 📱Student Directory Coming Soon
+## 📱 Student Directory Coming Soon
 
 The Abingdon PTA is creating an **online student directory** for the 2022-2023 school year to connect Abingdon families (e.g., arrange playdates or carpools or discuss volunteer opportunities). It will contain information for only those families who have **opted in** to share such information with the PTA as part of the Annual Online Verification Process (AOVP) that all families complete annually. **Only those families who “opt in” will have access to the directory**. Review the announcement [here](https://www.abingdonpta.org/2022/09/06/directory).
 
@@ -138,7 +138,7 @@ You are invited to join us this Wednesday, October 12th for a **Walk, Bike, & Ro
 
 <p style="clear:right;"></p>
 
-## 🫶**Volunteer with Us**
+## 🫶 Volunteer with Us
 
 Please complete the [PTA's volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSf50HFDkNfDxP5VfE2LzsxKbUPZdmRGQTeNEUhXkU_qLCLWZQ/viewform?usp=sf_link) so that we can learn more about your interests, skills, and availability. We would love to match you with a volunteer opportunity or an ongoing role that works for you. Additionally, APS requires that all parents volunteering in the building complete an APS [Volunteer Application](https://abingdon.apsva.us/families/volunteer/); submit the application if you have not already done so this year or last school year. To initiate the process, complete the [English](https://apps.raptortech.com/Apply/MjQyMDplbi1VUw==) or [Spanish](https://apps.raptortech.com/Apply/MjQyMDplcy1VUw==) application, and email [nicole.jondahl@apsva.us](mailto:nicole.jondahl@apsva.us). More info [here](https://abingdon.apsva.us/families/volunteer/.).
 
@@ -162,11 +162,18 @@ Please complete the [PTA's volunteer form](https://docs.google.com/forms/d/e/1FA
 {{< halfright src="images/IMG_4379.jpg" alt="Clothes to be placed in the Lost & Found" >}}
 
 - **Lost & Found Coordinator** — We hope to have a tidy Lost & Found where our Cardinals can easily search for their lost belongings. If you would like to assist in this endeavor, reach out to [abingdonptapresident@gmail.com](mailto:abingdonptapresident@gmail.com).
-- **Baked Treats for Election Day Bake Sale** — We are looking for volunteers who could assist with baking treats, or providing store bought baked goods, that the PTA could sell on election day. If you are interested in helping, contact [abingdonptapresident@gmail.com](mailto:abingdonptapresident@gmail.com).
 
 <p style="clear:right;"></p>
 
-## 💞Call for Donations
+- **Baked Treats for Election Day Bake Sale** — We are looking for volunteers who could assist with baking treats, or providing store bought baked goods, that the PTA could sell on election day. If you are interested in helping, contact [abingdonptapresident@gmail.com](mailto:abingdonptapresident@gmail.com).
+
+{{< halfright src="images/snack-pantry.webp" alt="Snack Pantry flyer" >}}
+
+- **Abingdon Snack Pantry** — Volunteers needed for Abingdon's new snack pantry every Thursday from 2:30 pm - 4:30 pm.  Sign up here: https://www.signupgenius.com/go/20f0c4aacab2aaaff2-abingdon.
+
+<p style="clear:right;"></p>
+
+## 💞 Call for Donations
 
 - 🍬 **Candy Drive:** We are looking for Trunk or Treat candy donations. Please drop off candy in the Abingdon Main Office or purchase it using this Amazon Wish List: https://www.amazon.com/registries/custom/3U3RCZEYFJUWK/guest-view.
 - ☕ **Coffee Drive:** In appreciation of our exceptional educators, consider dropping off caffeinated k-cup donations to the Abingdon main office (labeled “PTA”) or ship to Abingdon PTA at 3035 S Abingdon Street, Arlington VA 22206.
@@ -174,12 +181,12 @@ Please complete the [PTA's volunteer form](https://docs.google.com/forms/d/e/1FA
 - 🦠 **Disinfectant Wipes:** Abingdon could use some extra disinfectant wipes. If you have extra to share, please drop it off at the Abingdon Main Office.
 - 🧤 **Coat Drive:** Abingdon is having a coat drive to share the warmth for Abingdon students K-5. We are collecting coats, mittens, hats, gloves, and scarves in the school’s front office. For additional information contact [meganmiller44@gmail.com](mailto:meganmiller44@gmail.com).
 
-## 💸Passive Fundraising
+## 💸 Passive Fundraising
 
 - 🛒 **Grocery Rebates.** Link your Harris Teeter VIC card to Abingdon Elementary (**5748**). Friends, families, and neighbors are also invited to link their VIC card to Abingdon as well. [Sign up here.](https://docs.google.com/forms/d/e/1FAIpQLSeiAe72qt4qTb_b2xmB-TUZByVkD-QxfVNyFEEHGc6sGkFzYQ/viewform)
 - 🥞 **Box Tops.** Do you eat Cheerios or Go-GURT? Help us fundraise with BoxTops for Education. More info here: https://www.abingdonpta.org/fundraising/#box-tops-for-education.
 
-## 🙏 **Thank you! ¡Gracias! አመሰግናለሁ! Баярлалаа! شكرًا لك !**
+## 🙏 Thank you! ¡Gracias! አመሰግናለሁ! Баярлалаа! شكرًا لك !
 
 We are impressed with the generosity and selflessness of our volunteers and supporters. 
 - Thank you PTA volunteers — Tina, Maureen, McKenna, Courtney — for assisting with the new snack pantry rollout for all of our Cardinals.
@@ -188,7 +195,7 @@ We are impressed with the generosity and selflessness of our volunteers and supp
 - Many thanks to our fellow garden friends at Thomas Jefferson Middle School for sharing their tomato and strawberry plants with the Abingdon Community Garden. Our “kindergardeners” and fellow Cardinals truly enjoyed the garden-fresh tomatoes. 
 - Shout out to our picture day heroes — Amanda, Tina, Gina, and Long Branch parent Sarah for ensuring picture day went smoothly.
 - Another shout out to our fantastic volunteers for lending their time and energies to help make family science night a huge success.
-- Lastly, a gigantic thank you to the PTA Board — Ashley, Clare, Megan, Dan, Christian, Ken, and Meredith, — for their collective tenacity and dedication to Abingdon.
+- Lastly, a gigantic thank you to the PTA Board — Ashley, Clare, Megan, Dan, Christian, Ken, and Meredith — for their collective tenacity and dedication to Abingdon.
 
 ## ✨ The Abingdon Cardinal loves our school playground!
 

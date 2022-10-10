@@ -126,7 +126,7 @@ La PTA de Abingdon está creando un **directorio de estudiantes en línea** para
 
 {{< halfright src="images/r---show-your-voice_facebook-cropped.webp" alt="Folleto de reflexiones" >}}
 
-Nuestra PTA participa en Reflections, un programa nacional patrocinado por la PTA que anima a los estudiantes a expresarse artísticamente. Estamos llamando a todos los estudiantes de Abingdon a crear arte visual o literatura que refleje el tema de este año: "**Muestra tu voz**". Los estudiantes pueden crear obras de arte basadas en temas en las categorías de literatura (obras escritas) y artes visuales (pinturas, esculturas, dibujos y grabados). Todas las obras de arte serán reconocidas, celebradas y juzgadas por voluntarios de Abingdon por divisiones de nivel de grado. Una selección de entradas avanzará a la competencia en todo el condado. ¡Estamos emocionados de ver tu talento! Las inscripciones vencen el **jueves 20 de octubre**. [Más información aquí.](https://www.abingdonpta.org/reflections)
+Nuestra PTA participa en Reflections, un programa nacional patrocinado por la PTA que anima a los estudiantes a expresarse artísticamente. Estamos llamando a todos los estudiantes de Abingdon a crear arte visual o literatura que refleje el tema de este año: "**Muestra tu voz**". Los estudiantes pueden crear obras de arte basadas en temas en las categorías de literatura (obras escritas) y artes visuales (pinturas, esculturas, dibujos y grabados). Todas las obras de arte serán reconocidas, celebradas y juzgadas por voluntarios de Abingdon por divisiones de nivel de grado. Una selección de entradas avanzará a la competencia en todo el condado. ¡Estamos emocionados de ver tu talento! Las inscripciones vencen el **jueves 20 de octubre**. [Más información aquí.](https://www.abingdonpta.org/es/reflections)
 
 <p style="clear:right;"></p>
 
@@ -162,7 +162,14 @@ Complete el [formulario de voluntariado de la PTA](https://docs.google.com/forms
 {{< halfright src="images/IMG_4379.jpg" alt="Ropa para colocar en Lost & Found" >}}
 
 - **Coordinador de objetos perdidos** — Esperamos tener un centro de objetos perdidos ordenado donde nuestros cardenales puedan buscar fácilmente sus pertenencias perdidas. Si desea ayudar en este esfuerzo, comuníquese con [abingdonptapresident@gmail.com](mailto:abingdonptapresident@gmail.com).
+
+<p style="clear:right;"></p>
+
 - **Golosinas horneadas para la venta de pasteles del día de las elecciones**: estamos buscando voluntarios que puedan ayudar a hornear golosinas o proporcionar productos horneados comprados en la tienda, que la PTA podría vender el día de las elecciones. Si está interesado en ayudar, comuníquese con [abingdonptapresident@gmail.com](mailto:abingdonptapresident@gmail.com).
+
+{{< halfright src="images/snack-pantry.webp" alt="Folleto de Snack Pantry" >}}
+
+- **Despensa de bocadillos de Abingdon** — Se necesitan voluntarios para la nueva despensa de bocadillos de Abingdon todos los jueves de 2:30 p. m. a 4:30 p. m. Regístrese aquí: https://www.signupgenius.com/go/20f0c4aacab2aaaff2-abingdon.
 
 <p style="clear:right;"></p>
 
