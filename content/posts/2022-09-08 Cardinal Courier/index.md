@@ -18,6 +18,8 @@ aliases:
     }
 </style>
 
+{{< button href="https://lp.constantcontactpages.com/su/t3ku1aP" >}}Click here to receive the Cardinal Courier newsletter in your inbox.{{< /button >}}
+
 ## President's Message
 
 Dear Abingdon Friends and Families,
