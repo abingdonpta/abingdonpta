@@ -13,6 +13,14 @@ We will only share documents sent to the entire school, not to a particular clas
 
 ---
 
+## October 11, 2022
+
+{{< half src="images/2022-10-11_1.webp" alt="Spirit Week Flyer - English" >}}
+
+{{< half src="images/2022-10-11_2.webp" alt="Spirit Week Flyer - Spanish" >}}
+
+{{< half src="images/2022-10-11_3.webp" alt="Reflections flyer" >}}
+
 ## October 4, 2022
 
 {{< half src="images/2022-10-04_1.webp" alt="Coat Drive flyer" >}}
