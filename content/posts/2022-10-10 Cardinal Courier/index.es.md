@@ -50,7 +50,7 @@ Nota: Vea y suscríbase al calendario de la PTA en nuestro sitio web [aquí](htt
 
 ## 👋 ¡Reunión virtual de membresía general de la PTA el martes 11 de octubre!
 
-{{< halfright src="images/meeting-flyer.webp" alt="Folleto de la reunión general de miembros" >}}
+{{< halfright src="images/meeting-flyer-es.webp" alt="Folleto de la reunión general de miembros" >}}
 
 **Quién:** Maestros, padres, tutores, estudiantes, miembros de la comunidad
 **Qué:** Reunión virtual de membresía general de octubre

@@ -59,7 +59,7 @@ Note: View and subscribe to the PTA calendar on our website [here](https://www.a
 > For security reasons, we do not share Zoom meeting codes on our website. [Please subscribe to the email edition of our newsletter](https://lp.constantcontactpages.com/su/t3ku1aP) to make sure you receive PTA meeting codes.
 
 **When:** October 11, 2022 - 7:00 PM EST  
-Meeting agenda: https://www.abingdonpta.org/agendas/2022-10-11/.
+**Agenda:** https://www.abingdonpta.org/agendas/2022-10-11/.
 
 <p style="clear:right;"></p>
 
@@ -84,8 +84,8 @@ We are proud to support our Abingdon community by honoring our colleagues’ and
 {{< halfright src="images/trunk-or-treat.webp" alt="Trunk or Treat flyer" >}}
 
 The Abingdon PTA is excited to bring back Trunk or Treat! Kids will dress up in Halloween costumes and collect candy from volunteers who have spookily decorated their cars.
-- When: Saturday, October 29, 2022, 12 pm - 2 pm
-- Where: Abingdon’s parking lot
+- **When:** Saturday, October 29, 2022, 12 PM - 2 PM
+- **Where:** Abingdon’s parking lot
 
 We are looking for:
 - candy donations to be dropped in Abingdon’s front office or purchased using [this Amazon wish list](https://www.amazon.com/registries/custom/3U3RCZEYFJUWK/guest-view)
