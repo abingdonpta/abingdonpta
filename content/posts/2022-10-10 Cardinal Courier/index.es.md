@@ -167,7 +167,7 @@ Complete el [formulario de voluntariado de la PTA](https://docs.google.com/forms
 
 - **Golosinas horneadas para la venta de pasteles del día de las elecciones**: estamos buscando voluntarios que puedan ayudar a hornear golosinas o proporcionar productos horneados comprados en la tienda, que la PTA podría vender el día de las elecciones. Si está interesado en ayudar, comuníquese con [abingdonptapresident@gmail.com](mailto:abingdonptapresident@gmail.com).
 
-{{< halfright src="images/snack-pantry.webp" alt="Folleto de Snack Pantry" >}}
+{{< halfright src="images/snack-pantry-es.webp" alt="Folleto de Snack Pantry" >}}
 
 - **Despensa de bocadillos de Abingdon** — Se necesitan voluntarios para la nueva despensa de bocadillos de Abingdon todos los jueves de 2:30 p. m. a 4:30 p. m. Regístrese aquí: https://www.signupgenius.com/go/20f0c4aacab2aaaff2-abingdon.
 
