@@ -29,6 +29,10 @@ url: /boardlinks/
 
 ---
 
+{{< button href="https://docs.google.com/spreadsheets/d/1uIpeodZqVWZvU5Af3gFg4juD3oD-dbqnxp5SwDXVrJw/edit" >}}Expense Authorization Form Submissions{{< /button >}} Owner: abingdonptatreasurer@gmail.com<br>(Only for President & Treasurer to edit)
+
+---
+
 {{< button href="https://drive.google.com/drive/u/6/folders/1cHdrw8yFx8WMAjEV5JfK0rOipuARvZXS" >}}Minutes and Agendas Folder{{< /button >}} Owner: abingdonptasecretary@gmail.com
 
 ---

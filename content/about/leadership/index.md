@@ -33,6 +33,8 @@ Please [fill out our volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSf
 | [🔔 After School Enrichment](/roles/#-after-school-enrichment) | Ken Venable |
 | [🎨 Reflections](/roles/#-reflections) | Mary Savig |
 | [🏃‍♀️ Girls on the Run](/roles/#-girls-on-the-run) |
+| [🏃‍♂️ Boys Gotta Run](/roles/#-boys-gotta-run) |
+| [👩‍💻 Cardinal Coding Club](/roles/#-cardinal-coding-club) | Teresa Valdez-Bain |
 | [🧠 Odyssey of the Mind](/roles/#-odyssey-of-the-mind) |
 
 There are other educational programs available to elementary school students, like [🏃‍♂️ Boys Gotta Run](https://www.boysgottarun.com), and [🔬 Science Olympiad](https://www.soinc.org/), with which Abingdon has little or no participation experience; however, the PTA could support Abingdon's participation provided that we have a motivated volunteer.
@@ -55,13 +57,13 @@ There are other educational programs available to elementary school students, li
 
 | Role | Coordinator |
 |-|-|
-| [🧥 Winter Clothing Drive](/roles/#-winter-clothing-drive) |
+| [🧥 Winter Clothing Drive](/roles/#-winter-clothing-drive) | Megan Miller |
 | [🥫 Canned Food Drive](/roles/#-canned-food-drive) |
 | [👪 Adopt-a-Family](/roles/#-adopt-a-family) |
 | [🥨 Snack Pantry](/roles/#-snack-pantry) | Megan Miller |
 | [🧮 ACTL Representative](/roles/#-actl-representative) | Jackie Winkelvoss |
 | [🏫 CCPTA Representative](/roles/#-ccpta-representative) | Megan Miller<br>Ken Venable |
-| [🏫 SEPTA Representative](/roles/#-septa-representative) |
+| [🏫 SEPTA Representative](/roles/#-septa-representative) | Amy Turner |
 | [⚕️ SHAB Representative](/roles/#-shab-representative) |
 | [🚌 ACTC Representative](/roles/#-actc-representative) |
 | [🏫 FAC Representative](/roles/#-fac-representative) |

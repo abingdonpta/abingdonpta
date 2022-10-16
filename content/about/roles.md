@@ -79,8 +79,26 @@ Abingdon has not participated in Girls on the Run since the pandemic started. We
 Learn more about Girls on the Run on [their website](https://www.girlsontherun.org) and their [local Northern Virginia unit's website](https://gotrnova.org).
 
 - **Location**: School
-- **Time of day**: Immediately after school day
+- **Time of day**: Immediately after school day, two days per week
 - **Months**: September to November and/or March to May
+
+### 🏃‍♂️ Boys Gotta Run
+
+Over the course of 7 weeks 3rd-5th grade boys will embark on a quest to complete a 5k. In addition to running, they will foster friendships through activities based around Pillars of Character: integrity, responsibility, sportsmanship, grit and self-control, to name a few.
+
+Learn more about Boys Gotta Run on [their website](https://www.boysgottarun.com/).
+
+- **Location**: School
+- **Time of day**: Immediately after school day, one day per week
+- **Months**: September to November and/or March to May
+
+### 👩‍💻 Cardinal Coding Club
+
+Mixing hands-on coding with interactive play, students in 3rd to 5th grade will learn basic coding principles that allow them to bring stories to life. Using Scratch, a drag-and-drop multimedia programming language designed by MIT, children learn algorithms and programming all while developing and illustrating their own personal stories. Ms. Fisher, Abingdon’s Instructional Technology Coordinator (ITC), models how to plan, develop, and create a story using Scratch. This is a collaboration with Boolean Girl, a local non-profit, whose mission is to engage students in computer science.
+
+- **Location**: School
+- **Time of day**: Immediately after school day, one day per week
+- **Months**: Year-round
 
 ### 🧠 Odyssey of the Mind
 
@@ -92,7 +110,7 @@ Abingdon has not participated in the Odyssey of the Mind in several years. We wo
 - **Time of day**: Immediately after school day and competition time
 - **Months**: Unsure
 
-There are other educational programs available to elementary school students, like [🏃‍♂️ Boys Gotta Run](https://www.boysgottarun.com), and [🔬 Science Olympiad](https://www.soinc.org/), with which Abingdon has little or no participation experience; however, the PTA could support Abingdon's participation provided that we have a motivated volunteer.
+There are other educational programs available to elementary school students like [🔬 Science Olympiad](https://www.soinc.org/) with which Abingdon has little or no participation experience; however, the PTA could support Abingdon's participation provided that we have a motivated volunteer.
 
 ## 💵 Fundraising Role Descriptions
 
