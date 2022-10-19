@@ -22,3 +22,5 @@ If you work at Abingdon and would like your wishlist featured on this page, plea
 ## 3rd Grade
 
 - [Ms. Burd](https://www.amazon.com/hz/wishlist/ls/3NHI49RVDQWDF)
+- [Ms. Samuels #1](https://www.donorschoose.org/project/lets-work-together/6833716/)
+- [Ms. Samuels #2](https://www.donorschoose.org/project/have-a-seat/6720204/)
