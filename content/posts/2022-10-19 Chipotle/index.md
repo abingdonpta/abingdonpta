@@ -8,7 +8,6 @@ images:
 - /2022/10/19/chipotle-spirit-night/images/flyer.webp
 aliases:
     - /chipotle/
-draft: true
 ---
 
 Abingdon PTA is hosting a Spirit Night at Chipotle! 
