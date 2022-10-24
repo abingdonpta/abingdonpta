@@ -29,10 +29,10 @@ Here's what is growing (or grew) in 2022:
 | Bed 2  | Pumpkins |
 | Bed 3  | Cabbage (front left)<br>Okra (middle)<br>Cabbage (right, harvested) |
 | Bed 4  | Okra<br>Cantaloupe |
-| Bed 5  | Pumpkins |
+| Bed 5  | Pumpkins<br>Garlic (right) |
 | Bed 6  | Radishes (left)<br>Tomatoes (middle)<br>Beans (front right)<br>Carrots (back right) |
 | Bed 7  | Black-eyed Susan (right) |
-| Bed 8  | Black-eyed Susan (right) |
+| Bed 8  | Black-eyed Susan (right)<br>Strawberries (left) |
 | Bed 9  | Pumpkin (left)<br>Butterfly weed (left center)<br>Tomato (middle)<br>Basil (back right)<br>Zinnia (front right) |
 | Bed 10 | Peppers (left)<br>Butterfly weed (back center)<br>Cucumber (front center)<br>Pumpkins (front right) |
 | Bed 11 | Cabbage (left)<br>Bok choy (center left)<br>Watermelon (middle)<br>Pumpkins (center right)<br>Cucumber (front right)<br>Zinnia (back right) |

@@ -13,6 +13,14 @@ We will only share documents sent to the entire school, not to a particular clas
 
 ---
 
+## October 25, 2022
+
+{{< half src="images/2022-10-25_1.webp" alt="Trunk or Treat flyer" >}}
+
+## October 18, 2022
+
+{{< half src="images/2022-10-18_1.webp" alt="Connect with the PTA flyer" >}}
+
 ## October 11, 2022
 
 {{< half src="images/2022-10-11_1.webp" alt="Spirit Week Flyer - English" >}}
