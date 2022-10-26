@@ -23,3 +23,13 @@ If you are able to volunteer, [please sign up here](https://docs.google.com/form
 
 {{< half src="images/flyer.webp" alt="Trunk or Treat flyer" >}}
 {{< half src="images/flyer-es.webp" alt="Trunk or Treat flyer in Spanish" >}}
+
+**EDIT 10/25/2022:** Abingdon's Assistant Principals will be making stops throughout Abingdon's attendance zone to give out candy and to say hello.
+
+- At **Infinity Apartments**, 12:00 - 12:35 (955 S. Columbus St.)
+- At **Wildwood Park Apartments**, 12:40 - 1:15 (Courtyard in back of the building)
+- At **Columbia Grove Apartments**, 1:20 - 2:00 (1012 S. Frederick St.)
+
+{{< half src="images/ap-en.webp" alt="AP's Trunk or Treat flyer" >}}
+{{< half src="images/ap-es.webp" alt="AP's Trunk or Treat flyer in Spanish" >}}
+{{< half src="images/ap-am.webp" alt="AP's Trunk or Treat flyer in Amharic" >}}
