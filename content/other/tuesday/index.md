@@ -16,6 +16,9 @@ We will only share documents sent to the entire school, not to a particular clas
 ## October 25, 2022
 
 {{< half src="images/2022-10-25_1.webp" alt="Trunk or Treat flyer" >}}
+{{< half src="images/2022-10-25_2.webp" alt="Coffee chat flyer" >}}
+{{< half src="images/2022-10-25_3.webp" alt="Movie night flyer - English" >}}
+{{< half src="images/2022-10-25_4.webp" alt="Movie Night flyer - Spanish" >}}
 
 ## October 18, 2022
 
