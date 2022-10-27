@@ -8,7 +8,7 @@ images:
 - /2022/10/20/garden-cleanup/images/flyer.webp
 ---
 
-Help us clean up the school garden and plant cover crops. We will also be have a special guest, Mrs. Andrea Nesbitt, who will read a story about the Native American Jingle Dress Dance and lead a craft activity too!
+Help us clean up the school garden and plant cover crops. We will also have a special guest, Mrs. Andrea Nesbitt, who will read a story about the Native American Jingle Dress Dance and lead a craft activity too!
 
 - **When**: Sunday, November 6, 2022 from 2:00 pm – 4:00 pm
 - **Where**: Abingdon Community Garden, next to the school.

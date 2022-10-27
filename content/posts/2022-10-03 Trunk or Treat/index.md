@@ -33,3 +33,4 @@ If you are able to volunteer, [please sign up here](https://docs.google.com/form
 {{< half src="images/ap-en.webp" alt="AP's Trunk or Treat flyer" >}}
 {{< half src="images/ap-es.webp" alt="AP's Trunk or Treat flyer in Spanish" >}}
 {{< half src="images/ap-am.webp" alt="AP's Trunk or Treat flyer in Amharic" >}}
+{{< half src="images/ap-mn.webp" alt="AP's Trunk or Treat flyer in Mongolian" >}}
