@@ -13,6 +13,10 @@ We will only share documents sent to the entire school, not to a particular clas
 
 ---
 
+## November 1, 2022
+
+{{< half src="images/2022-11-01_1.webp" alt="Election Day Bake Sale flyer" >}}
+
 ## October 25, 2022
 
 {{< half src="images/2022-10-25_1.webp" alt="Trunk or Treat flyer" >}}
