@@ -4,7 +4,7 @@ summary: Learn about the Reflections Arts Contest that the Abingdon PTA is organ
 slug: reflections
 date: 2022-09-07T05:00:00-04:00
 images:
-    - social/r---show-your-voice_facebook-cropped.webp
+- /2022/09/07/reflections/social/r---show-your-voice_facebook-cropped.webp
 aliases:
     - /reflections/
 categories: reflections
