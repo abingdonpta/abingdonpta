@@ -15,7 +15,12 @@ We will only share documents sent to the entire school, not to a particular clas
 
 ## November 1, 2022
 
-{{< half src="images/2022-11-01_1.webp" alt="Election Day Bake Sale flyer" >}}
+{{< half src="images/2022-11-01_1.webp" alt="Chipotle Spirit Night flyer" >}}
+{{< half src="images/2022-11-01_2.webp" alt="Chipotle Spirit Night flyer - Spanish" >}}
+{{< half src="images/2022-11-01_3.webp" alt="November Garden Work Day flyer" >}}
+{{< half src="images/2022-11-01_4.webp" alt="November Garden Work Day flyer - Spanish" >}}
+{{< half src="images/2022-11-01_5.webp" alt="Election Day Bake Sale flyer" >}}
+{{< half src="images/2022-11-01_6.webp" alt="Election Day Bake Sale flyer - Spanish" >}}
 
 ## October 25, 2022
 
