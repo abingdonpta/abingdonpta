@@ -44,23 +44,6 @@ PD Ahora tenemos 112 participantes que han vinculado su tarjeta Harris Teeter VI
 - **Jueves, 1 de diciembre de 2022:** Distribución de la despensa de refrigerios de Abingdon (2:30 pm - 4:30 pm)
 - **Lunes, 12 de diciembre de 2022:** Se abre la inscripción para la clase de invierno después de la escuela de Baroody. Información adicional a seguir.
 
-PD Ahora tenemos 112 participantes que han vinculado su tarjeta Harris Teeter VIC a Abingdon. También estamos muy emocionados de anunciar nuestro nuevo esfuerzo de recaudación de fondos con AmazonSmile; lea a continuación para más detalles.
-
-## 📅 ​​Guarda las fechas
-
-- **Martes, 8 de noviembre de 2022:** No hay clases (aprendizaje profesional para el personal)
-- **Martes, 8 de noviembre de 2022:** Venta de pasteles del día de las elecciones de la PTA (7 a. m. a 12 pm)
-- **Martes, 8 de noviembre de 2022:** Reunión general de miembros de la PTA (7 pm - 8:00 pm)
-- **Miércoles, 9 de noviembre de 2022:** PTA Reflections Art Show (6:30 pm - 7:30 pm)
-- **Jueves, 10 de noviembre de 2022:** El registro del Cardinal Coding Club abre a las 12 pm El enlace de registro se compartirá en el Facebook y Twitter de la PTA al mediodía.
-- **Jueves, 10 de noviembre de 2022:** Distribución de la despensa de refrigerios de Abingdon (2:30 pm - 4:30 pm)
-- **Jueves, 10 de noviembre de 2022:** Reunión del Comité de Diversidad, Equidad e Inclusión de Abingdon (3:00 pm - 4:00 pm, Sala 220)
-- **Viernes, 11 de noviembre de 2022:** No hay clases (Día de los Veteranos)
-- **Jueves, 17 de noviembre de 2022:** Distribución de la despensa de refrigerios de Abingdon (2:30 pm - 4:30 pm)
-- **Miércoles a viernes, del 23 al 25 de noviembre de 2022:** No hay clases (Descanso de Acción de Gracias)
-- **Jueves, 1 de diciembre de 2022:** Distribución de la despensa de refrigerios de Abingdon (2:30 pm - 4:30 pm)
-- **Lunes, 12 de diciembre de 2022:** Se abre la inscripción para la clase de invierno después de la escuela de Baroody. Información adicional a seguir.
-
 Nota: [Vea y suscríbase al calendario de la PTA en nuestro sitio web aquí.](https://www.abingdonpta.org/calendar)
 
 ## 👋 Reunión virtual de membresía general de la PTA el martes 8 de noviembre
