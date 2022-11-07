@@ -121,7 +121,7 @@ Complete el [formulario de voluntariado de la PTA](https://docs.google.com/forms
 
 🛍️ **Bolsas de supermercado reutilizables:** En preparación para la colecta de alimentos de Acción de Gracias de Abingdon para las familias de Abingdon, estamos buscando 80 bolsas de supermercado reutilizables para la trabajadora social de Abingdon, la Sra. Margarita Zwisler. Si tiene alguna bolsa de compras de segunda mano (en excelente estado) o nueva para donar, déjela en la oficina principal dentro del contenedor de recolección de abrigos. Si está interesado en comprárnoslos o adquirir una donación de una empresa local, comuníquese con meganmiller44@gmail.com.
 
-🦃 **Colección de lados de Acción de Gracias:** Estamos pidiendo a la comunidad escolar que considere comprar lados adicionales para nuestras 40 familias de Abingdon. Estén atentos para un próximo SignUp Genius. Para obtener información adicional, comuníquese con meganmiller44@gmail.com](mailto:abingdonelementarypta@gmail.com).
+🦃 **Colección de lados de Acción de Gracias:** Estamos pidiendo a la comunidad escolar que considere comprar lados adicionales para nuestras 40 familias de Abingdon. Estén atentos para un próximo SignUp Genius. Para obtener información adicional, comuníquese con meganmiller44@gmail.com.
 
 🎁 **Tarjetas de regalo de Target:** Le pedimos a nuestra comunidad que regale tarjetas de regalo de $25 de Target a nuestras 40 familias de Abingdon para apoyar a los padres durante la temporada navideña. Se aceptarán todas y cada una de las donaciones de tarjetas de regalo de Target. Deje en la oficina principal de Abingdon **ATENCIÓN: PTA**. Habrá una caja de seguridad en la oficina principal para guardar estas tarjetas de regalo.
 
@@ -136,8 +136,8 @@ Complete el [formulario de voluntariado de la PTA](https://docs.google.com/forms
 {{< half src="images/amazonsmile-es.webp" alt="Folleto de AmazonSmile" >}}
 {{< half src="images/harris-teeter-es.webp" alt="folleto de Harris Teeter" >}}
 
-📦 **AmazonSmile.** [Cuando te registras aquí](https://smile.amazon.com/ch/52-1289072) y compras en https://smile.amazon.com, Amazon donará 0.5% a Asociación de padres y maestros de Abingdon. ¡Amigos, familiares y vecinos también están invitados a registrarse!
-🛒 **Reembolsos en comestibles.** Vincule su tarjeta VIC de Harris Teeter a Abingdon Elementary (**5748**). También se invita a amigos, familiares y vecinos a vincular su tarjeta VIC a Abingdon. [Regístrate aquí.](https://docs.google.com/forms/d/e/1FAIpQLSeiAe72qt4qTb_b2xmB-TUZByVkD-QxfVNyFEEHGc6sGkFzYQ/viewform)
+📦 **AmazonSmile.** [Cuando te registras aquí](https://smile.amazon.com/ch/52-1289072) y compras en https://smile.amazon.com, Amazon donará 0.5% a Asociación de padres y maestros de Abingdon. ¡Amigos, familiares y vecinos también están invitados a registrarse!  
+🛒 **Reembolsos en comestibles.** Vincule su tarjeta VIC de Harris Teeter a Abingdon Elementary (**5748**). También se invita a amigos, familiares y vecinos a vincular su tarjeta VIC a Abingdon. [Regístrate aquí.](https://docs.google.com/forms/d/e/1FAIpQLSeiAe72qt4qTb_b2xmB-TUZByVkD-QxfVNyFEEHGc6sGkFzYQ/viewform)  
 🥞 **Box Tops.** ¿Comes Cheerios o Go-GURT? Ayúdenos a recaudar fondos con BoxTops for Education. [Hay más información disponible aquí](https://www.abingdonpta.org/fundraising/#box-tops-for-education).
 
 ## 🙏 ¡Gracias! ¡Gracias! አመሰግናለሁ! Баярлалаа! شكرًا لك !
