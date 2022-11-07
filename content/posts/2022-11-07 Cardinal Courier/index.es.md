@@ -111,7 +111,7 @@ Para ayudar con la exhibición de arte Reflections, [regístrese aquí](https://
 
 <p style="clear:right;"></p>
 
-## 👩‍💻 Club de codificación Cardinal
+## 👩‍💻 Club de Codificación Cardinal
 
 {{< halfright src="images/cardinal-coding-club-es.webp" alt="Folleto del Cardenal Coding Club" >}}
 
