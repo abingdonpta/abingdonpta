@@ -88,7 +88,7 @@ Nota: [Vea y suscríbase al calendario de la PTA en nuestro sitio web aquí.](ht
 
 - **Cuándo**: Martes, 8 de noviembre, 7 AM - 12 PM
 - **Dónde**: dos ubicaciones ⁠—
-- Escuela Primaria Abingdon (Fuera de las puertas del gimnasio) **Y**
+- Escuela Primaria Abingdon **Y**
     - Centro Comunitario de Fairlington (Esquina de 34th St S y S Utah St)
 
 ¡Venderemos galletas, bagels, muffins, café, imanes para autos y más!

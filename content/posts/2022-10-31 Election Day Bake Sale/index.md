@@ -12,7 +12,7 @@ Visit the PTA table to grab a treat for yourself, an educator, a volunteer, or a
 
 - **When**: Tuesday, November 8, 7 AM - 12 PM
 - **Where**: Two locations ⁠—
-    - Abingdon Elementary School (Outside of the gymnasium doors) **AND**
+    - Abingdon Elementary School **AND**
     - Fairlington Community Center (Corner of 34th St S and S Utah St)
 
 We will be selling cookies, bagels, muffins, coffee, car magnets, and more!
