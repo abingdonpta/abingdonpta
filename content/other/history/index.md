@@ -156,3 +156,16 @@ Below is a timeline of Abingdon's history gleaned from several sources, mostly n
 | -------- | ---- |
 | A history of Abingdon Elementary, written in March 1971. | [PDF](images/PDF/Abingdon%20Elementary%20History.pdf) |
 | Architectural and mechanical report for proposed additions and alterations to Oakridge and Abingdon elementary schools, published in 1968. ([library URL](https://libcat.arlingtonva.us/Record/10555)) | [PDF](images/PDF/Addition%20Plan%201968.pdf) |
+
+## Playground Construction Photos
+
+{{< half src="images/photo-01.webp" alt="A photo documenting the construction of the Abingdon playground in the 1980's." >}}
+{{< half src="images/photo-02.webp" alt="A photo documenting the construction of the Abingdon playground in the 1980's." >}}
+{{< half src="images/photo-03.webp" alt="A photo documenting the construction of the Abingdon playground in the 1980's." >}}
+{{< half src="images/photo-04.webp" alt="A photo documenting the construction of the Abingdon playground in the 1980's." >}}
+{{< half src="images/photo-05.webp" alt="A photo documenting the construction of the Abingdon playground in the 1980's." >}}
+{{< half src="images/photo-06.webp" alt="A photo documenting the construction of the Abingdon playground in the 1980's." >}}
+{{< half src="images/photo-07.webp" alt="A photo documenting the construction of the Abingdon playground in the 1980's." >}}
+{{< half src="images/photo-08.webp" alt="A photo documenting the construction of the Abingdon playground in the 1980's." >}}
+{{< half src="images/photo-09.webp" alt="A photo documenting the construction of the Abingdon playground in the 1980's." >}}
+{{< half src="images/photo-10.webp" alt="A photo documenting the construction of the Abingdon playground in the 1980's." >}}
