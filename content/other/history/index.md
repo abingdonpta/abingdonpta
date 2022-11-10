@@ -159,6 +159,10 @@ Below is a timeline of Abingdon's history gleaned from several sources, mostly n
 
 ## Playground Construction Photos
 
+The photos below show the construction of the "Leathers Playground" in 1985. The playground was designed by Robert Leathers, a celebrity playground architect whose designs were constructed over multiple days by hundreds of community volunteers. ([The Washington Post published an article describing some of Abingdon's planning efforts.](https://www.washingtonpost.com/archive/local/1984/11/07/volunteers-work-is-childs-play/ca319fea-11f5-4f64-befd-271dce5697f9/))
+
+The photos were provided by Terry Placek, who served on the construction team's "Food Committee," ensuring that the volunteers were well-fed as they built Abingdon's new playground.
+
 {{< half src="images/photo-01.webp" alt="A photo documenting the construction of the Abingdon playground in the 1980's." >}}
 {{< half src="images/photo-02.webp" alt="A photo documenting the construction of the Abingdon playground in the 1980's." >}}
 {{< half src="images/photo-03.webp" alt="A photo documenting the construction of the Abingdon playground in the 1980's." >}}

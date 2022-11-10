@@ -10,6 +10,8 @@ The Abingdon PTA organizes many donation drives for our school community.
 
 If you're interested in helping to organize our donation drives, please [fill out our volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSf50HFDkNfDxP5VfE2LzsxKbUPZdmRGQTeNEUhXkU_qLCLWZQ/viewform?usp=sf_link).
 
+{{< button relref="/categories/drives/" >}}Click Here for the Latest News about Our Donation Drives{{< /button >}}
+
 ## Food Drive
 
 The PTA organizes canned food drives, particularly during school events. A bin is placed in an accessible location and its contents are donated to the Arlington Food Assistance Center (AFAC).
