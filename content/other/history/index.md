@@ -156,20 +156,23 @@ Below is a timeline of Abingdon's history gleaned from several sources, mostly n
 | -------- | ---- |
 | A history of Abingdon Elementary, written in March 1971. | [PDF](images/PDF/Abingdon%20Elementary%20History.pdf) |
 | Architectural and mechanical report for proposed additions and alterations to Oakridge and Abingdon elementary schools, published in 1968. ([library URL](https://libcat.arlingtonva.us/Record/10555)) | [PDF](images/PDF/Addition%20Plan%201968.pdf) |
+| A document dedicating the Abingdon playground constructed by the community in 1985. | [PDF](images/PDF/playground-dedication.pdf) |
+| The Fairlington Civic Association newsletter documenting the construction of the new Abingdon playground in 1985. | [PDF](images/PDF/playground-fca-bulletin.pdf) |
+| Pamphlets describing the construction effort of the new Abingdon playground in 1985. | [PDF](images/PDF/playground-pamphlets.pdf) |
 
 ## Playground Construction Photos
 
-The photos below show the construction of the "Leathers Playground" in 1985. The playground was designed by Robert Leathers, a celebrity playground architect whose designs were constructed over multiple days by hundreds of community volunteers. ([The Washington Post published an article describing some of Abingdon's planning efforts.](https://www.washingtonpost.com/archive/local/1984/11/07/volunteers-work-is-childs-play/ca319fea-11f5-4f64-befd-271dce5697f9/))
+The photos below show the construction of the "Leathers Playground" in April 1985. The playground was designed by Robert Leathers, a celebrity playground architect whose designs were constructed over multiple days by hundreds of community volunteers. ([The Washington Post published an article describing some of Abingdon's planning efforts.](https://www.washingtonpost.com/archive/local/1984/11/07/volunteers-work-is-childs-play/ca319fea-11f5-4f64-befd-271dce5697f9/))
 
 The photos were provided by Terry Placek, who served on the construction team's "Food Committee," ensuring that the volunteers were well-fed as they built Abingdon's new playground.
 
-{{< half src="images/photo-01.webp" alt="A photo documenting the construction of the Abingdon playground in the 1980's." >}}
-{{< half src="images/photo-02.webp" alt="A photo documenting the construction of the Abingdon playground in the 1980's." >}}
-{{< half src="images/photo-03.webp" alt="A photo documenting the construction of the Abingdon playground in the 1980's." >}}
-{{< half src="images/photo-04.webp" alt="A photo documenting the construction of the Abingdon playground in the 1980's." >}}
-{{< half src="images/photo-05.webp" alt="A photo documenting the construction of the Abingdon playground in the 1980's." >}}
-{{< half src="images/photo-06.webp" alt="A photo documenting the construction of the Abingdon playground in the 1980's." >}}
-{{< half src="images/photo-07.webp" alt="A photo documenting the construction of the Abingdon playground in the 1980's." >}}
-{{< half src="images/photo-08.webp" alt="A photo documenting the construction of the Abingdon playground in the 1980's." >}}
-{{< half src="images/photo-09.webp" alt="A photo documenting the construction of the Abingdon playground in the 1980's." >}}
-{{< half src="images/photo-10.webp" alt="A photo documenting the construction of the Abingdon playground in the 1980's." >}}
+{{< half src="images/photo-01.webp" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
+{{< half src="images/photo-02.webp" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
+{{< half src="images/photo-03.webp" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
+{{< half src="images/photo-04.webp" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
+{{< half src="images/photo-05.webp" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
+{{< half src="images/photo-06.webp" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
+{{< half src="images/photo-07.webp" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
+{{< half src="images/photo-08.webp" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
+{{< half src="images/photo-09.webp" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
+{{< half src="images/photo-10.webp" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
