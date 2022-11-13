@@ -121,7 +121,7 @@ Please complete the [PTA's volunteer form](https://docs.google.com/forms/d/e/1FA
 
 🛍️ **Reusable Grocery Tote Bags:** In preparation for Abingdon’s Thanksgiving Food drive for Abingdon families, we are looking for 80 reusable grocery tote bags for Abingdon’s social worker, Ms. Margarita Zwisler.  If you have any preloved (excellent condition) or new grocery tote bags to donate, please drop them off in the front office inside the coat drive bin. If you are interested in purchasing them for us or acquiring a donation from a local business, please reach out to meganmiller44@gmail.com.
 
-🦃 **Thanksgiving Sides Drive:** We are asking the school community to consider purchasing additional sides for our 40 Abingdon families. Stay tuned for a forthcoming SignUp Genius. For additional information contact meganmiller44@gmail.com.
+🦃 **Thanksgiving Sides Drive:** We are asking the school community to consider purchasing additional sides for our 40 Abingdon families. The Signup Genius link is here: https://www.signupgenius.com/go/20f0c4aacab2aaaff2-thanksgiving. For additional information contact meganmiller44@gmail.com.
 
 🎁 **Target Gift Cards:**  We asking our community to gift $25 Target gift cards to our 40 Abingdon families to support parents over the holiday season. Any and all Target gift card donations will be accepted. Please drop off in the Abingdon front office **ATTENTION: PTA**. There will be a lockbox in the front office storing these gift cards.
 

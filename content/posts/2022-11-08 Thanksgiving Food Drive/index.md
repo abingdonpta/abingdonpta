@@ -19,7 +19,7 @@ We are collecting the following items:
 - Green Beans (Canned)
 - Instant Mashed Potatoes
 
-Items will be collected **November 9-18**.
+Items will be collected **November 9-18**. The link to sign up is here: https://www.signupgenius.com/go/20f0c4aacab2aaaff2-thanksgiving
 
 The drop-off locations are:
 - **Abingdon Front Office** — 3035 S. Abingdon St.

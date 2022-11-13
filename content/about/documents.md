@@ -10,7 +10,7 @@ Agendas are available here before each meeting, and meeting minutes are availabl
 
 | Meeting Date | Agenda | Minutes | Presentation |
 | ------------ | ------ | ------- | ------------ |
-| 2022-11-08   | [Agenda](/agendas/2022-11-08) | | [Financial Statement 1](/presentations/2022-11-08_1.pdf)<br>[Financial Statement 2](/presentations/2022-11-08_2.pdf) |
+| 2022-11-08   | [Agenda](/agendas/2022-11-08) | [Minutes](/minutes/2022-11-08) | [Financial Statement 1](/presentations/2022-11-08_1.pdf)<br>[Financial Statement 2](/presentations/2022-11-08_2.pdf) |
 | 2022-10-11   | [Agenda](/agendas/2022-10-11) | [Minutes](/minutes/2022-10-11) | [Financial Statement 1](/presentations/2022-10-11_1.pdf)<br>[Financial Statement 2](/presentations/2022-10-11_2.pdf)<br>[Gifted Information Session](/presentations/2022-10-11_3.pdf)<br>[School Plan](/presentations/2022-10-11_4.pdf) |
 | 2022-09-12   | [Agenda](/agendas/2022-09-12) | [Minutes](/minutes/2022-09-12) | [Financial Statement 1](/presentations/2022-09-12_1.pdf)<br>[Financial Statement 2](/presentations/2022-09-12_2.pdf) |
 
