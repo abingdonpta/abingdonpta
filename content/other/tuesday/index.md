@@ -13,6 +13,10 @@ We will only share documents sent to the entire school, not to a particular clas
 
 ---
 
+## Movember 8, 2022
+
+No flyers (no school – Election Day)
+
 ## November 1, 2022
 
 {{< half src="images/2022-11-01_1.webp" alt="Chipotle Spirit Night flyer" >}}

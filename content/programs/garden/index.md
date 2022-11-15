@@ -19,28 +19,44 @@ If you're interested in volunteering in the garden, please click on the link bel
 
 ## What's Growing?
 
-Here's what is growing (or grew) in 2022:
+Here's what's planted or growing in the garden in **winter 2022-2023**:
 
 <a href="images/garden-map.svg"><img src="images/garden-map.svg" width="736" height="368" alt="Garden Map"></a>
 
 | Bed    | Plants |
 | ------ | ------ |
-| Bed 1  | Watermelons |
-| Bed 2  | Pumpkins |
-| Bed 3  | Cabbage (front left)<br>Okra (middle)<br>Cabbage (right, harvested) |
-| Bed 4  | Okra<br>Cantaloupe |
-| Bed 5  | Pumpkins<br>Garlic (right) |
-| Bed 6  | Radishes (left)<br>Tomatoes (middle)<br>Beans (front right)<br>Carrots (back right) |
-| Bed 7  | Black-eyed Susan (right) |
-| Bed 8  | Black-eyed Susan (right)<br>Strawberries (left) |
-| Bed 9  | Pumpkin (left)<br>Butterfly weed (left center)<br>Tomato (middle)<br>Basil (back right)<br>Zinnia (front right) |
-| Bed 10 | Peppers (left)<br>Butterfly weed (back center)<br>Cucumber (front center)<br>Pumpkins (front right) |
-| Bed 11 | Cabbage (left)<br>Bok choy (center left)<br>Watermelon (middle)<br>Pumpkins (center right)<br>Cucumber (front right)<br>Zinnia (back right) |
+| Bed 1  | Cover crop 🌾<sup>1</sup> |
+| Bed 2  | Kale 🥬<br>Collards 🥬<br>Leaves 🍂<sup>2</sup> |
+| Bed 3  | Cover crop 🌾<sup>1</sup> |
+| Bed 4  | Cover crop 🌾<sup>1</sup> |
+| Bed 5  | Garlic 🧄 (right)<br>Daffodils 💮<br>Leaves 🍂<sup>2</sup> |
+| Bed 6  | Marigolds 🌼<br>Cover crop 🌾<sup>1</sup> |
+| Bed 7  | Milkweed 🌿<br>Clovers ☘️ |
+| Bed 8  | Leaves 🍂<sup>2</sup> |
+| Bed 9  | Cover crop 🌾<sup>1</sup> |
+| Bed 10 | Butterfly weed 🦋 (back center)<br>Cover crop 🌾<sup>1</sup> |
+| Bed 11 | Kale 🥬<br>Cover crop 🌾<sup>1</sup> |
+
+**1**: The cover crops we planted are hard red wheat, Danko Rye, Hairy Vetch, and medium red clover. [Cover crops](https://en.wikipedia.org/wiki/Cover_crop) protect and nourish the soil during winter.  
+**2**: We covered some garden beds in leaves in order to keep their plants warm during the winter, and to add nutrients to the soil.
 
 ## Photos
 
-### Autumn Garden Cleanup
-*September 2022*
+### November Garden Cleanup
+*November 6, 2022*
+
+{{< half src="images/IMG_6494.jpg" alt="Volunteer holding winter greens for the garden" >}}
+{{< half src="images/IMG_6497.jpg" alt="Volunteers cleaning up garden beds" >}}
+{{< half src="images/IMG_6500.jpg" alt="Volunteers cleaning up garden beds" >}}
+{{< half src="images/IMG_6513.jpg" alt="Volunteers cleaning up garden beds" >}}
+{{< half src="images/IMG_6524.jpg" alt="Volunteers cleaning up garden beds" >}}
+{{< half src="images/IMG_6525.jpg" alt="Volunteers cleaning up garden beds" >}}
+{{< half src="images/IMG_6533.jpg" alt="Volunteers learning about Native American culture" >}}
+{{< half src="images/IMG_6543.jpg" alt="Volunteers learning about Native American culture" >}}
+{{< half src="images/IMG_0755.jpg" alt="Volunteers making beads out of clay" >}}
+
+### September Garden Cleanup
+*September 24, 2022*
 
 {{< half src="images/IMG_3714.jpg" alt="Volunteers posing for a photo in the Abingdon Garden" >}}
 {{< half src="images/IMG_3700.jpg" alt="Volunteers working in the Abingdon Garden" >}}
@@ -49,7 +65,7 @@ Here's what is growing (or grew) in 2022:
 {{< half src="images/IMG_3719.jpg" alt="Volunteers chatting in the Abingdon Garden" >}}
 
 ### Summer Garden Cleanup
-*August 2022*
+*August 7, 2022*
 
 {{< half src="images/IMG_0273.jpg" alt="Volunteers working in the Abingdon Garden" >}}
 {{< half src="images/IMG_0267.jpg" alt="Looking at Zinnias in the Abingdon Garden" >}}
@@ -70,7 +86,7 @@ Here's what is growing (or grew) in 2022:
 {{< half src="images/IMG_9929.jpg" alt="Pumpkins growing in the Abingdon Garden" >}}
 
 ### Earth Day Cleanup
-*April 2022*
+*April 2, 2022*
 
 {{< half src="images/040222_1.jpg" alt="Volunteers moving woodchips at the Abingdon Garden" >}}
 {{< half src="images/040222_2.jpg" alt="Volunteers moving woodchips at the Abingdon Garden" >}}
@@ -81,26 +97,26 @@ Here's what is growing (or grew) in 2022:
 {{< half src="images/040222_7.jpg" alt="The garden looking very tidy after woodchips were placed evenly throughout" >}}
 
 ### Donation of Woodchips and Stumps
-*April 2022*
+*April 1, 2022*
 
 {{< half src="images/040122_1.jpg" alt="A dump truck dumping donated woodchips" >}}
 {{< half src="images/040122_2.jpg" alt="Company and PTA staff posing behind a pile of donated woodchips" >}}
 
 ### Winter Wonderland Cleanup
-*February 2022*
+*February 12, 2022*
 
 {{< half src="images/1492609237989699590_2.jpg" alt="Children helping clean up the garden at Winter Wonderland" >}}
 {{< half src="images/IMG_2713.jpg" alt="Children helping clean up the garden at Winter Wonderland with the Abingdon Cardinal looking at the camera" >}}
 {{< half src="images/IMG_2708.jpg" alt="Children helping clean up the garden at Winter Wonderland with the Abingdon Cardinal looking on" >}}
 
 ### MLK Day of Service
-*January 2022*
+*January 15, 2022*
 
 {{< half src="images/IMG_1100.jpg" alt="Children and parents digging out a weed from a pile of dirt" >}}
 {{< half src="images/IMG_1116.jpg" alt="Abingdon staff and a student posting with a bag containing yard waste taken from the Abingdon garden" >}}
 
 ### Before Cleanup
-*December 2021*
+*December 12, 2021*
 
 {{< half src="images/IMG_6887.jpg" alt="The Abingdon Garden looking very untidy after being mostly unmaintained during the pandemic" >}}
 {{< half src="images/IMG_6899.jpg" alt="The Abingdon Garden looking very untidy after being mostly unmaintained during the pandemic" >}}
@@ -108,7 +124,7 @@ Here's what is growing (or grew) in 2022:
 {{< half src="images/IMG_6898.jpg" alt="The Abingdon Garden looking very untidy after being mostly unmaintained during the pandemic" >}}
 
 ### Garden Setup
-*May 2018*
+*May 12, 2018*
 
 {{< half src="images/995305229703925761_1.jpg" alt="Volunteers placing mulch in the Abingdon Garden beds" >}}
 {{< half src="images/995305229703925761_2.jpg" alt="Volunteers placing mulch in the Abingdon Garden beds" >}}
