@@ -27,6 +27,7 @@ c/o PTA
 3035 S Abingdon St  
 Arlington, VA 22206
 ```
+Checks can be made out to ```Abingdon PTA```.
 {{< /tab >}}
 {{< /tabs >}}
 
