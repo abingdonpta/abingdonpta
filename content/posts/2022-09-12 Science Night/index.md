@@ -3,7 +3,9 @@ title: Family Science Night
 summary: You're invited to Abingdon's Family Science Night on September 22! Volunteers are needed too!
 slug: science night
 date: 2022-09-12T05:00:00-04:00
-categories: events
+categories:
+- events
+- "volunteer opportunities"
 images: 
 - /2022/09/12/science-night/images/flyer.webp
 ---
