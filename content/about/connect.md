@@ -26,6 +26,12 @@ There are many ways to stay informed about PTA events and activities:
 
 Also, if you are able, please:
 
-🔨 [Volunteer](/volunteer/)  
-👪 [Become a Member](/join/)  
-🎁 [Donate](/fundraising/)
+[🔨 Volunteer](/volunteer/)  
+[👪 Become a Member](/join/)  
+[🎁 Donate](/fundraising/)
+
+Finally, please sign up for our retail rebates programs:
+
+[<img src="/images/Amazon.svg" height="20" width="20" alt="Amazon logo"> AmazonSmile](/fundraising/#amazonsmile)  
+[<img src="/images/Harris-Teeter.svg" height="20" width="20" alt="Harris Teeter logo"> Harris Teeter](/fundraising/#harris-teeter)<!--  
+[<img src="/images/General-Mills.svg" height="20" width="20" alt="General Mills logo">  Box Tops for Education](/fundraising/#box-tops-for-education)-->

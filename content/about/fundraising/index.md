@@ -48,7 +48,7 @@ When you sign up below and shop on https://smile.amazon.com, Amazon will donate 
 
 <p style="clear:right;"></p>
 
-## Harris Teeter Rebates
+## Harris Teeter
 
 {{< halfright src="images/harris-teeter.webp" alt="Harris Teeter flyer" >}}
 
