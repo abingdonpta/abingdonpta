@@ -35,11 +35,16 @@ Checks can be made out to ```Abingdon PTA```.
 
 {{< halfright src="images/amazonsmile.webp" alt="AmazonSmile flyer" >}}
 
-When you sign up below and shop on https://smile.amazon.com, Amazon will donate 0.5% to Abingdon PTA. It's that easy!
+When you sign up below and shop on https://smile.amazon.com, Amazon will donate 0.5% to Abingdon PTA. It's that easy! Ask friends, relatives, and neighbors to join!
 
 {{< button href="https://smile.amazon.com/ch/52-1289072" >}}Click Here to Sign Up for AmazonSmile{{< /button >}}
 
-Ask friends, relatives, and neighbors to join!
+{{< hint info >}}
+**Did you know that you can use AmazonSmile in the Amazon app? You can!**
+1. In the Amazon app's settings, tap on "AmazonSmile."
+1. Search for **1289072**.
+1. Select **Abingdon Elementary PTA.**
+{{< /hint >}}
 
 <p style="clear:right;"></p>
 
@@ -57,7 +62,7 @@ To link your VIC Card, you can do one of the following:
 - Or, [visit the Harris Teeter website](https://tie.harristeeter.com/tie/login) and follow the instructions.
 
 {{< hint warning >}}
-**Those who linked their VIC Cards to Abingdon last school year must do so again, starting August 1.** VIC Card links are reset at the end of each school year.
+**Those who linked their VIC Cards to Abingdon in previous years must do so again each year, starting August 1.** VIC Card links are reset each year on May 31.
 {{< /hint >}}
 
 During the 2021-2022 school year, the 60 people who were signed up helped earn $670 for Abingdon. Thank you!
