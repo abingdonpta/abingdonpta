@@ -22,6 +22,7 @@ If you work at Abingdon and would like your wishlist featured on this page, plea
 ## 2nd Grade
 
 - [Ms. Madrona](https://www.amazon.com/hz/wishlist/ls/1KBQWYUEJJWAY)
+- [Ms. Edmonds](https://www.amazon.com/hz/wishlist/ls/3O3REUGA8ALYH)
 
 ## 3rd Grade
 
