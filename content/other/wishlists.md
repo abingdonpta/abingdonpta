@@ -1,8 +1,10 @@
 --- 
 title: Staff Wishlists
 summary: Abingdon staff have put together wishlists for classroom supplies.
-weight: 30
+weight: 40
 linktitle: Staff Wishlists
+aliases:
+    - /wishlist
 ---
 
 Please see below for the wish lists of our teachers. Thank you in advance for supporting their classrooms! *Please note, you are not obligated to purchase anything from the wish lists.*

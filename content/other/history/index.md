@@ -3,7 +3,7 @@ title: Abingdon History
 summary: The history of Abingdon Elementary.
 images:
     - history/images/IMG_5818.webp
-weight: 40
+weight: 50
 ---
 
 ![Old Abingdon Classroom Photo](images/IMG_5818.webp)

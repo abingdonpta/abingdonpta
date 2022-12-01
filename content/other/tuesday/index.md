@@ -1,7 +1,7 @@
 --- 
 title: Tuesday Folder
 summary: Documents in Abingdon's Tuesday Folders.
-weight: 20
+weight: 30
 linktitle: Tuesday Folder
 ---
 
@@ -12,6 +12,10 @@ There may be instances in which your family may not receive a Tuesday Folder –
 We will only share documents sent to the entire school, not to a particular classroom. We also cannot share certain schoolwide content for security reasons, such as flyers containing codes for entering our virtual PTA meetings and documents containing codes for ordering school pictures. The best way to ensure you receive this information is [subscribing to our newsletter, the Cardinal Courier](https://lp.constantcontactpages.com/su/t3ku1aP).
 
 ---
+
+## November 29, 2022
+
+{{< half src="images/2022-11-29_1.webp" alt="AmazonSmile flyer" >}}
 
 ## November 21, 2022
 
