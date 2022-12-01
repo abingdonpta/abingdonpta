@@ -1,5 +1,5 @@
 --- 
-title: Online School Directory Now Available
+title: Online Student Directory Now Available
 summary: Register Today!
 slug: directory
 date: 2022-12-01T05:00:00-04:00

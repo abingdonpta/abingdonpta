@@ -1,5 +1,5 @@
 --- 
-title: El Directorio Escolar En Línea Está Disponible Ya
+title: El Directorio De Estudiantes En Línea Está Disponible Ya
 summary: Inscríbase Hoy!
 slug: directory
 date: 2022-12-01T05:00:00-04:00

@@ -15,7 +15,9 @@ We will only share documents sent to the entire school, not to a particular clas
 
 ## November 29, 2022
 
-{{< half src="images/2022-11-29_1.webp" alt="AmazonSmile flyer" >}}
+{{< half src="images/2022-11-29_1.webp" alt="Winter enrichment flyer" >}}
+{{< half src="images/2022-11-29_2.webp" alt="Winter enrichment flyer" >}}
+{{< half src="images/2022-11-29_3.webp" alt="AmazonSmile flyer" >}}
 
 ## November 21, 2022
 
