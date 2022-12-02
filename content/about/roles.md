@@ -409,6 +409,8 @@ The Yearbook Coordinator is in charge of ordering the yearbooks from the publish
 - **Time of day**: Any
 - **Months**: March to June
 
+### 📚 Book Fair
+
 ### 🧸 Lost and Found
 
 Abingdon has a lost and found near the front entrance. As students rifle through the lost and found looking for their items, it gets messy quite quickly. The lost and found becomes especially full in the fall and the spring, when it is cold in the morning but warmer in the afternoon so that children take off their jackets outside during recess and forget them.

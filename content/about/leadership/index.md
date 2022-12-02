@@ -126,6 +126,7 @@ The PTA blesses our wonderful Abingdon staff throughout the year. Please help us
 | [📄 Photocopying Flyers](/roles/#-photocopying-flyers) |
 | [🌎 Translators](/roles/#-translator) |
 | [📖 Yearbook](/roles/#-yearbook) |
+| [📚 Book Fair](/roles/#-book-fair) |
 | [🧸 Lost and Found](/roles/#-lost-and-found) |
 | [🗽 Diversity Coordinator](/roles/#-diversity-coordinator) |
 | [💳 Bank Statement Reviewer](/roles/#-bank-statement-reviewer) |
