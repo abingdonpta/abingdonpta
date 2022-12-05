@@ -27,20 +27,19 @@ The PTA supports Abingdon families by collecting winter clothing for children to
 {{< half src="images/Donation2.jpg" alt="Donated, knitted hats" >}}  
 **Left**: Donated winter coats, gloves, and hats. **Right**: Hats lovingly knitted and donated by a dedicated volunteer.
 
-## Adopt-a-Family
+## Holiday Gift Card Drive
 
-The Abingdon PTA partners with the Student Support Team at Abingdon to help support families in need during the holiday season in our school community.
-
-![Twitter post describing the Adopt-a-Family drive](images/1201867065147248642.webp)
+The Abingdon PTA partners with the Student Support Team at Abingdon to help support families in need during the holiday season in our school community by providing them with gift cards to local retailers. (This replaces the previous Adopt-a-Family program due to the desire of recipient families to select gifts for their children.)
 <!--
 ## School Supplies Drive
 
 The PTA raises money for school supplies for children whose families cannot afford them.
 
 ![Twitter post describing the school supplies drive](images/1289217662661214208.webp)
--->
+
 ## Mask Drive
 
 The PTA raised money to buy high-filtration masks to students, and also collected new masks in packaging to provide to students.
 
 ![Twitter post describing the mask drive](images/1455565332261883910.webp)
+-->

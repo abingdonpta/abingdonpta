@@ -222,9 +222,9 @@ The PTA organizes canned food drives, particularly during school events. A bin i
 - **Time of day**: School day and during weekend events
 - **Months**: Intermittently
 
-### 👪 Adopt-a-Family
+### 🎁 Holiday Gift Card Drive
 
-The PTA partners with the Student Support Team at Abingdon to help support families in need during the holiday season in our school community.
+The PTA partners with the Student Support Team at Abingdon to help support families in need during the holiday season in our school community by providing them with gift cards to local retailers.
 
 - **Location**: School
 - **Time of day**: School day
