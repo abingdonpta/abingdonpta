@@ -13,11 +13,20 @@ We will only share documents sent to the entire school, not to a particular clas
 
 ---
 
+## December 6, 2022
+
+{{< half src="images/2022-12-06_1.webp" alt="Sprit Week flyer" >}}
+
 ## November 29, 2022
 
+###### English
 {{< half src="images/2022-11-29_1.webp" alt="Winter enrichment flyer" >}}
 {{< half src="images/2022-11-29_2.webp" alt="Winter enrichment flyer" >}}
-{{< half src="images/2022-11-29_3.webp" alt="AmazonSmile flyer" >}}
+
+###### Spanish
+{{< half src="images/2022-11-29_3.webp" alt="Winter enrichment flyer" >}}
+{{< half src="images/2022-11-29_4.webp" alt="Winter enrichment flyer" >}}
+{{< half src="images/2022-11-29_5.webp" alt="AmazonSmile flyer" >}}
 
 ## November 21, 2022
 

@@ -15,3 +15,5 @@ La inscripción se abrirá el **lunes 12 de diciembre a las 8 AM**. Estamos volv
 Hemos distribuido formularios en papel a los maestros de clase para que los coloquen en las mochilas la próxima semana. Los formularios de registro en papel también están disponibles en la oficina principal de Abingdon. Los formularios en papel se pueden entregar en la oficina principal de la escuela, enviar por correo electrónico a info@baroodycamps.com o enviar un mensaje de texto al 703-539-2602. Los formularios en papel deben devolverse antes del 6 de enero.
 
 ¿Preguntas? Contáctenos en abingdonelementarypta@gmail.com. Gracias por su amabilidad.
+
+{{< halfcenter src="images/flyer-es.webp" alt="Winter Enrichment flyer" >}}

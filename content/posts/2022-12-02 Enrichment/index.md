@@ -15,3 +15,5 @@ Registration will open on **Monday, December 12 at 8 AM**. We are returning to o
 We have distributed paper forms to classroom teachers to place in backpacks next week. Paper registration forms are also available at Abingdon's front office. Paper forms can be turned in to the school's front office, emailed to info@baroodycamps.com or texted to 703-539-2602. Paper forms must be returned by January 6.
 
 Questions? Contact us at abingdonelementarypta@gmail.com. Thank you kindly.
+
+{{< halfcenter src="images/flyer.webp" alt="Winter Enrichment flyer" >}}
