@@ -48,15 +48,15 @@ Note: [View and subscribe to the PTA calendar on our website here.](https://www.
 
 ## 👋 PTA General Membership Virtual Meeting on Tuesday, November 8
 
-**Who:** Teachers, Parents, Guardians, Students, Community Members  
-**What:** November General Membership Virtual Meeting  
-**Where:**
+- **Who:** Teachers, Parents, Guardians, Students, Community Members  
+- **What:** November General Membership Virtual Meeting  
+- **Where:**
 
 > For security reasons, we do not share Zoom meeting codes on our website. [Please subscribe to the email edition of our newsletter](https://lp.constantcontactpages.com/su/t3ku1aP) to make sure you receive PTA meeting codes.
 
-**When:** November 8, 2022 - 7:00 PM EST  
-**Why**: We will have a Q&A with Principal Horak, and discuss opportunities to engage with the Abingdon Community.  
-**Agenda:** https://www.abingdonpta.org/agendas/2022-11-08/
+- **When:** November 8, 2022 - 7:00 PM EST  
+- **Why**: We will have a Q&A with Principal Horak, and discuss opportunities to engage with the Abingdon Community.  
+- **Agenda:** https://www.abingdonpta.org/agendas/2022-11-08/
 
 ## ☝ Reminders:
 

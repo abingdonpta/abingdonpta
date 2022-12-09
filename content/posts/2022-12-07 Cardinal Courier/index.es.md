@@ -69,6 +69,8 @@ La inscripción para las clases de enriquecimiento extraescolares de invierno a 
 
 La agenda de la reunión se publicará aquí pronto: https://www.abingdonpta.org/agendas/2022-12-13.
 
+**Traducción en vivo al español disponible por la Sra. Delgado.**
+
 ## ☝ Recordatorios:
 
 - No se permiten perros en los terrenos de la escuela.

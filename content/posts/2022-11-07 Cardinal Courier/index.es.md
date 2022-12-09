@@ -48,15 +48,15 @@ Nota: [Vea y suscríbase al calendario de la PTA en nuestro sitio web aquí.](ht
 
 ## 👋 Reunión virtual de membresía general de la PTA el martes 8 de noviembre
 
-**Quién:** Maestros, padres, tutores, estudiantes, miembros de la comunidad
-**Qué:** Reunión virtual de membresía general de noviembre
-**Dónde:**
+- **Quién:** Maestros, padres, tutores, estudiantes, miembros de la comunidad
+- **Qué:** Reunión virtual de membresía general de noviembre
+- **Dónde:**
 
 > Por razones de seguridad, no compartimos los códigos de reunión de Zoom en nuestro sitio web. [Suscríbase a la edición por correo electrónico de nuestro boletín](https://lp.constantcontactpages.com/su/t3ku1aP) para asegurarse de recibir los códigos de reunión de la PTA.
 
-**Cuándo:** 8 de noviembre de 2022 - 7:00 pm EST
-**Por qué**: Tendremos una sesión de preguntas y respuestas con el director Horak y discutiremos oportunidades para participar con la comunidad de Abingdon.
-**Agenda:** https://www.abingdonpta.org/agendas/2022-11-08/
+- **Cuándo:** 8 de noviembre de 2022 - 7:00 pm EST
+- **Por qué**: Tendremos una sesión de preguntas y respuestas con el director Horak y discutiremos oportunidades para participar con la comunidad de Abingdon.
+- **Agenda:** https://www.abingdonpta.org/agendas/2022-11-08/
 
 ## ☝ Recordatorios:
 

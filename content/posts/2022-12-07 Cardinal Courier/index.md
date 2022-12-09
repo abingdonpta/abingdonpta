@@ -69,6 +69,8 @@ Registration for Winter after-school enrichment classes through Baroody Camps wi
 
 Meeting agenda to be posted here soon: https://www.abingdonpta.org/agendas/2022-12-13.
 
+**Live Spanish translation will be provided by Ms. Delgado.**
+
 ## ☝ Reminders:
 
 - Dogs are not permitted on school grounds. 
