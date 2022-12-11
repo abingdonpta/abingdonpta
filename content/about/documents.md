@@ -8,8 +8,9 @@ weight: 80
 
 Agendas are available here before each meeting, and meeting minutes are available soon after each meeting. Additionally, any presentation that is made during the meeting will be posted here.
 
-| Meeting Date | Agenda | Minutes | Presentation |
+| Meeting Date | [Agenda](/agendas) | [Minutes](/minutes) | Presentation |
 | ------------ | ------ | ------- | ------------ |
+| 2022-12-13   | [Agenda](/agendas/2022-12-13) |
 | 2022-11-08   | [Agenda](/agendas/2022-11-08) | [Minutes](/minutes/2022-11-08) | [Financial Statement 1](/presentations/2022-11-08_1.pdf)<br>[Financial Statement 2](/presentations/2022-11-08_2.pdf) |
 | 2022-10-11   | [Agenda](/agendas/2022-10-11) | [Minutes](/minutes/2022-10-11) | [Financial Statement 1](/presentations/2022-10-11_1.pdf)<br>[Financial Statement 2](/presentations/2022-10-11_2.pdf)<br>[Gifted Information Session](/presentations/2022-10-11_3.pdf)<br>[School Plan](/presentations/2022-10-11_4.pdf) |
 | 2022-09-12   | [Agenda](/agendas/2022-09-12) | [Minutes](/minutes/2022-09-12) | [Financial Statement 1](/presentations/2022-09-12_1.pdf)<br>[Financial Statement 2](/presentations/2022-09-12_2.pdf) |
@@ -100,7 +101,7 @@ The IRS issued a Determination Letter on September 6, 2022 that reinstated the P
 ## Provided As Needed
 
 - **Insurance Policy**: The PTA is required to be covered by insurance at all times. The policy is submitted to the Virginia PTA each year.
-- **Sales Tax Exemption Letter**: The PTA applied for a sales tax exemption from Virginia's Department of Taxation. This will allow us to purchase items without paying sales tax.
+- **Sales Tax Exemption Letter**: The PTA applied for a sales tax exemption from Virginia's Department of Taxation. This would allow us to purchase items without paying sales tax.
 - **Application for Tax Exempt Status (IRS Form 1023)**: The PTA submitted this form to the IRS on January 22, 2022 in order to request that the tax-exempt status be reinstated. This request was successful. We maintain the application in our files.
 - **Executive Board Agendas and Minutes**: The PTA keeps records of Executive Board meetings.
 - **Logos**: The PTA retains vector image files of the Abingdon Cardinal logo and the Abingdon PTA logo.
