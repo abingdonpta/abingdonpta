@@ -13,7 +13,7 @@ La información publicada en el directorio es sólo la de las familias que compl
 **Si usted completó su formulario AOVP y optó por compartir su información con el PTA**, por favor siga estos pasos para tener acceso al directorio.
 
 1. Visite el directorio en https://abingdonpta.membershiptoolkit.com/.
-2. Haga click en “”Register/Login”.
+2. Haga click en ”Register/Login”.
 3. Haga click en “Create account” bajo “New User?”
 4. Llene el formulario con su información, cree una contraseña y haga click en “verify my email.” (**IMPORTANTE: Necesita usar el mismo correo electrónico (EMAIL) que usted usó en ParentVUE para enlazar su contacto y tener acceso al directorio.**)
 5. Después de verificar su correo electrónico, llegará a la página con la información de su familia. Durante su primer acceso, le pedirán que verifique lo que aparece en el registro de contacto del directorio.
