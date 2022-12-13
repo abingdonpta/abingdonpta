@@ -2,7 +2,7 @@
 title: Holiday Gift Card Drive
 summary: The PTA is asking for Target gift cards for 40 Abingdon families for the holiday season.
 slug: holiday gift card drive
-date: 2022-11-09T05:00:00-04:00
+date: 2022-11-09T05:00:00-05:00
 categories: drives
 images: 
 - /2022/11/09/holiday-gift-card-drive/images/flyer.webp

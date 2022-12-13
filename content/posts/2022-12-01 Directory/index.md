@@ -2,7 +2,7 @@
 title: Online Student Directory Now Available
 summary: Register Today!
 slug: directory
-date: 2022-12-01T05:00:00-04:00
+date: 2022-12-01T05:00:00-05:00
 category: directory
 ---
 

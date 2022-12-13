@@ -2,7 +2,7 @@
 title: Regístrese para las clases de enriquecimiento después de la escuela de invierno
 summary: El registro comienza el lunes 12 de diciembre a las 8 AM.
 slug: enrichment
-date: 2022-12-02T05:00:00-04:00
+date: 2022-12-02T05:00:00-05:00
 categories: enrichment
 ---
 

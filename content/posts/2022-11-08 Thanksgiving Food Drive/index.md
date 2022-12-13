@@ -2,7 +2,7 @@
 title: Thanksgiving Food Drive
 summary: The PTA is seeking donations of Thanksgiving side dishes for 40 Abingdon families.
 slug: thanksgiving food drive
-date: 2022-11-08T05:00:00-04:00
+date: 2022-11-08T05:00:00-05:00
 categories: drives
 images: 
 - /2022/11/08/thanksgiving-food-drive/images/flyer.webp

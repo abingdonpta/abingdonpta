@@ -2,7 +2,7 @@
 title: Register for Winter After-School Enrichment Classes
 summary: Registration starts Monday, December 12 at 8 AM.
 slug: enrichment
-date: 2022-12-02T05:00:00-04:00
+date: 2022-12-02T05:00:00-05:00
 categories: enrichment
 ---
 
