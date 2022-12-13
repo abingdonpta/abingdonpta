@@ -29,7 +29,7 @@ url: /boardlinks/
 
 ---
 
-{{< button href="https://docs.google.com/spreadsheets/d/1uIpeodZqVWZvU5Af3gFg4juD3oD-dbqnxp5SwDXVrJw/edit" >}}Expense Authorization Form Submissions{{< /button >}} Owner: abingdonptatreasurer@gmail.com<br>(Only for President & Treasurer to edit)
+{{< button href="https://docs.google.com/spreadsheets/d/1uIpeodZqVWZvU5Af3gFg4juD3oD-dbqnxp5SwDXVrJw/edit" >}}Expense Authorization Form Submissions{{< /button >}} Owner: abingdonptatreasurer@gmail.com
 
 ---
 
@@ -37,8 +37,16 @@ url: /boardlinks/
 
 ---
 
-{{< button relref="logos" >}}Logos Webpage{{< /button >}}
+{{< button href="/1023/1023.pdf" >}}IRS Form 1023{{< /button >}}
 
 ---
 
-{{< button href="/1023/1023.pdf" >}}IRS Form 1023{{< /button >}}
+{{< button relref="boardminutes" >}}Board Meeting Minutes{{< /button >}}
+
+---
+
+{{< button relref="boardagendas" >}}Board Meeting Agendas{{< /button >}}
+
+---
+
+{{< button relref="logos" >}}Logos{{< /button >}}
