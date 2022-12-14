@@ -69,6 +69,10 @@ During the 2021-2022 school year, the 60 people who were signed up helped earn $
 
 <p style="clear:right;"></p>
 
+## Mabel's Labels
+
+The PTA fundraises in partnership with Mabel's Labels, a company that makes labels that parents can put on their kids' clothing, backpack, and other belongings. The PTA earns a portion of the sales. Order products here: http://campaigns.mabelslabels.com/ and search for "Abingdon" to support the PTA.
+
 ## Box Tops for Education
 
 Abingdon PTA participates in Box Tops for Education, which raises 10 cents for every box top scanned.
