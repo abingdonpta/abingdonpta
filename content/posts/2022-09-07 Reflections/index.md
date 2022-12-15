@@ -5,8 +5,6 @@ slug: reflections
 date: 2022-09-07T05:00:00-04:00
 images:
 - /2022/09/07/reflections/social/r---show-your-voice_facebook-cropped.webp
-aliases:
-    - /reflections/
 categories: reflections
 ---
 

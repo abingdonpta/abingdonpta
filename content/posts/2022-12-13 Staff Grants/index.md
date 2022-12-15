@@ -3,6 +3,7 @@ title: Autumn Grants Have Been Awarded
 summary: The PTA purchased ukuleles and math manipulatives for Abingdon students.
 slug: grants
 date: 2022-12-13T05:00:00-05:00
+categories: grants
 ---
 
 The Abingdon PTA started a [Grant Program](/grants) this year in order to support student learning in the classroom and beyond by funding materials, projects, and experiences beyond the core basics provided by Arlington Public Schools.

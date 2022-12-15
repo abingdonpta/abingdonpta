@@ -2,6 +2,8 @@
 title: Reflections
 summary: The Reflections program at Abingdon PTA
 weight: 60
+aliases:
+    - /reflections/
 ---
 
 ![Reflections Logo](images/reflectionslogo.webp)
@@ -11,3 +13,5 @@ In the Reflections program, students in Pre-K through Grade 12 create original w
 Abingdon students participate in the appropriate division for their grade: Primary (Pre-K - Grade 2) or Intermediate (Grades 3-5).
 
 {{< button relref="/categories/reflections/" >}}Click Here for the Latest News about Reflections{{< /button >}}
+<br><br>
+{{< full src="images/PXL_20221109_234725231.jpg" alt="Photo from the Reflections Art Show" >}}
