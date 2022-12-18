@@ -10,7 +10,7 @@ Agendas are available here before each meeting, and meeting minutes are availabl
 
 | Meeting Date | [Agenda](/agendas) | [Minutes](/minutes) | Presentation |
 | ------------ | ------ | ------- | ------------ |
-| 2022-12-13   | [Agenda](/agendas/2022-12-13) | | [• Financial Statement — Summary](/presentations/2022-12-13_1.pdf)<br>[• Financial Statement — Spreadsheet](/presentations/2022-12-13_2.pdf)<br>[• Math Team Presentation](/presentations/2022-12-13_3.pdf) |
+| 2022-12-13   | [Agenda](/agendas/2022-12-13) | [Minutes](/minutes/2022-12-13) | [• Financial Statement — Summary](/presentations/2022-12-13_1.pdf)<br>[• Financial Statement — Spreadsheet](/presentations/2022-12-13_2.pdf)<br>[• Math Team Presentation](/presentations/2022-12-13_3.pdf) |
 | 2022-11-08   | [Agenda](/agendas/2022-11-08) | [Minutes](/minutes/2022-11-08) | [• Financial Statement — Summary](/presentations/2022-11-08_1.pdf)<br>[• Financial Statement — Spreadsheet](/presentations/2022-11-08_2.pdf) |
 | 2022-10-11   | [Agenda](/agendas/2022-10-11) | [Minutes](/minutes/2022-10-11) | [• Financial Statement — Summary](/presentations/2022-10-11_1.pdf)<br>[• Financial Statement — Spreadsheet](/presentations/2022-10-11_2.pdf)<br>[• Gifted Information Session](/presentations/2022-10-11_3.pdf)<br>[• School Plan](/presentations/2022-10-11_4.pdf) |
 | 2022-09-12   | [Agenda](/agendas/2022-09-12) | [Minutes](/minutes/2022-09-12) | [• Financial Statement — Summary](/presentations/2022-09-12_1.pdf)<br>[• Financial Statement — Spreadsheet](/presentations/2022-09-12_2.pdf) |

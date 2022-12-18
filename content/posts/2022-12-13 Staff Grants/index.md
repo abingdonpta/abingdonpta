@@ -16,10 +16,9 @@ Abingdon's new music teacher, Dr. Will Heim, requested funds for 25 sets of ukul
 
 The ukuleles will help students learn about harmonies and other elements of music. They have four strings instead of a typical six-stringed guitar, so they are simpler and easier to play.
 
-{{< half src="images/1.jpg" alt="Ukuleles" >}}
-{{< half src="images/2.jpg" alt="Ukuleles" >}}
-{{< half src="images/3.jpg" alt="Ukuleles" >}}
-{{< half src="images/4.jpg" alt="Ukuleles" >}}
+{{< half src="images/IMG_5977.jpg" alt="Ukuleles" >}}
+{{< half src="images/IMG_5978.jpg" alt="Ukuleles" >}}
+{{< half src="images/IMG_5982.jpg" alt="Ukuleles" >}}
 
 ## Multiplication Manipulatives
 

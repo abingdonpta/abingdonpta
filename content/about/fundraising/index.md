@@ -71,7 +71,7 @@ During the 2021-2022 school year, the 60 people who were signed up helped earn $
 
 ## Mabel's Labels
 
-The PTA fundraises in partnership with Mabel's Labels, a company that makes labels that parents can put on their kids' clothing, backpack, and other belongings. The PTA earns a portion of the sales. Order products here: http://campaigns.mabelslabels.com/ and search for "Abingdon" to support the PTA.
+The PTA fundraises in partnership with Mabel's Labels, a company that makes labels that parents can put on their kids' clothing, backpack, and other belongings. The PTA earns a portion of the sales. Order products here: https://mabelslabels.com/en_US/fundraising/support/ and search for "Abingdon" to support the PTA.
 
 ## Box Tops for Education
 

@@ -126,11 +126,11 @@ Please complete the [PTA's volunteer form](https://docs.google.com/forms/d/e/1FA
 
 {{< halfright src="images/mabels-labels.webp" alt="Mabels Labels flyer" >}}
 
-**🧥 Mabel's Labels Fundraiser.** Help your warm coats and sweatshirts come home each day! Get labels through our [Mabel's Labels Fundraiser](http://campaigns.mabelslabels.com/) and support your Abingdon PTA!
+**🧥 Mabel's Labels Fundraiser.** Help your warm coats and sweatshirts come home each day! Get labels through our [Mabel's Labels Fundraiser](https://mabelslabels.com/en_US/fundraising/support/) and support your Abingdon PTA!
 
 **📦 AmazonSmile.** [When you sign up here](https://smile.amazon.com/ch/52-1289072) and shop on https://smile.amazon.com, Amazon will donate 0.5% to Abingdon PTA. Friends, families, and neighbors are also invited to sign up too! 
 
-**🛒 Grocery Rebates.**  Link your Harris Teeter VIC card to Abingdon Elementary (**5748**). Friends, families, and neighbors are also invited to link their VIC card to Abingdon as well. Scan the QR or sign up here: [www.abingdonpta.org/fundraising](http://www.abingdonpta.org/fundraising).
+**🛒 Grocery Rebates.**  Link your Harris Teeter VIC card to Abingdon Elementary (**5748**). Friends, families, and neighbors are also invited to link their VIC card to Abingdon as well. Scan the QR or sign up here: [www.abingdonpta.org/fundraising](https://www.abingdonpta.org/fundraising).
 
 **🥞 Box Tops.** Do you eat Cheerios or Go-GURT? Help us fundraise with BoxTops for Education. More info here: https://www.abingdonpta.org/fundraising/#box-tops-for-education.
 
