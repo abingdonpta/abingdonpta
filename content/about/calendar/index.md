@@ -23,9 +23,9 @@ The PTA calendar is also viewable here:
 - Additionally, APS-wide calendars are available here (as well as below): https://www.apsva.us/calendars/
 
 English:  
-{{< half src="images/2022-23-Calendar-1.webp" alt="2022-23 APS Calendar Page 1" >}}
-{{< half src="images/2022-23-Calendar-2.webp" alt="2022-23 APS Calendar Page 2" >}}
+{{< halfpng src="images/2022-23-Calendar-1.webp" alt="2022-23 APS Calendar Page 1" >}}
+{{< halfpng src="images/2022-23-Calendar-2.webp" alt="2022-23 APS Calendar Page 2" >}}
 
 Spanish:  
-{{< half src="images/2022-23-Calendar-SP-1.webp" alt="2022-23 APS Calendar Page 1" >}}
-{{< half src="images/2022-23-Calendar-SP-2.webp" alt="2022-23 APS Calendar Page 2" >}}
+{{< halfpng src="images/2022-23-Calendar-SP-1.webp" alt="2022-23 APS Calendar Page 1" >}}
+{{< halfpng src="images/2022-23-Calendar-SP-2.webp" alt="2022-23 APS Calendar Page 2" >}}

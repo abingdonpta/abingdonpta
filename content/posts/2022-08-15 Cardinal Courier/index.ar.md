@@ -25,8 +25,8 @@ images:
 شارون بورد
 رئيس منطقة التجارة التفضيلية
 
-{{< half src = "images/flyer.webp" alt = "نشرة العودة إلى المدرسة للنزهات">}}
-{{< half src = "images/flyer-es.webp" alt = "نشرة رحلات العودة إلى المدرسة باللغة الإسبانية">}}
+{{< halfpng src = "images/flyer.webp" alt = "نشرة العودة إلى المدرسة للنزهات">}}
+{{< halfpng src = "images/flyer-es.webp" alt = "نشرة رحلات العودة إلى المدرسة باللغة الإسبانية">}}
 
 ## حفظ التواريخ
 

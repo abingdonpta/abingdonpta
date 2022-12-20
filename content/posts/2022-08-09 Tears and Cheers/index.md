@@ -16,4 +16,4 @@ Join us for coffee after you send your kindergartener off to class. Come meet fe
 - **Where**: Blue playground in front of Abingdon
 - **When**: Monday, August 29, 7:30 – 8:30 am
 
-{{< halfcenter src="images/flyer.webp" alt="Tears and Cheers flyer" >}}
+{{< halfcenterpng src="images/flyer.webp" alt="Tears and Cheers flyer" >}}

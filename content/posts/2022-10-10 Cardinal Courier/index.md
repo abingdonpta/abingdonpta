@@ -50,7 +50,7 @@ Note: View and subscribe to the PTA calendar on our website [here](https://www.a
 
 ## 👋 PTA General Membership Virtual Meeting on Tuesday, October 11!
 
-{{< halfright src="images/meeting-flyer.webp" alt="General Membership Meeting Flyer" >}}
+{{< halfrightpng src="images/meeting-flyer.webp" alt="General Membership Meeting Flyer" >}}
 
 **Who:** Teachers, Parents, Guardians, Students, Community Members  
 **What:** October General Membership Virtual Meeting  
@@ -81,7 +81,7 @@ We are proud to support our Abingdon community by honoring our colleagues’ and
 
 ## 👻 Trunk or Treat!
 
-{{< halfright src="images/trunk-or-treat.webp" alt="Trunk or Treat flyer" >}}
+{{< halfrightpng src="images/trunk-or-treat.webp" alt="Trunk or Treat flyer" >}}
 
 The Abingdon PTA is excited to bring back Trunk or Treat! Kids will dress up in Halloween costumes and collect candy from volunteers who have spookily decorated their cars.
 - **When:** Saturday, October 29, 2022, 12 PM - 2 PM
@@ -98,7 +98,7 @@ If you are able to volunteer, [please sign up here](https://docs.google.com/form
 
 ## 🐌🌲🐛 Outdoor Lab
 
-{{< halfright src="images/outdoor-lab.webp" alt="Outdoor Lab flyer" >}}
+{{< halfrightpng src="images/outdoor-lab.webp" alt="Outdoor Lab flyer" >}}
 
 **The Outdoor Lab Fall Open House!**  
 **Sunday, October 16th**  
@@ -124,7 +124,7 @@ The Abingdon PTA is creating an **online student directory** for the 2022-2023 s
 
 ## 🎨 Reflections Art Contest
 
-{{< halfright src="images/r---show-your-voice_facebook-cropped.webp" alt="Reflections flyer" >}}
+{{< halfrightpng src="images/r---show-your-voice_facebook-cropped.webp" alt="Reflections flyer" >}}
 
 Our PTA is participating in Reflections — a national PTA-sponsored program that encourages students to express themselves artistically. We’re calling all Abingdon students to create visual art or literature reflecting this year’s theme: “**Show Your Voice**.” Students can create theme-based artwork in the categories of literature (written works) and visual arts (paintings, sculptures, drawings, and prints). All artworks will be recognized, celebrated, and judged by Abingdon volunteers by grade-level divisions. A selection of entries will advance to the county-wide competition. We are excited to see your talent! Entries due by **Thursday, October 20**. [More information here.](https://www.abingdonpta.org/reflections)
 
@@ -132,7 +132,7 @@ Our PTA is participating in Reflections — a national PTA-sponsored program tha
 
 ## 🚶🚴🛴 Walk, Bike, & Roll to School
 
-{{< halfright src="images/walk-bike-roll.webp" alt="Walk Bike & Roll flyer" >}}
+{{< halfrightpng src="images/walk-bike-roll.webp" alt="Walk Bike & Roll flyer" >}}
 
 You are invited to join us this Wednesday, October 12th for a **Walk, Bike, & Roll** to School Day! The PTA team — including a special guest — will be giving out stickers and reflective gear to our Cardinals. #APSWalk2SchoolDay!
 
@@ -167,7 +167,7 @@ Please complete the [PTA's volunteer form](https://docs.google.com/forms/d/e/1FA
 
 - **Baked Treats for Election Day Bake Sale** — We are looking for volunteers who could assist with baking treats, or providing store bought baked goods, that the PTA could sell on election day. If you are interested in helping, contact [abingdonptapresident@gmail.com](mailto:abingdonptapresident@gmail.com).
 
-{{< halfright src="images/snack-pantry.webp" alt="Snack Pantry flyer" >}}
+{{< halfrightpng src="images/snack-pantry.webp" alt="Snack Pantry flyer" >}}
 
 - **Abingdon Snack Pantry** — Volunteers needed for Abingdon's new snack pantry every Thursday from 2:30 pm - 4:30 pm.  Sign up here: https://www.signupgenius.com/go/20f0c4aacab2aaaff2-abingdon.
 

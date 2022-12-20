@@ -25,8 +25,8 @@ Gratefully,
 Sharon Burd  
 PTA President
 
-{{< half src="images/flyer.webp" alt="Back to School Picnic Flyer" >}}
-{{< half src="images/flyer-es.webp" alt="Back to School Picnic Flyer in Spanish" >}}
+{{< halfpng src="images/flyer.webp" alt="Back to School Picnic Flyer" >}}
+{{< halfpng src="images/flyer-es.webp" alt="Back to School Picnic Flyer in Spanish" >}}
 
 ## Save the Dates
 

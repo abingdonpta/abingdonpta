@@ -16,4 +16,4 @@ Abingdon is holding a Winter Coat Drive this fall and winter.
 
 For more information or to arrange pick-up for any items, contact Megan Miller at meganmiller44@gmail.com
 
-{{< halfcenter src="images/flyer.webp" alt="Winter Coat Drive flyer" >}}
+{{< halfcenterpng src="images/flyer.webp" alt="Winter Coat Drive flyer" >}}

@@ -25,8 +25,8 @@ images:
 ሳሮን በርድ
 የፒቲኤ ፕሬዝዳንት
 
-{{< half src="images/flyer.webp" alt="ወደ ትምህርት ቤት የፒክኒክ በራሪ ወረቀት ተመለስ" >}}
-{{< half src="images/flyer-es.webp" alt="ወደ ትምህርት ቤት የፒክኒክ በራሪ ወረቀት በስፓኒሽ ተመለስ" >}}
+{{< halfpng src="images/flyer.webp" alt="ወደ ትምህርት ቤት የፒክኒክ በራሪ ወረቀት ተመለስ" >}}
+{{< halfpng src="images/flyer-es.webp" alt="ወደ ትምህርት ቤት የፒክኒክ በራሪ ወረቀት በስፓኒሽ ተመለስ" >}}
 
 ## ቀኖቹን ያስቀምጡ
 

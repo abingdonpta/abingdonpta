@@ -25,8 +25,8 @@ images:
 Шарон Берд
 PTA ерөнхийлөгч
 
-{{< half src="images/flyer.webp" alt="Сургууль руу буцах пикник хуудас" >}}
-{{< half src="images/flyer-es.webp" alt="Испани хэлээр сургууль руу буцах зугаалгын хуудас" >}}
+{{< halfpng src="images/flyer.webp" alt="Сургууль руу буцах пикник хуудас" >}}
+{{< halfpng src="images/flyer-es.webp" alt="Испани хэлээр сургууль руу буцах зугаалгын хуудас" >}}
 
 ## Огноог хадгалаарай
 

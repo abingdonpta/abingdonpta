@@ -50,7 +50,7 @@ Nota: [Vea y suscríbase al calendario de la PTA en nuestro sitio web aquí](htt
 
 ## 🏫 Regístrese para las clases de invierno de enriquecimiento después de la escuela
 
-{{< halfright src="images/winter-enrichment-es.webp" alt="Folleto de enriquecimiento de invierno" >}}
+{{< halfrightpng src="images/winter-enrichment-es.webp" alt="Folleto de enriquecimiento de invierno" >}}
 
 La inscripción para las clases de enriquecimiento extraescolares de invierno a través de Baroody Camps se abrirá el **lunes 12 de diciembre a las 8:00 am**. Las clases de enriquecimiento comienzan el **17 de enero**. La PTA de Abingdon se está coordinando con el proveedor Baroody y el personal de Abingdon para ofrecer estas maravillosas clases como ballet, ingeniería, arcilla y ciencias. Regístrate aquí: https://bc-arl-abingdon.jumbula.com/#/winter-2023
 
@@ -78,11 +78,11 @@ La agenda de la reunión se publicará aquí pronto: https://www.abingdonpta.org
 
 ## ❤️🖤 ¡Semana del espíritu invernal de Abingdon!
 
-{{< halfcenter src="images/spirit-week.webp" alt="Folleto de la Semana del Espíritu" >}}
+{{< halfcenterpng src="images/spirit-week.webp" alt="Folleto de la Semana del Espíritu" >}}
 
 ## ☕ Charla de café de la Asociación entre la escuela y la familia del Título I de Abingdon
 
-{{< halfright src="images/title-i-es.webp" alt="Título I Volantes" >}}
+{{< halfrightpng src="images/title-i-es.webp" alt="Título I Volantes" >}}
 
 Está invitado a unirse al personal de Abingdon para tomar café y bagels el martes 13 de diciembre de 2022 por la mañana, de 7:30 a. m. a 8:10 a. m., para conocer cómo los fondos del Título I apoyan a nuestro rebaño Cardinal. La charla de café se llevará a cabo en la Sala 143/144 (la sala de arte).
 
@@ -114,7 +114,7 @@ Complete el [formulario de voluntariado de la PTA](https://docs.google.com/forms
 
 ## 💞 Convocatoria de donaciones
 
-{{< halfright src="images/gift-card-drive.webp" alt="Folleto de la colecta de tarjetas de regalo" >}}
+{{< halfrightpng src="images/gift-card-drive.webp" alt="Folleto de la colecta de tarjetas de regalo" >}}
 
 🎁 **Tarjetas de regalo de Target:** Le pedimos a nuestra comunidad que regale tarjetas de regalo de $25 de Target a nuestras 40 familias de Abingdon para apoyar a los padres durante la temporada navideña. Se aceptarán todas y cada una de las donaciones de tarjetas de regalo de Target. Deje en la oficina principal de Abingdon **ATENCIÓN: PTA**. Habrá una caja de seguridad en la oficina principal para guardar estas tarjetas de regalo.
 
@@ -124,7 +124,7 @@ Complete el [formulario de voluntariado de la PTA](https://docs.google.com/forms
 
 ## 💸 Recaudación de fondos pasiva
 
-{{< halfright src="images/mabels-labels.webp" alt="Folleto de etiquetas de Mabels" >}}
+{{< halfrightpng src="images/mabels-labels.webp" alt="Folleto de etiquetas de Mabels" >}}
 
 **🧥 Recaudación de fondos de Mabel's Labels.** ¡Ayuda a que tus abrigos y sudaderas cálidos lleguen a casa todos los días! ¡Obtenga etiquetas a través de nuestra [Recaudación de fondos de etiquetas de Mabel](https://mabelslabels.com/en_US/fundraising/support/) y apoye a su PTA de Abingdon!
 

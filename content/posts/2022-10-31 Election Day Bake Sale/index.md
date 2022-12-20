@@ -22,5 +22,5 @@ We will be selling cookies, bagels, muffins, coffee, car magnets, and more!
 - If you'd like to donate baked goods or supplies, please [sign up here](https://www.signupgenius.com/go/10c0948aba629a2fa7-election).
 - If you'd like to volunteer to staff a table, please [sign up here](https://www.signupgenius.com/go/10c0948aba629a2fa7-election1).
 
-{{< half src="images/flyer.webp" alt="Election Day Bake Sale flyer" >}}
-{{< half src="images/flyer-es.webp" alt="Election Day Bake Sale flyer in Spanish" >}}
+{{< halfpng src="images/flyer.webp" alt="Election Day Bake Sale flyer" >}}
+{{< halfpng src="images/flyer-es.webp" alt="Election Day Bake Sale flyer in Spanish" >}}

@@ -65,7 +65,7 @@ Note: [View and subscribe to the PTA calendar on our website here.](https://www.
 
 ## 🇺🇸 Election Day Bake Sale!
 
-{{< halfright src="images/bake-sale.webp" alt="Bake Sale flyer" >}}
+{{< halfrightpng src="images/bake-sale.webp" alt="Bake Sale flyer" >}}
 
 Visit the PTA table to grab a treat for yourself, an educator, a volunteer, or a neighbor! All funds support PTA programs and activities for our flock of Cardinals!
 
@@ -83,7 +83,7 @@ We will be selling cookies, bagels, muffins, coffee, car magnets, and more!
 
 ## 🎨 Reflections Art Show
 
-{{< halfright src="images/reflections-art-show.webp" alt="Reflections Art Show flyer" >}}
+{{< halfrightpng src="images/reflections-art-show.webp" alt="Reflections Art Show flyer" >}}
 
 You’re invited to Abingdon PTA’s Reflections Art Show! We will celebrate and showcase our students’ artwork and creativity.
 
@@ -96,7 +96,7 @@ To assist with the Reflections Art Show, [sign up here](https://www.signupgenius
 
 ## 👩‍💻 Cardinal Coding Club
 
-{{< halfright src="images/cardinal-coding-club.webp" alt="Cardinal Coding Club flyer" >}}
+{{< halfrightpng src="images/cardinal-coding-club.webp" alt="Cardinal Coding Club flyer" >}}
 
 The PTA is launching our first Cardinal Coding Club this month! Students in 3rd - 5th grade are invited to join us after school on Wednesdays starting in November. We are collaborating with Boolean Girl, a local non-profit, whose mission is to engage students in computer science. Registration will open on Thursday, November 10, 2022 at 12 pm; the registration link will be shared on the PTA’s Facebook and Twitter at noon. If you have any questions, reach out to Teresa Valdez-Bain at ftvedu@yahoo.com.
 
@@ -133,8 +133,8 @@ Please complete the [PTA's volunteer form](https://docs.google.com/forms/d/e/1FA
 
 ## 💸 Passive Fundraising
 
-{{< half src="images/amazonsmile.webp" alt="AmazonSmile flyer" >}}
-{{< half src="images/harris-teeter.webp" alt="Harris Teeter flyer" >}}
+{{< halfpng src="images/amazonsmile.webp" alt="AmazonSmile flyer" >}}
+{{< halfpng src="images/harris-teeter.webp" alt="Harris Teeter flyer" >}}
 
 📦 **AmazonSmile.** [When you sign up here](https://smile.amazon.com/ch/52-1289072) and shop on https://smile.amazon.com, Amazon will donate 0.5% to Abingdon PTA. Friends, families, and neighbors are also invited to sign up too!  
 🛒 **Grocery Rebates.**  Link your Harris Teeter VIC card to Abingdon Elementary (**5748**). Friends, families, and neighbors are also invited to link their VIC card to Abingdon as well. [Sign up here.](https://docs.google.com/forms/d/e/1FAIpQLSeiAe72qt4qTb_b2xmB-TUZByVkD-QxfVNyFEEHGc6sGkFzYQ/viewform). 

@@ -17,5 +17,5 @@ You're invited to Abingdon PTA's Reflections Art Show! We will celebrate and sho
 
 If you are able to help set up and clean up, [please sign up to do so here](https://www.signupgenius.com/go/30E0A44ACA72AA5FE3-reflections). Thank you!
 
-{{< half src="images/flyer.webp" alt="Reflections Art Show flyer" >}}
-{{< half src="images/flyer-es.webp" alt="Reflections Art Show flyer in Spanish" >}}
+{{< halfpng src="images/flyer.webp" alt="Reflections Art Show flyer" >}}
+{{< halfpng src="images/flyer-es.webp" alt="Reflections Art Show flyer in Spanish" >}}

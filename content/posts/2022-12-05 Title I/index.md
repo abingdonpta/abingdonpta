@@ -10,8 +10,8 @@ date: 2022-12-05T20:00:00-05:00
  - **When**: Tuesday, December 13, 7:30 am - 8:10 am
  - **Where**: Room 143/144 (art room)
 
-{{< half src="images/flyer-en.webp" alt="English flyer" >}}
-{{< half src="images/flyer-es.webp" alt="Spanish flyer" >}}
-{{< half src="images/flyer-ar.webp" alt="Arabic flyer" >}}
-{{< half src="images/flyer-am.webp" alt="Amharic flyer" >}}
-{{< half src="images/flyer-mn.webp" alt="Mongolian flyer" >}}
+{{< halfpng src="images/flyer-en.webp" alt="English flyer" >}}
+{{< halfpng src="images/flyer-es.webp" alt="Spanish flyer" >}}
+{{< halfpng src="images/flyer-ar.webp" alt="Arabic flyer" >}}
+{{< halfpng src="images/flyer-am.webp" alt="Amharic flyer" >}}
+{{< halfpng src="images/flyer-mn.webp" alt="Mongolian flyer" >}}
