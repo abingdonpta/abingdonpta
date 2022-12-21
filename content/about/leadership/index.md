@@ -21,7 +21,7 @@ Please [fill out our volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSf
 | [💰 Treasurer](/roles/#-treasurer) | [Christian Lindstrom](mailto:abingdonptatreasurer@gmail.com) | [Bio](</2022/05/11/officer-bios/#-christian-lindstrom--treasurer>) |
 | [✍️ Secretary](/roles/#-secretary) | [Dan Burd](mailto:abingdonptasecretary@gmail.com) | [Bio](</2022/05/11/officer-bios/#-dan-burd--secretary>) |
 
-{{< full src="images/meettheboard.webp" alt="Meet Your PTA Board flyer" >}}
+{{< imagefull src="images/meettheboard.webp" alt="Meet Your PTA Board flyer" >}}
 
 ## Coordinators
 

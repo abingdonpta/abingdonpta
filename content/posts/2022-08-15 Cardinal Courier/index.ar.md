@@ -25,8 +25,8 @@ images:
 شارون بورد
 رئيس منطقة التجارة التفضيلية
 
-{{< halfpng src = "images/flyer.webp" alt = "نشرة العودة إلى المدرسة للنزهات">}}
-{{< halfpng src = "images/flyer-es.webp" alt = "نشرة رحلات العودة إلى المدرسة باللغة الإسبانية">}}
+{{< imagehalf src = "images/flyer.webp" alt = "نشرة العودة إلى المدرسة للنزهات">}}
+{{< imagehalf src = "images/flyer-es.webp" alt = "نشرة رحلات العودة إلى المدرسة باللغة الإسبانية">}}
 
 ## حفظ التواريخ
 
@@ -74,8 +74,8 @@ Abingdon PTA تشارك في Harris Teeter's Together in Education Program. سا
 
 أرادت تميمة الكاردينال الخاصة بنا أن نشارككم الصور الصيفية التالية:
 
-{{< half src="images/Cardi-1.jpg" alt="كاردينال أبينجدون يقرأ بجانب المسبح">}}
-{{< half src="images/Cardi-2.jpg" alt="أبينغدون كاردينال يغمس إصبع قدمه في المسبح">}}
-{{< half src="images/Cardi-3.jpg" alt="أبينجدون كاردينال يقفز فرحًا">}}
+{{< photohalf src="images/Cardi-1.jpg" alt="كاردينال أبينجدون يقرأ بجانب المسبح">}}
+{{< photohalf src="images/Cardi-2.jpg" alt="أبينغدون كاردينال يغمس إصبع قدمه في المسبح">}}
+{{< photohalf src="images/Cardi-3.jpg" alt="أبينجدون كاردينال يقفز فرحًا">}}
 
 **أبينجدون كاردينال حريص على العودة لرؤية القطيع!**

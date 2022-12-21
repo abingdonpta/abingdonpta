@@ -100,7 +100,7 @@ The PTA is calling for caffeinated K-Cup donations for our exceptional Abingdon 
 > 3035 S Abingdon St  
 > Arlington, VA 22206
 
-{{< full src="images/IMG_8786.jpg" alt="Flyer for coffee donations" >}}
+{{< photofull src="images/IMG_8786.jpg" alt="Flyer for coffee donations" >}}
 
 ## 🙏 Thank you!
 
@@ -112,4 +112,4 @@ Also, thank you to our summer watering team - Pat, Lauren, Amy, Matt, and Karen 
 
 The Abingdon Cardinal took a field trip to the Arlington County Fair last month and was in awe of seeing Abingdon’s prize-winning okra, banana peppers, mint, basil, tomatoes, and zinnia!
 
-{{< halfcenter src="images/IMG_1248.jpg" alt="The Abingdon Cardinal at the Arlington County Fair with prize-winning plants from Abingdon's garden" >}}
+{{< photohalfcenter src="images/IMG_1248.jpg" alt="The Abingdon Cardinal at the Arlington County Fair with prize-winning plants from Abingdon's garden" >}}

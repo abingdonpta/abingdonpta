@@ -25,8 +25,8 @@ Gratefully,
 Sharon Burd  
 PTA President
 
-{{< halfpng src="images/flyer.webp" alt="Back to School Picnic Flyer" >}}
-{{< halfpng src="images/flyer-es.webp" alt="Back to School Picnic Flyer in Spanish" >}}
+{{< imagehalf src="images/flyer.webp" alt="Back to School Picnic Flyer" >}}
+{{< imagehalf src="images/flyer-es.webp" alt="Back to School Picnic Flyer in Spanish" >}}
 
 ## Save the Dates
 
@@ -74,8 +74,8 @@ Please label all of your student’s belongings (e.g., backpack, lunchbox, water
 
 Our Cardinal mascot wanted us to share the following summer photos with you:
 
-{{< half src="images/Cardi-1.jpg" alt="Abingdon Cardinal reading by the pool" >}}
-{{< half src="images/Cardi-2.jpg" alt="Abingdon Cardinal dipping a toe in the pool" >}}
-{{< half src="images/Cardi-3.jpg" alt="Abingdon Cardinal jumping for joy" >}}
+{{< photohalf src="images/Cardi-1.jpg" alt="Abingdon Cardinal reading by the pool" >}}
+{{< photohalf src="images/Cardi-2.jpg" alt="Abingdon Cardinal dipping a toe in the pool" >}}
+{{< photohalf src="images/Cardi-3.jpg" alt="Abingdon Cardinal jumping for joy" >}}
 
 **The Abingdon Cardinal is eager to fly back to see the flock!**

@@ -21,4 +21,4 @@ We are incredibly grateful to the Eco Action Team and our teachers Ms. Upshur an
 
 Pop by the school garden to check out our prize-worthy plants!
 
-{{< full src="images/IMG_1501.jpg" alt="Prize-winning plants grown in Abingdon's garden" >}}
+{{< photofull src="images/IMG_1501.jpg" alt="Prize-winning plants grown in Abingdon's garden" >}}

@@ -96,7 +96,7 @@ La PTA está solicitando donaciones de K-Cup con cafeína para nuestros excepcio
 > 3035 S Abingdon St  
 > Arlington, VA 22206
 
-{{< full src="images/IMG_8786.jpg" alt="Flyer para donaciones de café" >}}
+{{< photofull src="images/IMG_8786.jpg" alt="Flyer para donaciones de café" >}}
 
 ## 🙏 ¡Gracias!
 
@@ -108,4 +108,4 @@ También, gracias a nuestro equipo de riego de verano - Pat, Lauren, Amy, Matt y
 
 ¡El Cardenal de Abingdon realizó una excursión a la Feria del Condado de Arlington el mes pasado y quedó asombrado al ver los premiados okra, pimientos banana, menta, albahaca, tomates y zinnia de Abingdon!
 
-{{< halfcenter src="images/IMG_1248.jpg" alt="El cardenal de Abingdon en la feria del condado de Arlington con plantas premiadas del jardín de Abingdon" >}}
+{{< photohalfcenter src="images/IMG_1248.jpg" alt="El cardenal de Abingdon en la feria del condado de Arlington con plantas premiadas del jardín de Abingdon" >}}

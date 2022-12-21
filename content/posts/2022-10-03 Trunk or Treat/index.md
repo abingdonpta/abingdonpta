@@ -21,8 +21,8 @@ up from 2 PM - 3 PM
 
 If you are able to volunteer, [please sign up here](https://docs.google.com/forms/d/e/1FAIpQLSc7S6GrsD0I1r4YQmmdgkgZqFELB0iOFyPxdBRBnrEoMbDpuA/viewform).
 
-{{< halfpng src="images/flyer.webp" alt="Trunk or Treat flyer" >}}
-{{< halfpng src="images/flyer-es.webp" alt="Trunk or Treat flyer in Spanish" >}}
+{{< imagehalf src="images/flyer.webp" alt="Trunk or Treat flyer" >}}
+{{< imagehalf src="images/flyer-es.webp" alt="Trunk or Treat flyer in Spanish" >}}
 
 **EDIT 10/25/2022:** Abingdon's Assistant Principals will be making stops throughout Abingdon's attendance zone to give out candy and to say hello.
 
@@ -30,7 +30,7 @@ If you are able to volunteer, [please sign up here](https://docs.google.com/form
 - At **Wildwood Park Apartments**, 12:40 - 1:15 (Courtyard in back of the building)
 - At **Columbia Grove Apartments**, 1:20 - 2:00 (1012 S. Frederick St.)
 
-{{< halfpng src="images/ap-en.webp" alt="AP's Trunk or Treat flyer" >}}
-{{< halfpng src="images/ap-es.webp" alt="AP's Trunk or Treat flyer in Spanish" >}}
-{{< halfpng src="images/ap-am.webp" alt="AP's Trunk or Treat flyer in Amharic" >}}
-{{< halfpng src="images/ap-mn.webp" alt="AP's Trunk or Treat flyer in Mongolian" >}}
+{{< imagehalf src="images/ap-en.webp" alt="AP's Trunk or Treat flyer" >}}
+{{< imagehalf src="images/ap-es.webp" alt="AP's Trunk or Treat flyer in Spanish" >}}
+{{< imagehalf src="images/ap-am.webp" alt="AP's Trunk or Treat flyer in Amharic" >}}
+{{< imagehalf src="images/ap-mn.webp" alt="AP's Trunk or Treat flyer in Mongolian" >}}

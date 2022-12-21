@@ -15,5 +15,5 @@ Help us clean up the school garden and plant cover crops. We will also have a sp
 
 To receive updates about garden volunteer opportunities, please [sign up here](https://lp.constantcontactpages.com/su/SjhlqrR).
 
-{{< halfpng src="images/flyer.webp" alt="Abingdon Community Garden Cleanup flyer in English" >}}
-{{< halfpng src="images/flyer-es.webp" alt="Abingdon Community Garden Cleanup flyer in Spanish" >}}
+{{< imagehalf src="images/flyer.webp" alt="Abingdon Community Garden Cleanup flyer in English" >}}
+{{< imagehalf src="images/flyer-es.webp" alt="Abingdon Community Garden Cleanup flyer in Spanish" >}}

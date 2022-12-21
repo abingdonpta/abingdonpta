@@ -50,7 +50,7 @@ Note: View and subscribe to the PTA calendar on our website [here](https://www.a
 
 ## 👋 PTA General Membership Virtual Meeting on Tuesday, October 11!
 
-{{< halfrightpng src="images/meeting-flyer.webp" alt="General Membership Meeting Flyer" >}}
+{{< imagehalfright src="images/meeting-flyer.webp" alt="General Membership Meeting Flyer" >}}
 
 **Who:** Teachers, Parents, Guardians, Students, Community Members  
 **What:** October General Membership Virtual Meeting  
@@ -73,7 +73,7 @@ Picture Day Retakes are on Friday, October 28. We will share information about h
 
 ## ❤️ Hispanic Heritage Month.
 
-{{< halfright src="images/IMG_4137.jpg" alt="Hispanic Heritage Month wall" >}}
+{{< photohalfright src="images/IMG_4137.jpg" alt="Hispanic Heritage Month wall" >}}
 
 We are proud to support our Abingdon community by honoring our colleagues’ and students’ Hispanic heritage and traditions. Thank you so much, Ms. Branco for the exquisite mural and [videos](https://www.instagram.com/abingdonesgift/) showcasing our beautiful community. We love our Cardinal balloon bouquets.
 
@@ -81,7 +81,7 @@ We are proud to support our Abingdon community by honoring our colleagues’ and
 
 ## 👻 Trunk or Treat!
 
-{{< halfrightpng src="images/trunk-or-treat.webp" alt="Trunk or Treat flyer" >}}
+{{< imagehalfright src="images/trunk-or-treat.webp" alt="Trunk or Treat flyer" >}}
 
 The Abingdon PTA is excited to bring back Trunk or Treat! Kids will dress up in Halloween costumes and collect candy from volunteers who have spookily decorated their cars.
 - **When:** Saturday, October 29, 2022, 12 PM - 2 PM
@@ -98,7 +98,7 @@ If you are able to volunteer, [please sign up here](https://docs.google.com/form
 
 ## 🐌🌲🐛 Outdoor Lab
 
-{{< halfrightpng src="images/outdoor-lab.webp" alt="Outdoor Lab flyer" >}}
+{{< imagehalfright src="images/outdoor-lab.webp" alt="Outdoor Lab flyer" >}}
 
 **The Outdoor Lab Fall Open House!**  
 **Sunday, October 16th**  
@@ -124,7 +124,7 @@ The Abingdon PTA is creating an **online student directory** for the 2022-2023 s
 
 ## 🎨 Reflections Art Contest
 
-{{< halfrightpng src="images/r---show-your-voice_facebook-cropped.webp" alt="Reflections flyer" >}}
+{{< imagehalfright src="images/r---show-your-voice_facebook-cropped.webp" alt="Reflections flyer" >}}
 
 Our PTA is participating in Reflections — a national PTA-sponsored program that encourages students to express themselves artistically. We’re calling all Abingdon students to create visual art or literature reflecting this year’s theme: “**Show Your Voice**.” Students can create theme-based artwork in the categories of literature (written works) and visual arts (paintings, sculptures, drawings, and prints). All artworks will be recognized, celebrated, and judged by Abingdon volunteers by grade-level divisions. A selection of entries will advance to the county-wide competition. We are excited to see your talent! Entries due by **Thursday, October 20**. [More information here.](https://www.abingdonpta.org/reflections)
 
@@ -132,7 +132,7 @@ Our PTA is participating in Reflections — a national PTA-sponsored program tha
 
 ## 🚶🚴🛴 Walk, Bike, & Roll to School
 
-{{< halfrightpng src="images/walk-bike-roll.webp" alt="Walk Bike & Roll flyer" >}}
+{{< imagehalfright src="images/walk-bike-roll.webp" alt="Walk Bike & Roll flyer" >}}
 
 You are invited to join us this Wednesday, October 12th for a **Walk, Bike, & Roll** to School Day! The PTA team — including a special guest — will be giving out stickers and reflective gear to our Cardinals. #APSWalk2SchoolDay!
 
@@ -144,7 +144,7 @@ Please complete the [PTA's volunteer form](https://docs.google.com/forms/d/e/1FA
 
 **Sign up for our volunteer opportunities:**
 
-{{< halfright src="images/IMG_4361.jpg" alt="Lifetouch photos for distribution" >}}
+{{< photohalfright src="images/IMG_4361.jpg" alt="Lifetouch photos for distribution" >}}
 
 - **Picture Day (Retakes)** — The PTA needs help making Abingdon’s Picture Day run smoothly on **Friday, October 28th.** If you are interested in helping, contact [abingdonptapresident@gmail.com](mailto:abingdonptapresident@gmail.com).
 - **School Picture Coordinator Assistant** — Student photos have arrived! If you have an hour or two to lend to assist with distributing photos, please contact [abingdonptapresident@gmail.com](mailto:abingdonptapresident@gmail.com). We hope to have two volunteers to assist with photo distribution within the next two weeks.
@@ -159,7 +159,7 @@ Please complete the [PTA's volunteer form](https://docs.google.com/forms/d/e/1FA
 - **Translators** — We are looking for volunteers who could translate PTA flyers in the following languages: Mongolian, Amharic, and Arabic. Please contact [abingdonptapresident@gmail.com](mailto:abingdonptapresident@gmail.com) if you can assist with this effort.
 - **Trunk or Treat** — We need 15 more volunteers to decorate their cars & pass out candy from 12 - 2 pm. We also need volunteers to set up from 11 am - 12 pm and clean up from 2 - 3 pm. If you are able to volunteer, [please sign up here](https://docs.google.com/forms/d/e/1FAIpQLSc7S6GrsD0I1r4YQmmdgkgZqFELB0iOFyPxdBRBnrEoMbDpuA/viewform).
 
-{{< halfright src="images/IMG_4379.jpg" alt="Clothes to be placed in the Lost & Found" >}}
+{{< photohalfright src="images/IMG_4379.jpg" alt="Clothes to be placed in the Lost & Found" >}}
 
 - **Lost & Found Coordinator** — We hope to have a tidy Lost & Found where our Cardinals can easily search for their lost belongings. If you would like to assist in this endeavor, reach out to [abingdonptapresident@gmail.com](mailto:abingdonptapresident@gmail.com).
 
@@ -167,7 +167,7 @@ Please complete the [PTA's volunteer form](https://docs.google.com/forms/d/e/1FA
 
 - **Baked Treats for Election Day Bake Sale** — We are looking for volunteers who could assist with baking treats, or providing store bought baked goods, that the PTA could sell on election day. If you are interested in helping, contact [abingdonptapresident@gmail.com](mailto:abingdonptapresident@gmail.com).
 
-{{< halfrightpng src="images/snack-pantry.webp" alt="Snack Pantry flyer" >}}
+{{< imagehalfright src="images/snack-pantry.webp" alt="Snack Pantry flyer" >}}
 
 - **Abingdon Snack Pantry** — Volunteers needed for Abingdon's new snack pantry every Thursday from 2:30 pm - 4:30 pm.  Sign up here: https://www.signupgenius.com/go/20f0c4aacab2aaaff2-abingdon.
 
@@ -199,4 +199,4 @@ We are impressed with the generosity and selflessness of our volunteers and supp
 
 ## ✨ The Abingdon Cardinal loves our school playground!
 
-{{< full src="images/IMG_0981.jpg" alt="The Abingdon Cardinal on the Abingdon playground" >}}
+{{< photofull src="images/IMG_0981.jpg" alt="The Abingdon Cardinal on the Abingdon playground" >}}

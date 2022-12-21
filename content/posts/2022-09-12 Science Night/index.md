@@ -16,4 +16,4 @@ Parents can volunteer to run a station from 5:15pm – 7:45pm. [Sign up here](ht
 
 If you have questions, please email Renita Upshur at renita.upshur@apsva.us.
 
-{{< halfcenterpng src="images/flyer.webp" alt="Family Science Night flyer in English and Spanish" >}}
+{{< imagehalfcenter src="images/flyer.webp" alt="Family Science Night flyer in English and Spanish" >}}

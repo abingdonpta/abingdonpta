@@ -25,8 +25,8 @@ images:
 ሳሮን በርድ
 የፒቲኤ ፕሬዝዳንት
 
-{{< halfpng src="images/flyer.webp" alt="ወደ ትምህርት ቤት የፒክኒክ በራሪ ወረቀት ተመለስ" >}}
-{{< halfpng src="images/flyer-es.webp" alt="ወደ ትምህርት ቤት የፒክኒክ በራሪ ወረቀት በስፓኒሽ ተመለስ" >}}
+{{< imagehalf src="images/flyer.webp" alt="ወደ ትምህርት ቤት የፒክኒክ በራሪ ወረቀት ተመለስ" >}}
+{{< imagehalf src="images/flyer-es.webp" alt="ወደ ትምህርት ቤት የፒክኒክ በራሪ ወረቀት በስፓኒሽ ተመለስ" >}}
 
 ## ቀኖቹን ያስቀምጡ
 
@@ -74,8 +74,8 @@ Baroody Camps, Inc. በየእለቱ በአቢንግዶን አንደኛ ደረጃ
 
 የእኛ ካርዲናል ማስኮት የሚከተሉትን የበጋ ፎቶዎች ለእርስዎ እንድናካፍል ፈልገዋል፡-
 
-{{< half src="images/Cardi-1.jpg" alt="የአቢንግዶን ካርዲናል ንባብ በመዋኛ ገንዳ" >}}
-{{< half src="images/Cardi-2.jpg" alt="የአቢንግዶን ካርዲናል በገንዳው ውስጥ የእግር ጣት እየነከሩ" >}}
-{{< half src="images/Cardi-3.jpg" alt="የአቢንግዶን ካርዲናል በደስታ እየዘለሉ" >}}
+{{< photohalf src="images/Cardi-1.jpg" alt="የአቢንግዶን ካርዲናል ንባብ በመዋኛ ገንዳ" >}}
+{{< photohalf src="images/Cardi-2.jpg" alt="የአቢንግዶን ካርዲናል በገንዳው ውስጥ የእግር ጣት እየነከሩ" >}}
+{{< photohalf src="images/Cardi-3.jpg" alt="የአቢንግዶን ካርዲናል በደስታ እየዘለሉ" >}}
 
 **የአቢንግዶን ካርዲናል መንጋውን ለማየት ወደ ኋላ ለመብረር ጓጉተዋል!**
