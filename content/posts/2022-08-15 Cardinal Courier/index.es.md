@@ -14,7 +14,7 @@ images:
 
 Estimados amigos y familias de Abingdon,
 
-Estoy emocionado de darle la bienvenida al año escolar 2022-2023 y me siento honrado de dirigir nuestra PTA. Mientras los Cardenales de Abingdon se preparan para despegar hacia un nuevo año escolar, la nueva junta de la PTA de Abingdon está emocionada de verlos en los eventos escolares, actividades y programas que estamos planeando para sus estudiantes. Muchos de nuestros eventos dependen en gran medida de los voluntarios: siempre estamos agradecidos por nuestras familias, el personal y las organizaciones que ayudan a construir y fortalecer nuestra comunidad escolar. Como aprendí al palear astillas de madera en uno de los días de trabajo en el jardín de nuestra escuela, muchas manos hacen el trabajo liviano. Únase amablemente a nuestro equipo de voluntarios de la PTA completando [nuestro nuevo formulario de voluntario](https://www.abingdonpta.org/volunteer/).
+Estoy emocionado de darle la bienvenida al año escolar 2022-2023 y me siento honrado de dirigir nuestra PTA. Mientras los Cardenales de Abingdon se preparan para despegar hacia un nuevo año escolar, la nueva junta de la PTA de Abingdon está emocionada de verlos en los eventos escolares, actividades y programas que estamos planeando para sus estudiantes. Muchos de nuestros eventos dependen en gran medida de los voluntarios: siempre estamos agradecidos por nuestras familias, el personal y las organizaciones que ayudan a construir y fortalecer nuestra comunidad escolar. Como aprendí al palear astillas de madera en uno de los días de trabajo en el jardín de nuestra escuela, muchas manos hacen el trabajo liviano. Únase amablemente a nuestro equipo de voluntarios de la PTA completando [nuestro nuevo formulario de voluntario](/volunteer/).
 
 Juntos, nuestra asociación crea experiencias verdaderamente memorables para nuestros niños. Manténgase informado visitando nuestro sitio web multilingüe recientemente lanzado [https://www.abingdonpta.org](https://www.abingdonpta.org), siguiéndonos en las redes sociales en [Facebook](https://www.facebook.com/AbingdonElementaryPTA) y [Twitter](https://twitter.com/abingdonpta), y comunicarse con [abingdonelementarypta@gmail.com](mailto:abingdonelementarypta@gmail.com) con cualquier pregunta o comentario.
 
@@ -40,7 +40,7 @@ Presidente de la Asociación de Padres y Maestros
 - **Primera reunión general de miembros de la PTA** - Lunes, 12 de septiembre de 2022 (7 pm - 8:30 pm)
 - **Día de fotos de otoño de Abingdon** - jueves, 15 de septiembre de 2022
 
-También puede ver y suscribirse a nuestro calendario en nuestro nuevo sitio web en [https://www.abingdonpta.org/calendar](https://www.abingdonpta.org/calendar).
+También puede ver y suscribirse a nuestro calendario en nuestro nuevo sitio web en [https://www.abingdonpta.org/calendar](/calendar).
 
 ## Recordatorio amistoso: [Nuevas horas de inicio y fin de clases](https://abingdon.apsva.us/post/new-school-start-and-end-times/)
 

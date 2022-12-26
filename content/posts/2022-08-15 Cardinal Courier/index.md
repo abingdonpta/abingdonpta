@@ -14,7 +14,7 @@ images:
 
 Dear Abingdon Friends and Families,
 
-I am excited to welcome you to the 2022-2023 school year and I am humbled to lead our PTA. As Abingdon Cardinals prepare to soar off to a new school year, your new Abingdon PTA board is excited to see you at the school events, activities, and programs that we are planning for your students. Many of our events rely heavily on volunteers — we are always grateful for our families, staff, and organizations who help build and strengthen our school community. As I have learned from shoveling wood chips at one of our school garden workdays, many hands make light work. Kindly join our PTA volunteer team by filling out [our new volunteer form](https://www.abingdonpta.org/volunteer/).
+I am excited to welcome you to the 2022-2023 school year and I am humbled to lead our PTA. As Abingdon Cardinals prepare to soar off to a new school year, your new Abingdon PTA board is excited to see you at the school events, activities, and programs that we are planning for your students. Many of our events rely heavily on volunteers — we are always grateful for our families, staff, and organizations who help build and strengthen our school community. As I have learned from shoveling wood chips at one of our school garden workdays, many hands make light work. Kindly join our PTA volunteer team by filling out [our new volunteer form](/volunteer/).
 
 Together, our partnership creates truly memorable experiences for our children. Please stay informed by visiting our newly-launched multilingual website [https://www.abingdonpta.org](https://www.abingdonpta.org), following us on social media on [Facebook](https://www.facebook.com/AbingdonElementaryPTA) and [Twitter](https://twitter.com/abingdonpta), and reaching out to [abingdonelementarypta@gmail.com](mailto:abingdonelementarypta@gmail.com) with any questions or comments.
 
@@ -40,7 +40,7 @@ PTA President
 - **First PTA General Membership Meeting** — Monday, September 12, 2022 (7 pm – 8:30 pm)
 - **Abingdon Fall Picture Day** — Thursday, September 15, 2022
 
-You can also view and subscribe to our calendar on our new website at [https://www.abingdonpta.org/calendar](https://www.abingdonpta.org/calendar).
+You can also view and subscribe to our calendar on our new website at [https://www.abingdonpta.org/calendar](/calendar).
 
 ## Friendly Reminder: [New School Start and End Times](https://abingdon.apsva.us/post/new-school-start-and-end-times/)
 

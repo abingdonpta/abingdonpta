@@ -24,7 +24,7 @@ Estimados amigos y familias de Abingdon,
 
 Espero que sus cardenales estén teniendo un buen comienzo del año escolar. Disfruté ver a familias que regresan y conocer nuevos estudiantes y educadores que se unieron recientemente a nuestra escuela. Fue conmovedor ver a nuestros compañeros cardenales hacer nuevos amigos en nuestro picnic de regreso a la escuela y en las crecientes fechas de juegos de helados de verano de jardín de infantes. Su equipo de PTA está emocionado de continuar construyendo y fortaleciendo nuestra comunidad de Abingdon a través de nuestros eventos, actividades y programas.
 
-Todos son bienvenidos a participar en la PTA; sin embargo, considere convertirse en un miembro que paga cuotas (un requisito en nuestra organización para votar; [pague sus cuotas aquí](https://abingdonpta.memberhub.com/store/items/717576)). También lo animo a que preste una hora de su tiempo para ser voluntario con nosotros también. Hay varias formas de conectarse con la PTA de Abingdon. Además de actualizar periódicamente [Facebook](https://www.facebook.com/AbingdonElementaryPTA), [Twitter](https://twitter.com/AbingdonPTA) y [www.abingdonpta.org](https://www.abingdonpta.org/), también lanzamos [grupos de WhatsApp](https://www.abingdonpta.org/whatsapp/) para que las familias se conecten entre sí.
+Todos son bienvenidos a participar en la PTA; sin embargo, considere convertirse en un miembro que paga cuotas (un requisito en nuestra organización para votar; [pague sus cuotas aquí](https://abingdonpta.memberhub.com/store/items/717576)). También lo animo a que preste una hora de su tiempo para ser voluntario con nosotros también. Hay varias formas de conectarse con la PTA de Abingdon. Además de actualizar periódicamente [Facebook](https://www.facebook.com/AbingdonElementaryPTA), [Twitter](https://twitter.com/AbingdonPTA) y [www.abingdonpta.org](https://www.abingdonpta.org), también lanzamos [grupos de WhatsApp](/whatsapp/) para que las familias se conecten entre sí.
 
 Como compartió Elizabeth Andrew, “Los voluntarios no necesariamente tienen el tiempo; tienen el corazón”. Ayúdanos a ser un fuerte y poderoso defensor de nuestro rebaño de cardenales. Espero conocerte; Si me ves por casualidad, por favor pasa a decir "¡Hola!"
 
@@ -45,11 +45,11 @@ Presidente de la Asociación de Padres y Maestros
 - **Lunes 26 de septiembre**: Rosh Hashaná - No hay clases
 - **Miércoles 5 de octubre**: Yom Kippur - No hay clases
 
-Nota: Vea y suscríbase al calendario de la PTA en nuestro nuevo sitio web [aquí](https://www.abingdonpta.org/calendar).
+Nota: Vea y suscríbase al calendario de la PTA en nuestro nuevo sitio web [aquí](/calendar).
 
 ## 👋 Primera reunión virtual de membresía general de la PTA el lunes 12 de septiembre
 
-Está invitado a nuestra primera reunión virtual de la PTA del año escolar el **lunes 12 de septiembre a las 7:00 p. m.**, en Zoom. Ven a conocer a nuestro equipo de PTA. El director Horak también entregará su informe mensual con una sesión de preguntas y respuestas después. Le pediremos a nuestra membresía general que vote sobre algunos, como nuestro presupuesto propuesto de la PTA. Revise nuestra agenda [aquí](https://www.abingdonpta.org/agendas/2022-09-12).
+Está invitado a nuestra primera reunión virtual de la PTA del año escolar el **lunes 12 de septiembre a las 7:00 p. m.**, en Zoom. Ven a conocer a nuestro equipo de PTA. El director Horak también entregará su informe mensual con una sesión de preguntas y respuestas después. Le pediremos a nuestra membresía general que vote sobre algunos, como nuestro presupuesto propuesto de la PTA. Revise nuestra agenda [aquí](/agendas/2022-09-12).
 
 > Por razones de seguridad, no compartimos los códigos de reunión de Zoom en nuestro sitio web. [Suscríbase a nuestro boletín, Cardinal Courier](https://lp.constantcontactpages.com/su/t3ku1aP), para asegurarse de recibir los códigos de reunión de la PTA.
 
@@ -65,13 +65,13 @@ Los formularios de pedido de Lifetouch Picture Day se colocaron en los buzones d
 
 ## 📱 Directorio de estudiantes próximamente
 
-La PTA de Abingdon está creando un **directorio de estudiantes en línea** para el año escolar 2022-2023 para conectar a las familias de Abingdon (por ejemplo, organizar citas para jugar o viajes compartidos o discutir oportunidades de voluntariado). Contendrá información solo para aquellas familias que han **optado** compartir dicha información con la PTA como parte del Proceso de verificación anual en línea (AOVP) que todas las familias completan anualmente. **Solo aquellas familias que "opten por participar" tendrán acceso al directorio**. Revise el anuncio reciente [aquí](https://www.abingdonpta.org/2022/09/06/directory).
+La PTA de Abingdon está creando un **directorio de estudiantes en línea** para el año escolar 2022-2023 para conectar a las familias de Abingdon (por ejemplo, organizar citas para jugar o viajes compartidos o discutir oportunidades de voluntariado). Contendrá información solo para aquellas familias que han **optado** compartir dicha información con la PTA como parte del Proceso de verificación anual en línea (AOVP) que todas las familias completan anualmente. **Solo aquellas familias que "opten por participar" tendrán acceso al directorio**. Revise el anuncio reciente [aquí](/2022/09/06/directory).
 
 ## 🎨 Concurso de Arte Reflexiones
 
 <img src="images/r---show-your-voice_facebook-cropped.webp" alt="Reflections Call for Entries flyer" width="360" height="505" class="flyer" >
 
-Nuestra PTA está participando en Reflections, un programa nacional patrocinado por la PTA que anima a los estudiantes a expresarse artísticamente. Estamos llamando a todos los estudiantes de Abingdon a crear arte visual o literatura que refleje el tema de este año: "**Hazte Escuchar**". Los estudiantes pueden crear obras de arte basadas en temas en las categorías de **literatura** (obras escritas) y **artes visuales** (pinturas, esculturas, dibujos y grabados). Todas las obras de arte serán reconocidas, celebradas y juzgadas por voluntarios de Abingdon por divisiones de nivel de grado. Una selección de entradas avanzará a la competencia en todo el condado. ¡Estamos emocionados de ver tu talento! Más información [aquí](https://www.abingdonpta.org/reflections/).
+Nuestra PTA está participando en Reflections, un programa nacional patrocinado por la PTA que anima a los estudiantes a expresarse artísticamente. Estamos llamando a todos los estudiantes de Abingdon a crear arte visual o literatura que refleje el tema de este año: "**Hazte Escuchar**". Los estudiantes pueden crear obras de arte basadas en temas en las categorías de **literatura** (obras escritas) y **artes visuales** (pinturas, esculturas, dibujos y grabados). Todas las obras de arte serán reconocidas, celebradas y juzgadas por voluntarios de Abingdon por divisiones de nivel de grado. Una selección de entradas avanzará a la competencia en todo el condado. ¡Estamos emocionados de ver tu talento! Más información [aquí](/reflections/).
 
 ## 🫶 Voluntario con nosotros
 

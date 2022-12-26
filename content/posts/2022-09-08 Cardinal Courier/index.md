@@ -26,7 +26,7 @@ Dear Abingdon Friends and Families,
 
 I hope your cardinals are having a strong start to the school year. I've enjoyed seeing returning families and meeting new students and educators who recently joined our school. It was heartwarming to see our fellow cardinals make new friends at our Back-to-School Picnic and at the rising Kindergarten Summer Popsicle Playdates. Your PTA team is excited to continue building and strengthening our Abingdon community through our events, activities, and programs.
 
-Everybody is welcome to participate in the PTA; however, consider becoming a dues paying member (a requirement in our organization for voting; [pay your dues here](https://abingdonpta.memberhub.com/store/items/717576)). I would also encourage you to lend an hour of your time to volunteer with us too. There are several ways to connect with the Abingdon PTA. In addition to regularly updating [Facebook](https://www.facebook.com/AbingdonElementaryPTA), [Twitter](https://twitter.com/AbingdonPTA), and [www.abingdonpta.org](https://www.abingdonpta.org/), we also launched [WhatsApp groups](https://www.abingdonpta.org/whatsapp/) for families to connect with each other.
+Everybody is welcome to participate in the PTA; however, consider becoming a dues paying member (a requirement in our organization for voting; [pay your dues here](https://abingdonpta.memberhub.com/store/items/717576)). I would also encourage you to lend an hour of your time to volunteer with us too. There are several ways to connect with the Abingdon PTA. In addition to regularly updating [Facebook](https://www.facebook.com/AbingdonElementaryPTA), [Twitter](https://twitter.com/AbingdonPTA), and [www.abingdonpta.org](https://www.abingdonpta.org), we also launched [WhatsApp groups](/whatsapp/) for families to connect with each other.
 
 As Elizabeth Andrew shared, “Volunteers do not necessarily have the time; they have the heart.” Help us be a strong and powerful advocate for our flock of cardinals. I look forward to meeting you; if you happen to see me, please stop by to say “Hello!”
 
@@ -47,11 +47,11 @@ P.S. [Don’t forget to link your Harris Teeter VIC card to Abingdon Elementary.
 - **Monday, September 26**: Rosh Hashanah - No school
 - **Wednesday, October 5**: Yom Kippur - No school
 
-Note: View and subscribe to the PTA calendar on our new website [here](https://www.abingdonpta.org/calendar).
+Note: View and subscribe to the PTA calendar on our new website [here](/calendar).
 
 ## 👋 First PTA General Membership Virtual Meeting on Monday, September 12
 
-You’re invited to our first PTA virtual meeting of the school year on **Monday, September 12 at 7:00 PM**, on Zoom. Come meet our PTA team. Principal Horak will also deliver his monthly report with a question and answer session afterwards. We’ll be asking our General Membership to vote on a few such as our proposed PTA budget. Please review our agenda [here](https://www.abingdonpta.org/agendas/2022-09-12).
+You’re invited to our first PTA virtual meeting of the school year on **Monday, September 12 at 7:00 PM**, on Zoom. Come meet our PTA team. Principal Horak will also deliver his monthly report with a question and answer session afterwards. We’ll be asking our General Membership to vote on a few such as our proposed PTA budget. Please review our agenda [here](/agendas/2022-09-12).
 
 > For security reasons, we do not share Zoom meeting codes on our website. [Please subscribe to the email edition of our newsletter](https://lp.constantcontactpages.com/su/t3ku1aP) to make sure you receive PTA meeting codes.
 
@@ -67,13 +67,13 @@ Lifetouch Picture Day order forms were placed in teacher’s mailboxes to be dis
 
 ## 📱 Student Directory Coming Soon
 
-The Abingdon PTA is creating an **online student directory** for the 2022-2023 school year to connect Abingdon families (e.g., arrange playdates or carpools or discuss volunteer opportunities). It will contain information for only those families who have **opted in** to share such information with the PTA as part of the Annual Online Verification Process (AOVP) that all families complete annually. **Only those families who “opt in” will have access to the directory**. Review the recent announcement [here](https://www.abingdonpta.org/2022/09/06/directory).
+The Abingdon PTA is creating an **online student directory** for the 2022-2023 school year to connect Abingdon families (e.g., arrange playdates or carpools or discuss volunteer opportunities). It will contain information for only those families who have **opted in** to share such information with the PTA as part of the Annual Online Verification Process (AOVP) that all families complete annually. **Only those families who “opt in” will have access to the directory**. Review the recent announcement [here](/2022/09/06/directory).
 
 ## 🎨 Reflections Art Contest
 
 <img src="images/r---show-your-voice_facebook-cropped.webp" alt="Reflections Call for Entries flyer" width="360" height="505" class="flyer" >
 
-Our PTA is participating in Reflections - a national PTA-sponsored program that encourages students to express themselves artistically. We’re calling all Abingdon students to create visual art or literature reflecting this year’s theme: “Show Your Voice.” Students can create theme-based artwork in the categories of **literature** (written works) and **visual arts** (paintings, sculptures, drawings, and prints). All artworks will be recognized, celebrated, and judged by Abingdon volunteers by grade-level divisions. A selection of entries will advance to the county-wide competition. We are excited to see your talent! More info [here](https://www.abingdonpta.org/reflections/).
+Our PTA is participating in Reflections - a national PTA-sponsored program that encourages students to express themselves artistically. We’re calling all Abingdon students to create visual art or literature reflecting this year’s theme: “Show Your Voice.” Students can create theme-based artwork in the categories of **literature** (written works) and **visual arts** (paintings, sculptures, drawings, and prints). All artworks will be recognized, celebrated, and judged by Abingdon volunteers by grade-level divisions. A selection of entries will advance to the county-wide competition. We are excited to see your talent! More info [here](/reflections/).
 
 <p style="clear:right;"></p>
 

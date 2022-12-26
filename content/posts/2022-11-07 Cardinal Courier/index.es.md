@@ -22,7 +22,7 @@ En otras noticias, la PTA de Abingdon está agradecida por las solicitudes de su
 
 Mientras contemplamos nuestro legado que dejaremos atrás para nuestros estudiantes actuales y entrantes, agradecemos a nuestra comunidad por involucrarse con nuestro equipo en formas de apoyar a nuestros niños. Estoy agradecido con el coordinador de APS FACE por escuchar mis inquietudes sobre cómo podemos apoyar mejor a Abingdon, y a todas las escuelas de APS, brindando la asistencia de traducción que se necesita para apoyar a nuestras familias. También agradezco al Departamento de Policía del Condado de Arlington por abordar mis inquietudes sobre la seguridad de los peatones en nuestra zona escolar. A medida que nos enfrentamos a los desafíos en evolución para apoyar mejor a nuestro rebaño, los estudiantes de Abingdon siempre siguen siendo nuestra prioridad número uno.
 
-Espero que considere mantenerse comprometido y conectado con nosotros mientras continuamos defendiendo a nuestros Cardinals: [Facebook](https://www.facebook.com/AbingdonElementaryPTA), [Twitter](https://twitter.com/AbingdonPTA), [www.abingdonpta.org](https://www.abingdonpta.org/) y [grupos de WhatsApp](https://www.abingdonpta.org/whatsapp/). Comuníquese con abingdonelementarypta@gmail.com si tiene alguna pregunta o comentario para compartir con nosotros. Gracias por su amabilidad.
+Espero que considere mantenerse comprometido y conectado con nosotros mientras continuamos defendiendo a nuestros Cardinals: [Facebook](https://www.facebook.com/AbingdonElementaryPTA), [Twitter](https://twitter.com/AbingdonPTA), [www.abingdonpta.org](https://www.abingdonpta.org) y [grupos de WhatsApp](/whatsapp/). Comuníquese con abingdonelementarypta@gmail.com si tiene alguna pregunta o comentario para compartir con nosotros. Gracias por su amabilidad.
 
 Con agradecimiento,
 Sharon Burd
@@ -44,7 +44,7 @@ PD Ahora tenemos 112 participantes que han vinculado su tarjeta Harris Teeter VI
 - **Jueves, 1 de diciembre de 2022:** Distribución de la despensa de refrigerios de Abingdon (2:30 pm - 4:30 pm)
 - **Lunes, 12 de diciembre de 2022:** Se abre la inscripción para la clase de invierno después de la escuela de Baroody. Información adicional a seguir.
 
-Nota: [Vea y suscríbase al calendario de la PTA en nuestro sitio web aquí.](https://www.abingdonpta.org/calendar)
+Nota: [Vea y suscríbase al calendario de la PTA en nuestro sitio web aquí.](/calendar)
 
 ## 👋 Reunión virtual de membresía general de la PTA el martes 8 de noviembre
 
@@ -138,7 +138,7 @@ Complete el [formulario de voluntariado de la PTA](https://docs.google.com/forms
 
 📦 **AmazonSmile.** [Cuando te registras aquí](https://smile.amazon.com/ch/52-1289072) y compras en https://smile.amazon.com, Amazon donará 0.5% a Asociación de padres y maestros de Abingdon. ¡Amigos, familiares y vecinos también están invitados a registrarse!  
 🛒 **Reembolsos en comestibles.** Vincule su tarjeta VIC de Harris Teeter a Abingdon Elementary (**5748**). También se invita a amigos, familiares y vecinos a vincular su tarjeta VIC a Abingdon. [Regístrate aquí.](https://docs.google.com/forms/d/e/1FAIpQLSeiAe72qt4qTb_b2xmB-TUZByVkD-QxfVNyFEEHGc6sGkFzYQ/viewform)  
-🥞 **Box Tops.** ¿Comes Cheerios o Go-GURT? Ayúdenos a recaudar fondos con BoxTops for Education. [Hay más información disponible aquí](https://www.abingdonpta.org/fundraising/#box-tops-for-education).
+🥞 **Box Tops.** ¿Comes Cheerios o Go-GURT? Ayúdenos a recaudar fondos con BoxTops for Education. [Hay más información disponible aquí](/fundraising/#box-tops-for-education).
 
 ## 🙏 ¡Gracias! ¡Gracias! አመሰግናለሁ! Баярлалаа! شكرًا لك !
 

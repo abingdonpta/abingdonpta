@@ -22,7 +22,7 @@ In other news, the Abingdon PTA is thankful for the grant requests that we recei
 
 As we contemplate our legacy that we will leave behind for our current and incoming students, we thank our community for engaging with our team on ways to support our children. I am thankful for APS FACE Coordinator for listening to my concerns about how we can best support Abingdon — and all APS schools — with providing translation assistance that is needed to support our families. I am also appreciative of the Arlington County Police Department for addressing my concerns raised about pedestrian safety around our school zone. As we deal with evolving challenges to best support our flock, Abingdon's students always remain our number one priority. 
 
-I hope you will consider staying engaged and connected with us as we continue advocating for our Cardinals: [Facebook](https://www.facebook.com/AbingdonElementaryPTA), [Twitter](https://twitter.com/AbingdonPTA), [www.abingdonpta.org](https://www.abingdonpta.org/), and [WhatsApp groups](https://www.abingdonpta.org/whatsapp/). Please reach out at abingdonelementarypta@gmail.com if you have any questions or comments to share with us. Thank you kindly.
+I hope you will consider staying engaged and connected with us as we continue advocating for our Cardinals: [Facebook](https://www.facebook.com/AbingdonElementaryPTA), [Twitter](https://twitter.com/AbingdonPTA), [www.abingdonpta.org](https://www.abingdonpta.org), and [WhatsApp groups](/whatsapp/). Please reach out at abingdonelementarypta@gmail.com if you have any questions or comments to share with us. Thank you kindly.
 
 Gratefully,  
 Sharon Burd
@@ -44,7 +44,7 @@ P.S. We now have 112 participants that have linked their Harris Teeter VIC card 
 - **Thursday, December 1, 2022:** Abingdon Snack Pantry Distribution (2:30 pm - 4:30 pm)
 - **Monday, December 12, 2022:**  Baroody Afterschool Winter Class Registration Opens. Additional information to follow.
 
-Note: [View and subscribe to the PTA calendar on our website here.](https://www.abingdonpta.org/calendar)
+Note: [View and subscribe to the PTA calendar on our website here.](/calendar)
 
 ## 👋 PTA General Membership Virtual Meeting on Tuesday, November 8
 
@@ -138,7 +138,7 @@ Please complete the [PTA's volunteer form](https://docs.google.com/forms/d/e/1FA
 
 📦 **AmazonSmile.** [When you sign up here](https://smile.amazon.com/ch/52-1289072) and shop on https://smile.amazon.com, Amazon will donate 0.5% to Abingdon PTA. Friends, families, and neighbors are also invited to sign up too!  
 🛒 **Grocery Rebates.**  Link your Harris Teeter VIC card to Abingdon Elementary (**5748**). Friends, families, and neighbors are also invited to link their VIC card to Abingdon as well. [Sign up here.](https://docs.google.com/forms/d/e/1FAIpQLSeiAe72qt4qTb_b2xmB-TUZByVkD-QxfVNyFEEHGc6sGkFzYQ/viewform). 
-🥞 **Box Tops.** Do you eat Cheerios or Go-GURT? Help us fundraise with BoxTops for Education. [More information is available here](https://www.abingdonpta.org/fundraising/#box-tops-for-education).
+🥞 **Box Tops.** Do you eat Cheerios or Go-GURT? Help us fundraise with BoxTops for Education. [More information is available here](/fundraising/#box-tops-for-education).
 
 ## 🙏 Thank you! ¡Gracias! አመሰግናለሁ! Баярлалаа! شكرًا لك !
 

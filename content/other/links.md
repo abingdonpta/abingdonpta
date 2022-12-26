@@ -31,8 +31,6 @@ weight: 10
 - [Girl Scout Troop 60183 (5th Grade)](https://mygs.girlscouts.org/map;troopNumber=Troop%2060183;distanceInMiles=10;address=,,22206,;grades=;season=Current;type=TROOP) — meets at Abingdon
 - [Cub Scout Pack 350](https://pack350.mypack.us/) — meets at Fairlington United Methodist Church
 
-<!--
 ## Old PTA websites
 - [2015-2022 website](https://abingdonptacommuni.wixsite.com/abingdonpta)
 - [2009-2012 website](https://sites.google.com/site/abingdonpta/home)
--->

@@ -14,7 +14,7 @@ images:
 
 Dear Abingdon Friends and Families,
 
-I am pleased to share that Abingdon PTA’s tax exemption status has recently been reinstated after over a decade of being revoked. To celebrate this milestone, we will be hosting a community celebration next month: Spirit Night at Chipotle on Columbia Pike. These fundraising activities support our free community-building events (e.g., Trunk or Treat) and educational programs such as the Cardinal Kids Mentoring Program and our School Play. Furthermore, we are delighted to launch our [staff grants program](https://www.abingdonpta.org/grants/) to help meet needs for our educators that are not provided for by the school district such as funding for field trips. Living right next door to the nation’s capital affords us a wealth of learning opportunities for our Cardinals to learn and explore. 
+I am pleased to share that Abingdon PTA’s tax exemption status has recently been reinstated after over a decade of being revoked. To celebrate this milestone, we will be hosting a community celebration next month: Spirit Night at Chipotle on Columbia Pike. These fundraising activities support our free community-building events (e.g., Trunk or Treat) and educational programs such as the Cardinal Kids Mentoring Program and our School Play. Furthermore, we are delighted to launch our [staff grants program](/grants/) to help meet needs for our educators that are not provided for by the school district such as funding for field trips. Living right next door to the nation’s capital affords us a wealth of learning opportunities for our Cardinals to learn and explore. 
 
 While our volunteer team generously supports enriching our Cardinals’ classroom experience, another priority is to collectively influence policymakers to best support our students. For example, you may have noticed that Abingdon’s oldest tree in the back playground was recently removed prior to the start of the school year due to heart rot; we have asked our school district to consider providing commercial sail shade coverage for our back (red) playground to make recess more enjoyable during the extremely hot and sunny days. We have also initiated conversations with fellow Arlingon PTAs through the Arlington County Council of PTAs (CCPTA) about how we can best support field trips.
 
@@ -22,7 +22,7 @@ In other news, we are also kindly reminding our school community and neighbors t
 
 As we strengthen our family-school engagement at Abingdon, consider lending your time, skills, and voice. These meaningful conversations that we have at student pick up, or at our PTA meetings, help foster thoughtful considerations and build trust. Together we can be a powerful advocate for our flock. 
 
-I hope you will consider staying engaged and connected with us as we continue advocating for our Cardinals: [Facebook](https://www.facebook.com/AbingdonElementaryPTA), [Twitter](https://twitter.com/AbingdonPTA), [www.abingdonpta.org](https://www.abingdonpta.org/), [WhatsApp groups](https://www.abingdonpta.org/whatsapp/). Please reach out at abingdonelementarypta@gmail.com if you have any questions or comments to share with us. Thank you kindly.
+I hope you will consider staying engaged and connected with us as we continue advocating for our Cardinals: [Facebook](https://www.facebook.com/AbingdonElementaryPTA), [Twitter](https://twitter.com/AbingdonPTA), [www.abingdonpta.org](https://www.abingdonpta.org), [WhatsApp groups](/whatsapp/). Please reach out at abingdonelementarypta@gmail.com if you have any questions or comments to share with us. Thank you kindly.
 
 Gratefully,  
 Sharon Burd
@@ -46,7 +46,7 @@ P.S. We have nearly doubled our participants with Harris Teeter’s retail rebat
 - **TBD November 2022:** Movie Night Collaboration with Abingdon DEI 
 - **Tuesday, November 8, 2022:** Election Day Bake Sale 
 
-Note: View and subscribe to the PTA calendar on our website [here](https://www.abingdonpta.org/calendar).
+Note: View and subscribe to the PTA calendar on our website [here](/calendar).
 
 ## 👋 PTA General Membership Virtual Meeting on Tuesday, October 11!
 
@@ -120,13 +120,13 @@ The PTA is launching our first Cardinal Coding Club! Students in 3rd - 5th grade
 
 ## 📱 Student Directory Coming Soon
 
-The Abingdon PTA is creating an **online student directory** for the 2022-2023 school year to connect Abingdon families (e.g., arrange playdates or carpools or discuss volunteer opportunities). It will contain information for only those families who have **opted in** to share such information with the PTA as part of the Annual Online Verification Process (AOVP) that all families complete annually. **Only those families who “opt in” will have access to the directory**. Review the announcement [here](https://www.abingdonpta.org/2022/09/06/directory).
+The Abingdon PTA is creating an **online student directory** for the 2022-2023 school year to connect Abingdon families (e.g., arrange playdates or carpools or discuss volunteer opportunities). It will contain information for only those families who have **opted in** to share such information with the PTA as part of the Annual Online Verification Process (AOVP) that all families complete annually. **Only those families who “opt in” will have access to the directory**. Review the announcement [here](/2022/09/06/directory).
 
 ## 🎨 Reflections Art Contest
 
 {{< imagehalfright src="images/r---show-your-voice_facebook-cropped.webp" alt="Reflections flyer" >}}
 
-Our PTA is participating in Reflections — a national PTA-sponsored program that encourages students to express themselves artistically. We’re calling all Abingdon students to create visual art or literature reflecting this year’s theme: “**Show Your Voice**.” Students can create theme-based artwork in the categories of literature (written works) and visual arts (paintings, sculptures, drawings, and prints). All artworks will be recognized, celebrated, and judged by Abingdon volunteers by grade-level divisions. A selection of entries will advance to the county-wide competition. We are excited to see your talent! Entries due by **Thursday, October 20**. [More information here.](https://www.abingdonpta.org/reflections)
+Our PTA is participating in Reflections — a national PTA-sponsored program that encourages students to express themselves artistically. We’re calling all Abingdon students to create visual art or literature reflecting this year’s theme: “**Show Your Voice**.” Students can create theme-based artwork in the categories of literature (written works) and visual arts (paintings, sculptures, drawings, and prints). All artworks will be recognized, celebrated, and judged by Abingdon volunteers by grade-level divisions. A selection of entries will advance to the county-wide competition. We are excited to see your talent! Entries due by **Thursday, October 20**. [More information here.](/reflections)
 
 <p style="clear:right;"></p>
 

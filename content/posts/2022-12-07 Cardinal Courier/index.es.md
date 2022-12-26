@@ -20,16 +20,16 @@ Con ese fin, la PTA de Abingdon se complace en anunciar que el estudiante de sec
 
 Quizás le interese saber que la expresidenta de la PTA, Libby Garvey, compartió conmigo que durante su tiempo en Abingdon en la década de 1990, muchas familias se habían reunido alrededor de una olla de hierro fundido con comida del jardín de Abingdon para hacer sopa. Mientras celebramos tanto los éxitos como los desafíos del jardín, la historia de la sopa de piedras es un recordatorio de que la PTA de Abingdon es un reflejo de la fortaleza de nuestra comunidad.
 
-Lo que hacemos colectivamente (p. ej., [Recaudación de tarjetas de regalo navideñas en apoyo de 40 familias de Abingdon](https://www.abingdonpta.org/2022/11/09/recogida-de-tarjetas-de-regalo-navideñas/), [programa de subvenciones para el personal](https://www.abingdonpta.org/grants/), [lista de deseos de los maestros](https://www.abingdonpta.org/wishlists/), conectando familias a través de nuestro nuevo [directorio de estudiantes](https://www.abingdonpta.org/2022/12/01/directory/) mejora nuestra asociación familia-escuela. Es particularmente conmovedor ver la alegría de los estudiantes por la despedida después de haber regresado de una excursión escolar memorable y educativa. Disfruto cómo nuestra organización, como el jardín escolar, fomenta las amistades y celebra nuestra rica diversidad.
+Lo que hacemos colectivamente (p. ej., [Recaudación de tarjetas de regalo navideñas en apoyo de 40 familias de Abingdon](/2022/11/09/recogida-de-tarjetas-de-regalo-navideñas/), [programa de subvenciones para el personal](/grants/), [lista de deseos de los maestros](/wishlists/), conectando familias a través de nuestro nuevo [directorio de estudiantes](/2022/12/01/directory/) mejora nuestra asociación familia-escuela. Es particularmente conmovedor ver la alegría de los estudiantes por la despedida después de haber regresado de una excursión escolar memorable y educativa. Disfruto cómo nuestra organización, como el jardín escolar, fomenta las amistades y celebra nuestra rica diversidad.
 
-Esperamos que considere mantenerse comprometido y conectado con nosotros mientras continuamos defendiendo a nuestros Cardinals: [Facebook](https://www.facebook.com/AbingdonElementaryPTA), [Twitter](https://twitter.com/AbingdonPTA) , [www.abingdonpta.org](https://www.abingdonpta.org/) y [grupos de WhatsApp](https://www.abingdonpta.org/whatsapp/). Comuníquese con abingdonelementarypta@gmail.com si tiene alguna pregunta o comentario para compartir con nosotros. Gracias por su compromiso de elevar la experiencia elemental de nuestro rebaño Cardinal.
+Esperamos que considere mantenerse comprometido y conectado con nosotros mientras continuamos defendiendo a nuestros Cardinals: [Facebook](https://www.facebook.com/AbingdonElementaryPTA), [Twitter](https://twitter.com/AbingdonPTA) , [www.abingdonpta.org](https://www.abingdonpta.org) y [grupos de WhatsApp](/whatsapp/). Comuníquese con abingdonelementarypta@gmail.com si tiene alguna pregunta o comentario para compartir con nosotros. Gracias por su compromiso de elevar la experiencia elemental de nuestro rebaño Cardinal.
 
 Deseándote salud y felicidad.
 
 Con agradecimiento,
 sharon burd
 
-PD Visite el jardín de la escuela ([mapa práctico del jardín](https://www.abingdonpta.org/garden)) y vea las plantas que muchos amigos de nuestra comunidad han regalado. Avíseme si desea que también le haga un recorrido por el jardín.
+PD Visite el jardín de la escuela ([mapa práctico del jardín](/garden)) y vea las plantas que muchos amigos de nuestra comunidad han regalado. Avíseme si desea que también le haga un recorrido por el jardín.
 
 ## 📅 Guarda las fechas
 
@@ -46,7 +46,7 @@ PD Visite el jardín de la escuela ([mapa práctico del jardín](https://www.abi
 - **Sábado, 14 de enero de 2023:** Limpieza del jardín comunitario de MLK Abingdon (10 am - 12 pm)
 - **Lunes, 16 de enero de 2023:** No hay clases (Día del Dr. Martin Luther King, Jr.)
 
-Nota: [Vea y suscríbase al calendario de la PTA en nuestro sitio web aquí](https://www.abingdonpta.org/calendar).
+Nota: [Vea y suscríbase al calendario de la PTA en nuestro sitio web aquí](/calendar).
 
 ## 🏫 Regístrese para las clases de invierno de enriquecimiento después de la escuela
 
@@ -90,7 +90,7 @@ Está invitado a unirse al personal de Abingdon para tomar café y bagels el mar
 
 ## 🛍️ Tienda de regalos de la PTA de Abingdon
 
-Si está interesado en comprar alguno de los siguientes artículos, comuníquese con [abingdonelementarypta@gmail.com](mailto:abingdonelementarypta@gmail.com). Todos los ingresos apoyan el [Presupuesto de la PTA de Abingdon](https://www.abingdonpta.org/budget/).
+Si está interesado en comprar alguno de los siguientes artículos, comuníquese con [abingdonelementarypta@gmail.com](mailto:abingdonelementarypta@gmail.com). Todos los ingresos apoyan el [Presupuesto de la PTA de Abingdon](/budget/).
 
 - Imanes para autos de Abingdon $5
 - Gorra de béisbol Abingdon $15
@@ -130,7 +130,7 @@ Complete el [formulario de voluntariado de la PTA](https://docs.google.com/forms
 
 **📦 AmazonSmile.** [Cuando te registras aquí](https://smile.amazon.com/ch/52-1289072) y compras en https://smile.amazon.com, Amazon donará 0.5% a Asociación de padres y maestros de Abingdon. ¡Amigos, familiares y vecinos también están invitados a registrarse!
 
-**🛒 Reembolsos en comestibles.** Vincule su tarjeta VIC de Harris Teeter a Abingdon Elementary (**5748**). También se invita a amigos, familiares y vecinos a vincular su tarjeta VIC a Abingdon. Escanee el QR o regístrese aquí: [www.abingdonpta.org/fundraising](https://www.abingdonpta.org/fundraising).
+**🛒 Reembolsos en comestibles.** Vincule su tarjeta VIC de Harris Teeter a Abingdon Elementary (**5748**). También se invita a amigos, familiares y vecinos a vincular su tarjeta VIC a Abingdon. Escanee el QR o regístrese aquí: [www.abingdonpta.org/fundraising](/fundraising).
 
 **🥞 Box Tops.** ¿Comes Cheerios o Go-GURT? Ayúdenos a recaudar fondos con BoxTops for Education. Más información aquí: https://www.abingdonpta.org/fundraising/#box-tops-for-education.
 

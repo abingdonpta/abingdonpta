@@ -20,16 +20,16 @@ To that end, the Abingdon PTA is thrilled to announce that local high school stu
 
 You may be interested to know that former PTA president Libby Garvey shared with me that during her time at Abingdon in the 1990s, many families had gathered over a cast iron pot with food from the Abingdon garden to make soup. As we celebrate both the successes and challenges of the garden, the stone soup story is a reminder that the Abingdon PTA is a reflection of our community’s strength. 
 
-What we do collectively (e.g., [Holiday Gift Card Drive in support of 40 Abingdon families](https://www.abingdonpta.org/2022/11/09/holiday-gift-card-drive/), [staff grant program](https://www.abingdonpta.org/grants/), [teachers’ wishlist](https://www.abingdonpta.org/wishlists/), connecting families via our new [student directory](https://www.abingdonpta.org/2022/12/01/directory/)) enhances our family-school partnership. It is particularly heartwarming to see students’ joy at dismissal after they have returned from a memorable and educational school field trip. I enjoy how our organization, like the school garden, nurtures friendships and celebrates our rich diversity. 
+What we do collectively (e.g., [Holiday Gift Card Drive in support of 40 Abingdon families](/2022/11/09/holiday-gift-card-drive/), [staff grant program](/grants/), [teachers’ wishlist](/wishlists/), connecting families via our new [student directory](/2022/12/01/directory/)) enhances our family-school partnership. It is particularly heartwarming to see students’ joy at dismissal after they have returned from a memorable and educational school field trip. I enjoy how our organization, like the school garden, nurtures friendships and celebrates our rich diversity. 
 
-We hope you will consider staying engaged and connected with us as we continue advocating for our Cardinals: [Facebook](https://www.facebook.com/AbingdonElementaryPTA), [Twitter](https://twitter.com/AbingdonPTA), [www.abingdonpta.org](https://www.abingdonpta.org/), and [WhatsApp groups](https://www.abingdonpta.org/whatsapp/). Please reach out at abingdonelementarypta@gmail.com if you have any questions or comments to share with us. Thank you for your commitment to elevating our Cardinal flock’s elementary experience.
+We hope you will consider staying engaged and connected with us as we continue advocating for our Cardinals: [Facebook](https://www.facebook.com/AbingdonElementaryPTA), [Twitter](https://twitter.com/AbingdonPTA), [www.abingdonpta.org](https://www.abingdonpta.org), and [WhatsApp groups](/whatsapp/). Please reach out at abingdonelementarypta@gmail.com if you have any questions or comments to share with us. Thank you for your commitment to elevating our Cardinal flock’s elementary experience.
 
 Wishing you health and happiness. 
 
 Gratefully,  
 Sharon Burd
 
-P.S. Please visit the school garden ([handy garden map](https://www.abingdonpta.org/garden)) and see the plants that have been gifted from many friends in our community. Let me know if you would like me to give you a garden tour too.
+P.S. Please visit the school garden ([handy garden map](/garden)) and see the plants that have been gifted from many friends in our community. Let me know if you would like me to give you a garden tour too.
 
 ## 📅 Save the Dates
 
@@ -46,7 +46,7 @@ P.S. Please visit the school garden ([handy garden map](https://www.abingdonpta.
 - **Saturday, January 14, 2023:**  MLK Day of Service Garden Cleanup (10 am - 12 pm)
 - **Monday, January 16, 2023:** No School (Dr. Martin Luther King, Jr. Day)
 
-Note: [View and subscribe to the PTA calendar on our website here](https://www.abingdonpta.org/calendar).
+Note: [View and subscribe to the PTA calendar on our website here](/calendar).
 
 ## 🏫 Register for After-School Enrichment Winter Classes
 
@@ -90,7 +90,7 @@ You are invited to join the Abingdon staff for coffee and bagels on Tuesday morn
 
 ## 🛍️ Abingdon PTA Gift Store
 
-If you are interested in purchasing any of the following items, reach out to [abingdonelementarypta@gmail.com](mailto:abingdonelementarypta@gmail.com). All proceeds support the [Abingdon PTA Budget](https://www.abingdonpta.org/budget/).
+If you are interested in purchasing any of the following items, reach out to [abingdonelementarypta@gmail.com](mailto:abingdonelementarypta@gmail.com). All proceeds support the [Abingdon PTA Budget](/budget/).
 
 - Abingdon Car Magnet $5
 - Abingdon Baseball Cap $15
@@ -130,7 +130,7 @@ Please complete the [PTA's volunteer form](https://docs.google.com/forms/d/e/1FA
 
 **📦 AmazonSmile.** [When you sign up here](https://smile.amazon.com/ch/52-1289072) and shop on https://smile.amazon.com, Amazon will donate 0.5% to Abingdon PTA. Friends, families, and neighbors are also invited to sign up too! 
 
-**🛒 Grocery Rebates.**  Link your Harris Teeter VIC card to Abingdon Elementary (**5748**). Friends, families, and neighbors are also invited to link their VIC card to Abingdon as well. Scan the QR or sign up here: [www.abingdonpta.org/fundraising](https://www.abingdonpta.org/fundraising).
+**🛒 Grocery Rebates.**  Link your Harris Teeter VIC card to Abingdon Elementary (**5748**). Friends, families, and neighbors are also invited to link their VIC card to Abingdon as well. Scan the QR or sign up here: [www.abingdonpta.org/fundraising](/fundraising).
 
 **🥞 Box Tops.** Do you eat Cheerios or Go-GURT? Help us fundraise with BoxTops for Education. More info here: https://www.abingdonpta.org/fundraising/#box-tops-for-education.
 

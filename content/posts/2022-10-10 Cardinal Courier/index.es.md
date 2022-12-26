@@ -12,7 +12,7 @@ images:
 
 Estimados amigos y familias de Abingdon,
 
-Me complace compartir que el estado de exención de impuestos de Abingdon PTA se restableció recientemente después de más de una década de ser revocado. Para celebrar este hito, realizaremos una celebración comunitaria el próximo mes: Spirit Night en Chipotle en Columbia Pike. Estas actividades de recaudación de fondos apoyan nuestros eventos comunitarios gratuitos (p. ej., Trunk or Treat) y programas educativos como el Programa de mentores Cardinal Kids y nuestra obra de teatro escolar. Además, estamos encantados de lanzar nuestro [programa de subvenciones para el personal](https://www.abingdonpta.org/grants/) para ayudar a satisfacer las necesidades de nuestros educadores que el distrito escolar no cubre, como la financiación de excursiones. Vivir justo al lado de la capital de la nación nos brinda una gran cantidad de oportunidades de aprendizaje para que nuestros Cardenales aprendan y exploren.
+Me complace compartir que el estado de exención de impuestos de Abingdon PTA se restableció recientemente después de más de una década de ser revocado. Para celebrar este hito, realizaremos una celebración comunitaria el próximo mes: Spirit Night en Chipotle en Columbia Pike. Estas actividades de recaudación de fondos apoyan nuestros eventos comunitarios gratuitos (p. ej., Trunk or Treat) y programas educativos como el Programa de mentores Cardinal Kids y nuestra obra de teatro escolar. Además, estamos encantados de lanzar nuestro [programa de subvenciones para el personal](/grants/) para ayudar a satisfacer las necesidades de nuestros educadores que el distrito escolar no cubre, como la financiación de excursiones. Vivir justo al lado de la capital de la nación nos brinda una gran cantidad de oportunidades de aprendizaje para que nuestros Cardenales aprendan y exploren.
 
 Si bien nuestro equipo de voluntarios apoya generosamente el enriquecimiento de la experiencia en el aula de nuestros Cardinals, otra prioridad es influir colectivamente en los legisladores para que apoyen mejor a nuestros estudiantes. Por ejemplo, es posible que haya notado que el árbol más antiguo de Abingdon en el patio trasero fue removido recientemente antes del comienzo del año escolar debido a la pudrición del corazón; Le hemos pedido a nuestro distrito escolar que considere proporcionar una cubierta de sombra comercial para nuestro patio trasero (rojo) para que el recreo sea más agradable durante los días extremadamente calurosos y soleados. También hemos iniciado conversaciones con otras PTA de Arlingon a través del Consejo de PTA del condado de Arlington (CCPTA) sobre cómo podemos apoyar mejor las excursiones.
 
@@ -20,7 +20,7 @@ En otras noticias, también recordamos amablemente a nuestra comunidad escolar y
 
 A medida que fortalecemos nuestro compromiso entre la familia y la escuela en Abingdon, considere prestar su tiempo, habilidades y voz. Estas conversaciones significativas que tenemos cuando recogen a los estudiantes, o en nuestras reuniones de la PTA, ayudan a fomentar consideraciones reflexivas y generar confianza. Juntos podemos ser poderosos defensores de nuestro rebaño.
 
-Espero que considere mantenerse comprometido y conectado con nosotros mientras continuamos defendiendo a nuestros Cardinals: [Facebook](https://www.facebook.com/AbingdonElementaryPTA), [Twitter](https://twitter.com/AbingdonPTA), [www.abingdonpta.org](https://www.abingdonpta.org/), [grupos de WhatsApp](https://www.abingdonpta.org/whatsapp/). Comuníquese con abingdonelementarypta@gmail.com si tiene alguna pregunta o comentario para compartir con nosotros. Gracias por su amabilidad.
+Espero que considere mantenerse comprometido y conectado con nosotros mientras continuamos defendiendo a nuestros Cardinals: [Facebook](https://www.facebook.com/AbingdonElementaryPTA), [Twitter](https://twitter.com/AbingdonPTA), [www.abingdonpta.org](https://www.abingdonpta.org), [grupos de WhatsApp](/whatsapp/). Comuníquese con abingdonelementarypta@gmail.com si tiene alguna pregunta o comentario para compartir con nosotros. Gracias por su amabilidad.
 
 Con agradecimiento,
 Sharon Burd
@@ -44,7 +44,7 @@ PD Casi hemos duplicado nuestros participantes con el programa de reembolsos min
 - **TBD noviembre de 2022:** Colaboración de Movie Night con Abingdon DEI
 - **Martes, 8 de noviembre de 2022:** Venta de pasteles del día de las elecciones
 
-Nota: Vea y suscríbase al calendario de la PTA en nuestro sitio web [aquí](https://www.abingdonpta.org/calendar).
+Nota: Vea y suscríbase al calendario de la PTA en nuestro sitio web [aquí](/calendar).
 
 ## 👋 ¡Reunión virtual de membresía general de la PTA el martes 11 de octubre!
 
@@ -118,13 +118,13 @@ Visite el [sitio web de la Asociación de Educación al Aire Libre de Arlington 
 
 ## 📱 Directorio de estudiantes próximamente
 
-La PTA de Abingdon está creando un **directorio de estudiantes en línea** para el año escolar 2022-2023 para conectar a las familias de Abingdon (por ejemplo, organizar citas para jugar o viajes compartidos o discutir oportunidades de voluntariado). Contendrá información solo para aquellas familias que han **optado** compartir dicha información con la PTA como parte del Proceso de verificación anual en línea (AOVP) que todas las familias completan anualmente. **Solo aquellas familias que "opten por participar" tendrán acceso al directorio**. Revise el anuncio [aquí](https://www.abingdonpta.org/2022/09/06/directory).
+La PTA de Abingdon está creando un **directorio de estudiantes en línea** para el año escolar 2022-2023 para conectar a las familias de Abingdon (por ejemplo, organizar citas para jugar o viajes compartidos o discutir oportunidades de voluntariado). Contendrá información solo para aquellas familias que han **optado** compartir dicha información con la PTA como parte del Proceso de verificación anual en línea (AOVP) que todas las familias completan anualmente. **Solo aquellas familias que "opten por participar" tendrán acceso al directorio**. Revise el anuncio [aquí](/2022/09/06/directory).
 
 ## 🎨 Concurso de Arte Reflexiones
 
 {{< imagehalfright src="images/r---show-your-voice_facebook-cropped.webp" alt="Folleto de reflexiones" >}}
 
-Nuestra PTA participa en Reflections, un programa nacional patrocinado por la PTA que anima a los estudiantes a expresarse artísticamente. Estamos llamando a todos los estudiantes de Abingdon a crear arte visual o literatura que refleje el tema de este año: "**Muestra tu voz**". Los estudiantes pueden crear obras de arte basadas en temas en las categorías de literatura (obras escritas) y artes visuales (pinturas, esculturas, dibujos y grabados). Todas las obras de arte serán reconocidas, celebradas y juzgadas por voluntarios de Abingdon por divisiones de nivel de grado. Una selección de entradas avanzará a la competencia en todo el condado. ¡Estamos emocionados de ver tu talento! Las inscripciones vencen el **jueves 20 de octubre**. [Más información aquí.](https://www.abingdonpta.org/es/reflections)
+Nuestra PTA participa en Reflections, un programa nacional patrocinado por la PTA que anima a los estudiantes a expresarse artísticamente. Estamos llamando a todos los estudiantes de Abingdon a crear arte visual o literatura que refleje el tema de este año: "**Muestra tu voz**". Los estudiantes pueden crear obras de arte basadas en temas en las categorías de literatura (obras escritas) y artes visuales (pinturas, esculturas, dibujos y grabados). Todas las obras de arte serán reconocidas, celebradas y juzgadas por voluntarios de Abingdon por divisiones de nivel de grado. Una selección de entradas avanzará a la competencia en todo el condado. ¡Estamos emocionados de ver tu talento! Las inscripciones vencen el **jueves 20 de octubre**. [Más información aquí.](/es/reflections)
 
 <p style="clear:right;"></p>
 
