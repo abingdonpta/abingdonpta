@@ -124,6 +124,29 @@ Below is a timeline of Abingdon's history gleaned from several sources, mostly n
 | 2019-12-11 | [Good Morning America](https://www.goodmorningamerica.com/living/story/stem-program-girls-rosie-riveters-list-fulfilled-amazon-67608034) | Good Morning America recorded a segment at Abingdon in which they and Amazon donated products to Abingdon. | |
 | 2022-09-20 | [Amazon](https://www.aboutamazon.com/news/community/amazon-alleviating-hunger-for-students-throughout-hq2-region) | Amazon donated money for snack baskets in Abingdon classrooms. | |
 
+## Documents
+
+| Document | Source | Link |
+| -------- | ------ | ---- |
+| Speeches and flyers for Abingdon's groundbreaking ceremony on October 29, 1949. | [Arlington Library](https://libraryarchives.arlingtonva.us/Detail/collections/1096) | [PDF](pdf/abingdon-groundbreaking.pdf) |
+| Handbook for Abingdon parents, 1957-1958 | [Arlington Library](https://ead.lib.virginia.edu/vivaxtf/view?docId=arlington/ViAr00169.xml) | [PDF](pdf/abingdon-elementary-parent-handbook-1957-1958.pdf) |
+| Reports and other documents from Abingdon nurses, 1958-1975 | [Arlington Library](https://ead.lib.virginia.edu/vivaxtf/view?docId=arlington/ViAr00169.xml) | [PDF](pdf/nurse-file.pdf) |
+| Architectural and mechanical report for proposed additions and alterations to Oakridge and Abingdon elementary schools, published in 1968. | [Arlington Library](https://libcat.arlingtonva.us/Record/10555) | [PDF](pdf/Addition%20Plan%201968.pdf) |
+| A history of Abingdon Elementary, written in March 1971. | Arlington Library | [PDF](pdf/Abingdon%20Elementary%20History.pdf) |
+| A document dedicating the Abingdon playground constructed by the community in 1985. | Fairlington resident | [PDF](pdf/playground-dedication.pdf) |
+| The Fairlington Civic Association newsletter documenting the construction of the new Abingdon playground in 1985. | Fairlington resident | [PDF](pdf/playground-fca-bulletin.pdf) |
+| Pamphlets describing the construction effort of the new Abingdon playground in 1985. | Fairlington resident | [PDF](pdf/playground-pamphlets.pdf) |
+
+## Renovations/Additions
+
+| Year | Added |
+| ---- | ----- |
+| 1949-1950 | Initial construction. Ten classrooms, a multi-purpose room, a library, offices for the principal and secretary, a teacher's lounge, a kitchen and a storage room. |
+| 1964-1965 | A new library, and probably more (9 classrooms? a conference room?) |
+| 1970-1971 | 15 classrooms, media center, gymnasium, conference rooms for reading, music, science, art, an office and additional storage space. And air conditioning for the entire school except the gym. |
+| 1990 | Unknown |
+| [2016-2017](https://www.apsva.us/design-and-construction/abingdon-additionrenovations/) | 12 new classrooms, a new gymnasium, a new kitchen, and an outdoor instructional area. |
+
 ## Principals
 
 | Name | Tenure |
@@ -140,29 +163,6 @@ Below is a timeline of Abingdon's history gleaned from several sources, mostly n
 | Miguel Ley | 1998-2001 |
 | Joanne Uyeda | 2001-2019 |
 | David Horak | 2019-present |
-
-## Renovations/Additions
-
-| Year | Added |
-| ---- | ----- |
-| 1949-1950 | Initial construction. Ten classrooms, a multi-purpose room, a library, offices for the principal and secretary, a teacher's lounge, a kitchen and a storage room. |
-| 1964-1965 | A new library, and probably more (9 classrooms? a conference room?) |
-| 1970-1971 | 15 classrooms, media center, gymnasium, conference rooms for reading, music, science, art, an office and additional storage space. And air conditioning for the entire school except the gym. |
-| 1990 | Unknown |
-| [2016-2017](https://www.apsva.us/design-and-construction/abingdon-additionrenovations/) | 12 new classrooms, a new gymnasium, a new kitchen, and an outdoor instructional area. |
-
-## Documents
-
-| Document | Source | Link |
-| -------- | ------ | ---- |
-| Speeches and flyers for Abingdon's groundbreaking ceremony on October 29, 1949. | [Arlington Library](https://libraryarchives.arlingtonva.us/Detail/collections/1096) | [PDF](pdf/abingdon-groundbreaking.pdf) |
-| Handbook for Abingdon parents, 1957-1958 | [Arlington Library](https://ead.lib.virginia.edu/vivaxtf/view?docId=arlington/ViAr00169.xml) | [PDF](pdf/abingdon-elementary-parent-handbook-1957-1958.pdf) |
-| Reports and other documents from Abingdon nurses, 1958-1975 | [Arlington Library](https://ead.lib.virginia.edu/vivaxtf/view?docId=arlington/ViAr00169.xml) | [PDF](pdf/nurse-file.pdf) |
-| Architectural and mechanical report for proposed additions and alterations to Oakridge and Abingdon elementary schools, published in 1968. | [Arlington Library](https://libcat.arlingtonva.us/Record/10555) | [PDF](pdf/Addition%20Plan%201968.pdf) |
-| A history of Abingdon Elementary, written in March 1971. | Arlington Library | [PDF](pdf/Abingdon%20Elementary%20History.pdf) |
-| A document dedicating the Abingdon playground constructed by the community in 1985. | Fairlington resident | [PDF](pdf/playground-dedication.pdf) |
-| The Fairlington Civic Association newsletter documenting the construction of the new Abingdon playground in 1985. | Fairlington resident | [PDF](pdf/playground-fca-bulletin.pdf) |
-| Pamphlets describing the construction effort of the new Abingdon playground in 1985. | Fairlington resident | [PDF](pdf/playground-pamphlets.pdf) |
 
 ## Playground Construction Photos
 
