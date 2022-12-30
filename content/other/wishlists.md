@@ -5,6 +5,7 @@ weight: 40
 linktitle: Staff Wishlists
 aliases:
     - /wishlist
+booktoc: true
 ---
 
 Please see below for the wish lists of our teachers. Thank you in advance for supporting their classrooms! *Please note, you are not obligated to purchase anything from the wish lists.*

@@ -6,6 +6,7 @@ date: 2022-08-15T05:00:00-04:00
 categories: newsletters
 images: 
 - /2022/08/15/cardinal-courier/images/Cardi-1.jpg
+booktoc: true
 ---
 
 {{< button href="https://lp.constantcontactpages.com/su/t3ku1aP" >}}انقر هنا لتلقي النشرة الإخبارية لـ Cardinal Courier في صندوق الوارد الخاص بك.{{< /button >}}

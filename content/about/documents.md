@@ -2,6 +2,7 @@
 title: Documents
 summary: Documents from the Abingdon PTA
 weight: 80
+booktoc: true
 ---
 
 ## Meeting Documents

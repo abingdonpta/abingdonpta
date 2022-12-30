@@ -4,6 +4,7 @@ summary: 2022-2023 Budget for the Abingdon PTA.
 url: /budget/
 aliases:
     - /budget/2022-2023/
+booktoc: true
 ---
 
 This budget was adopted by the PTA's General Membership at our September 12, 2022 meeting.

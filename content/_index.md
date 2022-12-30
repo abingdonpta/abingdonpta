@@ -13,11 +13,17 @@ aliases:
 ---
 
 <style>
+hr { display: none; }
 .title, .center { text-align: center; }
-hr, label[for=toc-control], #toc-control { display: none; }
+.center { display: block; margin-left: auto; margin-right: auto; }
 </style>
 
-{{< carousel items="1" height="56.25" unit="%" duration="5000" >}}
+<script>
+    var images = ["carousel/abingdon.webp", "carousel/IMG_2663.webp", "carousel/IMG_5072.webp", "carousel/IMG_7308.webp", "carousel/IMG_2669.webp", "carousel/040222_3.webp"];
+    var randomName = images[Math.floor(Math.random() * images.length)];
+</script>
+
+<script>document.write('<img src="/' + randomName + '" height="414px" width="736px" alt="Abingdon Elementary" class="center">');</script>
 
 Abingdon Elementary School serves children in preschool through fifth grade in Arlington, Virginia.
 
@@ -31,6 +37,3 @@ Abingdon's PTA is an active and enthusiastic group of parents and teachers worki
 
 <h2>View the Latest Abingdon PTA News:</h2>
 </div>
-
-<link rel="stylesheet" href="/css/carousel2.css">
-<script type="text/javascript" src="/js/carousel2.js"></script>

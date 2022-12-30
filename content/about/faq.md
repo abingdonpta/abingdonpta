@@ -5,6 +5,7 @@ linktitle: FAQ's
 weight: 10
 aliases:
     - /about-pta
+booktoc: true
 ---
 
 ## What is the PTA?

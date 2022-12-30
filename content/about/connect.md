@@ -8,9 +8,6 @@ aliases:
     - /contact-us
     - /cardinal-courrier
 ---
-<style>
-label[for=toc-control], #toc-control { display: none; }
-</style>
 
 There are many ways to stay informed about PTA events and activities:
 

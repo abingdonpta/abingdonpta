@@ -4,9 +4,6 @@ summary: Formas de conectarse con la PTA de Abingdon.
 weight: 60
 linktitle: Conéctese
 ---
-<style>
-label[for=toc-control], #toc-control { display: none; }
-</style>
 
 Hay muchas maneras de mantenerse informado sobre los eventos y actividades de la PTA:
 

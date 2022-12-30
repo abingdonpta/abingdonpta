@@ -3,6 +3,7 @@ title: Tuesday Folder
 summary: Documents in Abingdon's Tuesday Folders.
 weight: 30
 linktitle: Tuesday Folder
+booktoc: true
 ---
 
 Abingdon students typically come home with a "Tuesday Folder" in their backpacks on Tuesdays. This folder contains information from the school, the teacher, the PTA, and student work.

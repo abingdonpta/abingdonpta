@@ -8,6 +8,7 @@ images:
 - /2022/09/07/cardinal-courier/images/IMG_1248.jpg
 aliases:
     - /es/2022/09/07/cardinal-courier/
+booktoc: true
 ---
 
 <style type="text/css">

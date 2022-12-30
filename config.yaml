@@ -20,6 +20,7 @@ params:
   fb: AbingdonElementaryPTA
   title: Abingdon PTA
   BookSection: '*'
+  booktoc: false
 
 permalinks:
   docs: /:sections[1:]/:filename/

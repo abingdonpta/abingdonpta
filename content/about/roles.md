@@ -4,6 +4,7 @@ summary: Role Descriptions of the Abingdon PTA.
 bookhidden: true
 linktitle: Roles
 weight: 25
+booktoc: true
 ---
 
 There are many roles for volunteers at the Abingdon PTA. We've provided descriptions of the type of work that we do as a PTA.

@@ -6,6 +6,7 @@ date: 2022-12-07T05:00:00-05:00
 categories: newsletters
 images: 
 - /share/pta.png
+booktoc: true
 ---
 
 {{< button href="https://lp.constantcontactpages.com/su/t3ku1aP" >}}Haga clic aquí para recibir el boletín de Cardinal Courier en su bandeja de entrada.{{< /button >}}

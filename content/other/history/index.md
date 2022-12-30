@@ -4,6 +4,7 @@ summary: The history of Abingdon Elementary.
 images:
     - history/images/IMG_5818.webp
 weight: 50
+booktoc: true
 ---
 
 {{< image src="images/IMG_5818.webp" alt="Old Abingdon Classroom Photo" >}}

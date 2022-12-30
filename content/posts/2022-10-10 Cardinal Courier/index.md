@@ -6,6 +6,7 @@ date: 2022-10-10T05:00:00-04:00
 categories: newsletters
 images: 
 - /2022/10/10/cardinal-courier/images/IMG_0981.jpg
+booktoc: true
 ---
 
 {{< button href="https://lp.constantcontactpages.com/su/t3ku1aP" >}}Click here to receive the Cardinal Courier newsletter in your inbox.{{< /button >}}

@@ -2,6 +2,7 @@
 title: Leadership
 summary: Leadership of the Abingdon PTA.
 weight: 20
+booktoc: true
 ---
 
 The PTA leadership for the 2022-2023 School Year are listed below, as well as role descriptions. If you click on a role, you will see a description for that role.

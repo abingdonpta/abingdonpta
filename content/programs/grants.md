@@ -2,6 +2,7 @@
 title: Grant Program
 summary: The Abingdon PTA provides grants to support student learning in the classroom and beyond.
 weight: 50
+booktoc: true
 ---
 
 ## What is the Grant Program?

@@ -4,6 +4,7 @@ summary: Bylaws for the Abingdon PTA
 url: /bylaws/
 aliases:
     - /bylaws/2022-2023/
+booktoc: true
 ---
 
 <style type="text/css">

@@ -6,9 +6,6 @@ bookhidden: true
 bookSearchExclude: true
 weight: 65
 ---
-<style>
-label[for=toc-control], #toc-control { display: none; }
-</style>
 
 The school and the PTA manage WhatsApp groups for Abingdon's language communities.
 

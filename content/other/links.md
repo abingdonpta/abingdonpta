@@ -2,6 +2,7 @@
 title: Helpful Links
 summary: Helpful links to external resources.
 weight: 10
+booktoc: true
 ---
 
 ## News from Abingdon

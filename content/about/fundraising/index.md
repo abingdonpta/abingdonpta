@@ -6,6 +6,7 @@ linktitle: Fundraising / Donate
 aliases:
     - /fundraisers
     - /support
+booktoc: true
 ---
 
 ## Donate

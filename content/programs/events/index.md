@@ -6,6 +6,7 @@ images:
 weight: 30
 aliases:
     - /community-events
+booktoc: true
 ---
 
 The PTA organizes several events throughout the year. These events strengthen our community spirit, and they're a lot of fun too!
