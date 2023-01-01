@@ -14,4 +14,4 @@ date: 2022-12-05T20:00:00-05:00
 {{< imagehalf src="images/flyer-es.webp" alt="Spanish flyer" >}}
 {{< imagehalf src="images/flyer-ar.webp" alt="Arabic flyer" >}}
 {{< imagehalf src="images/flyer-am.webp" alt="Amharic flyer" >}}
-{{< imagehalfcenter src="images/flyer-mn.webp" alt="Mongolian flyer" >}}
+{{< imagehalf src="images/flyer-mn.webp" alt="Mongolian flyer" >}}

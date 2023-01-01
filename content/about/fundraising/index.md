@@ -34,7 +34,7 @@ Checks can be made out to ```Abingdon PTA```.
 
 ## AmazonSmile
 
-{{< imagehalfright src="images/amazonsmile.webp" alt="AmazonSmile flyer" >}}
+{{< imagehalfrighttoc src="images/amazonsmile.webp" alt="AmazonSmile flyer" >}}
 
 When you sign up below and shop on https://smile.amazon.com, Amazon will donate 0.5% to Abingdon PTA. It's that easy! Ask friends, relatives, and neighbors to join!
 
@@ -51,7 +51,7 @@ When you sign up below and shop on https://smile.amazon.com, Amazon will donate 
 
 ## Harris Teeter
 
-{{< imagehalfright src="images/harris-teeter.webp" alt="Harris Teeter flyer" >}}
+{{< imagehalfrighttoc src="images/harris-teeter.webp" alt="Harris Teeter flyer" >}}
 
 Abingdon PTA participates in Harris Teeter's Together in Education (TIE) Program, which provides the PTA a portion of money spent at their stores by customers who link their VIC Card to Abingdon.
 

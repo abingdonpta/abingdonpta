@@ -24,4 +24,4 @@ Three students will go on to represent Abingdon at the [Arlington County Reflect
 {{< photohalf src="images/PXL_20221109_234819642.jpg" alt="Photo from the Reflections Art Show" >}}
 {{< photohalf src="images/PXL_20221109_235041153.jpg" alt="Photo from the Reflections Art Show" >}}
 {{< photohalf src="images/PXL_20221109_235051494.jpg" alt="Photo from the Reflections Art Show" >}}
-{{< photohalfcenter src="images/PXL_20221109_234826197.jpg" alt="Photo from the Reflections Art Show" >}}
+{{< photohalf src="images/PXL_20221109_234826197.jpg" alt="Photo from the Reflections Art Show" >}}

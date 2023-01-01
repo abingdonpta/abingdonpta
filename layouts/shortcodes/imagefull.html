@@ -2,7 +2,7 @@
 
 {{ $original := (.Page.Resources.ByType "image").GetMatch (printf "*%s*" (.Get "src")) }}
 {{ with $original }}
-{{ $small := .Resize "736x png" }}
+{{ $small := .Resize "992x png" }}
 
 <a href="{{ $original.RelPermalink }}">
     <img 

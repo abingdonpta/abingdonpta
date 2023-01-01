@@ -16,18 +16,18 @@ We will only share documents sent to the entire school, not to a particular clas
 
 ## December 6, 2022
 
-{{< imagehalf src="images/2022-12-06_1.webp" alt="Sprit Week flyer" >}}
+{{< imagehalftoc src="images/2022-12-06_1.webp" alt="Sprit Week flyer" >}}
 
 ## November 29, 2022
 
 ###### English
-{{< imagehalf src="images/2022-11-29_1.webp" alt="Winter enrichment flyer" >}}
-{{< imagehalf src="images/2022-11-29_2.webp" alt="Winter enrichment flyer" >}}
+{{< imagehalftoc src="images/2022-11-29_1.webp" alt="Winter enrichment flyer" >}}
+{{< imagehalftoc src="images/2022-11-29_2.webp" alt="Winter enrichment flyer" >}}
 
 ###### Spanish
-{{< imagehalf src="images/2022-11-29_3.webp" alt="Winter enrichment flyer" >}}
-{{< imagehalf src="images/2022-11-29_4.webp" alt="Winter enrichment flyer" >}}
-{{< imagehalf src="images/2022-11-29_5.webp" alt="AmazonSmile flyer" >}}
+{{< imagehalftoc src="images/2022-11-29_3.webp" alt="Winter enrichment flyer" >}}
+{{< imagehalftoc src="images/2022-11-29_4.webp" alt="Winter enrichment flyer" >}}
+{{< imagehalftoc src="images/2022-11-29_5.webp" alt="AmazonSmile flyer" >}}
 
 ## November 21, 2022
 
@@ -43,38 +43,38 @@ No known schoolwide flyers.
 
 ## November 1, 2022
 
-{{< imagehalf src="images/2022-11-01_1.webp" alt="Chipotle Spirit Night flyer" >}}
-{{< imagehalf src="images/2022-11-01_2.webp" alt="Chipotle Spirit Night flyer - Spanish" >}}
-{{< imagehalf src="images/2022-11-01_3.webp" alt="November Garden Work Day flyer" >}}
-{{< imagehalf src="images/2022-11-01_4.webp" alt="November Garden Work Day flyer - Spanish" >}}
-{{< imagehalf src="images/2022-11-01_5.webp" alt="Election Day Bake Sale flyer" >}}
-{{< imagehalf src="images/2022-11-01_6.webp" alt="Election Day Bake Sale flyer - Spanish" >}}
+{{< imagehalftoc src="images/2022-11-01_1.webp" alt="Chipotle Spirit Night flyer" >}}
+{{< imagehalftoc src="images/2022-11-01_2.webp" alt="Chipotle Spirit Night flyer - Spanish" >}}
+{{< imagehalftoc src="images/2022-11-01_3.webp" alt="November Garden Work Day flyer" >}}
+{{< imagehalftoc src="images/2022-11-01_4.webp" alt="November Garden Work Day flyer - Spanish" >}}
+{{< imagehalftoc src="images/2022-11-01_5.webp" alt="Election Day Bake Sale flyer" >}}
+{{< imagehalftoc src="images/2022-11-01_6.webp" alt="Election Day Bake Sale flyer - Spanish" >}}
 
 ## October 25, 2022
 
-{{< imagehalf src="images/2022-10-25_1.webp" alt="Trunk or Treat flyer" >}}
-{{< imagehalf src="images/2022-10-25_2.webp" alt="Coffee chat flyer" >}}
-{{< imagehalf src="images/2022-10-25_3.webp" alt="Movie night flyer - English" >}}
-{{< imagehalf src="images/2022-10-25_4.webp" alt="Movie Night flyer - Spanish" >}}
+{{< imagehalftoc src="images/2022-10-25_1.webp" alt="Trunk or Treat flyer" >}}
+{{< imagehalftoc src="images/2022-10-25_2.webp" alt="Coffee chat flyer" >}}
+{{< imagehalftoc src="images/2022-10-25_3.webp" alt="Movie night flyer - English" >}}
+{{< imagehalftoc src="images/2022-10-25_4.webp" alt="Movie Night flyer - Spanish" >}}
 
 ## October 18, 2022
 
-{{< imagehalf src="images/2022-10-18_1.webp" alt="Connect with the PTA flyer" >}}
+{{< imagehalftoc src="images/2022-10-18_1.webp" alt="Connect with the PTA flyer" >}}
 
 ## October 11, 2022
 
-{{< imagehalf src="images/2022-10-11_1.webp" alt="Spirit Week Flyer - English" >}}
-{{< imagehalf src="images/2022-10-11_2.webp" alt="Spirit Week Flyer - Spanish" >}}
-{{< imagehalf src="images/2022-10-11_3.webp" alt="Reflections flyer" >}}
+{{< imagehalftoc src="images/2022-10-11_1.webp" alt="Spirit Week Flyer - English" >}}
+{{< imagehalftoc src="images/2022-10-11_2.webp" alt="Spirit Week Flyer - Spanish" >}}
+{{< imagehalftoc src="images/2022-10-11_3.webp" alt="Reflections flyer" >}}
 
 ## October 4, 2022
 
-{{< imagehalf src="images/2022-10-04_1.webp" alt="Coat Drive flyer" >}}
-{{< imagehalf src="images/2022-10-04_2.webp" alt="Trunk or Treat flyer" >}}
+{{< imagehalftoc src="images/2022-10-04_1.webp" alt="Coat Drive flyer" >}}
+{{< imagehalftoc src="images/2022-10-04_2.webp" alt="Trunk or Treat flyer" >}}
 
 ## September 27, 2022
 
-{{< imagehalf src="images/2022-09-27_1.webp" alt="Membership Drive flyer" >}}
+{{< imagehalftoc src="images/2022-09-27_1.webp" alt="Membership Drive flyer" >}}
 
 ## September 20, 2022
 
@@ -82,18 +82,18 @@ No known schoolwide flyers.
 
 ## September 13, 2022
 
-{{< imagehalf src="images/2022-09-13_1.webp" alt="Family Science Night flyer" >}}
-{{< imagehalf src="images/2022-09-13_2.webp" alt="Reflections flyer" >}}
-{{< imagehalf src="images/2022-09-13_3.webp" alt="Harris Teeter Rebates flyer" >}}
+{{< imagehalftoc src="images/2022-09-13_1.webp" alt="Family Science Night flyer" >}}
+{{< imagehalftoc src="images/2022-09-13_2.webp" alt="Reflections flyer" >}}
+{{< imagehalftoc src="images/2022-09-13_3.webp" alt="Harris Teeter Rebates flyer" >}}
 
 ## September 6, 2022
 
 #### Fall Enrichment
 
 ###### English
-{{< imagehalf src="images/2022-09-06_1.webp" alt="First page of English Fall Enrichment flyer" >}}
-{{< imagehalf src="images/2022-09-06_2.webp" alt="Second page of English Fall Enrichment flyer" >}}
+{{< imagehalftoc src="images/2022-09-06_1.webp" alt="First page of English Fall Enrichment flyer" >}}
+{{< imagehalftoc src="images/2022-09-06_2.webp" alt="Second page of English Fall Enrichment flyer" >}}
 
 ###### Spanish
-{{< imagehalf src="images/2022-09-06_3.webp" alt="First page of Spanish Fall Enrichment flyer" >}}
-{{< imagehalf src="images/2022-09-06_4.webp" alt="Second page of Spanish Fall Enrichment flyer" >}}
+{{< imagehalftoc src="images/2022-09-06_3.webp" alt="First page of Spanish Fall Enrichment flyer" >}}
+{{< imagehalftoc src="images/2022-09-06_4.webp" alt="Second page of Spanish Fall Enrichment flyer" >}}
