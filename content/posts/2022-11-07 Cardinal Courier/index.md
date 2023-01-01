@@ -66,7 +66,7 @@ Note: [View and subscribe to the PTA calendar on our website here.](/calendar)
 
 ## 🇺🇸 Election Day Bake Sale!
 
-{{< imagehalfrighttoc src="images/bake-sale.webp" alt="Bake Sale flyer" >}}
+{{< imagehalftoc class="halfright" src="images/bake-sale.webp" alt="Bake Sale flyer" >}}
 
 Visit the PTA table to grab a treat for yourself, an educator, a volunteer, or a neighbor! All funds support PTA programs and activities for our flock of Cardinals!
 
@@ -84,7 +84,7 @@ We will be selling cookies, bagels, muffins, coffee, car magnets, and more!
 
 ## 🎨 Reflections Art Show
 
-{{< imagehalfrighttoc src="images/reflections-art-show.webp" alt="Reflections Art Show flyer" >}}
+{{< imagehalftoc class="halfright" src="images/reflections-art-show.webp" alt="Reflections Art Show flyer" >}}
 
 You’re invited to Abingdon PTA’s Reflections Art Show! We will celebrate and showcase our students’ artwork and creativity.
 
@@ -97,7 +97,7 @@ To assist with the Reflections Art Show, [sign up here](https://www.signupgenius
 
 ## 👩‍💻 Cardinal Coding Club
 
-{{< imagehalfrighttoc src="images/cardinal-coding-club.webp" alt="Cardinal Coding Club flyer" >}}
+{{< imagehalftoc class="halfright" src="images/cardinal-coding-club.webp" alt="Cardinal Coding Club flyer" >}}
 
 The PTA is launching our first Cardinal Coding Club this month! Students in 3rd - 5th grade are invited to join us after school on Wednesdays starting in November. We are collaborating with Boolean Girl, a local non-profit, whose mission is to engage students in computer science. Registration will open on Thursday, November 10, 2022 at 12 pm; the registration link will be shared on the PTA’s Facebook and Twitter at noon. If you have any questions, reach out to Teresa Valdez-Bain at ftvedu@yahoo.com.
 
@@ -143,7 +143,7 @@ Please complete the [PTA's volunteer form](https://docs.google.com/forms/d/e/1FA
 
 ## 🙏 Thank you! ¡Gracias! አመሰግናለሁ! Баярлалаа! شكرًا لك !
 
-{{< photohalfrighttoc src="images/chipotle-thank-you.jpg" alt="Chipotle Thank You flyer" >}}
+{{< photohalftoc class="halfright" src="images/chipotle-thank-you.jpg" alt="Chipotle Thank You flyer" >}}
 
 We are impressed with the generosity and selflessness of our volunteers and supporters. 
 
@@ -161,4 +161,4 @@ We are impressed with the generosity and selflessness of our volunteers and supp
 
 ## ✨ Superhero Abingdon Cardinal loves dressing up!
 
-{{< photohalfcenter src="images/IMG_5930.jpg" alt="Superhero Abingdon Cardinal" >}}
+{{< photohalftoc class="halfcenter" src="images/IMG_5930.jpg" alt="Superhero Abingdon Cardinal" >}}

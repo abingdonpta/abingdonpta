@@ -16,6 +16,7 @@ booktoc: true
 -->
 
 ## APS Resources
+- [📚 View APS publications, including the parent handbook.](https://www.apsva.us/publications/)
 - [<img src="/images/ParentVUE.svg" height="20" width="20" alt="ParentVUE logo"> Learn about ParentVUE](https://www.apsva.us/family-access-center/) and [Log into ParentVue](https://vue.apsva.us).
 - [<img src="/images/SchoolMessenger.svg" height="20" width="20" alt="SchoolMessenger logo"> Learn about School Talk](https://www.apsva.us/schooltalk/), and [set up a School Messenger account to adjust your communications preferences](https://go.schoolmessenger.com/).
 - [<img src="/images/Canvas.svg" height="20" width="20" alt="Canvas logo"> Set up your Canvas account](https://www.apsva.us/digital-devices/digital-learning-device-help/canvas/) and then [log into Canvas](https://apsva.instructure.com/login/canvas).

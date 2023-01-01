@@ -7,7 +7,7 @@ weight: 50
 booktoc: true
 ---
 
-{{< image src="images/IMG_5818.webp" alt="Old Abingdon Classroom Photo" >}}
+{{< imagefulltocnolink src="images/IMG_5818.webp" alt="Old Abingdon Classroom Photo" >}}
 
 Abingdon first opened its doors to students in August 1950. The school has been in continuous operation since then, educating generations of students in South Arlington.
 
@@ -164,6 +164,17 @@ Below is a timeline of Abingdon's history gleaned from several sources, mostly n
 | Miguel Ley | 1998-2001 |
 | Joanne Uyeda | 2001-2019 |
 | David Horak | 2019-present |
+
+## Grades present
+
+| Timeframe | Grades |
+| --------- | ------ |
+| 1950-195? | 1-3    |
+| 195?-1959 | 1-5    |
+| 1959-1965 | 1-6    |
+| 1965-1990 | K-6    |
+| 1990-1995 | K-5    |
+| 1995-present | PK-5 |
 
 ## Playground Construction Photos
 

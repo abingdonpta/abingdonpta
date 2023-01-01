@@ -14,8 +14,7 @@ aliases:
 
 <style>
 hr { display: none; }
-.title, .center { text-align: center; }
-.center { display: block; margin-left: auto; margin-right: auto; }
+.title, .textcenter { text-align: center; }
 </style>
 
 <script>
@@ -23,13 +22,13 @@ hr { display: none; }
     var randomName = images[Math.floor(Math.random() * images.length)];
 </script>
 
-<script>document.write('<img src="/' + randomName + '" height="414px" width="736px" alt="Abingdon Elementary" class="center">');</script>
+<script>document.write('<img src="/' + randomName + '" height="414px" width="736px" alt="Abingdon Elementary" class="halfcenter">');</script>
 
 Abingdon Elementary School serves children in preschool through fifth grade in Arlington, Virginia.
 
 Abingdon's PTA is an active and enthusiastic group of parents and teachers working together to give students the best possible experience during elementary school. Join us!
 
-<div class=center>
+<div class="textcenter">
 {{< button relref="connect" >}}Connect{{< /button >}}{{< button relref="join" >}}Join{{< /button >}}{{< button relref="volunteer" >}}Volunteer{{< /button >}}{{< button relref="fundraising" >}}Donate{{< /button >}}
 <br>
 <br>

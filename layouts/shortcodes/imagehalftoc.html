@@ -1,4 +1,5 @@
 {{- $alt := .Get "alt" -}}
+{{- $class := .Get "class" -}}
 
 {{ $original := (.Page.Resources.ByType "image").GetMatch (printf "*%s*" (.Get "src")) }}
 {{ with $original }}
@@ -7,6 +8,7 @@
 <a href="{{ $original.RelPermalink }}">
     <img 
         src="{{ $small.RelPermalink }}"
+        class="{{ if $class }}{{ $class }}{{ end }}"
         width="{{ $small.Width }}"
         height="{{ $small.Height }}"
         alt="{{ if $alt }}{{ $alt }}{{ end }}"
