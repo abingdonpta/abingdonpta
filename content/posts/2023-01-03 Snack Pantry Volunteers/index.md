@@ -2,17 +2,15 @@
 title: Volunteers Needed for Abingdon's Snack Pantry
 summary: We are asking for volunteers to help distribute food to Abingdon's classrooms.
 slug: snack pantry volunteers
-date: 2022-10-04T05:00:00-04:00
+date: 2023-01-03T20:00:00-04:00
 categories:
 - "volunteer opportunities"
 - "snack pantry"
 images: 
-- /2022/10/04/snack-pantry-volunteers/images/flyer.webp
+- /2023/01/03/snack-pantry-volunteers/images/flyer.webp
 ---
 
-Amazon is donating more than $250,000 worth of products from Amazon Fresh to Food For Neighbors, Abingdon Elementary School, and DC Food Project to support more students facing food insecurity have access to fresh and shelf-stable food.
-
-Abingdon is using Amazon’s donation to build snack baskets in our classrooms, filled with items like granola bars, cheese crackers, etc. from Amazon. These snack baskets will help make food more accessible.
+The Abingdon PTA is continuing to support the school's [snack pantry](/pantry), which ensures that students facing food insecurity have access to fresh and shelf-stable food.
 
 We need help with:
 
