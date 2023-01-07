@@ -89,7 +89,7 @@ The PTA Treasurer is required to submit this form to the IRS and to the Virginia
 
 The Virginia PTA issues a letter each year to local units in good standing that officially identifies the PTA as a 501(c)3 tax-exempt organization.
 
-{{< button href="/determination/2022.pdf" >}}Click Here to View Our Tax-Exempt Letter{{< /button >}}
+{{< button href="/determination/2023.pdf" >}}Click Here to View Our Tax-Exempt Letter{{< /button >}}
 
 ### IRS Reinstatement Letter
 
