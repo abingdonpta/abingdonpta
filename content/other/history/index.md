@@ -11,9 +11,9 @@ booktoc: true
 
 Abingdon first opened its doors to students in August 1950. The school has been in continuous operation since then, educating generations of students in South Arlington.
 
-Below is a timeline of Abingdon's history gleaned from several sources, mostly newspaper articles. This timeline was largely made possible by a [newspaper digitizing project](https://library.arlingtonva.us/2021/06/21/search-thousands-of-historic-arlington-papers-online-for-free/) by Arlington Library's Center for Local History and the Library of Virginia. We are grateful for their efforts, and we intend to add more articles as their digitization efforts progress.
-
 ## Timeline
+
+Below is a timeline of Abingdon's history gleaned from several sources, mostly newspaper articles. This timeline was largely made possible by a [newspaper digitizing project](https://library.arlingtonva.us/2021/06/21/search-thousands-of-historic-arlington-papers-online-for-free/) by Arlington Library's Center for Local History and the Library of Virginia. We are grateful for their efforts, and we intend to add more articles as their digitization efforts progress.
 
 | Date | Source | Narrative | Clip |
 | ---- | ------ | --------- | ---- |
@@ -127,6 +127,8 @@ Below is a timeline of Abingdon's history gleaned from several sources, mostly n
 
 ## Documents
 
+The documents below reveal important information about what Abingdon was like in decades past. They were mostly obtained from Arlington Library’s Center for Local History.
+
 | Document | Source | Link |
 | -------- | ------ | ---- |
 | Speeches and flyers for Abingdon's groundbreaking ceremony on October 29, 1949. | [Arlington Library](https://libraryarchives.arlingtonva.us/Detail/collections/1096) | [PDF](pdf/abingdon-groundbreaking.pdf) |
@@ -140,9 +142,11 @@ Below is a timeline of Abingdon's history gleaned from several sources, mostly n
 
 ## Renovations/Additions
 
+If you've ever walked Abingdon's labyrinthine hallways, it's obvious that the building has been added on to many times.
+
 | Year | Added |
 | ---- | ----- |
-| 1949-1950 | Initial construction. Ten classrooms, a multi-purpose room, a library, offices for the principal and secretary, a teacher's lounge, a kitchen and a storage room. |
+| 1949-1950 | Initial construction. Ten classrooms, a multi-purpose room, a library, offices for the principal and secretary, a teacher's lounge, a kitchen and a storage room. [View the floor plan here.](pdf/abingdon-maps.pdf) |
 | 1964-1965 | A new library, and probably more (9 classrooms? a conference room?) |
 | 1970-1971 | 15 classrooms, media center, gymnasium, conference rooms for reading, music, science, art, an office and additional storage space. And air conditioning for the entire school except the gym. |
 | 1990 | Unknown |

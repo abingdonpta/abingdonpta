@@ -1,5 +1,5 @@
 --- 
-title: Abingdon Community Garden Cleanup
+title: Martin Luther King Day of Service
 summary: Join us for an MLK Day of Service in the Abingdon Garden on January 16.
 slug: mlk day of service
 date: 2023-01-04T20:00:00-04:00
