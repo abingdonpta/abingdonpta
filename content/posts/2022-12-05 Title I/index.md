@@ -3,6 +3,8 @@ title: School-Family Partnership Coffee Chat
 summary: Join the Abingdon staff for coffee and bagels to learn about how Title I funding supports our Cardinal flock.
 slug: title i
 date: 2022-12-05T20:00:00-05:00
+images: 
+- /2022/12/05/title-i/images/flyer-en.webp
 ---
 
  You're invited to join the **School-Family Partnership Coffee Chat**. Join the Abingdon staff for coffee and bagels to learn about how Title I funding supports our Cardinal flock.

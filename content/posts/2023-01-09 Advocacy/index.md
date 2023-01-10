@@ -2,9 +2,8 @@
 title: Abingdon PTA Collaborates with Arlington CCPTA to Advocate for Abingdon Families
 summary: Abingdon PTA's advocacy led to the CCPTA requesting that APS provide menstrual supplies to students, and that they make report cards easier to understand for parents with limited English proficiency.
 slug: advocacy
-date: 2023-01-08T20:00:00-05:00
+date: 2023-01-09T20:00:00-05:00
 category: advocacy
-draft: true
 ---
 
 The PTA frequently advocates for Abingdon families when the need arises. Recently, two needs were raised with the PTA, which the PTA moved to resolve at the county level.
@@ -22,11 +21,21 @@ First, a staff member requested that the Abingdon PTA provide menstrual supplies
 > Best,<br>
 > Claire Noakes
 
+APS transmitted the following response:
+
+> Thank you so much for reaching out about this issue.  APS is installing dispensers and receptacles in secondary restrooms, communal and individual, over the course of the spring and summer of 2023.  The dispensers will provide menstrual supplies free of charge.<br><br>
+> Free supplies will also be available in the school health clinics at all schools.  School nurses already maintain menstrual supplies on an as-needed basis, and APS is working to provide additional products for the clinics to ensure all students in need have access.<br><br>
+> As supplies are stocked and installation of the new equipment begins, we will be providing broader communication to the community.<br><br>
+> All the best,<br><br>
+> **Darrell Sampson, EdD, MA, LPC, NCC (he/him/his)**<br>
+> Executive Director, Office of Student Services<br>
+> Arlington Public Schools
+
 ## Report Card Translation
 
 Second, an Abingdon parent with limited English proficiency contacted the PTA and expressed difficulties understanding her child's report card. A PTA board member sat down with the parent and navigated ParentVUE and the report card together. The PTA board member noticed a number of deficiencies and potential improvements that would make the report card easier to understand. The PTA board member raised this with the CCPTA, whose members expressed similar difficulties among their membership. The CCPTA opted to send a letter to the School Board and APS leadership on the topic.
 
-> Dear members of the School Board, Dr. Duran, Dr. Mann, Dr. Ottley, Mr. Adusumilli, and Ms. Murphy:
+> Dear members of the School Board, Dr. Duran, Dr. Mann, Dr. Ottley, Mr. Adusumilli, and Ms. Murphy:<br><br>
 > The executive board of the CCPTA would like to call your attention to the challenges that Limited-English Proficient (LEP) parents have in accessing information about their student's progress and report cards, as communicated on parentvue. Currently, when a parent logs in to parentvue to access a student's report card, the Grade Report is under the 'Documents' tab as a PDF file. The name of the file is in English. The PDF file has the courses, the class legend, the comment legend, and the comment key all in English. There is no reference to any availability of translated information.<br><br>
 > Please compare this to NYC's standardized report card, the form of which has been translated into 9 languages ([https://www.schools.nyc.gov/learning/student-journey/student-records-and-transcripts/report-cards](https://www.schools.nyc.gov/learning/student-journey/student-records-and-transcripts/report-cards)). On the English version ([https://www.schools.nyc.gov/docs/default-source/default-document-library/kindergarten-report-card-sample](https://www.schools.nyc.gov/docs/default-source/default-document-library/kindergarten-report-card-sample)), at the top, there is a statement in nine other languages alerting parents to the availability of translated versions.<br><br>
 > Many LEP parents attempt to translate school communications using google translate ([https://translate.google.com/](https://translate.google.com/)). They download the Grade Report PDF file, and then upload it to google's translate document function. When the tables on the PDF are translated, they can render in a confusing way - for example, the hash marks under 'comments' are grouped together without staying in columns A-F. Also, please note that many LEP parents are doing this on a mobile phone, which can make the rendering even more challenging to read and interpret.<br><br>
@@ -36,5 +45,7 @@ Second, an Abingdon parent with limited English proficiency contacted the PTA an
 > These are just some suggestions on the issue of improving the communication of student progress to LEP parents/guardians, and we would welcome further thoughts and discussion on this issue.<br><br>
 > Best,<br>
 > Claire Noakes
+
+---
 
 The Abingdon PTA will always advocate for Abingdon students and families. If you believe there is an issue that could benefit from PTA advocacy, please reach out to us at abingdonelementarypta@gmail.com.

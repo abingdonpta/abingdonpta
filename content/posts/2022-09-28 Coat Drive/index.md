@@ -3,7 +3,7 @@ title: Winter Coat Drive
 summary: Share the warmth! Coats, mittens, hats, gloves, and scarves are needed.
 slug: coat drive
 date: 2022-09-28T05:00:00-04:00
-categories: drives
+categories: donations
 images: 
 - /2022/09/28/coat-drive/images/flyer.webp
 ---

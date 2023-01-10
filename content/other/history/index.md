@@ -132,8 +132,8 @@ The documents below reveal important information about what Abingdon was like in
 | Document | Source | Link |
 | -------- | ------ | ---- |
 | Speeches and flyers for Abingdon's groundbreaking ceremony on October 29, 1949. | [Arlington Library](https://libraryarchives.arlingtonva.us/Detail/collections/1096) | [PDF](pdf/abingdon-groundbreaking.pdf) |
-| Handbook for Abingdon parents, 1957-1958 | [Arlington Library](https://ead.lib.virginia.edu/vivaxtf/view?docId=arlington/ViAr00169.xml) | [PDF](pdf/parent-handbook-1957-1958.pdf) |
-| Reports and other documents from Abingdon nurses, 1958-1975 | [Arlington Library](https://ead.lib.virginia.edu/vivaxtf/view?docId=arlington/ViAr00169.xml) | [PDF](pdf/nurse-file.pdf) |
+| Handbook for Abingdon parents, 1957-1958. | [Arlington Library](https://ead.lib.virginia.edu/vivaxtf/view?docId=arlington/ViAr00169.xml) | [PDF](pdf/parent-handbook-1957-1958.pdf) |
+| Reports and other documents from Abingdon nurses, 1958-1975. | [Arlington Library](https://ead.lib.virginia.edu/vivaxtf/view?docId=arlington/ViAr00169.xml) | [PDF](pdf/nurse-file.pdf) |
 | Architectural and mechanical report for proposed additions and alterations to Oakridge and Abingdon elementary schools, published in 1968. | [Arlington Library](https://libcat.arlingtonva.us/Record/10555) | [PDF](pdf/Addition%20Plan%201968.pdf) |
 | A history of Abingdon Elementary, written in March 1971. | Arlington Library | [PDF](pdf/Abingdon%20Elementary%20History.pdf) |
 | A document dedicating the Abingdon playground constructed by the community in 1985. | Fairlington resident | [PDF](pdf/playground-dedication.pdf) |
