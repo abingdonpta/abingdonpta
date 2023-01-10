@@ -4,6 +4,7 @@ summary: Abingdon PTA's advocacy led to the CCPTA requesting that APS provide me
 slug: advocacy
 date: 2023-01-09T20:00:00-05:00
 category: advocacy
+draft: true
 ---
 
 The PTA frequently advocates for Abingdon families when the need arises. Recently, two needs were raised with the PTA, which the PTA moved to resolve at the county level.

@@ -69,7 +69,7 @@ The meeting agenda is available here: https://www.abingdonpta.org/agendas/2023-0
 
 Abingdon PTA invites students & families to enjoy an evening of free ice skating. In order to know if families can skate with their Abingdon students at this free event, please RSVP @ [rb.gy/lhjmye](https://rb.gy/lhjmye)
 
-**NOTE: The date has been changed from February 9 to February 16 to avoid a conflict with an Abingdon concert.**
+**NOTE: The date has been changed from February 9 to February 16.**
 
 <p style="clear:right;"></p>
 
