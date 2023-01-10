@@ -17,7 +17,7 @@ Dear Abingdon Friends and Families,
 
 Cheers to a new year! Building community and enriching the lives — especially the emotional well being — of our students through our volunteer work is instrumental. We’re excited for our PTA achievements and continue to support our community in challenging times and celebratory milestones. That said, we remain appreciative of the care and kindness that our volunteers, Abingdon staff, donors, and benefactors tirelessly provide to help our children succeed in school.
 
-With over a dozen languages spoken by families at Abingdon, we support engaging friends and neighbors within our culturally and beautifully diverse school community. I am thankful for the opportunity to participate in APS’s Family and Community Engagement (FACE) working group to update their Policy and Implementation Plan (PIP) and advocate for multilingual communication to ensure that all families can become effective partners to support their students. I am also appreciative of our district PTA — Arlington's County Council of PTAs (CCPTA) — to help Abingdon with our collective advocacy efforts.
+With over a dozen languages spoken by families at Abingdon, we support engaging friends and neighbors within our culturally and beautifully diverse school community. I am thankful for the opportunity to participate in APS’s Family and Community Engagement (FACE) working group to update their Policy and Implementation Plan (PIP) and advocate for multilingual communication to ensure that all families can become effective partners to support their students. I am also appreciative of our district PTA — Arlington County Council of PTAs (CCPTA) — to help Abingdon with our collective advocacy efforts.
 
 You may be interested to know that the Abingdon PTA is partnering with one of our neighborhood civic associations — the Fairlington Citizens Association — to sponsor a MLK Day of Service Garden Workday at the Abingdon Community Garden. A guest reader will provide a storytime to kids in attendance to honor Dr. King’s leadership with the civil rights movement and the importance of building community through volunteer service. 
 
@@ -159,6 +159,23 @@ Please complete the [PTA's volunteer form](https://docs.google.com/forms/d/e/1FA
 **🛒 Grocery Rebates.** Link your Harris Teeter VIC card to Abingdon Elementary (**5748**). Friends, families, and neighbors are also invited to link their VIC card to Abingdon as well. Sign up here: https://www.abingdonpta.org/fundraising/#harris-teeter
 
 **🥞 Box Tops.** Do you eat Cheerios or Go-GURT? Help us fundraise with BoxTops for Education. More info here: https://www.abingdonpta.org/fundraising/#box-tops-for-education
+
+<p style="clear:right;"></p>
+
+## ⛺ SEPTA Summer Camps & Activities Fair
+
+{{< imagehalftoc class="halfright" src="images/septa.webp" alt="SEPTA Activities Fair flyer" >}}
+
+Arlington Special Education PTA (SEPTA) is hosting a FREE Summer Activities Fair to help you plan for Summer 2023! Come learn about options for summer learning and adventure. SEPTA invites vendors from near and far – day camps and sleep-away camps, social skills, or outdoor adventure. There is something for every child.
+
+- **When:** Sat, February 4, 2023, 2:00 PM – 4:30 PM EST
+- **Where:** Walter Reed Recreation Center – 2909 16th Street South, Arlington, VA 22204
+
+Activities for the kids and refreshments will be provided.
+
+**RSVP Here**: https://www.eventbrite.com/e/summer-activity-fair-2023-tickets-482571754107
+
+**More information**: https://www.arlingtonsepta.org/event/septa-summer-activity-fair/
 
 <p style="clear:right;"></p>
 

@@ -50,13 +50,13 @@ Nota: [Vea y suscríbase al calendario de la PTA en nuestro sitio web aquí](htt
 
 {{< imagehalftoc class="halfright" src="images/meeting-flyer-es.webp" alt="Folleto de la reunión" >}}
 
-**Quién:** Maestros, padres, tutores, estudiantes, miembros de la comunidad
-**Qué:** Reunión virtual de membresía general de enero
+**Quién:** Maestros, padres, tutores, estudiantes, miembros de la comunidad  
+**Qué:** Reunión virtual de membresía general de enero  
 **Donde:**
 
 > Por razones de seguridad, no compartimos los códigos de reunión de Zoom en nuestro sitio web. [Suscríbase a la edición por correo electrónico de nuestro boletín](https://lp.constantcontactpages.com/su/t3ku1aP) para asegurarse de recibir los códigos de reunión de la PTA.
 
-**Cuándo:** Martes, 10 de enero de 2023, 7:00 p. m. EST
+**Cuándo:** Martes, 10 de enero de 2023, 7:00 p.m. EST  
 **Por qué**: Tendremos una sesión de preguntas y respuestas con el director Horak y discutiremos oportunidades para participar con la comunidad de Abingdon. Además, el equipo de consejería de Abingdon brindará una breve descripción de cómo ayudan a los estudiantes a lograr el éxito académico, desarrollar una comprensión de las oportunidades profesionales y desarrollar habilidades sociales y emocionales en respuesta a los problemas que enfrentan.
 
 La agenda de la reunión está disponible aquí: https://www.abingdonpta.org/agendas/2023-01-10. **Se proporcionará traducción al español en vivo.**
@@ -159,6 +159,23 @@ Complete el [formulario de voluntariado de la PTA](https://docs.google.com/forms
 **🛒 Reembolsos en comestibles.** Vincule su tarjeta VIC de Harris Teeter a Abingdon Elementary (**5748**). También se invita a amigos, familiares y vecinos a vincular su tarjeta VIC a Abingdon. Regístrese aquí: [www.abingdonpta.org/fundraising/#harris-teeter](https://www.abingdonpta.org/fundraising/#harris-teeter).
 
 **🥞 Box Tops.** ¿Comes Cheerios o Go-GURT? Ayúdenos a recaudar fondos con BoxTops for Education. Más información aquí: https://www.abingdonpta.org/fundraising/#box-tops-for-education.
+
+<p style="clear:right;"></p>
+
+## ⛺ Feria de actividades y campamentos de verano SEPTA
+
+{{< imagehalftoc class="halfright" src="images/septa.webp" alt="Folleto de la feria de actividades de SEPTA" >}}
+
+¡La PTA de Educación Especial de Arlington (SEPTA) está organizando una Feria de actividades de verano GRATUITA para ayudarlo a planificar el verano de 2023! Venga a conocer las opciones para el aprendizaje y la aventura durante el verano. SEPTA invita a proveedores de cerca y de lejos: campamentos diurnos y campamentos para dormir, habilidades sociales o aventuras al aire libre. Hay algo para cada niño.
+
+- **Cuándo:** sábado 4 de febrero de 2023, de 14:00 a 16:30 EST
+- **Dónde:** Centro recreativo Walter Reed – 2909 16th Street South, Arlington, VA 22204
+
+Habrá actividades para los niños y refrigerios.
+
+**RSVP aquí**: https://www.eventbrite.com/e/summer-activity-fair-2023-tickets-482571754107
+
+**Más información**: https://www.arlingtonsepta.org/event/septa-summer-activity-fair/
 
 <p style="clear:right;"></p>
 
