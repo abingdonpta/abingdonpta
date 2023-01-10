@@ -1,6 +1,6 @@
 --- 
 title: Winter Wonderland
-summary: Abingdon's Winter Wonderland will be an ice skating event at Pentagon Row on Thursday, February 9.
+summary: Abingdon's Winter Wonderland will be an ice skating event at Pentagon Row on Thursday, February 16.
 slug: winter wonderland
 date: 2023-01-10T04:30:00-05:00
 categories: events
@@ -14,8 +14,8 @@ Skating includes rental skates. Skaters must have an adult with them. Wear your 
 
 **NOTE: The date has been changed from February 9 to February 16.**
 
-- When: February 16, 2023, 6 - 8 PM
-- Where: Pentagon Row Ice Skating Rink
+- **When:** February 16, 2023, 6 - 8 PM
+- **Where:** Pentagon Row Ice Skating Rink
 
 {{< imagehalf src="images/flyer.webp" alt="Winter Wonderland flyer" >}}
 {{< imagehalf src="images/flyer-es.webp" alt="Winter Wonderland flyer in Spanish" >}}
