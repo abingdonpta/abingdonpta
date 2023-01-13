@@ -97,7 +97,7 @@ Here's what's planted or growing in the garden in **winter 2022-2023**:
 {{< photohalftoc src="images/040222_6.jpg" alt="A volunteer with a big bag of litter collected on Abingdon's grounds" >}}
 {{< photohalftoc src="images/040222_7.jpg" alt="The garden looking very tidy after woodchips were placed evenly throughout" >}}
 
-### Donation of Woodchips and Stumps
+### Donation of Woodchips and Stumps from Lancaster Landscapes
 *April 1, 2022*
 
 {{< photohalftoc src="images/040122_1.jpg" alt="A dump truck dumping donated woodchips" >}}
