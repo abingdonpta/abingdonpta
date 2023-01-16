@@ -18,6 +18,8 @@ We will only share documents sent to the entire school, not to a particular clas
 
 {{< imagehalftoc src="images/2023-01-10_1.webp" alt="Winter Wonderland flyer" >}}
 {{< imagehalftoc src="images/2023-01-10_2.webp" alt="Winter Wonderland flyer" >}}
+{{< imagehalftoc src="images/2023-01-10_3.webp" alt="MLK Garden flyer" >}}
+{{< imagehalftoc src="images/2023-01-10_4.webp" alt="MLK Garden flyer" >}}
 
 ## January 3, 2023
 
