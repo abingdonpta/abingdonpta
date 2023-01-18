@@ -1,6 +1,6 @@
 --- 
 title: Cardinal Chinese Club
-summary: The PTA is launching a Chinese club this month.
+summary: The PTA is launching a Chinese club next month.
 slug: chinese club
 date: 2023-01-10T04:00:00-05:00
 categories: enrichment

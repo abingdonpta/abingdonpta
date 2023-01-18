@@ -43,6 +43,14 @@ Here's what's planted or growing in the garden in **winter 2022-2023**:
 
 ## Photos
 
+### MLK Day of Service 2023
+*January 15, 2023*
+
+{{< photohalftoc src="images/IMG_0353.jpg" alt="Volunteers carrying woodchips into the garden" >}}
+{{< photohalftoc src="images/IMG_0396.jpg" alt="Volunteers carrying woodchips into the garden" >}}
+{{< photohalftoc src="images/IMG_0402.jpg" alt="Volunteers talking" >}}
+{{< photohalftoc src="images/IMG_0421.jpg" alt="A flat, weed-free garden" >}}
+
 ### November Garden Cleanup
 *November 6, 2022*
 
@@ -110,7 +118,7 @@ Here's what's planted or growing in the garden in **winter 2022-2023**:
 {{< photohalftoc src="images/IMG_2713.jpg" alt="Children helping clean up the garden at Winter Wonderland with the Abingdon Cardinal looking at the camera" >}}
 {{< photohalftoc src="images/IMG_2708.jpg" alt="Children helping clean up the garden at Winter Wonderland with the Abingdon Cardinal looking on" >}}
 
-### MLK Day of Service
+### MLK Day of Service 2022
 *January 15, 2022*
 
 {{< photohalftoc src="images/IMG_1100.jpg" alt="Children and parents digging out a weed from a pile of dirt" >}}
