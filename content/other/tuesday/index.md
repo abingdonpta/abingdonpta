@@ -14,6 +14,15 @@ We will only share documents sent to the entire school, not to a particular clas
 
 ---
 
+## January 24, 2023
+
+No known schoolwide flyers.
+
+## January 17, 2023
+
+{{< imagehalftoc src="images/2023-01-17_1.webp" alt="Lunar New Year flyer" >}}
+{{< imagehalftoc src="images/2023-01-17_2.webp" alt="Lunar New Year flyer" >}}
+
 ## January 10, 2023
 
 {{< imagehalftoc src="images/2023-01-10_1.webp" alt="Winter Wonderland flyer" >}}
