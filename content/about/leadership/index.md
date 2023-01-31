@@ -33,12 +33,11 @@ Please [fill out our volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSf
 | [🍅 Garden](/roles/#-garden) | Lauren Shaub |
 | [🔔 After School Enrichment](/roles/#-after-school-enrichment) | Ken Venable |
 | [🎨 Reflections](/roles/#-reflections) | Mary Savig |
-| [🏃‍♀️ Girls on the Run](/roles/#-girls-on-the-run) |
-| [🏃‍♂️ Boys Gotta Run](/roles/#-boys-gotta-run) |
+| [🏃‍♀️ Girls on the Run](/roles/#-girls-on-the-run) | Ashley Farrugia |
 | [👩‍💻 Cardinal Coding Club](/roles/#-cardinal-coding-club) | Teresa Valdez-Bain |
 | [🧠 Odyssey of the Mind](/roles/#-odyssey-of-the-mind) |
 
-There are other educational programs available to elementary school students, like [🏃‍♂️ Boys Gotta Run](https://www.boysgottarun.com), and [🔬 Science Olympiad](https://www.soinc.org/), with which Abingdon has little or no participation experience; however, the PTA could support Abingdon's participation provided that we have a motivated volunteer.
+There are other educational programs available to elementary school students, like [🔬 Science Olympiad](https://www.soinc.org/), with which Abingdon has little or no participation experience; however, the PTA could support Abingdon's participation provided that we have a motivated volunteer.
 
 ### 💵 Fundraising
 
@@ -48,8 +47,8 @@ There are other educational programs available to elementary school students, li
 | [👕 Spirit Gear](/roles/#-spirit-gear) |
 | [✏️ Edukit](/roles/#-edukit) | Samantha Levine-Finley |
 | [📸 School Pictures](/roles/#-school-pictures) |
-| [📚 Read-A-Thon](/roles/#-read-a-thon) |
-| [🌯 Spirit Night](/roles/#-spirit-night) |
+| [📚 Read-A-Thon](/roles/#-read-a-thon) | Clare Rosenberger |
+| [🌯 Spirit Night](/roles/#-spirit-night) | Clare Rosenberger |
 | [🤝 Sponsorships](/roles/#-sponsorships) |
 | [📜 Grants](/roles/#-grants) |
 | [❤️ Lovelines](/roles/#-lovelines) | Ellen Dobro |
@@ -124,10 +123,10 @@ The PTA blesses our wonderful Abingdon staff throughout the year. Please help us
 | Role | Coordinator |
 |-|-|
 | [🖼️ Graphic Designer](/roles/#-graphic-designer) |
-| [📄 Photocopying Flyers](/roles/#-photocopying-flyers) |
+| [📄 Photocopying Flyers](/roles/#-photocopying-flyers) | Rachel Mallory<br>Amanda Broadhurst |
 | [🌎 Translators](/roles/#-translator) |
 | [📖 Yearbook](/roles/#-yearbook) |
-| [📚 Book Fair](/roles/#-book-fair) |
+| [📚 Book Fair](/roles/#-book-fair) | Emily Lyons<br>Maureen McCormick Harlow<br>Tina Kelly |
 | [🧸 Lost and Found](/roles/#-lost-and-found) |
 | [🗽 Diversity Coordinator](/roles/#-diversity-coordinator) |
 | [💳 Bank Statement Reviewer](/roles/#-bank-statement-reviewer) |

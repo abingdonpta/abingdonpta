@@ -3,7 +3,7 @@ title: Abingdon PTA Collaborates with Arlington CCPTA to Advocate for Abingdon F
 summary: Abingdon PTA's advocacy led to the CCPTA requesting that APS provide menstrual supplies to students, and that they make report cards easier to understand for parents with limited English proficiency.
 slug: advocacy
 date: 2023-01-09T20:00:00-05:00
-category: advocacy
+categories: advocacy
 draft: true
 ---
 

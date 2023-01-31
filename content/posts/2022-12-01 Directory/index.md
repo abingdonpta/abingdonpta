@@ -3,7 +3,7 @@ title: Online Student Directory Now Available
 summary: Register Today!
 slug: directory
 date: 2022-12-01T05:00:00-05:00
-category: directory
+categories: directory
 ---
 
 The Abingdon PTA is excited to announce that we have launched a new **online student directory** for our school. This new resource contains contact information for students’ families to help those in the Abingdon community connect to arrange playdates or carpools, discuss classroom activities, share other school-related information, and more.

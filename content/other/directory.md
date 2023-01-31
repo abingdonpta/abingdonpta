@@ -9,3 +9,9 @@ The PTA works with a vendor to produce and maintain an **online student director
 To learn more about the school directory, including how to create an account to access it, [read the announcement for the launch of the 2022-2023 directory](/2022/12/01/directory).
 
 {{< button href="https://abingdonpta.membershiptoolkit.com" >}}Click Here to View Our Student Directory{{< /button >}}
+
+<!--
+
+{{< button relref="/categories/directory/" >}}Click Here for the Latest News About Our Directory{{< /button >}}
+
+-->

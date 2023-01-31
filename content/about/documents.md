@@ -11,7 +11,7 @@ Agendas are available here before each meeting, and meeting minutes are availabl
 
 | Meeting Date | [Agenda](/agendas) | [Minutes](/minutes) | Presentation |
 | ------------ | ------ | ------- | ------------ |
-| 2023-01-10   | [Agenda](/agendas/2023-01-10) | | [• Financial Statement — Summary](/presentations/2023-01-10_1.pdf)<br>[• Financial Statement — Spreadsheet](/presentations/2023-01-10_2.pdf)<br>[• Counseling Team Presentation](/presentations/2023-01-10_3.pdf) |
+| 2023-01-10   | [Agenda](/agendas/2023-01-10) | [Minutes](/minutes/2023-01-10) | [• Financial Statement — Summary](/presentations/2023-01-10_1.pdf)<br>[• Financial Statement — Spreadsheet](/presentations/2023-01-10_2.pdf)<br>[• Counseling Team Presentation](/presentations/2023-01-10_3.pdf) |
 | 2022-12-13   | [Agenda](/agendas/2022-12-13) | [Minutes](/minutes/2022-12-13) | [• Financial Statement — Summary](/presentations/2022-12-13_1.pdf)<br>[• Financial Statement — Spreadsheet](/presentations/2022-12-13_2.pdf)<br>[• Math Team Presentation](/presentations/2022-12-13_3.pdf) |
 | 2022-11-08   | [Agenda](/agendas/2022-11-08) | [Minutes](/minutes/2022-11-08) | [• Financial Statement — Summary](/presentations/2022-11-08_1.pdf)<br>[• Financial Statement — Spreadsheet](/presentations/2022-11-08_2.pdf) |
 | 2022-10-11   | [Agenda](/agendas/2022-10-11) | [Minutes](/minutes/2022-10-11) | [• Financial Statement — Summary](/presentations/2022-10-11_1.pdf)<br>[• Financial Statement — Spreadsheet](/presentations/2022-10-11_2.pdf)<br>[• Gifted Information Session](/presentations/2022-10-11_3.pdf)<br>[• School Plan](/presentations/2022-10-11_4.pdf) |
@@ -103,7 +103,7 @@ The IRS issued a Determination Letter on September 6, 2022 that reinstated the P
 ## Provided As Needed
 
 - **Insurance Policy**: The PTA is required to be covered by insurance at all times. The policy is submitted to the Virginia PTA each year.
-- **Sales Tax Exemption Letter**: The PTA was granted a sales tax exemption from Virginia's Department of Taxation. This allows us to purchase items without paying sales tax.
+- **Sales Tax Exemption Letter**: The PTA was granted a sales tax exemption from Virginia's Department of Taxation. This allows us to purchase items without paying sales tax. The exemption was granted in 2022 and lasts until 2027.
 - **Application for Tax Exempt Status (IRS Form 1023)**: The PTA submitted this form to the IRS on January 22, 2022 in order to request that the tax-exempt status be reinstated. This request was successful. We maintain the application in our files.
 - **Executive Board Agendas and Minutes**: The PTA keeps records of Executive Board meetings.
 - **Logos**: The PTA retains vector image files of the Abingdon Cardinal logo and the Abingdon PTA logo.

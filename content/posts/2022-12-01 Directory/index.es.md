@@ -3,7 +3,7 @@ title: El Directorio De Estudiantes En Línea Está Disponible Ya
 summary: Inscríbase Hoy!
 slug: directory
 date: 2022-12-01T05:00:00-04:00
-category: directory
+categories: directory
 ---
 
 La Asociación de Padres y Maestros (PTA) de Abingdon se complace en anunciar que hemos creado **un directorio estudiantil en línea** para nuestra escuela. Este nuevo directorio contiene información para ayudar a que las familias de los estudiantes de nuestra comunidad escolar puedan comunicarse y comentar sobre las actividades de clase, concertar citas para jugar, organizar viajes compartidos a la escuela (carpools), compartir cualquier otra información escolar, y más.

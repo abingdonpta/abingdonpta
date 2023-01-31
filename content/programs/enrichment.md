@@ -6,7 +6,7 @@ weight: 10
 
 Abingdon's PTA partners with a vendor who provides in-person enrichment classes after school. These are typically Monday through Thursday and run from 2:50 to 3:50 PM.
 
-{{< button relref="/categories/enrichment/" >}}Click Here for the Latest News about After-School Enrichment{{< /button >}}
+{{< button relref="/categories/enrichment/" >}}Click Here for the Latest News About After-School Enrichment{{< /button >}}
 
 ---
 
