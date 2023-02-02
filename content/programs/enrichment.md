@@ -6,6 +6,8 @@ weight: 10
 
 Abingdon's PTA partners with a vendor who provides in-person enrichment classes after school. These are typically Monday through Thursday and run from 2:50 to 3:50 PM.
 
+The PTA may also operate after-school programs directly, such as [Cardinal Coding Club](/2022/11/07/cardinal-coding/) and [Cardinal Chinese Club](/2023/01/10/chinese-club/).
+
 {{< button relref="/categories/enrichment/" >}}Click Here for the Latest News About After-School Enrichment{{< /button >}}
 
 ---
