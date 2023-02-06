@@ -15,6 +15,7 @@ User-agent: DuckDuckBot
 User-agent: Baiduspider
 User-agent: YandexBot
 User-agent: ia_archiver
+User-agent: DuckDuckBot
 Disallow: /1023
 Disallow: /1023/
 Disallow: /2022
