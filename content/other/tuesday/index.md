@@ -14,6 +14,15 @@ We will only share documents sent to the entire school, not to a particular clas
 
 ---
 
+## February 7, 2023
+
+{{< imagehalftoc src="images/2023-02-07_1.webp" alt="Directory flyer" >}}
+{{< imagehalftoc src="images/2023-02-07_2.webp" alt="Directory flyer" >}}
+
+## January 31, 2023
+
+No known schoolwide flyers.
+
 ## January 24, 2023
 
 No known schoolwide flyers.
@@ -84,6 +93,7 @@ No known schoolwide flyers.
 ## October 18, 2022
 
 {{< imagehalftoc src="images/2022-10-18_1.webp" alt="Connect with the PTA flyer" >}}
+{{< imagehalftoc src="images/2022-10-18_2.webp" alt="Connect with the PTA flyer" >}}
 
 ## October 11, 2022
 

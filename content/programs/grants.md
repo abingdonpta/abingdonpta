@@ -36,6 +36,10 @@ Grants cannot be used to pay for items already purchased, something that will on
 
 **Grant requests should be between $100 and $500.**
 
+## What grants have been awarded in the past?
+
+[Previously awarded grants can be viewed here.](/categories/grants/)
+
 ## How do I apply?
 
 {{< button href="https://docs.google.com/forms/d/e/1FAIpQLSd2wtZtzn-QFCMLZIKBvHgBY2Au4c2D0CjZQG0sKcg0IbaxBw/viewform?usp=sf_link" >}}Click Here to Apply for a Staff Grant{{< /button >}}

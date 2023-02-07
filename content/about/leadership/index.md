@@ -33,7 +33,7 @@ Please [fill out our volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSf
 | [🍅 Garden](/roles/#-garden) | Lauren Shaub |
 | [🔔 After School Enrichment](/roles/#-after-school-enrichment) | Ken Venable |
 | [🎨 Reflections](/roles/#-reflections) | Mary Savig |
-| [🏃‍♀️ Girls on the Run](/roles/#-girls-on-the-run) | Ashley Farrugia |
+| [🏃‍♀️ Girls on the Run](/roles/#-girls-on-the-run) | Ashley Farrugia<br>Erin Mahaffey |
 | [👩‍💻 Cardinal Coding Club](/roles/#-cardinal-coding-club) | Teresa Valdez-Bain |
 | [🧠 Odyssey of the Mind](/roles/#-odyssey-of-the-mind) |
 

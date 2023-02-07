@@ -4,7 +4,7 @@ summary: You can now order your school supplies for the 2022-23 school year in o
 slug: edukit available
 date: 2022-04-26T07:00:00-04:00
 lastmod: 2022-08-03T07:00:00-04:00
-categories: edukit
+categories: fundraisers
 ---
 
 **EDIT 8/3/2022**: Edukit is no longer for sale. Supply lists for each grade can be found [here](https://abingdon.apsva.us/about-us/supply-lists/).

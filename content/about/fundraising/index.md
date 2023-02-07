@@ -9,6 +9,10 @@ aliases:
 booktoc: true
 ---
 
+The PTA needs to raise funds to fulfill its mission. Fortunately, there are a number of ways to financially support the PTA.
+
+{{< button relref="/categories/fundraisers/" >}}Click Here for the Latest News About Fundraisers{{< /button >}}
+
 ## Donate
 
 The PTA accepts open-ended donations at all times, using the following methods:
@@ -86,7 +90,7 @@ Instructions:
 
 ## Edukit
 
-Edukit offers prepackaged school supplies that are tailored to meet the needs of each grade at Abingdon Elementary. The program makes it simple for families to acquire what they need, and it also serves as a fundraiser for the PTA.
+Edukit offers prepackaged school supplies that are tailored to meet the needs of each grade at Abingdon Elementary. The program makes it simple for families to acquire what they need, and it also serves as a fundraiser for the PTA. Edukits are typically available to order in April or May for the following school year.
 
 ## Read-A-Thon
 
@@ -94,9 +98,7 @@ Abingdon holds a Read-A-Thon every year — a fundraiser when students track the
 
 ## Spirit Gear
 
-We aren't currently selling Spirit Gear (t-shirts, hats, etc.), but we hope to start soon. Check our newsletter and social media for updates on Spirit Gear availability.
-
-A portion of the proceeds go to the PTA.
+The PTA occasionally sells Spirit Gear (also known as Spirit Wear), which is clothing, water bottles and similar items branded with Abingdon's name and/or logo. A portion of the proceeds go to the PTA. Check our newsletter and social media for updates about Spirit Gear.
 
 ## Spirit Nights
 
