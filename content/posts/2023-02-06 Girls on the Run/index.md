@@ -1,6 +1,6 @@
 --- 
 title: Girls on the Run Registration is Open
-summary: Girls on the Run will "run" from March to May.
+summary: Girls on the Run will start in March and meet on Mondays and Wednesdays.
 slug: girls on the run
 date: 2023-02-06T05:00:00-05:00
 categories: enrichment
