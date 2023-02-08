@@ -18,6 +18,8 @@ We will only share documents sent to the entire school, not to a particular clas
 
 {{< imagehalftoc src="images/2023-02-07_1.webp" alt="Directory flyer" >}}
 {{< imagehalftoc src="images/2023-02-07_2.webp" alt="Directory flyer" >}}
+{{< imagehalftoc src="images/2023-02-07_3.webp" alt="Kindness Week" >}}
+{{< imagehalftoc src="images/2023-02-07_4.webp" alt="Kindness Week" >}}
 
 ## January 31, 2023
 
