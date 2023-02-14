@@ -1,5 +1,5 @@
 --- 
-title: Winter Wonderland
+title: Winter Wonderland Postponement
 summary: Abingdon's Winter Wonderland ice skating event is postponed until Tuesday, February 28 due to rain.
 slug: winter wonderland
 date: 2023-02-14T12:30:00-05:00
