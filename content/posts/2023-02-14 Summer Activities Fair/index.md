@@ -2,7 +2,7 @@
 title: Summer Activities Fair
 summary: Learn about the available programs, camps, and activities for this summer at Kenmore Middle School this Thursday, February 16.
 slug: summer activities fair
-date: 2023-02-14T12:00:00-05:00
+date: 2023-02-14T05:00:00-05:00
 images: 
 - /2023/02/14/summer-activities-fair/images/flyer.webp
 ---
