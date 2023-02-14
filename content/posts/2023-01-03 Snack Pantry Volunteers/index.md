@@ -2,7 +2,7 @@
 title: Volunteers Needed for Abingdon's Snack Pantry
 summary: We are asking for volunteers to help distribute food to Abingdon's classrooms.
 slug: snack pantry volunteers
-date: 2023-01-03T20:00:00-04:00
+date: 2023-01-03T20:00:00-05:00
 categories:
 - "volunteer opportunities"
 - "snack pantry"

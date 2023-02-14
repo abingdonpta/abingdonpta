@@ -1,11 +1,11 @@
 --- 
 title: Winter Wonderland
-summary: Abingdon's Winter Wonderland will be an ice skating event at Pentagon Row on Tuesday, February 28.
+summary: Abingdon's Winter Wonderland ice skating event is postponed until Tuesday, February 28 due to rain.
 slug: winter wonderland
-date: 2023-01-10T04:30:00-05:00
+date: 2023-02-14T12:30:00-05:00
 categories: events
 images: 
-- /2023/01/10/winter-wonderland/images/flyer.webp
+- /2023/02/14/winter-wonderland/images/flyer.webp
 ---
 
 **Winter Wonderland has been postponed to February 28, from February 16 (poor weather) and from February 9 (band concert).**
@@ -16,3 +16,6 @@ Skating includes rental skates. Skaters must have an adult with them. Wear your 
 
 - **When:** February 28, 2023, 6 - 8 PM
 - **Where:** Pentagon Row Ice Skating Rink — 1201 S. Joyce Street, Arlington, VA 22202
+
+{{< imagehalf src="images/flyer.webp" alt="Winter Wonderland flyer" >}}
+{{< imagehalf src="images/flyer-es.webp" alt="Winter Wonderland flyer in Spanish" >}}
