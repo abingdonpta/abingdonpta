@@ -1,3 +1,0 @@
----
-bookSearchExclude: true
----

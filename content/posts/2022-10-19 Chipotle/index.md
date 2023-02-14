@@ -6,8 +6,6 @@ date: 2022-10-19T05:00:00-04:00
 categories: fundraisers
 images: 
 - /2022/10/19/chipotle-spirit-night/images/flyer.webp
-aliases:
-    - /chipotle/
 ---
 
 Abingdon PTA is hosting a Spirit Night at Chipotle! 
