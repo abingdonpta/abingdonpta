@@ -18,7 +18,7 @@ Example:
 
 (Additional donations are welcome - all funds will be going toward providing our 5th graders with a free yearbook.)
 
-Please make checks out to "Abingdon Elementary PTA." Cash payment accepted too. **All requests are due March 15, 2023.**
+Please make checks out to "Abingdon Elementary PTA." Cash payment accepted too. **All requests are due March 15, 2023.** Please submit any cash or checks in your student’s Tuesday Folder along with the Lovelines form.
 
 If you have any questions, reach out to abingdonelementarypta@gmail.com.
 
