@@ -52,7 +52,7 @@ Here's what's planted or growing in the garden in **winter 2022-2023**:
 {{< photohalftoc src="images/IMG_1858.jpg" alt="Volunteers building a garden shed" >}}
 {{< photohalftoc src="images/IMG_1944.jpg" alt="Volunteers building a garden shed" >}}
 {{< photohalftoc src="images/IMG_2108.jpg" alt="Volunteers building a garden shed" >}}
-{{< photohalftoc src="images/IMG_2138.jpg" alt="Shed completed" >}}
+{{< photohalftoc src="images/IMG_2174.jpg" alt="Shed completed" >}}
 
 ### MLK Day of Service 2023
 *January 15, 2023*
