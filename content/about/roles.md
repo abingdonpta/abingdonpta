@@ -41,6 +41,14 @@ The Secretary takes notes during each PTA meeting, and maintains the PTA's non-f
 
 ## 🎓 Educational Programs Role Descriptions
 
+### 🔔 After School Enrichment
+
+The After School Enrichment Coordinator serves as the liaison with our vendor to create the schedule for After-School Enrichment at Abingdon. The Coordinator also work with the Abingdon Student Support Team to enroll students identified for scholarships (funded by the PTA) and ensure that the room reservation request forms for each session are completed.
+
+- **Location**: School
+- **Time of day**: Immediately after school day
+- **Months**: Year-round
+
 ### 🍅 Garden
 
 Abingdon Elementary has a garden in the front of the building, to the right of the main entrance. (The garden is sometimes called an "outdoor classroom.") The goal of the garden is to enrich students' and families' knowledge of environmental sustainability and to be good stewards of our Earth, while providing first hand experience in learning about our food supply and our pollinators. More information can be found on the [garden page](/garden), and from our [garden newsletter](https://docs.google.com/forms/d/e/1FAIpQLSc62Xf5rFUBG1XqElQa2VQJUJu8k8Kf0RWTWPzoemf8bOLF-A/viewform?usp=sf_link).
@@ -50,14 +58,6 @@ The Garden Coordinator works with Abingdon's Sustainability Coordinator (traditi
 - **Location**: School
 - **Time of day**: Weekend daytime, though some weekday availability is a plus to coordinate with staff and students
 - **Months**: Year-round except for winter
-
-### 🔔 After School Enrichment
-
-The After School Enrichment Coordinator serves as the liaison with our vendor to create the schedule for After-School Enrichment at Abingdon. The Coordinator also work with the Abingdon Student Support Team to enroll students identified for scholarships (funded by the PTA) and ensure that the room reservation request forms for each session are completed.
-
-- **Location**: School
-- **Time of day**: Immediately after school day
-- **Months**: Year-round
 
 ### 🎨 Reflections
 
@@ -90,6 +90,14 @@ Mixing hands-on coding with interactive play, students in 3rd to 5th grade will 
 - **Location**: School
 - **Time of day**: Immediately after school day, one day per week
 - **Months**: Year-round
+
+### 🧧 Cardinal Chinese Club
+
+The Cardinal Chinese Club teaches students about Chinese language and culture. Students learn conversational phrases, how to write characters, songs, Lunar New Year traditions, and more.
+
+- **Location**: School
+- **Time of day**: Immediately after school day, one day per week
+- **Months**: Flexible
 
 ### 🧠 Odyssey of the Mind
 

@@ -2,12 +2,12 @@
 title: Abingdon History
 summary: The history of Abingdon Elementary.
 images:
-    - history/images/IMG_5818.webp
+    - history/images/fb_1955-1957school3-cropped.jpg
 weight: 50
 booktoc: true
 ---
 
-{{< imagefulltocnolink src="images/IMG_5818.webp" alt="Old Abingdon Classroom Photo" >}}
+{{< imagefulltocnolink src="images/fb_1955-1957school3-cropped.jpg" alt="Original Abingdon school building" >}}
 
 Abingdon first opened its doors to students in August 1950. The school has been in continuous operation since then, educating generations of students in South Arlington.
 
@@ -196,6 +196,18 @@ If you've ever walked Abingdon's labyrinthine hallways, it's obvious that the bu
 | 1995-present | PK-5 |
 
 ## Photos
+
+### 1950's Photos from Facebook
+
+These photos from the 1950's were found on a Facebook group called "[I grew up in Fairlington!](https://www.facebook.com/groups/381712054921)" They are the only known photos of the outside of the original building. They also show a Halloween parade.
+
+{{< photohalftoc src="images/fb_1955-1957school1.jpg" alt="A photo found on Facebook showing Abingdon in the 1950's." >}}
+{{< photohalftoc src="images/fb_1955-1957school2.jpg" alt="A photo found on Facebook showing Abingdon in the 1950's." >}}
+{{< photohalftoc src="images/fb_1955-1957school3.jpg" alt="A photo found on Facebook showing Abingdon in the 1950's." >}}
+{{< photohalftoc src="images/fb_1955-1956patrols.jpg" alt="A photo found on Facebook showing Abingdon in the 1950's." >}}
+{{< photohalftoc src="images/fb_mid1950shalloweenparade1.jpg" alt="A photo found on Facebook showing Abingdon in the 1950's." >}}
+{{< photohalftoc src="images/fb_mid1950shalloweenparade2.jpg" alt="A photo found on Facebook showing Abingdon in the 1950's." >}}
+{{< photohalftoc src="images/fb_mshefnerclass1952-1954-2-cropped.jpg" alt="A photo found on Facebook showing Abingdon in the 1950's." >}}
 
 ### 1970's Photo Album
 

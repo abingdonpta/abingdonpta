@@ -36,23 +36,6 @@ Checks can be made out to ```Abingdon PTA```.
 {{< /tab >}}
 {{< /tabs >}}
 
-## AmazonSmile
-
-{{< imagehalftoc class="halfright" src="images/amazonsmile.webp" alt="AmazonSmile flyer" >}}
-
-When you sign up below and shop on https://smile.amazon.com, Amazon will donate 0.5% to Abingdon PTA. It's that easy! Ask friends, relatives, and neighbors to join!
-
-{{< button href="https://smile.amazon.com/ch/52-1289072" >}}Click Here to Sign Up for AmazonSmile{{< /button >}}
-
-{{< hint info >}}
-**Did you know that you can use AmazonSmile in the Amazon app? You can!**
-1. In the Amazon app's settings, tap on "AmazonSmile."
-1. Search for **1289072**.
-1. Select **Abingdon Elementary PTA.**
-{{< /hint >}}
-
-<p style="clear:right;"></p>
-
 ## Harris Teeter
 
 {{< imagehalftoc class="halfright" src="images/harris-teeter.webp" alt="Harris Teeter flyer" >}}

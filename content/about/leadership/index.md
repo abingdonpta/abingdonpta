@@ -30,11 +30,12 @@ Please [fill out our volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSf
 
 | Role | Coordinator |
 |-|-|
-| [🍅 Garden](/roles/#-garden) | Lauren Shaub |
 | [🔔 After School Enrichment](/roles/#-after-school-enrichment) | Ken Venable |
+| [🍅 Garden](/roles/#-garden) | Lauren Shaub |
 | [🎨 Reflections](/roles/#-reflections) | Mary Savig |
 | [🏃‍♀️ Girls on the Run](/roles/#-girls-on-the-run) | Ashley Farrugia<br>Erin Mahaffey |
-| [👩‍💻 Cardinal Coding Club](/roles/#-cardinal-coding-club) | Teresa Valdez-Bain |
+| [👩‍💻 Cardinal Coding Club](/roles/#-cardinal-coding-club) | Molly Fisher |
+| [🧧 Cardinal Chinese Club](/roles/#-cardinal-chinese-club) | Sharon Burd |
 | [🧠 Odyssey of the Mind](/roles/#-odyssey-of-the-mind) |
 
 There are other educational programs available to elementary school students, like [🔬 Science Olympiad](https://www.soinc.org/), with which Abingdon has little or no participation experience; however, the PTA could support Abingdon's participation provided that we have a motivated volunteer.
@@ -125,7 +126,7 @@ The PTA blesses our wonderful Abingdon staff throughout the year. Please help us
 | [🖼️ Graphic Designer](/roles/#-graphic-designer) |
 | [📄 Photocopying Flyers](/roles/#-photocopying-flyers) | Rachel Mallory<br>Amanda Broadhurst |
 | [🌎 Translators](/roles/#-translator) |
-| [📖 Yearbook](/roles/#-yearbook) |
+| [📖 Yearbook](/roles/#-yearbook) | Lauren Muscarella |
 | [📚 Book Fair](/roles/#-book-fair) | Emily Lyons<br>Maureen McCormick Harlow<br>Tina Kelly |
 | [🧸 Lost and Found](/roles/#-lost-and-found) |
 | [🗽 Diversity Coordinator](/roles/#-diversity-coordinator) |
