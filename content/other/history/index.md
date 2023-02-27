@@ -7,7 +7,7 @@ weight: 50
 booktoc: true
 ---
 
-{{< imagefulltocnolink src="images/fb_1955-1957school3-cropped.jpg" alt="Original Abingdon school building" >}}
+{{< photofulltocnolink src="images/fb_1955-1957school3-cropped.jpg" alt="Original Abingdon school building" >}}
 
 Abingdon first opened its doors to students in August 1950. The school has been in continuous operation since then, educating generations of students in South Arlington.
 
@@ -180,6 +180,7 @@ If you've ever walked Abingdon's labyrinthine hallways, it's obvious that the bu
 | James Kacsmarik | 1975-? |
 | Margaret McCourt-Dirner | 1984, 1986 |
 | Marjorie "Meg" R. Tuccillo | 1990-1997 |
+| Pat Anderson | 1997?-1998? |
 | Miguel Ley | 1998-2001 |
 | Joanne Uyeda | 2001-2019 |
 | David Horak | 2019-present |
@@ -199,7 +200,7 @@ If you've ever walked Abingdon's labyrinthine hallways, it's obvious that the bu
 
 ### 1950's Photos from Facebook
 
-These photos from the 1950's were found on a Facebook group called "[I grew up in Fairlington!](https://www.facebook.com/groups/381712054921)" They are the only known photos of the outside of the original building. They also show a Halloween parade.
+These photos from the 1950's were found on a Facebook group called "[I grew up in Fairlington!](https://www.facebook.com/groups/381712054921)" They are the only known photos of the outside of the original school building. They also show a Halloween parade.
 
 {{< photohalftoc src="images/fb_1955-1957school1.jpg" alt="A photo found on Facebook showing Abingdon in the 1950's." >}}
 {{< photohalftoc src="images/fb_1955-1957school2.jpg" alt="A photo found on Facebook showing Abingdon in the 1950's." >}}

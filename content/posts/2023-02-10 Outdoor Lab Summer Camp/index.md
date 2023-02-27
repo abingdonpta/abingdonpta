@@ -3,6 +3,7 @@ title: Outdoor Lab Summer Camp
 summary: Sign up for summer camp at the Arlington Outdoor Lab starting on March 3.
 slug: outdoor lab summer camp
 date: 2023-02-13T05:00:00-05:00
+categories: "outdoor lab"
 images: 
 - /2023/02/13/outdoor-lab-summer-camp/images/brochure-1.webp
 ---
