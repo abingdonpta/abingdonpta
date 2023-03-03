@@ -6,6 +6,7 @@ date: 2022-09-12T05:00:00-04:00
 categories:
 - events
 - "volunteer opportunities"
+- "passed along"
 images: 
 - /2022/09/12/science-night/images/flyer.webp
 ---

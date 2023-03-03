@@ -49,6 +49,13 @@ If you're interested in helping to organize our events, please [fill out our vol
 {{< photohalftoc src="images/1492609237989699590_1.jpg" alt="Abingdon Cardinal posing in front of photo prop at Winter Wonderland" >}}
 {{< photohalftoc src="images/1492609237989699590_2.jpg" alt="Children helping clean up the garden at Winter Wonderland" >}}
 
+## Ice Skating
+
+{{< photohalftoc src="images/IMG-2353.jpg" alt="Photo from Winter Wonderland Ice Skating" >}}
+{{< photohalftoc src="images/IMG-2357.jpg" alt="Photo from Winter Wonderland Ice Skating" >}}
+{{< photohalftoc src="images/IMG-2390.jpg" alt="Photo from Winter Wonderland Ice Skating" >}}
+{{< photohalftoc src="images/IMG-2395.jpg" alt="Photo from Winter Wonderland Ice Skating" >}}
+
 ## International Night
 
 {{< photohalftoc src="images/IMG_7194.jpg" alt="Japanese table at International Night" >}}

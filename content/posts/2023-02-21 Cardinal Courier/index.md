@@ -50,13 +50,13 @@ Please make checks out to “Abingdon Elementary PTA.” Cash payment accepted t
 
 If you have any questions, reach out to abingdonelementarypta@gmail.com.
 
-You should have received the Lovelines form in your Tuesday folder that went home on February 14 — if not, you can print the form [from our website](https://www.abingdonpta.org/2023/02/14/lovelines/).
+You should have received the Lovelines form in your Tuesday folder that went home on February 14 — if not, you can print the form [from our website](/2023/02/14/lovelines/).
 
 ### 🙋 Nominating Committee for 2023-2024 PTA Officers
 
 The Abingdon Elementary PTA is seeking members to join a Nominating Committee over the next couple of weeks.
 
-The role of the Nominating Committee, [as described in our bylaws](https://www.abingdonpta.org/bylaws/#article-5-officers-and-their-election), is to nominate PTA members to serve as officers the following year. Officer roles are the President, Treasurer, Secretary, as well as Vice President roles.
+The role of the Nominating Committee, [as described in our bylaws](/bylaws/#article-5-officers-and-their-election), is to nominate PTA members to serve as officers the following year. Officer roles are the President, Treasurer, Secretary, as well as Vice President roles.
 
 As a member of the Nominating Committee, you would identify PTA members interested in serving as officers, and report to the general membership a list of nominees for the annual election.
 
@@ -69,14 +69,14 @@ This is a great way to have a say in the future of the PTA. Thank you!
 ## 👉 Reminders
 
 - Spirit Wear is available for sale here: https://whitewaterprinting.com/abingdon-elementary
-- Registration for Girls on the Run at Abingdon is available here: https://www.gotrnova.org. [More information is available here](https://www.abingdonpta.org/2023/02/06/girls-on-the-run/).
+- Registration for Girls on the Run at Abingdon is available here: https://www.gotrnova.org. [More information is available here](/2023/02/06/girls-on-the-run/).
 - Winter Wonderland Ice skating has been postponed to Tuesday, 2/28 6pm - 8pm due to rain.
 
 ## 🏢 Countywide Information
 
 - Registration for Outdoor Lab Summer Camp opens on March 3. [More information is available here](https://outdoorlab.org/2023/02/summer-camp-2023-registration-opens-mar-3/).
 - Outdoor Lab will hold an Open House April 22. [Families can learn more and register here](https://outdoorlab.org/2023/02/open-house-sat-april-22-earth-day/).
-- Girl Scouts are offering a camp during Spring Break. [More information is available here](https://www.abingdonpta.org/2023/02/14/girl-scout-camp/).
+- Girl Scouts are offering a camp during Spring Break. [More information is available here](/2023/02/14/girl-scout-camp/).
 
 ## 🙏 Thank You
 

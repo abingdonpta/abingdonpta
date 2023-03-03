@@ -17,11 +17,11 @@ We will only share documents sent to the entire school, not to a particular clas
 ## February 28, 2023
 
 {{< imagehalftoc src="images/2023-02-28_1.webp" alt="Book Fair flyer" >}}
-{{< photohalftoc src="images/2023-02-28_2.webp" alt="Book Fair flyer" >}}
-{{< photohalftoc src="images/2023-02-28_3.webp" alt="Book Fair flyer" >}}
-{{< photohalftoc src="images/2023-02-28_4.webp" alt="Book Fair flyer" >}}
-{{< photohalftoc src="images/2023-02-28_5.webp" alt="Book Fair flyer" >}}
-{{< photohalftoc src="images/2023-02-28_6.webp" alt="Book Fair flyer" >}}
+{{< imagehalftoc src="images/2023-02-28_2.webp" alt="Book Fair flyer" >}}
+{{< photohalftoc src="images/2023-02-28_3.webp" alt="Book Fair pamphlet" >}}
+{{< photohalftoc src="images/2023-02-28_4.webp" alt="Book Fair pamphlet" >}}
+{{< photohalftoc src="images/2023-02-28_5.webp" alt="Book Fair pamphlet" >}}
+{{< photohalftoc src="images/2023-02-28_6.webp" alt="Book Fair pamphlet" >}}
 
 ## February 21, 2023
 

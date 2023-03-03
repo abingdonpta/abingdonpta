@@ -3,6 +3,7 @@ title: Kindness Week
 summary: Abingdon is celebrating Kindness Week starting on February 13.
 slug: kindness week
 date: 2023-02-08T05:00:00-05:00
+categories: "passed along"
 images: 
 - /2023/02/08/kindness-week/images/flyer.webp
 ---

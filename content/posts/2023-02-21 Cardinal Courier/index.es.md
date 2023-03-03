@@ -50,13 +50,13 @@ Haga los cheques a nombre de "Abingdon Elementary PTA". También se acepta pago 
 
 Si tiene alguna pregunta, comuníquese con abingdonelementarypta@gmail.com.
 
-Debería haber recibido el formulario Lovelines en su carpeta del martes que se envió a casa el 14 de febrero; si no, puede imprimir el formulario [desde nuestro sitio web](https://www.abingdonpta.org/2023/02/14/lovelines/ ).
+Debería haber recibido el formulario Lovelines en su carpeta del martes que se envió a casa el 14 de febrero; si no, puede imprimir el formulario [desde nuestro sitio web](/2023/02/14/lovelines/ ).
 
 ### 🙋 Comité de nominaciones para funcionarios de la PTA 2023-2024
 
 La PTA de Abingdon Elementary está buscando miembros para unirse a un Comité de Nominaciones durante las próximas dos semanas.
 
-La función del Comité de nominaciones, [como se describe en nuestros estatutos](https://www.abingdonpta.org/bylaws/#article-5-officers-and-their-election), es nominar a los miembros de la PTA para que se desempeñen como funcionarios. el año siguiente. Los roles de los oficiales son los roles de presidente, tesorero, secretario y vicepresidente.
+La función del Comité de nominaciones, [como se describe en nuestros estatutos](/bylaws/#article-5-officers-and-their-election), es nominar a los miembros de la PTA para que se desempeñen como funcionarios. el año siguiente. Los roles de los oficiales son los roles de presidente, tesorero, secretario y vicepresidente.
 
 Como miembro del Comité de nominaciones, identificaría a los miembros de la PTA interesados en desempeñarse como funcionarios e informaría a los miembros en general una lista de nominados para la elección anual.
 
@@ -69,14 +69,14 @@ Esta es una excelente manera de opinar sobre el futuro de la PTA. ¡Gracias!
 ## 👉 Recordatorios
 
 - Spirit Wear está disponible para la venta aquí: https://whitewaterprinting.com/abingdon-elementary
-- La inscripción para Girls on the Run en Abingdon está disponible aquí: https://www.gotrnova.org. [Hay más información disponible aquí](https://www.abingdonpta.org/2023/02/06/girls-on-the-run/).
+- La inscripción para Girls on the Run en Abingdon está disponible aquí: https://www.gotrnova.org. [Hay más información disponible aquí](/2023/02/06/girls-on-the-run/).
 - El patinaje sobre hielo Winter Wonderland se ha pospuesto para el martes 28 de febrero de 6:00 p. m. a 8:00 p. m. debido a la lluvia.
 
 ## 🏢 Información de todo el condado
 
 - La inscripción para el campamento de verano Outdoor Lab se abre el 3 de marzo. [Hay más información disponible aquí](https://outdoorlab.org/2023/02/summer-camp-2023-registration-opens-mar-3/).
 - Outdoor Lab realizará una jornada de puertas abiertas el 22 de abril. [Las familias pueden obtener más información y registrarse aquí](https://outdoorlab.org/2023/02/open-house-sat-april-22-earth-day/).
-- Las Girl Scouts están ofreciendo un campamento durante las vacaciones de primavera. [Hay más información disponible aquí](https://www.abingdonpta.org/2023/02/14/girl-scout-camp/).
+- Las Girl Scouts están ofreciendo un campamento durante las vacaciones de primavera. [Hay más información disponible aquí](/2023/02/14/girl-scout-camp/).
 
 ## 🙏 Gracias
 

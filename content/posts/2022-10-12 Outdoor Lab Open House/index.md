@@ -3,7 +3,7 @@ title: Outdoor Lab Open House
 summary: The Arlington Outdoor Lab is having an Open House on Sunday, October 16th.
 slug: outdoor lab open house
 date: 2022-10-12T05:00:00-04:00
-categories: "outdoor lab"
+categories: "passed along"
 ---
 
 The PTA is passing along this message from Clare McLean, one of our wonderful Kindergarten Assistants here at Abingdon. She also serves as the Summer Camp Assistant Director at the Outdoor Lab.

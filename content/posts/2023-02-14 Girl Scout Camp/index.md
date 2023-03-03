@@ -3,6 +3,7 @@ title: Spring Break Girl Scout Camp
 summary: Girl Scouts are hosting a camp between April 3-6 in Arlington.
 slug: girl scout camp
 date: 2023-02-14T04:30:00-05:00
+categories: "passed along"
 images: 
 - /2023/02/14/girl-scout-camp/images/flyer.webp
 ---

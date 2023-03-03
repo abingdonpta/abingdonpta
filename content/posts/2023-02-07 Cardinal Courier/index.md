@@ -15,7 +15,7 @@ booktoc: true
 
 Dear Abingdon Friends and Families,
 
-Our mission statement as defined in [our organization’s bylaws](https://www.abingdonpta.org/bylaws/) is: “To make every child’s potential a reality by engaging and empowering families and communities to advocate for all children.” I encourage you to review the PTA value of commitment to learn about how we PTA:
+Our mission statement as defined in [our organization’s bylaws](/bylaws/) is: “To make every child’s potential a reality by engaging and empowering families and communities to advocate for all children.” I encourage you to review the PTA value of commitment to learn about how we PTA:
 
 > *“We are dedicated to children’s educational success, health, and well-being through strong family and community engagement, while remaining accountable to the principles upon which our association was founded.”*
 
@@ -23,7 +23,7 @@ Recently, I had the opportunity to welcome 81 volunteers — including an Arling
 
 As you may know, the Abingdon PTA gives every 5th grade Cardinal a yearbook. We are delighted to continue this important tradition. The PTA will be selling Love Lines to support this endeavor to help offset the cost. Stay tuned for information on how to purchase a Love Line, a personalized message, to recognize the hard work of your child(ren), educator, or perhaps share your congratulations to the graduating class. I know the Abingdon Cardinal is eager to get his Love Line in the yearbook for his fellow Cardinals.
 
-Please stay engaged and connected with us as we continue supporting our Cardinals:  [**Facebook**](https://www.facebook.com/AbingdonElementaryPTA), [**Twitter**](https://twitter.com/AbingdonPTA), [**www.abingdonpta.org**](https://www.abingdonpta.org/), and [**WhatsApp groups**](https://www.abingdonpta.org/whatsapp/). Reach out at **abingdonelementarypta@gmail.com** if you have any questions or comments to share with us. I also hope you’ll mark your calendar for our upcoming [Winter Wonderland Skate Night](https://www.abingdonpta.org/2023/01/10/winter-wonderland/) at Pentagon Row later this month. Thank you for inspiring our Abingdon flock.
+Please stay engaged and connected with us as we continue supporting our Cardinals:  [**Facebook**](https://www.facebook.com/AbingdonElementaryPTA), [**Twitter**](https://twitter.com/AbingdonPTA), [**www.abingdonpta.org**](https://www.abingdonpta.org/), and [**WhatsApp groups**](/whatsapp/). Reach out at **abingdonelementarypta@gmail.com** if you have any questions or comments to share with us. I also hope you’ll mark your calendar for our upcoming [Winter Wonderland Skate Night](/2023/01/10/winter-wonderland/) at Pentagon Row later this month. Thank you for inspiring our Abingdon flock.
 
 Gratefully,  
 Sharon Burd

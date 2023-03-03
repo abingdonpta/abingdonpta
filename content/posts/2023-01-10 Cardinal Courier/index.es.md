@@ -26,7 +26,7 @@ Hay varias formas de mantenerse comprometido y conectado con nosotros mientras s
 Con agradecimiento,  
 Sharon Burd
 
-PD Para obtener más información sobre la historia de Abingdon, incluido un [manual para padres de 1957](https://www.abingdonpta.org/history/pdf/parent-handbook-1957-1958.pdf), visite [www.abingdonpta.org/history ](https://www.abingdonpta.org/history).
+PD Para obtener más información sobre la historia de Abingdon, incluido un [manual para padres de 1957](/history/pdf/parent-handbook-1957-1958.pdf), visite [www.abingdonpta.org/history ](/history).
 
 ## 📅 Guarda las fechas
 
@@ -44,7 +44,7 @@ PD Para obtener más información sobre la historia de Abingdon, incluido un [ma
 - **Jueves, 26 de enero de 2023:** Concierto de invierno de Abingdon 4.° grado (6:00 p. m. - 7:45 p. m.)
 - **Lunes, 30 de enero de 2023:** No hay clases (Día de preparación de calificaciones)
 
-Nota: [Vea y suscríbase al calendario de la PTA en nuestro sitio web aquí](https://www.abingdonpta.org/calendar).
+Nota: [Vea y suscríbase al calendario de la PTA en nuestro sitio web aquí](/calendar).
 
 ## 👋 Reunión virtual de membresía general de la PTA el martes 10 de enero
 
@@ -120,7 +120,7 @@ El programa de subvenciones para el personal ha sido otorgado para la temporada 
 
 ## 🛍️ Tienda de regalos de la PTA de Abingdon
 
-Si está interesado en comprar alguno de los siguientes artículos, comuníquese con [abingdonptapresident@gmail.com](mailto:abingdonptapresident@gmail.com). Todos los ingresos apoyan el [Presupuesto de la PTA de Abingdon](https://www.abingdonpta.org/budget/).
+Si está interesado en comprar alguno de los siguientes artículos, comuníquese con [abingdonptapresident@gmail.com](mailto:abingdonptapresident@gmail.com). Todos los ingresos apoyan el [Presupuesto de la PTA de Abingdon](/budget/).
 
 - Imanes para autos de Abingdon $5
 - Gorra de béisbol Abingdon $15
@@ -158,7 +158,7 @@ Complete el [formulario de voluntariado de la PTA](https://docs.google.com/forms
 
 **📦 AmazonSmile.** [Cuando te registras aquí](https://smile.amazon.com/ch/52-1289072) y compras en https://smile.amazon.com, Amazon donará 0.5% a Asociación de padres y maestros de Abingdon. ¡Amigos, familiares y vecinos también están invitados a registrarse!
 
-**🛒 Reembolsos en comestibles.** Vincule su tarjeta VIC de Harris Teeter a Abingdon Elementary (**5748**). También se invita a amigos, familiares y vecinos a vincular su tarjeta VIC a Abingdon. Regístrese aquí: [www.abingdonpta.org/fundraising/#harris-teeter](https://www.abingdonpta.org/fundraising/#harris-teeter).
+**🛒 Reembolsos en comestibles.** Vincule su tarjeta VIC de Harris Teeter a Abingdon Elementary (**5748**). También se invita a amigos, familiares y vecinos a vincular su tarjeta VIC a Abingdon. Regístrese aquí: [www.abingdonpta.org/fundraising/#harris-teeter](/fundraising/#harris-teeter).
 
 **🥞 Box Tops.** ¿Comes Cheerios o Go-GURT? Ayúdenos a recaudar fondos con BoxTops for Education. Más información aquí: https://www.abingdonpta.org/fundraising/#box-tops-for-education.
 

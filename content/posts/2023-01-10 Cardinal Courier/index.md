@@ -26,7 +26,7 @@ There are multiple ways to stay engaged and connected with us as we continue adv
 Gratefully,  
 Sharon Burd
 
-P.S. To learn more about Abingdon’s history, including a [parent handbook from 1957](https://www.abingdonpta.org/history/pdf/parent-handbook-1957-1958.pdf), visit [www.abingdonpta.org/history](/history).
+P.S. To learn more about Abingdon’s history, including a [parent handbook from 1957](/history/pdf/parent-handbook-1957-1958.pdf), visit [www.abingdonpta.org/history](/history).
 
 ## 📅 Save the Dates
 

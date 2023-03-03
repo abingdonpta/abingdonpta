@@ -13,7 +13,7 @@ booktoc: true
 
 Estimados amigos y familias de Abingdon,
 
-Nuestra declaración de misión tal como se define en [los estatutos de nuestra organización](https://www.abingdonpta.org/bylaws/) es: "Hacer realidad el potencial de cada niño al involucrar y empoderar a las familias y comunidades para que aboguen por todos los niños". Los animo a revisar el valor del compromiso de la PTA para aprender cómo la PTA:
+Nuestra declaración de misión tal como se define en [los estatutos de nuestra organización](/bylaws/) es: "Hacer realidad el potencial de cada niño al involucrar y empoderar a las familias y comunidades para que aboguen por todos los niños". Los animo a revisar el valor del compromiso de la PTA para aprender cómo la PTA:
 
 > *“Estamos dedicados al éxito educativo, la salud y el bienestar de los niños a través de un sólido compromiso familiar y comunitario, sin dejar de ser responsables de los principios sobre los que se fundó nuestra asociación”.*
 
@@ -21,7 +21,7 @@ Recientemente, tuve la oportunidad de dar la bienvenida a 81 voluntarios, inclui
 
 Como sabrán, la PTA de Abingdon le da a cada cardenal de 5to grado un anuario. Estamos encantados de continuar con esta importante tradición. La PTA venderá Love Lines para apoyar este esfuerzo para ayudar a compensar el costo. Estén atentos para obtener información sobre cómo comprar una Línea de amor, un mensaje personalizado, para reconocer el arduo trabajo de su(s) hijo(s), educador, o tal vez compartir sus felicitaciones con la clase que se gradúa. Sé que el cardenal de Abingdon está ansioso por incluir su Love Line en el anuario de sus compañeros cardenales.
 
-Manténgase comprometido y conectado con nosotros mientras continuamos apoyando a nuestros cardenales: [**Facebook**](https://www.facebook.com/AbingdonElementaryPTA), [**Twitter**](https://twitter.com/AbingdonPTA), [**www.abingdonpta.org**](https://www.abingdonpta.org/) y [**grupos de WhatsApp**](https://www.abingdonpta.org/whatsapp/ ). Comuníquese con **abingdonelementarypta@gmail.com** si tiene alguna pregunta o comentario para compartir con nosotros. También espero que marque su calendario para nuestra próxima [Noche de patinaje sobre el país de las maravillas invernal](https://www.abingdonpta.org/2023/01/10/winter-wonderland/) en Pentagon Row a finales de este mes. Gracias por inspirar a nuestro rebaño de Abingdon.
+Manténgase comprometido y conectado con nosotros mientras continuamos apoyando a nuestros cardenales: [**Facebook**](https://www.facebook.com/AbingdonElementaryPTA), [**Twitter**](https://twitter.com/AbingdonPTA), [**www.abingdonpta.org**](https://www.abingdonpta.org/) y [**grupos de WhatsApp**](/whatsapp/ ). Comuníquese con **abingdonelementarypta@gmail.com** si tiene alguna pregunta o comentario para compartir con nosotros. También espero que marque su calendario para nuestra próxima [Noche de patinaje sobre el país de las maravillas invernal](/2023/01/10/winter-wonderland/) en Pentagon Row a finales de este mes. Gracias por inspirar a nuestro rebaño de Abingdon.
 
 Con agradecimiento,  
 Sharon Burd
