@@ -11,4 +11,10 @@ Sign up to provide a "Super Bowl" appetizer (chips, hot & cold dips, hearty snac
 
 https://www.signupgenius.com/go/30e0a44aca72aa5fe3-mvpsuperbowl#/
 
+<img src="images/flyer.jpg" alt="Staff Appreciation Flyer">
+
+<!--
+
 {{< photofull src="images/flyer.jpg" alt="Staff Appreciation Flyer" >}}
+
+-->

@@ -35,7 +35,7 @@ To help manage visitors, we need families to pre-register through Eventbrite her
 *Phoebe Hall Knipling Outdoor Lab  
 5554 Beverleys Mill Rd, Broad Run, VA 20137*
 
-[Official announcement page is here.](https://outdoorlab.org/2023/02/open-house-sat-april-22-earth-day/)
+[The official announcement page is here.](https://outdoorlab.org/2023/02/open-house-sat-april-22-earth-day/)
 
 {{< imagehalf src="images/flyer.webp" alt="Outdoor Lab Open House flyer" >}}
 {{< imagehalf src="images/flyer-es.webp" alt="Outdoor Lab Open House flyer in Spanish" >}}

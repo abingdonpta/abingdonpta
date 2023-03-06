@@ -32,7 +32,7 @@ Any individual member of the Abingdon staff or team of educators may apply.
 
 Grant requests should provide a beneficial impact to a wide range of students (e.g., an entire grade, multiple grades, or the whole school) and a long-term or sustainable benefit to the school. Grants can be used to enrich classroom learning, support cultural arts program, school visits, field trips, and items and activities that benefit a large number of students.
 
-Grants cannot be used to pay for items already purchased, something that will only benefit a small number of students or an individual teacher, capital expenses, IEP materials, professional memberships or training, or curriculum materials which are the responsibility of APS.
+Grants cannot be used to pay for items already purchased, something that will only benefit a small number of students or an individual teacher, capital expenses, IEP materials, professional memberships or training, or curriculum materials which are the responsibility of APS. Grant funds also cannot be used to purchase headphones, which principals should provide to staff upon request, according to the APS superintendent.
 
 **Grant requests should be between $100 and $500.**
 
