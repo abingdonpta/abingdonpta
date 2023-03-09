@@ -33,7 +33,7 @@ We are excited to announce that the Abingdon Read-A-Thon is back! This fun event
 - Top readers in each grade will earn a special reward, and classes with the highest totals in each grade will be celebrated for their accomplishments with an exciting reward!
 
 **Important Dates:**  
-- **Monday, March 13th** - Abingdon’s second Read-A-Thon Book Swap will be held from 6:30 pm to 8:00 pm at the school cafeteria. Come and pick up a new free book to get excited about reading!
+- **UPDATE**: *The Book Swap is canceled. Teachers and the literacy team will be making sure that your students have plenty of books to choose from throughout the Read-a-thon.*
 - **Monday, March 13th** - Read-A-Thon begins! Be sure your student’s reader page is active and ready to record reading minutes!
 - **Friday, March 17th** - Read The Day Away is our celebration of reading at Abingdon. Look out for details about mystery readers in classrooms!
 - **Friday, March 24th** - The Read-A-Thon reader pages will close at the end of the night! Log all reading minutes before midnight!
