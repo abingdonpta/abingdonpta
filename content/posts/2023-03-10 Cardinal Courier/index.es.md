@@ -21,7 +21,7 @@ Por ejemplo, la biblioteca de la escuela se convirtió mágicamente en una libre
 
 Estamos encantados de dar inicio a la recaudación de fondos Read-A-Thon la próxima semana. Como sabrán, el propósito de esta recaudación de fondos es doble: 1) fomentar la lectura de nuestros estudiantes y 2) traer el apoyo financiero necesario para apoyar el futuro de nuestros estudiantes. El Read-a-Thon es nuestra recaudación de fondos más grande del año y es fundamental para apoyar nuestros programas, incluidos nuestros eventos (patinaje sobre hielo Winter Wonderland, Trunk or Treat), apreciación del personal y subvenciones para el personal. Asegúrese de registrar a su lector aquí: https://www.read-a-thon.com/readers/r/AwAipj.
 
-Manténgase comprometido y conectado con nosotros mientras continuamos defendiendo a nuestros cardenales: [**Facebook**](https://www.facebook.com/AbingdonElementaryPTA), [**Twitter**](https://twitter.com/AbingdonPTA), https://www.abingdonpta.org/ y [**grupos de WhatsApp**](https://www.abingdonpta.org/whatsapp/). Comuníquese conmigo en [abingdonptapresident@gmail.com](mailto:abingdonptapresident@gmail.com) con cualquier pregunta o comentario para compartir con nosotros. Gracias por brindar tanto amor y atención a nuestro rebaño de Abingdon.
+Manténgase comprometido y conectado con nosotros mientras continuamos defendiendo a nuestros cardenales: [**Facebook**](https://www.facebook.com/AbingdonElementaryPTA), [**Twitter**](https://twitter.com/AbingdonPTA), [**www.abingdonpta.org**](https://www.abingdonpta.org) y [**grupos de WhatsApp**](https://www.abingdonpta.org/whatsapp/). Comuníquese conmigo en [abingdonptapresident@gmail.com](mailto:abingdonptapresident@gmail.com) con cualquier pregunta o comentario para compartir con nosotros. Gracias por brindar tanto amor y atención a nuestro rebaño de Abingdon.
 
 Con agradecimiento,  
 Sharon Burd
@@ -43,7 +43,7 @@ PD No olvides [comprar tu Spirit Wear](https://whitewaterprinting.com/abingdon-e
 
 ¡Prepárate para leer! Celebramos el amor por la lectura con nuestro Read-A-Thon anual. Toda la escuela registrará los minutos de lectura del 13 al 24 de marzo. Cada estudiante participante obtendrá un premio, y reconoceremos al lector con más minutos en cada grado. También hay una emocionante fiesta de golosinas congeladas para dos clases con la mayor cantidad de minutos, ¡así que asegúrese de que su estudiante ayude a alcanzar esa meta!
 
-Este evento es también la mayor recaudación de fondos de la PTA durante el año, lo que hace posible muchos de nuestros programas y eventos. Configure la página de su hijo hoy (https://www.read-a-thon.com/readers/r/AwAipj), para que pueda registrar sus minutos y recolectar donaciones de amigos, familiares y vecinos.
+Este evento es también la mayor recaudación de fondos de la PTA durante el año, lo que hace posible muchos de nuestros programas y eventos. Configure la página de su hijo hoy — https://www.read-a-thon.com/readers/r/AwAipj — para que pueda registrar sus minutos y recolectar donaciones de amigos, familiares y vecinos.
 
 Si bien el Intercambio de libros está cancelado, los maestros y el equipo de alfabetización se asegurarán de que sus estudiantes tengan muchos libros para elegir durante el Read-A-Thon. ¡La PTA de Abingdon también repondrá la Biblioteca Pequeña Gratis en la biblioteca de la escuela!
 
@@ -72,6 +72,8 @@ La agenda de la reunión está disponible aquí: https://www.abingdonpta.org/age
 
 ### 📽️ Noche de cine familiar esta noche
 
+{{< imagehalftoc class="halfright" src="images/movie-flyer-es.jpg" alt="Movie flyer" >}}
+
 El Comité DEI de Abingdon está presentando Family Movie Night esta noche, presentando “Wonder”, clasificada PG.
 
 - Cuándo: viernes 10 de marzo a las 18:30 (Apertura de puertas a las 18:00)
@@ -86,6 +88,8 @@ Pautas:
 - No se permite comida del exterior.
 - Los padres deben quedarse para supervisar a sus hijos.
 - Se espera un comportamiento de sala de cine.
+
+<p style="clear:right;"></p>
 
 ### 🎧 iPads de estudiantes que van a casa (grados 3-5)
 
@@ -107,4 +111,4 @@ ATENCIÓN: Futuros informáticos. Nos complace ofrecer una sesión de primavera 
 
 ## 🔜 Próximamente
 
-- ¡RESERVA! El día de la fotografía de primavera de Abingdon se ha reprogramado (del 14 de marzo) al martes 9 de mayo de 2023.
+- ¡Recuerda la fecha! El día de la fotografía de primavera de Abingdon se ha reprogramado (del 14 de marzo) al martes 9 de mayo de 2023.

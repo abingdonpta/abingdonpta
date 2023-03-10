@@ -21,7 +21,7 @@ For example, the school library magically turned into a bookstore this week with
 
 We are delighted to kick off the Read-A-Thon fundraiser next week. As you may know, the purpose of this fundraiser is twofold: 1) encourage our students' reading and 2) bring in the financial support necessary to support our students’ future. The Read-a-Thon is our largest fundraiser of the year and is critical in supporting our programs, including our events (Winter Wonderland Ice Skating, Trunk or Treat), staff appreciation, and staff grants. Make sure to sign up your reader here: https://www.read-a-thon.com/readers/r/AwAipj.
 
-Stay engaged and connected with us as we continue advocating for our Cardinals: [**Facebook**](https://www.facebook.com/AbingdonElementaryPTA), [**Twitter**](https://twitter.com/AbingdonPTA), https://www.abingdonpta.org/, and [**WhatsApp groups**](https://www.abingdonpta.org/whatsapp/). Please reach out to me at [abingdonptapresident@gmail.com](mailto:abingdonptapresident@gmail.com) with any questions or comments to share with us. Thank you for providing so much love and care to our Abingdon flock.
+Stay engaged and connected with us as we continue advocating for our Cardinals: [**Facebook**](https://www.facebook.com/AbingdonElementaryPTA), [**Twitter**](https://twitter.com/AbingdonPTA), [**www.abingdonpta.org**](https://www.abingdonpta.org), and [**WhatsApp groups**](https://www.abingdonpta.org/whatsapp/). Please reach out to me at [abingdonptapresident@gmail.com](mailto:abingdonptapresident@gmail.com) with any questions or comments to share with us. Thank you for providing so much love and care to our Abingdon flock.
 
 Gratefully,  
 Sharon Burd
@@ -43,7 +43,7 @@ P.S. Don’t forget to [purchase your Spirit Wear](https://whitewaterprinting.co
 
 Get ready to read! We celebrate the love of reading with our annual Read-A-Thon. The whole school will log reading minutes from March 13th through March 24th. Each participating student will get a prize, and we will recognize the reader with the most minutes in each grade. There's also an exciting frozen treats party for two classes with the most minutes, so make sure your student gets to help reach that goal!
 
-This event is also the largest PTA fundraiser during the year, making many of our programs and events possible. Please set up your child's page today (https://www.read-a-thon.com/readers/r/AwAipj), so that they can record their minutes and collect donations from friends, family members, and neighbors. 
+This event is also the largest PTA fundraiser during the year, making many of our programs and events possible. Please set up your child's page today — https://www.read-a-thon.com/readers/r/AwAipj — so that they can record their minutes and collect donations from friends, family members, and neighbors. 
 
 While the Book Swap is cancelled, the teachers and literacy team will be making sure that your students have plenty of books to choose from throughout the Read-A-Thon. The Abingdon PTA will also be replenishing the Free Little Library in the school library too!
 
@@ -72,6 +72,8 @@ The meeting agenda is available here: https://www.abingdonpta.org/agendas/2023-0
 
 ### 📽️ Family Movie Night Tonight
 
+{{< imagehalftoc class="halfright" src="images/movie-flyer.jpg" alt="Movie flyer" >}}
+
 Abingdon's DEI Committee is presenting Family Movie Night tonight, featuring “Wonder,” rated PG.
 
 - When: Friday, March 10 at 6:30 PM (Doors open at 6:00)
@@ -86,6 +88,8 @@ Guidelines:
 - No outside food is allowed.
 - Parents must stay to supervise their children.
 - Movie theater behavior is expected.
+
+<p style="clear:right;"></p>
 
 ### 🎧 Student iPads Going Home (Grades 3-5)
 
