@@ -23,7 +23,11 @@ Come celebrate our school's diversity and practice embracing acceptance of ourse
 
 All are welcome. Keep in mind this film is geared toward children grades 2-5.
 
-Movie starts at 6:30. Doors open at 6:00. Movie will be shown in the gym. Bring your own basket for comfort. No outside food is allowed. Parents must stay to supervise their children. Movie theater behavior is expected.
+Guidelines:
+- Bring your own blanket for comfort.
+- No outside food is allowed.
+- Parents must stay to supervise their children.
+- Movie theater behavior is expected.
 
 > *Presented by the DEI Committee. Sponsored by the Abingdon PTA.*
 
