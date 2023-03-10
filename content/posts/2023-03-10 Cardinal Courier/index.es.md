@@ -21,17 +21,17 @@ Por ejemplo, la biblioteca de la escuela se convirtió mágicamente en una libre
 
 Estamos encantados de dar inicio a la recaudación de fondos Read-A-Thon la próxima semana. Como sabrán, el propósito de esta recaudación de fondos es doble: 1) fomentar la lectura de nuestros estudiantes y 2) traer el apoyo financiero necesario para apoyar el futuro de nuestros estudiantes. El Read-a-Thon es nuestra recaudación de fondos más grande del año y es fundamental para apoyar nuestros programas, incluidos nuestros eventos (patinaje sobre hielo Winter Wonderland, Trunk or Treat), apreciación del personal y subvenciones para el personal. Asegúrese de registrar a su lector aquí: https://www.read-a-thon.com/readers/r/AwAipj.
 
-Manténgase comprometido y conectado con nosotros mientras continuamos defendiendo a nuestros cardenales: [**Facebook**](https://www.facebook.com/AbingdonElementaryPTA), [**Twitter**](https://twitter.com /AbingdonPTA), https://www.abingdonpta.org/ y [**grupos de WhatsApp**](https://www.abingdonpta.org/whatsapp/). Comuníquese conmigo en [abingdonptapresident@gmail.com](mailto:abingdonptapresident@gmail.com) con cualquier pregunta o comentario para compartir con nosotros. Gracias por brindar tanto amor y atención a nuestro rebaño de Abingdon.
+Manténgase comprometido y conectado con nosotros mientras continuamos defendiendo a nuestros cardenales: [**Facebook**](https://www.facebook.com/AbingdonElementaryPTA), [**Twitter**](https://twitter.com/AbingdonPTA), https://www.abingdonpta.org/ y [**grupos de WhatsApp**](https://www.abingdonpta.org/whatsapp/). Comuníquese conmigo en [abingdonptapresident@gmail.com](mailto:abingdonptapresident@gmail.com) con cualquier pregunta o comentario para compartir con nosotros. Gracias por brindar tanto amor y atención a nuestro rebaño de Abingdon.
 
-Con agradecimiento,
-sharon burd
+Con agradecimiento,  
+Sharon Burd
 
-PD No olvides [comprar tu Spirit Wear](https://whitewaterprinting.com/abingdon-elementary) y [Yearbook Loveline(s)](https://www.abingdonpta.org/2023/02/14/lovelines /)!
+PD No olvides [comprar tu Spirit Wear](https://whitewaterprinting.com/abingdon-elementary) y [Yearbook Loveline(s)](https://www.abingdonpta.org/2023/02/14/lovelines/)!
 
 ## 📅 Fechas
 
-- **10 de marzo** (6:30 p. m.): Noche de cine familiar
-- **13 de marzo** (8:00 a. m.): registro de enriquecimiento de primavera
+- **10 de marzo** (6:30 pm): Noche de cine familiar
+- **13 de marzo** (8:00 am): registro de enriquecimiento de primavera
 - **13-24 de marzo**: Maratón de lectura
 - **14 de marzo** (7 pm - 8 pm): Reunión general de miembros de la PTA
 - **15 de marzo**: salida anticipada
@@ -68,7 +68,7 @@ La inscripción se abrirá el **lunes 13 de marzo a las 8 AM**. Los registros op
 
 La agenda de la reunión está disponible aquí: https://www.abingdonpta.org/agendas/2023-03-14. **Se proporcionará traducción al español en vivo.**
 
-<p estilo="claro:correcto;"></p>
+<p style="clear:right;"></p>
 
 ### 📽️ Noche de cine familiar esta noche
 
