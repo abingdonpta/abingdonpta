@@ -31,7 +31,6 @@ Please [fill out our volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSf
 | Role | Coordinator |
 |-|-|
 | [🔔 After School Enrichment](/roles/#-after-school-enrichment) | Ken Venable |
-| [🍅 Garden](/roles/#-garden) | Lauren Shaub |
 | [🎨 Reflections](/roles/#-reflections) | Mary Savig |
 | [🏃‍♀️ Girls on the Run](/roles/#-girls-on-the-run) | Ashley Farrugia<br>Erin Mahaffey |
 | [👩‍💻 Cardinal Coding Club](/roles/#-cardinal-coding-club) | Molly Fisher |
@@ -123,6 +122,7 @@ The PTA blesses our wonderful Abingdon staff throughout the year. Please help us
 
 | Role | Coordinator |
 |-|-|
+| [🍅 Garden](/roles/#-garden) | Lauren Shaub |
 | [🖼️ Graphic Designer](/roles/#-graphic-designer) |
 | [📄 Photocopying Flyers](/roles/#-photocopying-flyers) | Rachel Mallory<br>Amanda Broadhurst |
 | [🌎 Translators](/roles/#-translator) |

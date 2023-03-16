@@ -61,12 +61,12 @@ This budget was adopted by the PTA's General Membership at our September 12, 202
 | 🎒 Back-to-School Appreciation | | $750 |
 | 🍁 October Teacher Work Day | | $250 |
 | 🥘 Parent-Teacher Conference Day Lunch (Fall) | | $1,000 |
-| 🧑‍🏫 Instructional Assistant Appreciation | | $1,000 |
-| 🦃 Thanksgiving | | $250 |
-| 🎁 Holiday Appreciation | | $500 |
-| ❤️ February 8th Teacher Work Day | | $250 |
+| 🧑‍🏫 Instructional Assistant Appreciation | | $0<br>Formerly $1,000<sup>1</sup> |
+| 🦃 Thanksgiving | | $0<br>Formerly $250<sup>1</sup> |
+| 🎁 Holiday Appreciation | | $0<br>Formerly $500<sup>1</sup> |
+| ❤️ February 8th Teacher Work Day | | $0<br>Formerly $250<sup>1</sup> |
 | 🥘 Parent-Teacher Conference Day Lunch (Spring) | | $1,000 |
-| 🧑‍🏫 Staff Appreciation Week | | $3,000 |
+| 🧑‍🏫 Staff Appreciation Week | | $5,000<br>Formerly $3,000<sup>1</sup> |
 | 🎉 End of School Thank You | | $250 |
 | ☕ Coffee for Staff | | $500 |
 | [📎 Supply Buffet](#-supply-buffet) | | $500 |
@@ -87,6 +87,8 @@ This budget was adopted by the PTA's General Membership at our September 12, 202
 | ↪️ Reserves for 2023-2024 | | $27,500 |
 | | | |
 | **Total (incl. carryover and intended reserves)** | $68,947 | $68,947 |
+
+**Note 1**: Four line items were consolidated into the Staff Appreciation Week line item by a vote of the General Membership on March 14, 2023.
 
 ---
 

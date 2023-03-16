@@ -49,16 +49,6 @@ The After School Enrichment Coordinator serves as the liaison with our vendor to
 - **Time of day**: Immediately after school day
 - **Months**: Year-round
 
-### 🍅 Garden
-
-Abingdon Elementary has a garden in the front of the building, to the right of the main entrance. (The garden is sometimes called an "outdoor classroom.") The goal of the garden is to enrich students' and families' knowledge of environmental sustainability and to be good stewards of our Earth, while providing first hand experience in learning about our food supply and our pollinators. More information can be found on the [garden page](/garden), and from our [garden newsletter](https://docs.google.com/forms/d/e/1FAIpQLSc62Xf5rFUBG1XqElQa2VQJUJu8k8Kf0RWTWPzoemf8bOLF-A/viewform?usp=sf_link).
-
-The Garden Coordinator works with Abingdon's Sustainability Coordinator (traditionally the science teacher) to organize garden cleanups, help with procuring supplies, and any other assistance. The Garden Coordinator maintains a list of community volunteers who may be called upon to help. The garden is a great way to get the community invested in Abingdon's success.
-
-- **Location**: School
-- **Time of day**: Weekend daytime, though some weekday availability is a plus to coordinate with staff and students
-- **Months**: Year-round except for winter
-
 ### 🎨 Reflections
 
 Reflections is a national PTA-sponsored program that encourages students to express themselves artistically. Learn more about Reflections [on the National PTA's website](https://www.pta.org/home/programs/reflections).
@@ -367,6 +357,16 @@ Volunteers are needed to take pictures at school events for the Abingdon and PTA
 - **Months**: Year-round
 
 ## ❔ Other Role Descriptions
+
+### 🍅 Garden
+
+Abingdon Elementary has a garden in the front of the building, to the right of the main entrance. (The garden is sometimes called an "outdoor classroom.") The goal of the garden is to enrich students' and families' knowledge of environmental sustainability and to be good stewards of our Earth, while providing first hand experience in learning about our food supply and our pollinators. More information can be found on the [garden page](/garden), and from our [garden newsletter](https://docs.google.com/forms/d/e/1FAIpQLSc62Xf5rFUBG1XqElQa2VQJUJu8k8Kf0RWTWPzoemf8bOLF-A/viewform?usp=sf_link).
+
+The Garden Coordinator works with Abingdon's Sustainability Coordinator (traditionally the science teacher) to organize garden cleanups, help with procuring supplies, and any other assistance. The Garden Coordinator maintains a list of community volunteers who may be called upon to help. The garden is a great way to get the community invested in Abingdon's success.
+
+- **Location**: School
+- **Time of day**: Weekend daytime, though some weekday availability is a plus to coordinate with staff and students
+- **Months**: Year-round except for winter
 
 ### 🖼️ Graphic Designer
 
