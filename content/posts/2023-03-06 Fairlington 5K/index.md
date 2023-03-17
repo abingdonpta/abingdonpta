@@ -10,6 +10,8 @@ The PTA is passing along this message from Beth McGinn, the organizer of the Fai
 
 ---
 
+**UPDATE 3/16/2023**: The Fairlington 5K has been cancelled indefinitely due to a new county policy that requires all cars to be moved out of the race course the day of the event, which the organizers have deemed impossible. *The original post is below.*
+
 Please join us Saturday, April 29 at Abingdon Elementary School for the 8th Annual Fairlington 5K & Family Fun Run. Proceeds support Abingdon Field Day festivities and a former Abingdon student with a rare brain and spinal cord condition called LBSL. 
 
 Early Bird (Through March 24): Adult: $35 / Child (ages 6-16): $20  
