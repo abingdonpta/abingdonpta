@@ -27,19 +27,19 @@ Toque, haga clic o escanee el código QR para unirse:
 
 <a href="https://chat.whatsapp.com/CZF8UWJJbLvDt8WFmvTXhu"><img src="images/whatsappes.svg" height="300" width="300" alt="QR Code to join the Spanish WhatsApp chat"></a>
 {{< /details >}}
-{{< details "المجموعة العربية" >}}
+{{< details "مجموعة ناطقة بالعربية" >}}
 <br>
 اضغط أو انقر أو امسح رمز الاستجابة السريعة للانضمام:
 
 <a href="https://chat.whatsapp.com/EJhTfUXY659H09PTIBTq1H"><img src="images/whatsappar.svg" height="300" width="300" alt="QR Code to join the Arabic WhatsApp chat"></a>
 {{< /details >}}
-{{< details "አማርኛ ቡድን" >}}
+{{< details "አማርኛ ተናጋሪ ቡድን" >}}
 <br>
 ለመቀላቀል የQR ኮድን ነካ ያድርጉ፣ ጠቅ ያድርጉ ወይም ይቃኙ፡-
 
 <a href="https://chat.whatsapp.com/EEAlIiRL3XAJ3OIYAZdH4o"><img src="images/whatsappam.svg" height="300" width="300" alt="QR Code to join the Amharic WhatsApp chat"></a>
 {{< /details >}}
-{{< details "Монгол групп" >}}
+{{< details "Монгол хэлтэй бүлэг" >}}
 <br>
 Нэгдэхийн тулд QR кодыг товш, товших эсвэл сканнердах:
 

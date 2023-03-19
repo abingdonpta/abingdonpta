@@ -10,9 +10,45 @@ booktoc: true
 
 Abingdon Elementary would love your support to create a successful, sustainable community garden.  It is our goal to enrich students' and families' knowledge of environmental sustainability and to be good stewards of our Earth, while providing first hand experience in learning about our food supply and our pollinators.
 
-If you're interested in volunteering in the garden, please click on the link below.
+<!-- Begin Mailchimp Signup Form -->
+<div id="mc_embed_signup">
+    <form action="https://abingdonpta.us10.list-manage.com/subscribe/post?u=f9c2cb9188c78232702100f91&amp;id=50d30d2a32&amp;f_id=000bb1e5f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_self">
+        <div id="mc_embed_signup_scroll">
+        <p>Subscribe to our Garden Newsletter to learn about opportunities to help in the Abingdon Garden.</p>
+        <!--<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>-->
+<div class="mc-field-group">
+	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+</label>
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" required>
+	<span id="mce-EMAIL-HELPERTEXT" class="helper_text"></span>
+</div>
+<div class="mc-field-group">
+	<label for="mce-FNAME">First Name </label>
+	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+	<span id="mce-FNAME-HELPERTEXT" class="helper_text"></span>
+</div>
+<div class="mc-field-group">
+	<label for="mce-LNAME">Last Name </label>
+	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
+	<span id="mce-LNAME-HELPERTEXT" class="helper_text"></span>
+</div>
+	<div id="mce-responses" class="clear foot">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_e8c2877018f64aa7e1fd2e884_b884e2a18e" tabindex="-1" value=""></div>
+        <div class="optionalParent">
+            <div class="clear foot">
+                <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">
+            </div>
+        </div>
+    </div>
+</form>
+</div>
 
-{{< button href="https://lp.constantcontactpages.com/su/SjhlqrR" >}}Click Here to Receive Updates About Garden Volunteer Opportunities{{< /button >}}
+<!--End mc_embed_signup-->
+
+<!--{{< button href="https://lp.constantcontactpages.com/su/SjhlqrR" >}}Click Here to Receive Updates About Garden Volunteer Opportunities{{< /button >}}-->
 
 ## What's New in the Garden?
 
