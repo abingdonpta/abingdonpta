@@ -19,7 +19,7 @@ We would love your support to maintain a successful, sustainable community garde
 - **When**: Monday, January 16, 2023 from 10:00 am – 12:00 pm
 - **Where**: Abingdon Community Garden, next to the school.
 
-To receive updates about garden volunteer opportunities, please [sign up here](https://lp.constantcontactpages.com/su/SjhlqrR).
+To receive updates about garden volunteer opportunities, please [sign up here](https://eepurl.com/incgRE).
 
 {{< imagehalf src="images/flyer.webp" alt="Abingdon Community Garden Cleanup flyer in English" >}}
 {{< imagehalf src="images/flyer-es.webp" alt="Abingdon Community Garden Cleanup flyer in Spanish" >}}

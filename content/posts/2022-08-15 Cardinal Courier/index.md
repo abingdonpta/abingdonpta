@@ -9,7 +9,7 @@ images:
 booktoc: true
 ---
 
-{{< button href="https://lp.constantcontactpages.com/su/t3ku1aP" >}}Click here to receive the Cardinal Courier newsletter in your inbox.{{< /button >}}
+{{< button href="https://eepurl.com/inceYc" >}}Click here to receive the Cardinal Courier newsletter in your inbox.{{< /button >}}
 
 ## President’s Welcome
 
@@ -53,7 +53,7 @@ You can also view and subscribe to our calendar on our new website at [https://w
 We need your help with the following:
 
 - **PTA Back-to-School Picnic** — Please contact Meredith Greene at [meregreene5@gmail.com](mailto:meregreene5@gmail.com) to assist with setup, bringing ice, or cleanup.
-- **Abingdon Community Garden** — If you’re interested in volunteering in the school garden to support Abingdon’s Eco Action Team, please click on the link [here](https://lp.constantcontactpages.com/su/SjhlqrR?source_id=0061ea0d-9950-4d52-82be-4559d1474d3b&source_type=em&c=).
+- **Abingdon Community Garden** — If you’re interested in volunteering in the school garden to support Abingdon’s Eco Action Team, please click on the link [here](https://eepurl.com/incgRE?source_id=0061ea0d-9950-4d52-82be-4559d1474d3b&source_type=em&c=).
 
 ## Job Opportunity
 

@@ -9,7 +9,7 @@ images:
 booktoc: true
 ---
 
-{{< button href="https://lp.constantcontactpages.com/su/t3ku1aP" >}}Haga clic aquí para recibir el boletín Cardinal en su bandeja de entrada.{{< /button >}}
+{{< button href="https://eepurl.com/inceYc" >}}Haga clic aquí para recibir el boletín Cardinal en su bandeja de entrada.{{< /button >}}
 
 ## Bienvenida del presidente
 
@@ -53,7 +53,7 @@ También puede ver y suscribirse a nuestro calendario en nuestro nuevo sitio web
 Necesitamos su ayuda con lo siguiente:
 
 - **Picnic de regreso a la escuela de la PTA** - Comuníquese con Meredith Greene en [meregreene5@gmail.com](mailto:meregreene5@gmail.com) para ayudar con la instalación, traer hielo o limpiar.
-- **Jardín comunitario de Abingdon** - Si está interesado en ser voluntario en el jardín escolar para apoyar al Equipo de Acción Ecológica de Abingdon, haga clic en el enlace [aquí](https://lp.constantcontactpages.com/su/SjhlqrR?source_id=0061ea0d-9950-4d52-82be-4559d1474d3b&source_type=em&c=).
+- **Jardín comunitario de Abingdon** - Si está interesado en ser voluntario en el jardín escolar para apoyar al Equipo de Acción Ecológica de Abingdon, haga clic en el enlace [aquí](https://eepurl.com/incgRE?source_id=0061ea0d-9950-4d52-82be-4559d1474d3b&source_type=em&c=).
 
 ## Oportunidad de trabajo
 

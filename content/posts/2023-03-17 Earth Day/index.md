@@ -13,7 +13,7 @@ Abingdon will hold an Earth Day Celebration, which will include a ribbon cutting
 - **When**: Sunday, April 23, 2023, 9 am - 11 am
 - **Where**: Abingdon Community Garden, next to the school.
 
-To receive updates about garden volunteer opportunities, please [sign up here](https://lp.constantcontactpages.com/su/SjhlqrR).
+To receive updates about garden volunteer opportunities, please [sign up here](https://eepurl.com/incgRE).
 
 {{< imagehalf src="images/flyer.webp" alt="Earth Day flyer in English" >}}
 {{< imagehalf src="images/flyer-es.webp" alt="Earth flyer in Spanish" >}}

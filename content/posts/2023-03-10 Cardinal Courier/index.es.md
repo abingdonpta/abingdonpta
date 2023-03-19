@@ -9,7 +9,7 @@ images:
 booktoc: true
 ---
 
-{{< button href="https://lp.constantcontactpages.com/su/t3ku1aP" >}}Haga clic aquí para recibir el boletín de Cardinal Courier en su bandeja de entrada.{{< /button >}}
+{{< button href="https://eepurl.com/inceYc" >}}Haga clic aquí para recibir el boletín de Cardinal Courier en su bandeja de entrada.{{< /button >}}
 
 ## Mensaje del presidente
 
@@ -62,7 +62,7 @@ La inscripción se abrirá el **lunes 13 de marzo a las 8 AM**. Los registros op
 - **Quién**: maestros, padres, tutores, estudiantes, miembros de la comunidad
 - **Qué**: Reunión virtual de membresía general de marzo
 - **Dónde:**
-> Por razones de seguridad, no compartimos los códigos de reunión de Zoom en nuestro sitio web. [Suscríbase a la edición por correo electrónico de nuestro boletín](https://lp.constantcontactpages.com/su/t3ku1aP) para asegurarse de recibir los códigos de reunión de la PTA.
+> Por razones de seguridad, no compartimos los códigos de reunión de Zoom en nuestro sitio web. [Suscríbase a la edición por correo electrónico de nuestro boletín](https://eepurl.com/inceYc) para asegurarse de recibir los códigos de reunión de la PTA.
 - **Cuándo**: martes, 14 de marzo de 2023, 7:00 p. m. EST
 - **Por qué**: Tendremos una sesión de preguntas y respuestas con el director Horak y discutiremos oportunidades para participar con la comunidad de Abingdon. Además, conozca y salude virtualmente al equipo de alfabetización de Abingdon. ¡Su presentación brindará una breve descripción general de cómo nuestro equipo de alfabetización apoya a nuestros estudiantes y cómo usted puede apoyar el aprendizaje de su estudiante en casa!
 

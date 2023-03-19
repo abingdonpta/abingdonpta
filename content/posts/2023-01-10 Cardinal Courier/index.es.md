@@ -9,7 +9,7 @@ images:
 booktoc: true
 ---
 
-{{< button href="https://lp.constantcontactpages.com/su/t3ku1aP" >}}Haga clic aquí para recibir el boletín de Cardinal Courier en su bandeja de entrada.{{< /button >}}
+{{< button href="https://eepurl.com/inceYc" >}}Haga clic aquí para recibir el boletín de Cardinal Courier en su bandeja de entrada.{{< /button >}}
 
 ## Mensaje del presidente
 
@@ -54,7 +54,7 @@ Nota: [Vea y suscríbase al calendario de la PTA en nuestro sitio web aquí](/ca
 **Qué:** Reunión virtual de membresía general de enero  
 **Donde:**
 
-> Por razones de seguridad, no compartimos los códigos de reunión de Zoom en nuestro sitio web. [Suscríbase a la edición por correo electrónico de nuestro boletín](https://lp.constantcontactpages.com/su/t3ku1aP) para asegurarse de recibir los códigos de reunión de la PTA.
+> Por razones de seguridad, no compartimos los códigos de reunión de Zoom en nuestro sitio web. [Suscríbase a la edición por correo electrónico de nuestro boletín](https://eepurl.com/inceYc) para asegurarse de recibir los códigos de reunión de la PTA.
 
 **Cuándo:** Martes, 10 de enero de 2023, 7:00 p.m. EST  
 **Por qué**: Tendremos una sesión de preguntas y respuestas con el director Horak y discutiremos oportunidades para participar con la comunidad de Abingdon. Además, el equipo de consejería de Abingdon brindará una breve descripción de cómo ayudan a los estudiantes a lograr el éxito académico, desarrollar una comprensión de las oportunidades profesionales y desarrollar habilidades sociales y emocionales en respuesta a los problemas que enfrentan.
@@ -136,7 +136,7 @@ Complete el [formulario de voluntariado de la PTA](https://docs.google.com/forms
 **Regístrese para nuestras oportunidades de voluntariado:**
 
 - **Traductores** — Estamos buscando voluntarios que puedan traducir volantes de la PTA en los siguientes idiomas: mongol, amárico y árabe. Comuníquese con [abingdonptapresident@gmail.com](mailto:abingdonptapresident@gmail.com) si puede ayudar con este esfuerzo.
-- **School Garden**: para recibir actualizaciones sobre oportunidades de voluntariado en el jardín, [regístrese aquí](https://lp.constantcontactpages.com/su/SjhlqrR).
+- **School Garden**: para recibir actualizaciones sobre oportunidades de voluntariado en el jardín, [regístrese aquí](https://eepurl.com/incgRE).
 - **Coordinador de Diversidad de la PTA**: la PTA está buscando un Coordinador de Diversidad para colaborar con el Comité de Diversidad, Equidad e Inclusión de Abingdon y el Enlace Familiar Bilingüe de Abingdon. Si está interesado, comuníquese con [abingdonptapresident@gmail.com](mailto:abingdonptapresident@gmail.com).
 - **Voluntario de copias** — Estamos buscando un voluntario de copias adicional para ayudar a copiar y distribuir volantes en blanco y negro a los buzones de correo de los maestros de clase el lunes por la mañana (en preparación para el correo de mochila de la carpeta del martes). Si desea ayudar, comuníquese con [abingdonptapresident@gmail.com](mailto:abingdonptapresident@gmail.com).
 - **Coordinadores de objetos perdidos** — Esperamos tener un centro de objetos perdidos ordenado donde nuestros cardenales puedan buscar fácilmente sus pertenencias perdidas. Si desea ayudar en este esfuerzo, comuníquese con [abingdonptapresident@gmail.com](mailto:abingdonptapresident@gmail.com).

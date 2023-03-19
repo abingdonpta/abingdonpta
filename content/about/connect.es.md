@@ -7,7 +7,7 @@ linktitle: Conéctese
 
 Hay muchas maneras de mantenerse informado sobre los eventos y actividades de la PTA:
 
-[<img src="/images/Newsletter.svg" height="20" width="20" alt="Newsletter logo"> Suscríbete a nuestro boletín, el Boletín Cardinal.](https://lp.constantcontactpages.com/su/t3ku1aP)  
+[<img src="/images/Newsletter.svg" height="20" width="20" alt="Newsletter logo"> Suscríbete a nuestro boletín, el Boletín Cardinal.](https://eepurl.com/inceYc)  
 [<img src="/images/Twitter.svg" height="20" width="20" alt="Twitter logo"> Síganos en Twitter.](https://twitter.com/AbingdonPTA)  
 [<img src="/images/Facebook.svg" height="20" width="20" alt="Facebook logo"> Síganos en Facebook.](https://www.facebook.com/AbingdonElementaryPTA)  
 [<img src="/images/WhatsApp.svg" height="20" width="20" alt="WhatsApp logo"> Únete a nuestros grupos de WhatsApp.](/whatsapp/)  

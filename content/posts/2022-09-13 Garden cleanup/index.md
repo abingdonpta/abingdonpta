@@ -13,6 +13,6 @@ Please help us weed our school garden. If you would like to join us, please brin
 - **When**: Saturday, September 24 from 9:00 am – 11:00 am
 - **Where**: Abingdon Community Garden, next to the school.
 
-To receive updates about garden volunteer opportunities, please [sign up here](https://lp.constantcontactpages.com/su/SjhlqrR).
+To receive updates about garden volunteer opportunities, please [sign up here](https://eepurl.com/incgRE).
 
 {{< imagehalf class="halfcenter" src="images/flyer.webp" alt="Abingdon Community Garden Cleanup flyer in English and Spanish" >}}

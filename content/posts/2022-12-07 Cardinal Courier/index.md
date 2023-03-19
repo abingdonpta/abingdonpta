@@ -9,7 +9,7 @@ images:
 booktoc: true
 ---
 
-{{< button href="https://lp.constantcontactpages.com/su/t3ku1aP" >}}Click here to receive the Cardinal Courier newsletter in your inbox.{{< /button >}}
+{{< button href="https://eepurl.com/inceYc" >}}Click here to receive the Cardinal Courier newsletter in your inbox.{{< /button >}}
 
 ## President's Message
 
@@ -63,7 +63,7 @@ Registration for Winter after-school enrichment classes through Baroody Camps wi
 - **What:** December General Membership Virtual Meeting
 - **Where:**
 
-> For security reasons, we do not share Zoom meeting codes on our website. [Please subscribe to the email edition of our newsletter](https://lp.constantcontactpages.com/su/t3ku1aP) to make sure you receive PTA meeting codes.
+> For security reasons, we do not share Zoom meeting codes on our website. [Please subscribe to the email edition of our newsletter](https://eepurl.com/inceYc) to make sure you receive PTA meeting codes.
 
 - **When:** December 13, 2022 - 7:00 PM EST
 - **Why**: We will have a Q&A with Principal Horak, and discuss opportunities to engage with the Abingdon Community. Additionally, the Math Team will walk parents through a day in the life of a student in Math Workshop at Abingdon, followed by some tips for supporting math at home and time for questions.
@@ -107,7 +107,7 @@ Please complete the [PTA's volunteer form](https://docs.google.com/forms/d/e/1FA
 **Sign up for our volunteer opportunities:**
 
 - **Chinese Language Club** — Would you like to help co-launch an after school club in January focusing on writing characters and learning about culture and traditions? If so, reach out to [abingdonptapresident@gmail.com](mailto:abingdonptapresident@gmail.com).
-- **School Garden** — To receive updates about garden volunteer opportunities, [please sign up here](https://lp.constantcontactpages.com/su/SjhlqrR).
+- **School Garden** — To receive updates about garden volunteer opportunities, [please sign up here](https://eepurl.com/incgRE).
 - **PTA Diversity Coordinator** — The PTA is looking for a Diversity Coordinator to collaborate with Abingdon’s Diversity, Equity and Inclusion Committee and Abingdon’s Bilingual Family Liaison. If you are interested, please contact [abingdonptapresident@gmail.com](mailto:abingdonptapresident@gmail.com).
 - **Translators** — We are looking for volunteers who could translate PTA flyers in the following languages: Mongolian, Amharic, and Arabic. Please contact [abingdonptapresident@gmail.com](mailto:abingdonptapresident@gmail.com) if you can assist with this effort.
 - **Copy Volunteer** — We are looking for an additional copy volunteer to assist with copying and distributing black & white flyers to classroom teachers mailboxes on Monday morning (in preparation for Tuesday folder backpack mail). If you are eager to assist, reach out to [abingdonptapresident@gmail.com](mailto:abingdonptapresident@gmail.com).  

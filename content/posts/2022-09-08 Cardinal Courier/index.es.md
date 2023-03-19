@@ -52,7 +52,7 @@ Nota: Vea y suscríbase al calendario de la PTA en nuestro nuevo sitio web [aqu�
 
 Está invitado a nuestra primera reunión virtual de la PTA del año escolar el **lunes 12 de septiembre a las 7:00 p. m.**, en Zoom. Ven a conocer a nuestro equipo de PTA. El director Horak también entregará su informe mensual con una sesión de preguntas y respuestas después. Le pediremos a nuestra membresía general que vote sobre algunos, como nuestro presupuesto propuesto de la PTA. Revise nuestra agenda [aquí](/agendas/2022-09-12).
 
-> Por razones de seguridad, no compartimos los códigos de reunión de Zoom en nuestro sitio web. [Suscríbase a nuestro boletín, Cardinal Courier](https://lp.constantcontactpages.com/su/t3ku1aP), para asegurarse de recibir los códigos de reunión de la PTA.
+> Por razones de seguridad, no compartimos los códigos de reunión de Zoom en nuestro sitio web. [Suscríbase a nuestro boletín, Cardinal Courier](https://eepurl.com/inceYc), para asegurarse de recibir los códigos de reunión de la PTA.
 
 ## 🏫 Regístrese para las clases de otoño de enriquecimiento después de la escuela
 
@@ -62,7 +62,7 @@ La inscripción para las clases de enriquecimiento extraescolares de otoño a tr
 
 Los formularios de pedido de Lifetouch Picture Day se colocaron en los buzones de correo de los maestros para distribuirlos en las mochilas de los estudiantes esta semana. Si prefiere pagar en línea, visite [el sitio de Lifetouch](https://my.lifetouch.com/mylifetouch/#/) e ingrese el ID de Picture Day de Abingdon:
 
-> Por motivos de seguridad, no compartimos los códigos Lifetouch Picture Day en nuestro sitio web. [Suscríbase a nuestro boletín, Cardinal Courier](https://lp.constantcontactpages.com/su/t3ku1aP), para asegurarse de recibir los códigos Lifetouch Picture Day.
+> Por motivos de seguridad, no compartimos los códigos Lifetouch Picture Day en nuestro sitio web. [Suscríbase a nuestro boletín, Cardinal Courier](https://eepurl.com/inceYc), para asegurarse de recibir los códigos Lifetouch Picture Day.
 
 ## 📱 Directorio de estudiantes próximamente
 
@@ -86,7 +86,7 @@ Complete el [formulario de voluntariado de la PTA](https://docs.google.com/forms
 - **Girls on the Run** — Estamos interesados ​​en comenzar [Girls on the Run](https://www.girlsontherun.org/) esta primavera. Si tiene interés en apoyar a nuestros estudiantes como entrenador, comuníquese con Ashley Farrugia: ashleybethmccarthy@gmail.com.
 - **Suministros de fonética**: la Sra. Naomi Holly, especialista en lectura de Abingdon, coordinará a los voluntarios para ayudar a etiquetar los suministros de fonética. Si está interesado, [regístrese aquí](https://www.signupgenius.com/go/30e0a44aca72aa5fe3-literacy) o comuníquese con naomi.holly@apsva.us.
 - **Laminación de carteles**: la Sra. Vasthy Delgado, consejera escolar en Abingdon, está buscando ayuda para plastificar carteles. Si está interesado, [regístrese aquí](https://www.signupgenius.com/go/30e0a44aca72aa5fe3-laminating) o comuníquese con [vasthy.delgado2@apsva.us](mailto:vasthy.delgado2@apsva. a nosotros).
-- **School Garden**: para recibir actualizaciones sobre oportunidades de voluntariado en el jardín, [regístrese aquí](https://lp.constantcontactpages.com/su/SjhlqrR).
+- **School Garden**: para recibir actualizaciones sobre oportunidades de voluntariado en el jardín, [regístrese aquí](https://eepurl.com/incgRE).
 - **Noche de Ciencias** — La Sra. Renita Upshur, maestra de ciencias en Abingdon, está organizando una Noche de Ciencias en la escuela el **22 de septiembre**. Ella necesita voluntarios para ayudar con la instalación, el funcionamiento de las estaciones y el desmontaje de las estaciones. El horario de voluntariado es de 5:15 a 7:45 p. m. Los voluntarios deben tener más de 18 años. Si está interesado, [regístrese aquí](https://www.signupgenius.com/go/20F0D48AAA62BA5F58-science). Si tiene alguna pregunta, comuníquese con Renita.Upshur@apsva.us.
 
 ## ☕ Convocatoria de donaciones de café
