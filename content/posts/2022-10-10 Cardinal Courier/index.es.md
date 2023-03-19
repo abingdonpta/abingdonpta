@@ -55,7 +55,7 @@ Nota: Vea y suscríbase al calendario de la PTA en nuestro sitio web [aquí](/ca
 **Qué:** Reunión virtual de membresía general de octubre
 **Dónde:**
 
-> Por razones de seguridad, no compartimos los códigos de reunión de Zoom en nuestro sitio web. [Suscríbase a la edición por correo electrónico de nuestro boletín](https://eepurl.com/inceYc) para asegurarse de recibir los códigos de reunión de la PTA.
+> Por razones de seguridad, no compartimos los códigos de reunión de Zoom en nuestro sitio web. [Suscríbase a la edición por correo electrónico de nuestro boletín](https://us11.list-manage.com/subscribe?u=e8c2877018f64aa7e1fd2e884&id=b884e2a18e) para asegurarse de recibir los códigos de reunión de la PTA.
 
 **Cuándo:** 11 de octubre de 2022 - 7:00 p. m. EST
 Agenda de la reunión: https://www.abingdonpta.org/agendas/2022-10-11/.
@@ -151,7 +151,7 @@ Complete el [formulario de voluntariado de la PTA](https://docs.google.com/forms
 <p style="clear:right;"></p>
 
 - **Girls on the Run** — Estamos interesados ​​en comenzar [Girls on the Run](https://www.girlsontherun.org/) esta primavera. Si tiene interés en apoyar a nuestros estudiantes como entrenador, comuníquese con Ashley Farrugia: ashleybethmccarthy@gmail.com.
-- **School Garden**: para recibir actualizaciones sobre oportunidades de voluntariado en el jardín, [regístrese aquí](https://eepurl.com/incgRE).
+- **School Garden**: para recibir actualizaciones sobre oportunidades de voluntariado en el jardín, [regístrese aquí](https://us10.list-manage.com/subscribe?u=f9c2cb9188c78232702100f91&id=50d30d2a32).
 - **Odisea de la mente**: ¿Le gustaría establecer OotM en Abingdon? Si está interesado, comuníquese con [abingdonelementarypta@gmail.com](mailto:abingdonelementarypta@gmail.com) antes del miércoles 12 de octubre.
 - **La PTA de Educación Especial (SEPTA)** — ¡Necesitamos un enlace de Abingdon! Si está interesado en esta oportunidad de voluntariado, envíe un correo electrónico a abingdonelementarypta@gmail.com o visite: [https://www.arlingtonsepta.org/parent-liasons/](https://www.arlingtonsepta.org/parent-liasons/ ).
 - **Coordinador de Diversidad de la PTA**: la PTA está buscando un Coordinador de Diversidad para colaborar con el Comité de Diversidad, Equidad e Inclusión de Abingdon y el Enlace Familiar Bilingüe de Abingdon. Si está interesado, comuníquese con [abingdonptapresident@gmail.com](mailto:abingdonptapresident@gmail.com).

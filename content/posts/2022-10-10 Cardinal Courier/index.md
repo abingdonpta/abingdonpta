@@ -9,7 +9,7 @@ images:
 booktoc: true
 ---
 
-{{< button href="https://eepurl.com/inceYc" >}}Click here to receive the Cardinal Courier newsletter in your inbox.{{< /button >}}
+{{< button href="https://us11.list-manage.com/subscribe?u=e8c2877018f64aa7e1fd2e884&id=b884e2a18e" >}}Click here to receive the Cardinal Courier newsletter in your inbox.{{< /button >}}
 
 ## President's Message
 
@@ -57,7 +57,7 @@ Note: View and subscribe to the PTA calendar on our website [here](/calendar).
 **What:** October General Membership Virtual Meeting  
 **Where:**
 
-> For security reasons, we do not share Zoom meeting codes on our website. [Please subscribe to the email edition of our newsletter](https://eepurl.com/inceYc) to make sure you receive PTA meeting codes.
+> For security reasons, we do not share Zoom meeting codes on our website. [Please subscribe to the email edition of our newsletter](https://us11.list-manage.com/subscribe?u=e8c2877018f64aa7e1fd2e884&id=b884e2a18e) to make sure you receive PTA meeting codes.
 
 **When:** October 11, 2022 - 7:00 PM EST  
 **Agenda:** https://www.abingdonpta.org/agendas/2022-10-11/.
@@ -153,7 +153,7 @@ Please complete the [PTA's volunteer form](https://docs.google.com/forms/d/e/1FA
 <p style="clear:right;"></p>
 
 - **Girls on the Run** — We are interested in starting [Girls on the Run](https://www.girlsontherun.org/) this spring. If you have interest in supporting our students as a coach, please reach out to Ashley Farrugia: ashleybethmccarthy@gmail.com.
-- **School Garden** — To receive updates about garden volunteer opportunities, [please sign up here](https://eepurl.com/incgRE).
+- **School Garden** — To receive updates about garden volunteer opportunities, [please sign up here](https://us10.list-manage.com/subscribe?u=f9c2cb9188c78232702100f91&id=50d30d2a32).
 - **Odyssey of the Mind** — Would you like to set up OotM at Abingdon? If you're interested, please reach out to [abingdonelementarypta@gmail.com](mailto:abingdonelementarypta@gmail.com) by Wednesday, October 12.
 - **The Special Education PTA (SEPTA)** — We need an Abingdon liaison! If you're interested in this volunteer opportunity, email abingdonelementarypta@gmail.com or visit: [https://www.arlingtonsepta.org/parent-liasons/](https://www.arlingtonsepta.org/parent-liasons/).
 - **PTA Diversity Coordinator** — The PTA is looking for a Diversity Coordinator to collaborate with Abingdon’s Diversity, Equity and Inclusion Committee and Abingdon’s Bilingual Family Liaison. If you are interested, please contact [abingdonptapresident@gmail.com](mailto:abingdonptapresident@gmail.com).

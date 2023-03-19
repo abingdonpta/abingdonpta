@@ -1,6 +1,6 @@
 --- 
 title: International Night
-summary: Abingdon will celebrate International Night on Friday, April 28.
+summary: Abingdon will celebrate International Night on Friday, April 28. We need your participation to make it successful!
 slug: international night
 date: 2023-03-17T06:00:00-04:00
 categories: events

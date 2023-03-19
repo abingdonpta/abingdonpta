@@ -19,7 +19,7 @@ booktoc: true
     }
 </style>
 
-{{< button href="https://eepurl.com/inceYc" >}}Click here to receive the Cardinal Courier newsletter in your inbox.{{< /button >}}
+{{< button href="https://us11.list-manage.com/subscribe?u=e8c2877018f64aa7e1fd2e884&id=b884e2a18e" >}}Click here to receive the Cardinal Courier newsletter in your inbox.{{< /button >}}
 
 ## President's Message
 
@@ -54,7 +54,7 @@ Note: View and subscribe to the PTA calendar on our new website [here](/calendar
 
 You’re invited to our first PTA virtual meeting of the school year on **Monday, September 12 at 7:00 PM**, on Zoom. Come meet our PTA team. Principal Horak will also deliver his monthly report with a question and answer session afterwards. We’ll be asking our General Membership to vote on a few such as our proposed PTA budget. Please review our agenda [here](/agendas/2022-09-12).
 
-> For security reasons, we do not share Zoom meeting codes on our website. [Please subscribe to the email edition of our newsletter](https://eepurl.com/inceYc) to make sure you receive PTA meeting codes.
+> For security reasons, we do not share Zoom meeting codes on our website. [Please subscribe to the email edition of our newsletter](https://us11.list-manage.com/subscribe?u=e8c2877018f64aa7e1fd2e884&id=b884e2a18e) to make sure you receive PTA meeting codes.
 
 ## 🏫 Register for After-School Enrichment Fall Classes
 
@@ -64,7 +64,7 @@ Registration for Fall after-school enrichment classes through Baroody Camps has 
 
 Lifetouch Picture Day order forms were placed in teacher’s mailboxes to be distributed in students’ backpacks this week. If you would prefer to pay online, visit [the Lifetouch site](https://my.lifetouch.com/mylifetouch/#/) and enter Abingdon's Picture Day ID:
 
-> For security reasons, we do not share Lifetouch Picture Day codes on our website. [Please subscribe to the email edition of our newsletter](https://eepurl.com/inceYc) to make sure you receive Lifetouch Picture Day codes.
+> For security reasons, we do not share Lifetouch Picture Day codes on our website. [Please subscribe to the email edition of our newsletter](https://us11.list-manage.com/subscribe?u=e8c2877018f64aa7e1fd2e884&id=b884e2a18e) to make sure you receive Lifetouch Picture Day codes.
 
 ## 📱 Student Directory Coming Soon
 
@@ -90,7 +90,7 @@ Please complete the [PTA's volunteer form](https://docs.google.com/forms/d/e/1FA
 - **Girls on the Run** — We are interested in starting [Girls on the Run](https://www.girlsontherun.org/) this spring. If you have interest in supporting our students as a coach, please reach out to Ashley Farrugia: ashleybethmccarthy@gmail.com.
 - **Phonics Supplies** — Ms. Naomi Holly, reading specialist at Abingdon, will be coordinating volunteers to help label phonics supplies. If you are interested, [please sign up here](https://www.signupgenius.com/go/30e0a44aca72aa5fe3-literacy) or contact naomi.holly@apsva.us.
 - **Laminating Posters** — Ms. Vasthy Delgado, school counselor at Abingdon, is seeking help laminating posters. If you are interested, [please sign up here](https://www.signupgenius.com/go/30e0a44aca72aa5fe3-laminating) or reach out to [vasthy.delgado2@apsva.us](mailto:vasthy.delgado2@apsva.us).
-- **School Garden**  — To receive updates about garden volunteer opportunities, [please sign up here](https://eepurl.com/incgRE).
+- **School Garden**  — To receive updates about garden volunteer opportunities, [please sign up here](https://us10.list-manage.com/subscribe?u=f9c2cb9188c78232702100f91&id=50d30d2a32).
 - **Science Night** — Ms. Renita Upshur, science teacher at Abingdon, is organizing a Science Night at the school on **September 22**. She is in need of volunteers to help with set up, running stations, and taking the stations down. The volunteer time frame is from 5:15 – 7:45 PM. Volunteers need to be 18+ years old. If you are interested, [please sign up here](https://www.signupgenius.com/go/20F0D48AAA62BA5F58-science). If you have any questions, contact Renita.Upshur@apsva.us.
 
 ## ☕ Call for Coffee Donations

@@ -9,7 +9,7 @@ images:
 booktoc: true
 ---
 
-{{< button href="https://eepurl.com/inceYc" >}}Click here to receive the Cardinal Courier newsletter in your inbox.{{< /button >}}
+{{< button href="https://us11.list-manage.com/subscribe?u=e8c2877018f64aa7e1fd2e884&id=b884e2a18e" >}}Click here to receive the Cardinal Courier newsletter in your inbox.{{< /button >}}
 
 ## 📅 Dates
 
@@ -26,7 +26,7 @@ booktoc: true
 - **Who**: Teachers, Parents, Guardians, Students, Community Members
 - **What**: February General Membership Virtual Meeting  
 - **Where:** 
-> For security reasons, we do not share Zoom meeting codes on our website. [Please subscribe to the email edition of our newsletter](https://eepurl.com/inceYc) to make sure you receive PTA meeting codes. 
+> For security reasons, we do not share Zoom meeting codes on our website. [Please subscribe to the email edition of our newsletter](https://us11.list-manage.com/subscribe?u=e8c2877018f64aa7e1fd2e884&id=b884e2a18e) to make sure you receive PTA meeting codes. 
 - **When**: Tuesday, February 21st, 2023, 7:00 PM EST
 - **Why**: We will have a Q&A with Principal Horak, and discuss opportunities to engage with the Abingdon Community. Additionally, virtually meet & greet Abingdon’s Vocal and Instrumental Music Team. Their presentation will provide a brief overview of how our music team support our students, and how you can support your student's learning at home!
 

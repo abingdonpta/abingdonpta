@@ -9,7 +9,7 @@ images:
 booktoc: true
 ---
 
-{{< button href="https://eepurl.com/inceYc" >}}Click here to receive the Cardinal Courier newsletter in your inbox.{{< /button >}}
+{{< button href="https://us11.list-manage.com/subscribe?u=e8c2877018f64aa7e1fd2e884&id=b884e2a18e" >}}Click here to receive the Cardinal Courier newsletter in your inbox.{{< /button >}}
 
 ## President's Message
 
@@ -62,7 +62,7 @@ Registration will open on **Monday, March 13 at 8 AM**. Signups will operate acc
 - **Who**: Teachers, Parents, Guardians, Students, Community Members
 - **What**: March General Membership Virtual Meeting  
 - **Where:** 
-> For security reasons, we do not share Zoom meeting codes on our website. [Please subscribe to the email edition of our newsletter](https://eepurl.com/inceYc) to make sure you receive PTA meeting codes. 
+> For security reasons, we do not share Zoom meeting codes on our website. [Please subscribe to the email edition of our newsletter](https://us11.list-manage.com/subscribe?u=e8c2877018f64aa7e1fd2e884&id=b884e2a18e) to make sure you receive PTA meeting codes. 
 - **When**: Tuesday, March 14, 2023, 7:00 PM EST
 - **Why**: We will have a Q&A with Principal Horak, and discuss opportunities to engage with the Abingdon Community.  Additionally, virtually meet & greet the Abingdon Literacy Team.  Their presentation will provide a brief overview of how our literacy team support our students, and how you can support your student's learning at home!
 

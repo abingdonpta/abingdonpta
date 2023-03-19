@@ -13,7 +13,7 @@ Help us clean up the school garden and plant cover crops. We will also have a sp
 - **When**: Sunday, November 6, 2022 from 2:00 pm – 4:00 pm
 - **Where**: Abingdon Community Garden, next to the school.
 
-To receive updates about garden volunteer opportunities, please [sign up here](https://eepurl.com/incgRE).
+To receive updates about garden volunteer opportunities, please [sign up here](https://us10.list-manage.com/subscribe?u=f9c2cb9188c78232702100f91&id=50d30d2a32).
 
 {{< imagehalf src="images/flyer.webp" alt="Abingdon Community Garden Cleanup flyer in English" >}}
 {{< imagehalf src="images/flyer-es.webp" alt="Abingdon Community Garden Cleanup flyer in Spanish" >}}

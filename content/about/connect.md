@@ -11,7 +11,8 @@ aliases:
 
 There are many ways to stay informed about PTA events and activities.
 
-[<img src="/images/Newsletter.svg" height="20" width="20" alt="Newsletter logo"> Subscribe to our newsletter, the Cardinal Courier.](https://eepurl.com/inceYc)  
+[<img src="/images/Newsletter.svg" height="20" width="20" alt="Newsletter logo"> Subscribe to our newsletter, the Cardinal Courier.](https://us11.list-manage.com/subscribe?u=e8c2877018f64aa7e1fd2e884&id=b884e2a18e)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[📰 Previous newsletters are viewable here.](/categories/newsletters/)  
 [<img src="/images/Twitter.svg" height="20" width="20" alt="Twitter logo"> Follow us on Twitter.](https://twitter.com/AbingdonPTA)  
 [<img src="/images/Facebook.svg" height="20" width="20" alt="Facebook logo"> Follow us on Facebook.](https://www.facebook.com/AbingdonElementaryPTA)  
 [<img src="/images/WhatsApp.svg" height="20" width="20" alt="WhatsApp logo"> Join our WhatsApp groups.](/whatsapp/)  
@@ -19,7 +20,6 @@ There are many ways to stay informed about PTA events and activities.
 [<img src="/images/RSS.svg" height="20" width="20" alt="RSS logo"> Subscribe to our RSS feed.](/posts/index.xml)  
 [<img src="/images/Email.svg" height="20" width="20" alt="Email logo"> Send us an email.](mailto:abingdonelementarypta@gmail.com)  
 <img src="/images/Zoom.svg" height="20" width="20" alt="Zoom logo"> The PTA meets on Zoom monthly. The meeting links are shared in our newsletter.  
-[📰 Previous newsletters are viewable here.](/categories/newsletters/)
 
 Also, if you are able, please:
 

@@ -9,7 +9,7 @@ images:
 booktoc: true
 ---
 
-{{< button href="https://eepurl.com/inceYc" >}}Haga clic aquí para recibir el boletín de Cardinal Courier en su bandeja de entrada.{{< /button >}}
+{{< button href="https://us11.list-manage.com/subscribe?u=e8c2877018f64aa7e1fd2e884&id=b884e2a18e" >}}Haga clic aquí para recibir el boletín de Cardinal Courier en su bandeja de entrada.{{< /button >}}
 
 ## Mensaje del presidente
 
@@ -63,7 +63,7 @@ La inscripción para las clases de enriquecimiento extraescolares de invierno a 
 - **Qué:** Reunión virtual de membresía general de diciembre
 - **Dónde:**
 
-> Por razones de seguridad, no compartimos los códigos de reunión de Zoom en nuestro sitio web. [Suscríbase a la edición por correo electrónico de nuestro boletín](https://eepurl.com/inceYc) para asegurarse de recibir los códigos de reunión de la PTA.
+> Por razones de seguridad, no compartimos los códigos de reunión de Zoom en nuestro sitio web. [Suscríbase a la edición por correo electrónico de nuestro boletín](https://us11.list-manage.com/subscribe?u=e8c2877018f64aa7e1fd2e884&id=b884e2a18e) para asegurarse de recibir los códigos de reunión de la PTA.
 
 - **Cuándo:** 13 de diciembre de 2022 - 7:00 p. m. EST
 - **Por qué**: Tendremos una sesión de preguntas y respuestas con el director Horak y discutiremos oportunidades para participar con la comunidad de Abingdon. Además, el Equipo de Matemáticas guiará a los padres a través de un día en la vida de un estudiante en el Taller de Matemáticas en Abingdon, seguido de algunos consejos para apoyar las matemáticas en el hogar y tiempo para preguntas.
@@ -107,7 +107,7 @@ Complete el [formulario de voluntariado de la PTA](https://docs.google.com/forms
 **Regístrese para nuestras oportunidades de voluntariado:**
 
 - **Club de idioma chino**: ¿Le gustaría ayudar a co-lanzar un club extracurricular en enero que se centre en escribir personajes y aprender sobre la cultura y las tradiciones? Si es así, comuníquese con [abingdonptapresident@gmail.com](mailto:abingdonptapresident@gmail.com).
-- **School Garden**: para recibir actualizaciones sobre oportunidades de voluntariado en el jardín, [regístrese aquí](https://eepurl.com/incgRE).
+- **School Garden**: para recibir actualizaciones sobre oportunidades de voluntariado en el jardín, [regístrese aquí](https://us10.list-manage.com/subscribe?u=f9c2cb9188c78232702100f91&id=50d30d2a32).
 - **Coordinador de Diversidad de la PTA**: la PTA está buscando un Coordinador de Diversidad para colaborar con el Comité de Diversidad, Equidad e Inclusión de Abingdon y el Enlace Familiar Bilingüe de Abingdon. Si está interesado, comuníquese con [abingdonptapresident@gmail.com](mailto:abingdonptapresident@gmail.com).
 - **Traductores** — Estamos buscando voluntarios que puedan traducir volantes de la PTA en los siguientes idiomas: mongol, amárico y árabe. Comuníquese con [abingdonptapresident@gmail.com](mailto:abingdonptapresident@gmail.com) si puede ayudar con este esfuerzo.
 - **Voluntario de copias** — Estamos buscando un voluntario de copias adicional para ayudar a copiar y distribuir volantes en blanco y negro a los buzones de correo de los maestros de clase el lunes por la mañana (en preparación para el correo de mochila de la carpeta del martes). Si desea ayudar, comuníquese con [abingdonptapresident@gmail.com](mailto:abingdonptapresident@gmail.com).
