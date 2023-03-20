@@ -8,31 +8,23 @@ images:
 - /2023/03/17/international-night/images/flyer.webp
 ---
 
-#### Explore the World!
+Abingdon’s Annual International & Cultural Heritage and History Night is COMING! Last year’s event was a huge success thanks to the whole community who brought food and traditions to share, mingled, sang, danced, and volunteered throughout the beautiful night.
 
-Save the Date:
-- **What**: Abingdon International Night  
-- **When**: Friday, April 28, 5:30-7:30 P.M.
-- **Where**: Abingdon Elementary School
+**This year**, we look forward to bringing our community together to celebrate the many various cultures that represent our student and staff population on **April 28th from 5:30 PM-7:30PM**. We are excited to once again “break bread” together and learn traditions from one another. Please use the following [link](http://shorturl.at/wPTX7) to RSVP and let us know if you will be attending. We encourage families to consider sharing a dish from your culture, dress in traditional cultural attire, and invite you to share a cultural performance or tradition with the community. 
 
-#### Food
-Do you LOVE TO COOK food from your home country? Want to share it with the school community?
+This event is a success **only** with your participation. Beyond joining in the fun, we also need **volunteers** to set up, work the event, and clean up at the end of the night. Please consider offering your time!
 
-#### Performances/Facilitation
-Would you like to represent your country at the event with traditional games, dances, activities, or dress attire?
-
-#### Connections
-Do you know any traditional dancers or entertainment acts? Put us in touch with your connection!
-
-WE CAN'T WAIT TO HEAR FROM YOU! A SUCCESSFUL EVENT NEEDS YOUR PARTICIPATION!
+- Do you LOVE TO COOK food from your home country? Want to share it with the school community?
+- Would you like to represent your country at the event with traditional games, dances, activities, or dress attire?
+- Do you know any traditional dancers or entertainment acts? Put us in touch with your connection!
 
 CONTACT US:
 
 Meredith Greene  
-MEREGREENE5@GMAIL.COM  
+meregreene5@gmail.com  
 703-216-5215
 
-<a href="images/flyer.jpeg"><img src="images/flyer.jpeg" alt="International Night flyer" height="637" width="492"></a><!--{{< imagehalf src="images/flyer.webp" alt="International Night flyer in English" >}}-->
+{{< imagehalf src="images/flyer.webp" alt="International Night flyer in English" >}}
 {{< imagehalf src="images/flyer-es.webp" alt="International Night flyer in Spanish" >}}
 {{< imagehalf src="images/flyer-ar.webp" alt="International Night flyer in Arabic" >}}
 {{< imagehalf src="images/flyer-mn.webp" alt="International Night flyer in Mongolian" >}}
