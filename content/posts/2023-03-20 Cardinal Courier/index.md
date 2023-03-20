@@ -1,8 +1,8 @@
 ---
-title: Cardinal Courier — March 20, 2023
-summary: The Cardinal Courier newsletter for March 20, 2023.
+title: Cardinal Courier — March 21, 2023
+summary: The Cardinal Courier newsletter for March 21, 2023.
 slug: cardinal courier
-date: 2023-03-20T05:00:00-04:00
+date: 2023-03-21T05:00:00-04:00
 categories: newsletters
 images: 
 - /share/pta.png
