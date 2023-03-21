@@ -32,7 +32,7 @@ booktoc: true
 
 Este evento es un éxito **solo** con tu participación. Más allá de unirnos a la diversión, también necesitamos **voluntarios** para organizar, trabajar en el evento y limpiar al final de la noche. ¡Por favor considere ofrecer su tiempo!
 
-{{< imagefulltoc src="images/in-flyer.webp" alt="Folleto de la Noche Internacional" >}}
+{{< imagefulltoc src="images/in-flyer-es.webp" alt="Folleto de la Noche Internacional" >}}
 
 ### 🙋 Nominaciones para el liderazgo de la PTA 2023-2024
 
