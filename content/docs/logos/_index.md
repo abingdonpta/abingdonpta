@@ -47,14 +47,23 @@ Project GIFT originated sometime before 2007, when it stood for "Gaining Instruc
 
 | Type | PNG | JPG | Original |
 | ---- | --- | --- | -------- |
-| Gaining Instruction, Fostering Talents | [PNG](old/Abingdon-GIFT-logo.png) | | Unknown |
-| Guiding Instruction through Fine Arts and Technology | | [JPG](old/Abingdon-GIFT-logo-2014.jpg) | [JPG](https://s3.amazonaws.com/aps-legacy-site/cms/lib2/VA01000586/Centricity/Domain/185/GIFT%20Logo%20-%20NEW%202014%20.jpg)
+| Gaining Instruction, Fostering Talents | [PNG](Abingdon-GIFT-logo.png) | | Unknown |
+| Guiding Instruction through Fine Arts and Technology | | [JPG](Abingdon-GIFT-logo-2014.jpg) | [JPG](https://s3.amazonaws.com/aps-legacy-site/cms/lib2/VA01000586/Centricity/Domain/185/GIFT%20Logo%20-%20NEW%202014%20.jpg)
+
+## CETA Logo
+
+Abingdon participates in the CETA (Changing Education through the Arts) program with the Kennedy Center. We might use this logo for a meeting flyer once in awhile. No known vector file exists for this logo.
+
+| Type | PNG | Original |
+| ---- | --- | -------- |
+| CETA | [PNG](CETA.png) | [Original](https://s3.amazonaws.com/aps-legacy-site/cms/lib2/VA01000586/Centricity/Domain/191/CETA.png) |
+| CETA B&W | [PNG](CETA-bw.png) | |
 
 ## Abingdon Loves Reading Image
 
-The images below were made by a PTA volunteer and graphic artist, Lindsey Smith, in 2018 for Read-a-thon.
+The images below were made by a PTA volunteer and graphic artist, Lindsey Smith, in January 2018 for Read-a-thon.
 
 | Type | SVG | PNG | Original |
 | ---- | --- | --- | -------- |
-| Color | [SVG](old/AbingdonLovesReading.svg) | [PNG](old/AbingdonLovesReading.png) | [EPS](old/AbingdonLovesReading.eps) |
-| B&W | [SVG](old/AbingdonLovesReading_BWVersion.svg) | [PNG](old/AbingdonLovesReading_BWVersion.png) | [EPS](old/AbingdonLovesReading_BWVersion.eps) |
+| Color | [SVG](AbingdonLovesReading.svg) | [PNG](AbingdonLovesReading.png) | [EPS](AbingdonLovesReading.eps) |
+| B&W | [SVG](AbingdonLovesReading_BWVersion.svg) | [PNG](AbingdonLovesReading_BWVersion.png) | [EPS](AbingdonLovesReading_BWVersion.eps) |
