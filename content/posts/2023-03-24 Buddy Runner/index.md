@@ -21,7 +21,7 @@ Non-running volunteers are also needed on 5K day. GOTR NOVA will need people to 
 
 Anyone can register, so share widely and let us know if you have any questions. Thank you!
 
-[Further information from Girls on the Run:](https://www.pinwheel.us/mail/clientstorage/file/28c1d9f4-f970-e311-8022-00155d40ddc3/Fall%202022%20Buddy%20Runner%20Packet.pdf)
+Further information from Girls on the Run:
 
 > **Why do we have Buddy Runners?**
 >
