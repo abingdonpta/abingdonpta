@@ -21,4 +21,18 @@ Non-running volunteers are also needed on 5K day. GOTR NOVA will need people to 
 
 Anyone can register, so share widely and let us know if you have any questions. Thank you!
 
+[Further information from Girls on the Run:](https://www.pinwheel.us/mail/clientstorage/file/28c1d9f4-f970-e311-8022-00155d40ddc3/Fall%202022%20Buddy%20Runner%20Packet.pdf)
+
+> **Why do we have Buddy Runners?**
+>
+> At Girls on the Run of Northern Virginia, we want all of our Girls on the Run and Heart & Sole participants to have a positive 5K experience at the end of their 10-week programs. By the time they get to the 5K, the girls have hopefully developed the skills they need to be confident, happy, and healthy as they navigate future life challenges.
+>
+> For many of them, the Girls on the Run 5K event is their first 5K. We expect large crowds with more than 2,000 runners at each event day. Buddy Runners provide support and encouragement as the girls participate in the 5K events.
+>
+> **What is the role of a Buddy Runner?**
+>
+> Buddy Runners are able to focus on one specific participant and their personal goals, ensuring they have a positive experience of healthy goal setting and achievement - a lesson we hope will stay with them long after they cross this finish line.
+
+<!--
 ![Girls on the Run buddy runner information](images/flyer.webp)
+-->

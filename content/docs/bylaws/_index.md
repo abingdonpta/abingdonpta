@@ -69,7 +69,7 @@ The following are basic principles of this local PTA/PTSA in common with those o
 1. Submit proof of insurance to the Virginia PTA, as prescribed by the Virginia PTA, by June 15 annually.  
 *Proviso: For 2022, the deadline for submitting proof of insurance to the Virginia PTA is October 1, 2022.*
 1. Remit the Virginia PTA and National PTA portion of the dues to the Virginia PTA by the dates designated in these bylaws.
-1. Provide membership list with contact information, in accordance with the requirements under Chapter 10, Article 15, **Section 13.**1-932(C) of the Virginia Nonstock Corporation Act (1950), as amended ("Act"), for those who have joined the association during the reporting period as prescribed by the Virginia PTA.
+1. Provide membership list with contact information, in accordance with the requirements under Chapter 10, Article 15, Section 13.1-932(C) of the Virginia Nonstock Corporation Act (1950), as amended ("Act"), for those who have joined the association during the reporting period as prescribed by the Virginia PTA.
 1. Meet other criteria as shall be prescribed by the Virginia PTA.
 
 **Section 4.** The adoption of an amendment to any provision of the bylaws of National PTA or Virginia PTA shall serve automatically and without the requirement of further action by the local PTA/PTSA to amend correspondingly the bylaws of the local PTA/PTSA.
