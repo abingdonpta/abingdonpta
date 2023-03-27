@@ -13,16 +13,17 @@ The PTA requested and obtained the current Abingdon Cardinal logo from an APS gr
 
 | Type | SVG | PNG | Original |
 | ---- | --- | --- | -------- |
-| Color | [SVG](/logos/Abingdon-Cardinal-logo.svg) | [PNG](/logos/Abingdon-Cardinal-logo.png) | [Adobe Illustrator](/logos/Abingdon-remastered.ai) |
-| B&W | [SVG](/logos/Abingdon-Cardinal-logo-BW.svg) | [PNG](/logos/Abingdon-Cardinal-logo-BW.png) |
+| Color | [SVG](Abingdon-Cardinal-logo.svg) | [PNG](Abingdon-Cardinal-logo.png) | [Adobe Illustrator](Abingdon-remastered.ai) |
+| B&W | [SVG](Abingdon-Cardinal-logo-BW.svg) | [PNG](Abingdon-Cardinal-logo-BW.png) |
 
 ## Current PTA Logo
 
-A PTA volunteer (Dan Burd) created the PTA logo below in 2022, made to look like the [original logo provided by the Virginia PTA](https://www.vapta.org/images/logos/A/abingdonelem.jpg) but at a better resolution and with improved cropping.
+A PTA volunteer (Dan Burd) created the PTA logo below before April 2022, made to look like the [original logo provided by the Virginia PTA](https://www.vapta.org/images/logos/A/abingdonelem.jpg) but at a better resolution and with improved cropping. Dan also created the Spanish logo in March 2023, which combines the existing English logo and the Spanish section from the [National PTA's resource page](https://www.pta.org/home/run-your-pta/PTA-Branding-and-Web-Guidelines). (Note that "cada niño. una voz.®" is sourced from the PTA's raster file as no vector image is apparently available, and it's not clear what font tthe PTA used.)
 
 | Type | SVG | PNG | Original |
 | ---- | --- | --- | -------- |
-| PTA Logo | [SVG](/logos/Abingdon-PTA-logo.svg) | [PNG](/logos/Abingdon-PTA-logo.png) | [JPEG](/logos/abingdonelem.jpg) |
+| English | [SVG](Abingdon-PTA-logo.svg) | [PNG](Abingdon-PTA-logo.png) | [Original SVG](https://brandslogos.com/wp-content/uploads/images/large/national-pta-logo-vector.svg) |
+| Spanish | [SVG](Abingdon-PTA-logo-es.svg) | [PNG](Abingdon-PTA-logo-es.png) | [Original PNG](original-spanish.png) |
 
 ## Old Cardinal Logos
 

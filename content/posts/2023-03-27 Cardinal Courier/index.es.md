@@ -5,7 +5,7 @@ slug: cardinal courier
 date: 2023-03-27T05:00:00-04:00
 categories: newsletters
 images: 
-- /share/pta.png
+- /share/pta-es.png
 booktoc: true
 ---
 
@@ -21,16 +21,16 @@ En otras noticias, marque su calendario para la Noche Internacional de Abingdon,
 
 Juntos, han ayudado a marcar una diferencia monumental con la PTA de Abingdon al fortalecer nuestra conexión entre el hogar y la escuela. Nuestra organización está dirigida por voluntarios que ayudan a marcar la diferencia. Lo animo a [comuníquese con nuestro comité de nominaciones para enviar una solicitud para un puesto de funcionario](https://docs.google.com/forms/d/e/1FAIpQLScPl5b8CzjnBYOVNXnR33plv3YKtS6cpMw67xFKSorHwZ7i5g/viewform?usp=share_link) para el período 2023-2024. año escolar. Para que la PTA de Abingdon funcione, necesitaremos un presidente, un tesorero y un secretario para el próximo año escolar.
 
-Manténgase comprometido y conectado mientras seguimos defendiendo a nuestros Cardinals: [**Facebook**](https://www.facebook.com/AbingdonElementaryPTA), [**Twitter**](https://twitter.com/AbingdonPTA ), [**www.abingdonpta.org**](https://www.abingdonpta.org/) y [**grupos de WhatsApp**](https://www.abingdonpta.org/whatsapp/). Comuníquese conmigo en [abingdonptapresident@gmail.com](mailto:abingdonptapresident@gmail.com) con cualquier pregunta o comentario. Gracias por ayudar a nuestros Cardinals a volar.
+Manténgase comprometido y conectado mientras seguimos defendiendo a nuestros Cardinals: [**Facebook**](https://www.facebook.com/AbingdonElementaryPTA), [**Twitter**](https://twitter.com/AbingdonPTA), [**www.abingdonpta.org**](https://www.abingdonpta.org/) y [**grupos de WhatsApp**](https://www.abingdonpta.org/whatsapp/). Comuníquese conmigo en [abingdonptapresident@gmail.com](mailto:abingdonptapresident@gmail.com) con cualquier pregunta o comentario. Gracias por ayudar a nuestros Cardinals a volar.
 
 Ramadán Mubarak a nuestras familias.
 
 Con agradecimiento,
-sharon burd
+Sharon Burd
 
 ## 📅 Guarda las fechas
 
-- **27 de marzo** (6:00-7:00 p. m.): [Noche técnica de Abingdon (para padres de estudiantes en los grados 3-5)](https://www.abingdonpta.org/2023/03/02 /noche-tecnológica/)
+- **27 de marzo** (6:00-7:00 p. m.): [Noche técnica de Abingdon (para padres de estudiantes en los grados 3-5)](https://www.abingdonpta.org/2023/03/02/tech-night/)
 - **3-7 de abril**: Vacaciones de primavera
 - **4 de abril**: cierre de donaciones para el maratón de lectura
 - **10 de abril**: No hay clases (Preparación de grado)
@@ -54,7 +54,7 @@ Esta primavera nuestro jardín escolar se acercará a su 32 aniversario. Organiz
 ¡El equipo de Abingdon Girls on the Run ha tenido un gran comienzo ya que comenzamos nuestra temporada de reingreso en Abingdon! Nuestros estudiantes y entrenadores disfrutan de establecer metas estelares, conocerse unos a otros, aprender a ser fuertes e independientes y practicar nuestra forma de correr. ¡Hemos sido confirmados para nuestro 5K!
 
 - CUÁNDO: Domingo 21 de mayo a las 8:30 am
-- DÓNDE: Escuela independiente BASIS, [8000 Jones Branch Drive, McLean VA, 22012](https://www.google.com/maps/search/?api=1&query=Basis+Independent+McLean+8000+Jones+Branch+ Dr+22102&destination_place_id=ChIJPzARhZZKtokRwLV5jHcohiE)
+- DÓNDE: Escuela independiente BASIS, [8000 Jones Branch Drive, McLean VA, 22012](https://www.google.com/maps/search/?api=1&query=Basis+Independent+McLean+8000+Jones+Branch+Dr+22102&destination_place_id=ChIJPzARhZZKtokRwLV5jHcohiE)
 
 Cada estudiante de GOTR necesitará un 'corredor amigo', que es un adulto para correr el curso con ellos. Por favor, considere unirse como corredor de amigos. Muchos miembros de la familia o amigos se unirán a sus estudiantes GOTR específicos, pero algunas niñas no tendrán un adulto con el que puedan correr. Alentamos a nuestra comunidad de Abingdon a registrarse para correr y apoyar. Si está interesado, comuníquese con Ashley Farrugia ([ashleybethmccarthy@gmail.com](mailto:ashleybethmccarthy@gmail.com)) o Erin Mahaffey ([eemahaffey@gmail.com](mailto:eemahaffey@gmail.com)) .
 

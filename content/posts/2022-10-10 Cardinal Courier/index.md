@@ -5,7 +5,7 @@ slug: cardinal courier
 date: 2022-10-10T05:00:00-04:00
 categories: newsletters
 images: 
-- /2022/10/10/cardinal-courier/images/IMG_0981.jpg
+- /share/pta.png
 booktoc: true
 ---
 

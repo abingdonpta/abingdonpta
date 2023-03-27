@@ -5,7 +5,7 @@ slug: cardinal courier
 date: 2022-12-07T05:00:00-05:00
 categories: newsletters
 images: 
-- /share/pta.png
+- /share/pta-es.png
 booktoc: true
 ---
 

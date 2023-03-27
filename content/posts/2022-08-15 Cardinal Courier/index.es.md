@@ -5,7 +5,7 @@ slug: cardinal courier
 date: 2022-08-15T05:00:00-04:00
 categories: newsletters
 images: 
-- /2022/08/15/cardinal-courier/images/Cardi-1.jpg
+- /share/pta-es.png
 booktoc: true
 ---
 
