@@ -9,7 +9,7 @@ aliases:
 
 ## Current Cardinal Logos
 
-The PTA requested and obtained the current Abingdon Cardinal logo from an APS graphic designer (Sara Daniel) in December 2021.
+A PTA volunteer (Sharon Burd) requested and obtained the current Abingdon Cardinal logo from an APS graphic designer (Sara Daniel) in December 2021.
 
 | Type | SVG | PNG | Original |
 | ---- | --- | --- | -------- |
@@ -18,7 +18,7 @@ The PTA requested and obtained the current Abingdon Cardinal logo from an APS gr
 
 ## Current PTA Logo
 
-A PTA volunteer (Dan Burd) created the PTA logo below before April 2022, made to look like the [original logo provided by the Virginia PTA](https://www.vapta.org/images/logos/A/abingdonelem.jpg) but at a better resolution and with improved cropping. Dan also created the Spanish logo in March 2023, which combines the existing English logo and the Spanish section from the [National PTA's resource page](https://www.pta.org/home/run-your-pta/PTA-Branding-and-Web-Guidelines). (Note that "cada niño. una voz.®" is sourced from the PTA's raster file as no vector image is apparently available, and it's not clear what font tthe PTA used.)
+A PTA volunteer (Dan Burd) created the PTA logo below before April 2022, made to look like the [original logo provided by the Virginia PTA](https://www.vapta.org/images/logos/A/abingdonelem.jpg) but at a better resolution and with improved cropping. Dan also created the Spanish logo in March 2023, which combines the existing English logo and the Spanish section from the [National PTA's resource page](https://www.pta.org/home/run-your-pta/PTA-Branding-and-Web-Guidelines). (Note that "cada niño. una voz.®" is sourced from the PTA's raster file as no vector image is apparently available, and it's not clear what font the PTA used.)
 
 | Type | SVG | PNG | Original |
 | ---- | --- | --- | -------- |
@@ -36,7 +36,7 @@ A PTA volunteer (Vickie Spindler) created the two Abingdon Cardinal logos below 
 
 ## Original Cardinal Logo
 
-The 2014 logos above were based off of a design used by a T-shirt company to create Spirit Gear for the PTA sometime between 2011 and 2014, although either the company either wouldn't provide the logo file or the PTA didn't request it. That, in turn, was based off of a "thumbs up" cardinal image from the website iStock, which the PTA (Andrew Vitols) purchased from iStock in September 2014 in order to ensure that the PTA had the rights to it before creating the logo files above. (There are other schools that use this logo - they presumably got it from iStock rather than copying Abingdon.)
+The 2014 logos above were based off of a design used by a T-shirt company (LA Tee) to create Spirit Gear for the PTA sometime between 2011 and 2014, although either the company either wouldn't provide the logo file or the PTA didn't request it. That, in turn, was based off of a "thumbs up" cardinal image from the website iStock, which the PTA (Andrew Vitols) purchased from iStock in September 2014 in order to ensure that the PTA had the rights to it before creating the logo files above. (There are other schools that use this logo - they presumably got it from iStock rather than copying Abingdon.)
 
 | Type | SVG | PNG | Original |
 | ---- | --- | --- | -------- |
@@ -62,7 +62,7 @@ Abingdon participates in the CETA (Changing Education through the Arts) program 
 
 ## Abingdon Loves Reading Image
 
-The images below were made by a PTA volunteer and graphic artist, Lindsey Smith, in January 2018 for Read-a-thon.
+The images below were made by a PTA volunteer and graphic artist (Lindsey Smith) in January 2018 for Read-a-thon.
 
 | Type | SVG | PNG | Original |
 | ---- | --- | --- | -------- |
