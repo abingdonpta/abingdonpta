@@ -35,4 +35,4 @@ booktoc: true
 
 ## Old PTA websites
 - [2015-2022 website](https://abingdonptacommuni.wixsite.com/abingdonpta)
-- [2009-2012 website](https://sites.google.com/site/abingdonpta/home)
+- [2009-2012 website](https://web.archive.org/web/20230307213729/https://sites.google.com/site/abingdonpta/home)

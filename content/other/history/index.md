@@ -159,11 +159,13 @@ The documents below reveal important information about what Abingdon was like in
 | 1949-10-29 | [Arlington Library](https://libraryarchives.arlingtonva.us/Detail/collections/1096) | Speeches and flyers for Abingdon's groundbreaking ceremony. | [PDF](pdf/abingdon-groundbreaking.pdf) |
 | 1957-1958 | [Arlington Library](https://ead.lib.virginia.edu/vivaxtf/view?docId=arlington/ViAr00169.xml) | Handbook for Abingdon parents. | [PDF](pdf/parent-handbook-1957-1958.pdf) |
 | 1958-1975 | [Arlington Library](https://ead.lib.virginia.edu/vivaxtf/view?docId=arlington/ViAr00169.xml) | Reports and other documents from Abingdon nurses. | [PDF](pdf/nurse-file.pdf) |
-| 1968 | [Arlington Library](https://libcat.arlingtonva.us/Record/10555) | Architectural and mechanical report for proposed additions and alterations to Oakridge and Abingdon elementary schools. | [PDF](pdf/Addition%20Plan%201968.pdf) |
-| 1971-03 | Arlington Library | A history of Abingdon Elementary. | [PDF](pdf/Abingdon%20Elementary%20History.pdf) |
+| 1968 | [Arlington Library](https://libcat.arlingtonva.us/Record/10555) | Architectural and mechanical report for proposed additions and alterations to Oakridge and Abingdon elementary schools. | [PDF](pdf/addition-plan-1968.pdf) |
+| 1971-03 | Arlington Library | A history of Abingdon Elementary. | [PDF](pdf/abingdon-elementary-history.pdf) |
 | 1985-04-01 | Fairlington resident | The Fairlington Civic Association newsletter documenting the construction of the new Abingdon playground. | [PDF](pdf/playground-fca-bulletin.pdf) |
 | 1985-04-18 | Fairlington resident | Pamphlets describing the construction effort of the new Abingdon playground. | [PDF](pdf/playground-pamphlets.pdf) |
 | 1985-05-04 | Fairlington resident | A document dedicating the Abingdon playground constructed by the community. | [PDF](pdf/playground-dedication.pdf) |
+| 1985 | Abingdon archives | Documents from scrapbook detailing the construction of the new playground | [PDF1](pdf/1980s-playground-scrapbook-1.pdf) [PDF2](pdf/1980s-playground-scrapbook-2.pdf) |
+| 2009-2011 | Abingdon PTA | Little Bird PTA Newsletters for September 2009 to April 2011. | [PDF](pdf/little-bird.pdf) |
 
 ## Other Information
 

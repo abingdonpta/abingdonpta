@@ -34,7 +34,7 @@ Please [fill out our volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSf
 | [🎨 Reflections](/roles/#-reflections) | Mary Savig |
 | [🏃‍♀️ Girls on the Run](/roles/#-girls-on-the-run) | Ashley Farrugia<br>Erin Mahaffey |
 | [👩‍💻 Cardinal Coding Club](/roles/#-cardinal-coding-club) | Molly Fisher |
-| [🧧 Cardinal Chinese Club](/roles/#-cardinal-chinese-club) | Sharon Burd |
+| [🧧 Cardinal Chinese Club](/roles/#-cardinal-chinese-club) | Sharon Burd<br>Boae Kim<br>Kim Chi Crittenden |
 | [🧠 Odyssey of the Mind](/roles/#-odyssey-of-the-mind) |
 
 There are other educational programs available to elementary school students, like [🔬 Science Olympiad](https://www.soinc.org/), with which Abingdon has little or no participation experience; however, the PTA could support Abingdon's participation provided that we have a motivated volunteer.
