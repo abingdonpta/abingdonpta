@@ -44,7 +44,7 @@ There are other educational programs available to elementary school students, li
 | Role | Coordinator |
 |-|-|
 | [💸 Retail Rebates](/roles/#-retail-rebates) |
-| [👕 Spirit Gear](/roles/#-spirit-gear) |
+| [👕 Spirit Gear](/roles/#-spirit-gear) | Ashley McCarthy<br>Meredith Greene |
 | [✏️ Edukit](/roles/#-edukit) | Samantha Levine-Finley |
 | [📸 School Pictures](/roles/#-school-pictures) |
 | [📚 Read-A-Thon](/roles/#-read-a-thon) | Clare Rosenberger |

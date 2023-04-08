@@ -164,7 +164,7 @@ The documents below reveal important information about what Abingdon was like in
 | 1985-04-01 | Fairlington resident | The Fairlington Civic Association newsletter documenting the construction of the new Abingdon playground. | [PDF](pdf/playground-fca-bulletin.pdf) |
 | 1985-04-18 | Fairlington resident | Pamphlets describing the construction effort of the new Abingdon playground. | [PDF](pdf/playground-pamphlets.pdf) |
 | 1985-05-04 | Fairlington resident | A document dedicating the Abingdon playground constructed by the community. | [PDF](pdf/playground-dedication.pdf) |
-| 1985 | Abingdon archives | Documents from scrapbook detailing the construction of the new playground | [PDF1](pdf/1980s-playground-scrapbook-1.pdf) [PDF2](pdf/1980s-playground-scrapbook-2.pdf) |
+| 1985 | Abingdon archives | Documents from scrapbook detailing the construction of the new playground. | [PDF1](pdf/1980s-playground-scrapbook-1.pdf) [PDF2](pdf/1980s-playground-scrapbook-2.pdf) |
 | 2009-2011 | Abingdon PTA | Little Bird PTA Newsletters for September 2009 to April 2011. | [PDF](pdf/little-bird.pdf) |
 
 ## Other Information
@@ -275,7 +275,7 @@ Abingdon's librarian, Meghan Fatouros, provided the PTA with a box of old docume
 {{< photohalftoc src="images/70s-album-15-01.webp" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
 {{< photohalftoc src="images/70s-album-15-02.webp" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
 
-### Playground Construction Photos
+### 1985 Playground Construction Photos
 
 The photos below show the construction of the "Leathers Playground" in April 1985. The playground was designed by Robert Leathers, a celebrity playground architect whose designs were constructed over multiple days by hundreds of community volunteers. ([The Washington Post published an article describing some of Abingdon's planning efforts.](https://www.washingtonpost.com/archive/local/1984/11/07/volunteers-work-is-childs-play/ca319fea-11f5-4f64-befd-271dce5697f9/))
 
@@ -291,3 +291,206 @@ The photos were provided by Terry Placek, who served on the construction team's 
 {{< photohalftoc src="images/80s-construction-08.webp" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
 {{< photohalftoc src="images/80s-construction-09.webp" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
 {{< photohalftoc src="images/80s-construction-10.webp" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
+
+### 1991 Renovations and Guest Readers
+
+Abingdon's librarian, Meghan Fatouros, provided the PTA with a box of old documents and photos. Among these were three rolls of film from about 1991 which show a renovation/addition to the school being built, as well as visitors reading to students.
+
+{{< photohalftoc src="images/film1-1-1.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film1-1-2.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film1-1-3.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film1-2-1.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film1-2-2.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film1-2-3.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film1-2-4.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film1-3-4.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film1-3-1.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film1-3-2.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film1-3-3.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film1-4-1.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film1-4-2.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film1-4-3.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film1-4-4.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film1-5-1.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film1-5-2.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film1-6-1.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film1-6-2.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film1-6-3.webp" alt="A scanned film photo from about 1991." >}}<!--{{< photohalftoc src="images/film1-7-1.webp" alt="A scanned film photo from about 1991." >}}--><!--{{< photohalftoc src="images/film1-7-2.webp" alt="A scanned film photo from about 1991." >}}-->
+{{< photohalftoc src="images/film1-7-3.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film1-7-4.webp" alt="A scanned film photo from about 1991." >}}<!--{{< photohalftoc src="images/film2-1-1.webp" alt="A scanned film photo from about 1991." >}}--><!--{{< photohalftoc src="images/film2-1-2.webp" alt="A scanned film photo from about 1991." >}}--><!--{{< photohalftoc src="images/film2-1-3.webp" alt="A scanned film photo from about 1991." >}}-->
+{{< photohalftoc src="images/film1-6-4.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film2-2-1.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film2-2-2.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film2-3-1.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film2-3-2.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film2-4-1.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film2-4-2.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film2-5-1.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film2-5-2.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film2-5-3.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film2-5-4.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film2-6-1.webp" alt="A scanned film photo from about 1991." >}}<!--{{< photohalftoc src="images/film2-6-2.webp" alt="A scanned film photo from about 1991." >}}-->
+{{< photohalftoc src="images/film2-6-3.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film2-6-4.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film2-7-1.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film2-7-2.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film2-7-3.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film2-7-4.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film2-8-1.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film2-8-2.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film2-8-3.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film2-8-4.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-1-1.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-1-4.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-2-1.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-2-2.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-2-3.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-2-4.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-3-1.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-3-2.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-3-3.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-3-4.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-4-1.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-4-2.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-4-3.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-4-4.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-5-1.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-5-2.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-5-3.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-5-4.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-6-3.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-6-4.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-7-1.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-7-2.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-7-3.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-7-4.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-8-1.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-8-2.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-8-3.webp" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-8-4.webp" alt="A scanned film photo from about 1991." >}}<!--{{< photohalftoc src="images/film3-9-1.webp" alt="A scanned film photo from about 1991." >}}--><!--{{< photohalftoc src="images/film3-9-2.webp" alt="A scanned film photo from about 1991." >}}--><!--{{< photohalftoc src="images/film3-9-3.webp" alt="A scanned film photo from about 1991." >}}-->
+
+### Mid 1990's Classroom
+
+Abingdon's librarian, Meghan Fatouros, provided the PTA with a box of old documents and photos. Among these was were undated classroom photos, likely from the mid-1990's.
+
+{{< photohalftoc src="images/90s-kodak-0001.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/90s-kodak-0002.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/90s-kodak-0003.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/90s-kodak-0004.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/90s-kodak-0005.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/90s-kodak-0006.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/90s-kodak-0007.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/90s-kodak-0008.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/90s-kodak-0009.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/90s-kodak-0010.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/90s-kodak-0011.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/90s-kodak-0012.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/90s-kodak-0013.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/90s-kodak-0014.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/90s-kodak-0015.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/90s-kodak-0016.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/90s-kodak-0017.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/90s-kodak-0018.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/90s-kodak-0020.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/90s-kodak-0021.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/90s-kodak-0022.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/90s-kodak-0023.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/90s-kodak-0019.webp" alt="A photo from the 1990's." >}}
+
+### October 1994 Classroom
+
+Abingdon's librarian, Meghan Fatouros, provided the PTA with a box of old documents and photos. Among these were classroom photos from film developed in October 1994.
+
+{{< photohalftoc src="images/94-oct-0001.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/94-oct-0002.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/94-oct-0003.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/94-oct-0004.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/94-oct-0005.webp" alt="A photo from the 1990's." >}}<!--{{< photohalftoc src="images/94-oct-0006.webp" alt="A photo from the 1990's." >}}-->
+{{< photohalftoc src="images/94-oct-0007.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/94-oct-0008.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/94-oct-0009.webp" alt="A photo from the 1990's." >}}<!--{{< photohalftoc src="images/94-oct-0010.webp" alt="A photo from the 1990's." >}}{{< photohalftoc src="images/94-oct-0011.webp" alt="A photo from the 1990's." >}}{{< photohalftoc src="images/94-oct-0012.webp" alt="A photo from the 1990's." >}}-->
+
+### September 1995 Outdoor Lab and Field Trip
+
+Abingdon's librarian, Meghan Fatouros, provided the PTA with a box of old documents and photos. Among these were photos developed in September 1995 showing a trip to the Outdoor Lab, and likely to a historical site as well.
+
+{{< photohalftoc src="images/95-sep-0001.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0002.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0003.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0004.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0005.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/misc0001.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/misc0002.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/misc0003.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/misc0004.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0006.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0007.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0008.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0009.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0010.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0011.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0012.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0013.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0014.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0015.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0016.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0017.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0018.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0019.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0020.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0021.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0022.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0023.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0024.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0025.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0026.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0027.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0028.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0029.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0030.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0031.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0032.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0033.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0034.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0035.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0036.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0037.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0038.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0039.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0040.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0041.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0042.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0043.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0044.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0045.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0046.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0047.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0048.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0049.webp" alt="A photo from the 1990's." >}}
+
+### March 1996 Military Equipment
+
+Abingdon's librarian, Meghan Fatouros, provided the PTA with a box of old documents and photos. Among these were photos developed in March 1996 show students trying on military equipment for some reason, as well as a couple of playground photos.
+
+{{< photohalftoc src="images/96-mar-0001.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/96-mar-0002.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/96-mar-0003.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/96-mar-0004.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/96-mar-0005.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/96-mar-0006.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/96-mar-0007.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/96-mar-0008.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/96-mar-0009.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/96-mar-0010.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/96-mar-0011.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/96-mar-0012.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/96-mar-0013.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/96-mar-0014.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/96-mar-0015.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/96-mar-0016.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/96-mar-0017.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/96-mar-0018.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/96-mar-0019.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/96-mar-0020.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/96-mar-0021.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/96-mar-0022.webp" alt="A photo from the 1990's." >}}
