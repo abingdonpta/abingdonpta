@@ -25,7 +25,7 @@ The Program includes a FREE catered dinner and childcare for younger children. P
 - **When**: First day is Thursday, April 13th, 2023, from 5:30pm to 8:00pm
 - **Where**: Gunston Middle School, [2700 S Lang St, Arlington, VA 22206](https://www.google.com/maps/search/?api=1&query=Gunston+Middle+School+2700+S+Lang+St+22206&query_place_id=ChIJaWzzrDKxt4kReAW6LVL_qeA)
 
-Interested families may [sign up here.](https://docs.google.com/forms/d/e/1FAIpQLSf2EqNLB1m0M8afbcKgn1i9YWFwiTwsHKf92TKWYCQgbmi2fw/viewform)
+More information [is available here](https://www.arlingtonva.us/Government/Departments/DHS/Child-Family-Services/SFP). Interested families may [sign up here](https://docs.google.com/forms/d/e/1FAIpQLSf2EqNLB1m0M8afbcKgn1i9YWFwiTwsHKf92TKWYCQgbmi2fw/viewform).
 
 {{< imagehalf src="images/flyer.webp" alt="Strengthening Families flyer" >}}
 {{< imagehalf src="images/flyer-es.webp" alt="Strengthening Families flyer in Spanish" >}}
