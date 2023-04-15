@@ -167,17 +167,9 @@ The Spirit Night Coordinator works with local restaurants to schedule the fundra
 
 ### 🤝 Sponsorships
 
-The PTA seeks corporate sponsorships from local businesses and institutions. These could be in the form of money, gift cards, or a tangible object that would support school programs (like a garden shed).
+The PTA seeks sponsorships and grants from local businesses and institutions. These could be in the form of money, gift cards, or a tangible object that would support school programs (like a garden shed).
 
 - **Location**: Home and around the community
-- **Time of day**: Any
-- **Months**: Year-round
-
-### 📜 Grants
-
-There are many organizations in our area and around the country that provide grants to PTA's like our own, often for specific purposes or to meet targeted needs. Our PTA would benefit from someone who has the time to research grant opportunities and draft applications.
-
-- **Location**: Home
 - **Time of day**: Any
 - **Months**: Year-round
 
@@ -410,6 +402,12 @@ The Yearbook Coordinator is in charge of ordering the yearbooks from the publish
 
 ### 📚 Book Fair
 
+The Abingdon library holds a weeklong Book Fair each year to raise funds for the library. Book Fair coordinators take delivery of the books and set them up in the library, manage the fair on a day-to-day basis, and recruit other volunteers to assist with operations.
+
+- **Location**: School
+- **Time of day**: School day
+- **Months**: April (or whenever the Book Fair is held)
+
 ### 🧸 Lost and Found
 
 Abingdon has a lost and found near the front entrance. As students rifle through the lost and found looking for their items, it gets messy quite quickly. The lost and found becomes especially full in the fall and the spring, when it is cold in the morning but warmer in the afternoon so that children take off their jackets outside during recess and forget them.
@@ -452,7 +450,15 @@ The Directory Coordinator collects and organizes student and family data as prov
 
 - **Location**: Home
 - **Time of day**: Any
-- **Months**: September and October
+- **Months**: September to November
+
+### 📦 Grants Coordinator
+
+The Grants Coordinator administers the [grants program](/grants). This includes establishing the disbursement schedule and deadlines; publicizing the program and upcoming deadlines to Abingdon staff; reviewing proposals and working with their authors to ensure that proposals meet our guidelines; informing the PTA board of proposals in advance of their meetings; and ordering the items and delivering them if necessary.
+
+- **Location**: Home, and briefly school if delivery is necessary
+- **Time of day**: Any
+- **Months**: Year-round, with periods of inactivity between disbursements
 
 ### 🙋 Nominating Committee
 

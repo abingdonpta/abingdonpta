@@ -18,26 +18,23 @@ Abingdon Elementary would love your support to create a successful, sustainable 
 
 ## What's Growing?
 
-Here's what's planted or growing in the garden in **winter 2022-2023**:
+Here's what's planted or growing in the garden in **Spring 2023**:
 
 <a href="images/garden-map.svg"><img src="images/garden-map.svg" width="736" height="368" alt="Garden Map"></a>
 
 | Bed    | Plants |
 | ------ | ------ |
-| Bed 1  | Cover crop 🌾<sup>1</sup> |
-| Bed 2  | Kale 🥬<br>Collards 🥬<br>Leaves 🍂<sup>2</sup> |
-| Bed 3  | Cover crop 🌾<sup>1</sup> |
-| Bed 4  | Cover crop 🌾<sup>1</sup> |
-| Bed 5  | Garlic 🧄 (right)<br>Daffodils 💮<br>Leaves 🍂<sup>2</sup> |
-| Bed 6  | Marigolds 🌼<br>Cover crop 🌾<sup>1</sup> |
+| Bed 1  | Brussels Sprouts 🥬 |
+| Bed 2  | Kale 🥬<br>Collards 🥬<br>Broccoli 🥬<br>Onions 🧅 |
+| Bed 3  | Celery 🥬 |
+| Bed 4  |  |
+| Bed 5  | Garlic 🧄<br>Daffodils 💮 |
+| Bed 6  | Lettuce 🥬 |
 | Bed 7  | Milkweed 🌿<br>Clovers ☘️ |
-| Bed 8  | Leaves 🍂<sup>2</sup> |
-| Bed 9  | Cover crop 🌾<sup>1</sup> |
-| Bed 10 | Butterfly weed 🦋 (back center)<br>Cover crop 🌾<sup>1</sup> |
-| Bed 11 | Kale 🥬<br>Cover crop 🌾<sup>1</sup> |
-
-**1**: The cover crops we planted are hard red wheat, Danko Rye, Hairy Vetch, and medium red clover. [Cover crops](https://en.wikipedia.org/wiki/Cover_crop) protect and nourish the soil during winter.  
-**2**: We covered some garden beds in leaves in order to keep their plants warm during the winter, and to add nutrients to the soil.
+| Bed 8  | Onions 🧅<br>Strawberries 🍓<br>Lettuce 🥬 |
+| Bed 9  |  |
+| Bed 10 | Butterfly weed 🦋<br> |
+| Bed 11 |  |
 
 ## Photos
 

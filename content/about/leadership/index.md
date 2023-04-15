@@ -50,7 +50,6 @@ There are other educational programs available to elementary school students, li
 | [📚 Read-A-Thon](/roles/#-read-a-thon) | Clare Rosenberger |
 | [🌯 Spirit Night](/roles/#-spirit-night) | Clare Rosenberger |
 | [🤝 Sponsorships](/roles/#-sponsorships) |
-| [📜 Grants](/roles/#-grants) |
 | [❤️ Lovelines](/roles/#-lovelines) | Ellen Dobro |
 
 ### 🏘️ Community Relations
@@ -133,6 +132,7 @@ The PTA blesses our wonderful Abingdon staff throughout the year. Please help us
 | [💳 Bank Statement Reviewer](/roles/#-bank-statement-reviewer) |
 | [🖥️ Website Administrator](/roles/#-website-administrator) | Dan Burd |
 | [☎️ Directory](/roles/#-directory) | Kathryn Vesey White |
-| [🙋 Nominating Committee](/roles/#-nominating-committee) | Selected in March |
-| [✅ Audit Committee](/roles/#-audit-committee) | Selected in May |
+| [📦 Grants Coordinator](/roles/#-grants-coordinator) | Dan Burd |
+| [🙋 Nominating Committee](/roles/#-nominating-committee) | *Selected in March* |
+| [✅ Audit Committee](/roles/#-audit-committee) | *Selected in May* |
 | [🐦 Mascot](/roles/#-mascot) | Abingdon Cardinal |
