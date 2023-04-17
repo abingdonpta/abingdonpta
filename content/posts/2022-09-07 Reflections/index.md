@@ -4,7 +4,7 @@ summary: Learn about the Reflections Arts Contest that the Abingdon PTA is organ
 slug: reflections
 date: 2022-09-07T05:00:00-04:00
 images:
-- /2022/09/07/reflections/social/r---show-your-voice_facebook-cropped.webp
+- /2022/09/07/reflections/social/r---show-your-voice_facebook-cropped.png
 categories: reflections
 ---
 
@@ -16,7 +16,7 @@ categories: reflections
     }
 </style>
 
-<img src="social/r---show-your-voice_facebook-cropped.webp" alt="Reflections Call for Entries flyer" width="360" height="505" class="flyer" >
+<img src="social/r---show-your-voice_facebook-cropped.png" alt="Reflections Call for Entries flyer" width="360" height="505" class="flyer" >
 
 Reflections is a national PTA-sponsored program that encourages students to express themselves artistically. Each year the National PTA selects a theme and students create and submit a work of art that reflects the theme.
 

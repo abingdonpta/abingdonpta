@@ -5,7 +5,7 @@ slug: girl scout camp
 date: 2023-02-14T04:30:00-05:00
 categories: "passed along"
 images: 
-- /2023/02/14/girl-scout-camp/images/flyer.webp
+- /2023/02/14/girl-scout-camp/images/flyer.png
 ---
 
 The PTA is passing along this message from Maureen McCormick Harlow, Abingdon parent and Girl Scout troop leader.
@@ -24,5 +24,5 @@ Bus transportation and snack included!
 
 Space is limited—register today at https://form.jotform.com/GSCNCMembership/spring-camps. Or contact Sarah Mayotte: smayotte@gscnc.org or (202) 534-3764.
 
-{{< imagehalf src="images/flyer.webp" alt="Girl Scout Camp flyer" >}}
-{{< imagehalf src="images/flyer-es.webp" alt="Girl Scout Camp in Spanish" >}}
+{{< imagehalf src="images/flyer.png" alt="Girl Scout Camp flyer" >}}
+{{< imagehalf src="images/flyer-es.png" alt="Girl Scout Camp in Spanish" >}}

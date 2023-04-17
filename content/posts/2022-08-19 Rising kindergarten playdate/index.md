@@ -5,7 +5,7 @@ slug: rising kindergarten playdate
 date: 2022-08-19T07:00:00-04:00
 categories: events
 images: 
-- /2022/08/19/rising-kindergarten-playdate/images/flyer.webp
+- /2022/08/19/rising-kindergarten-playdate/images/flyer.png
 ---
 
 The PTA is hosting one more popsicle playdate for rising kindergarteners this summer!
@@ -16,4 +16,4 @@ The PTA is hosting one more popsicle playdate for rising kindergarteners this su
 
 *Subject to change due to inclement weather. We will share any inclement weather updates on our [Facebook](https://www.facebook.com/AbingdonElementaryPTA) and [Twitter](https://twitter.com/AbingdonPTA) pages.*
 
-{{< imagehalf class="halfcenter" src="images/flyer.webp" alt="Rising Kindergartener Playdate flyer in English and Spanish" >}}
+{{< imagehalf class="halfcenter" src="images/flyer.png" alt="Rising Kindergartener Playdate flyer in English and Spanish" >}}

@@ -5,7 +5,7 @@ slug: outdoor lab summer camp
 date: 2023-02-13T05:00:00-05:00
 categories: "passed along"
 images: 
-- /2023/02/13/outdoor-lab-summer-camp/images/brochure-1.webp
+- /2023/02/13/outdoor-lab-summer-camp/images/brochure-1.png
 ---
 
 The PTA is passing along this message from Clare McLean, one of our wonderful Kindergarten Assistants here at Abingdon. She also serves as the Summer Camp Assistant Director at the Outdoor Lab.
@@ -27,9 +27,9 @@ Hope to see your student at Outdoor Lab Summer Camp!
 *If you have questions about summer camp activities or registration, please contact: Lab Coordinator Rochelle Proctor at [rochelle.proctor@apsva.us](mailto:rochelle.proctor@apsva.us) or 540.347.2258.*
 
 #### English brochure ([PDF](images/brochure.pdf))
-{{< imagehalf src="images/brochure-1.webp" alt="Outdoor Lab Summer Camp brochure" >}}
-{{< imagehalf src="images/brochure-2.webp" alt="Outdoor Lab Summer Camp brochure" >}}
+{{< imagehalf src="images/brochure-1.png" alt="Outdoor Lab Summer Camp brochure" >}}
+{{< imagehalf src="images/brochure-2.png" alt="Outdoor Lab Summer Camp brochure" >}}
 
 #### Spanish brochure ([PDF](images/brochure-es.pdf))
-{{< imagehalf src="images/brochure-es-1.webp" alt="Outdoor Lab Summer Camp brochure in Spanish" >}}
-{{< imagehalf src="images/brochure-es-2.webp" alt="Outdoor Lab Summer Camp brochure in Spanish" >}}
+{{< imagehalf src="images/brochure-es-1.png" alt="Outdoor Lab Summer Camp brochure in Spanish" >}}
+{{< imagehalf src="images/brochure-es-2.png" alt="Outdoor Lab Summer Camp brochure in Spanish" >}}

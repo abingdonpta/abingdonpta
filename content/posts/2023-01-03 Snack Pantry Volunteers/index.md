@@ -7,7 +7,7 @@ categories:
 - "volunteer opportunities"
 - "snack pantry"
 images: 
-- /2023/01/03/snack-pantry-volunteers/images/flyer.webp
+- /2023/01/03/snack-pantry-volunteers/images/flyer.png
 ---
 
 The Abingdon PTA is continuing to support the school's [snack pantry](/pantry), which ensures that students facing food insecurity have access to fresh and shelf-stable food.
@@ -20,5 +20,5 @@ We need help with:
 
 Volunteers are needed every Thursday, from 2:30 to 4:30 PM. To volunteer, click here: https://www.signupgenius.com/go/20f0c4aacab2aaaff2-abingdon1
 
-{{< imagehalf src="images/flyer.webp" alt="Snack Pantry Volunteer flyer" >}}
-{{< imagehalf src="images/flyer-es.webp" alt="Snack Pantry Volunteer flyer" >}}
+{{< imagehalf src="images/flyer.png" alt="Snack Pantry Volunteer flyer" >}}
+{{< imagehalf src="images/flyer-es.png" alt="Snack Pantry Volunteer flyer" >}}

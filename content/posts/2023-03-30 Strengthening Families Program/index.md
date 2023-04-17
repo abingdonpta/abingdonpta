@@ -5,7 +5,7 @@ slug: strengthening families
 date: 2023-03-30T05:00:00-04:00
 categories: "passed along"
 images: 
-- /2023/03/30/strengthening-families/images/flyer.webp
+- /2023/03/30/strengthening-families/images/flyer.png
 ---
 
 The PTA is passing along this message from Sarah Mullinax, one of our wonderful School Counselors here at Abingdon.
@@ -27,5 +27,5 @@ The Program includes a FREE catered dinner and childcare for younger children. P
 
 More information [is available here](https://www.arlingtonva.us/Government/Departments/DHS/Child-Family-Services/SFP). Interested families may [sign up here](https://docs.google.com/forms/d/e/1FAIpQLSf2EqNLB1m0M8afbcKgn1i9YWFwiTwsHKf92TKWYCQgbmi2fw/viewform).
 
-{{< imagehalf src="images/flyer.webp" alt="Strengthening Families flyer" >}}
-{{< imagehalf src="images/flyer-es.webp" alt="Strengthening Families flyer in Spanish" >}}
+{{< imagehalf src="images/flyer.png" alt="Strengthening Families flyer" >}}
+{{< imagehalf src="images/flyer-es.png" alt="Strengthening Families flyer in Spanish" >}}

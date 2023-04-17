@@ -48,7 +48,7 @@ Nota: [Vea y suscríbase al calendario de la PTA en nuestro sitio web aquí](/ca
 
 ## 👋 Reunión virtual de membresía general de la PTA el martes 10 de enero
 
-{{< imagehalftoc class="halfright" src="images/meeting-flyer-es.webp" alt="Folleto de la reunión" >}}
+{{< imagehalftoc class="halfright" src="images/meeting-flyer-es.png" alt="Folleto de la reunión" >}}
 
 **Quién:** Maestros, padres, tutores, estudiantes, miembros de la comunidad  
 **Qué:** Reunión virtual de membresía general de enero  
@@ -65,7 +65,7 @@ La agenda de la reunión está disponible aquí: https://www.abingdonpta.org/age
 
 ## ⛸️ Noche de patinaje sobre hielo
 
-{{< photohalftoc class="halfright" src="images/skate-night-es.webp" alt="Folleto de la noche de skate" >}}
+{{< photohalftoc class="halfright" src="images/skate-night-es.png" alt="Folleto de la noche de skate" >}}
 
 Abingdon PTA invita a los estudiantes y familias a disfrutar de una noche de patinaje sobre hielo gratis. Para saber si las familias pueden patinar con sus estudiantes de Abingdon en este evento gratuito, RSVP @ [rb.gy/lhjmye](https://rb.gy/lhjmye)
 
@@ -79,7 +79,7 @@ El equipo de salud mental de Abingdon está ayudando a inspirar a los estudiante
 
 ## 🥨 Apoye la despensa de bocadillos del aula
 
-{{< imagehalftoc class="halfright" src="images/snack-pantry-es.webp" alt="Folleto de la despensa de bocadillos" >}}
+{{< imagehalftoc class="halfright" src="images/snack-pantry-es.png" alt="Folleto de la despensa de bocadillos" >}}
 
 Se necesitan voluntarios todos los jueves de 2:30 p. m. a 4:30 p. m. para la despensa de refrigerios del salón de clases de Abingdon. Regístrate aquí: www.signupgenius.com/go/20f0c4aacab2aaaff2-abingdon1#/.
 
@@ -87,7 +87,7 @@ Se necesitan voluntarios todos los jueves de 2:30 p. m. a 4:30 p. m. para la des
 
 ## 🧧 Celebración del Año Nuevo Lunar
 
-{{< imagehalftoc class="halfright" src="images/lunar-new-year-es.webp" alt="Folleto del Año Nuevo Lunar" >}}
+{{< imagehalftoc class="halfright" src="images/lunar-new-year-es.png" alt="Folleto del Año Nuevo Lunar" >}}
 
 Únase a nosotros para una celebración del Año Nuevo Lunar el sábado 28 de enero, mientras damos la bienvenida al Año del Conejo.
 
@@ -95,7 +95,7 @@ Se necesitan voluntarios todos los jueves de 2:30 p. m. a 4:30 p. m. para la des
 
 ## 🐲 Regístrate en Cardinal Chinese Club
 
-{{< imagehalftoc class="halfright" src="images/chinese-club-es.webp" alt="Folleto del Año Nuevo Lunar" >}}
+{{< imagehalftoc class="halfright" src="images/chinese-club-es.png" alt="Folleto del Año Nuevo Lunar" >}}
 
 La PTA está lanzando un Club Cardinal Chino después de la escuela los viernes. Los estudiantes aprenderán frases conversacionales, cómo escribir caracteres simplificados, canciones y más. Los estudiantes de jardín de infantes a quinto grado están invitados a registrarse. Habrá asistencia financiera disponible. Si tiene alguna pregunta, comuníquese con Sharon Burd en abingdonptapresident@gmail.com.
 
@@ -103,7 +103,7 @@ La PTA está lanzando un Club Cardinal Chino después de la escuela los viernes.
 
 ## ✏️ Fecha de evaluación de invierno de Abingdon
 
-{{< imagehalftoc class="halfright" src="images/winter-assessments.webp" alt="Folleto de fechas de evaluaciones de invierno" >}}
+{{< imagehalftoc class="halfright" src="images/winter-assessments.png" alt="Folleto de fechas de evaluaciones de invierno" >}}
 
 A partir de 2022 - 2023, los estudiantes en los grados 3 a 8 toman la Evaluación de Crecimiento de Virginia (VGA) en otoño e invierno. El propósito de estas evaluaciones es medir el crecimiento y progreso de los estudiantes en los estándares de contenido de lectura y matemáticas. Anteriormente, el año escolar pasado, la prueba solo se administraba en el otoño.
 
@@ -144,7 +144,7 @@ Complete el [formulario de voluntariado de la PTA](https://docs.google.com/forms
 
 ## 💞 Convocatoria de donaciones
 
-{{< imagehalftoc class="halfright" src="images/clothing-drive-es.webp" alt="Folleto de la campaña de ropa" >}}
+{{< imagehalftoc class="halfright" src="images/clothing-drive-es.png" alt="Folleto de la campaña de ropa" >}}
 
 🧦 **Colección de ropa de Abingdon**: Estamos recolectando ropa no deseada LIMPIA PARA USAR para almacenar nuestro "Armario adicional" para los estudiantes que puedan necesitar ropa/artículos personales durante el día escolar. Deje todas las donaciones en el vestíbulo principal de Abingdon Elementary o comuníquese con Megan Miller para que las recoja en meganmiller44@gmail.com.
 
@@ -152,7 +152,7 @@ Complete el [formulario de voluntariado de la PTA](https://docs.google.com/forms
 
 ## 💸 Recaudación de fondos pasiva
 
-{{< imagehalftoc class="halfright" src="images/mabels-labels.webp" alt="folleto de etiquetas Mabels" >}}
+{{< imagehalftoc class="halfright" src="images/mabels-labels.png" alt="folleto de etiquetas Mabels" >}}
 
 **🧥 Recaudación de fondos de Mabel's Labels.** ¡Ayuda a que tus abrigos y sudaderas cálidos lleguen a casa todos los días! ¡Obtenga etiquetas a través de nuestra [Recaudación de fondos de etiquetas de Mabel](http://campaigns.mabelslabels.com/) y apoye a su PTA de Abingdon!
 
@@ -166,7 +166,7 @@ Complete el [formulario de voluntariado de la PTA](https://docs.google.com/forms
 
 ## ⛺ Feria de actividades y campamentos de verano SEPTA
 
-{{< imagehalftoc class="halfright" src="images/septa.webp" alt="Folleto de la feria de actividades de SEPTA" >}}
+{{< imagehalftoc class="halfright" src="images/septa.png" alt="Folleto de la feria de actividades de SEPTA" >}}
 
 ¡La PTA de Educación Especial de Arlington (SEPTA) está organizando una Feria de actividades de verano GRATUITA para ayudarlo a planificar el verano de 2023! Venga a conocer las opciones para el aprendizaje y la aventura durante el verano. SEPTA invita a proveedores de cerca y de lejos: campamentos diurnos y campamentos para dormir, habilidades sociales o aventuras al aire libre. Hay algo para cada niño.
 

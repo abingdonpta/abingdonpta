@@ -5,7 +5,7 @@ slug: enrichment
 date: 2023-03-09T05:00:00-05:00
 categories: enrichment
 images: 
-- /2023/03/09/enrichment/images/flyer-es.webp
+- /2023/03/09/enrichment/images/flyer-es.png
 ---
 
 ¡Es hora de registrarse para la sesión de primavera de clases de enriquecimiento después de la escuela! La PTA de Abingdon se ha asociado con Baroody Camps para ofrecer este programa.
@@ -18,4 +18,4 @@ Hemos distribuido formularios en papel a los maestros de clase para que los colo
 
 ¿Preguntas? Contáctenos en abingdonelementarypta@gmail.com. Gracias por su amabilidad.
 
-{{< imagehalf class="halfcenter" src="images/flyer-es.webp" alt="Winter Enrichment flyer" >}}
+{{< imagehalf class="halfcenter" src="images/flyer-es.png" alt="Winter Enrichment flyer" >}}

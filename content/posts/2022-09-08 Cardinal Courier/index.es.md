@@ -70,7 +70,7 @@ La PTA de Abingdon está creando un **directorio de estudiantes en línea** para
 
 ## 🎨 Concurso de Arte Reflexiones
 
-<img src="images/r---show-your-voice_facebook-cropped.webp" alt="Reflections Call for Entries flyer" width="360" height="505" class="flyer" >
+<img src="images/r---show-your-voice_facebook-cropped.png" alt="Reflections Call for Entries flyer" width="360" height="505" class="flyer" >
 
 Nuestra PTA está participando en Reflections, un programa nacional patrocinado por la PTA que anima a los estudiantes a expresarse artísticamente. Estamos llamando a todos los estudiantes de Abingdon a crear arte visual o literatura que refleje el tema de este año: "**Hazte Escuchar**". Los estudiantes pueden crear obras de arte basadas en temas en las categorías de **literatura** (obras escritas) y **artes visuales** (pinturas, esculturas, dibujos y grabados). Todas las obras de arte serán reconocidas, celebradas y juzgadas por voluntarios de Abingdon por divisiones de nivel de grado. Una selección de entradas avanzará a la competencia en todo el condado. ¡Estamos emocionados de ver tu talento! Más información [aquí](/reflections/).
 

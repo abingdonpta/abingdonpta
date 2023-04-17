@@ -41,7 +41,7 @@ P.S.: We are also delighted to share that Abingdon’s Vocal and Instrumental Mu
 
 ### 🏃‍♀️🏃🏾‍♀️ Girls on the Run
 
-{{< imagehalftoc class="halfright" src="images/gotr-flyer.webp" alt="Girls on the Run flyer" >}}
+{{< imagehalftoc class="halfright" src="images/gotr-flyer.png" alt="Girls on the Run flyer" >}}
 
 Girls on the Run is coming to Abingdon Elementary School! GOTR is a physical activity based positive youth development program for girls in 3rd-8th grade. The program teaches life skills through dynamic interactive lessons and running games. The goal of the program is to unleash confidence through accomplishment, while establishing a lifetime appreciation of health and fitness. Our program has been adapted to ensure physical distancing and safety. In-person practices include safety, sanitizing, and physical distancing precautions and modifications.
 
@@ -55,7 +55,7 @@ We can’t wait to run with you!
 
 ### 👕 New Abingdon Spirit Wear
 
-{{< imagehalftoc class="halfright" src="images/spirit-wear.webp" alt="Spirit Wear" >}}
+{{< imagehalftoc class="halfright" src="images/spirit-wear.png" alt="Spirit Wear" >}}
 
 The Abingdon PTA is excited to announce NEW Spirit Wear! Please show your school spirit and support the Abingdon PTA at the same time. Profits from this sale go to fund the PTA and its efforts to support the school and community. Check our the Spirit Wear you can purchase using the following link: https://whitewaterprinting.com/abingdon-elementary. Purchasing will begin on February 15th and will run for an additional 3 weeks.
 

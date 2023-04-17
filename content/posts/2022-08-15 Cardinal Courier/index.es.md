@@ -26,8 +26,8 @@ Con agradecimiento,
 Sharon Burd  
 Presidente de la Asociación de Padres y Maestros
 
-{{< imagehalftoc src="images/flyer.webp" alt="Folleto de picnic de regreso a clases" >}}
-{{< imagehalftoc src="images/flyer-es.webp" alt="Folleto de picnic de regreso a clases en español" >}}
+{{< imagehalftoc src="images/flyer.png" alt="Folleto de picnic de regreso a clases" >}}
+{{< imagehalftoc src="images/flyer-es.png" alt="Folleto de picnic de regreso a clases en español" >}}
 
 ## Guarda las fechas
 

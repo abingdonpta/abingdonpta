@@ -13,8 +13,8 @@ Abingdon will hold an event titled "*Growing Readers at Home: An Abingdon Family
 
 Come participate in activities that support your children’s literacy growth. Help your children choose 10 free “*Summer Mailbox Books*” shipped to your home this summer! Pizza provided.
 
-{{< imagehalf src="images/flyer.webp" alt="Literacy Night flyer in English" >}}
-{{< imagehalf src="images/flyer-es.webp" alt="Literacy Night flyer in Spanish" >}}
-{{< imagehalf src="images/flyer-ar.webp" alt="Literacy Night flyer in Arabic" >}}
-{{< imagehalf src="images/flyer-mn.webp" alt="Literacy Night flyer in Mongolian" >}}
-{{< imagehalf src="images/flyer-am.webp" alt="Literacy Night flyer in Amharic" >}}
+{{< imagehalf src="images/flyer.png" alt="Literacy Night flyer in English" >}}
+{{< imagehalf src="images/flyer-es.png" alt="Literacy Night flyer in Spanish" >}}
+{{< imagehalf src="images/flyer-ar.png" alt="Literacy Night flyer in Arabic" >}}
+{{< imagehalf src="images/flyer-mn.png" alt="Literacy Night flyer in Mongolian" >}}
+{{< imagehalf src="images/flyer-am.png" alt="Literacy Night flyer in Amharic" >}}

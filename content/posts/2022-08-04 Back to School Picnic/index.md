@@ -5,7 +5,7 @@ slug: back to school picnic
 date: 2022-08-04T07:00:00-04:00
 categories: events
 images: 
-- /2022/08/04/back-to-school-picnic/images/flyer.webp
+- /2022/08/04/back-to-school-picnic/images/flyer.png
 ---
 
 You're invited to the Back-to-School Picnic! Come join us on Saturday, August 20th to catch up with friends and meet new ones.  We're excited to see everybody!
@@ -20,6 +20,6 @@ Please bring your picnic food of choice for your family, and a blanket if you wi
 
 Volunteers greatly appreciated for set up and cleanup, bringing ice coolers, etc. Please contact Meredith Greene at meregreene5@gmail.com to assist.
 
-{{< imagehalf src="images/flyer.webp" alt="Back to School Picnic Flyer" >}}
+{{< imagehalf src="images/flyer.png" alt="Back to School Picnic Flyer" >}}
 
-{{< imagehalf src="images/flyer-es.webp" alt="Back to School Picnic Flyer in Spanish" >}}
+{{< imagehalf src="images/flyer-es.png" alt="Back to School Picnic Flyer in Spanish" >}}

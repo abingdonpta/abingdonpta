@@ -5,7 +5,7 @@ slug: buddy runners
 date: 2023-03-24T06:00:00-04:00
 categories: "volunteer opportunities"
 images: 
-- /2023/03/24/buddy-runners/images/flyer.webp
+- /2023/03/24/buddy-runners/images/flyer.png
 ---
 
 The Abingdon Girls on the Run Team is off to a great start as we kicked off our re-entry season at Abingdon! Our students and coaches are enjoying setting star goals, getting to know one another, learning how to be strong and independent, and practicing our running. We have been confirmed for our 5K!
@@ -34,5 +34,5 @@ Further information from Girls on the Run:
 > Buddy Runners are able to focus on one specific participant and their personal goals, ensuring they have a positive experience of healthy goal setting and achievement - a lesson we hope will stay with them long after they cross this finish line.
 
 <!--
-![Girls on the Run buddy runner information](images/flyer.webp)
+![Girls on the Run buddy runner information](images/flyer.png)
 -->

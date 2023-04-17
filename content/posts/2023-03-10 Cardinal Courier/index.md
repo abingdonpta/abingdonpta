@@ -57,7 +57,7 @@ Registration will open on **Monday, March 13 at 8 AM**. Signups will operate acc
 
 ### 👋 PTA General Membership Virtual Meeting on Tuesday, March 14
 
-{{< imagehalftoc class="halfright" src="images/meeting-flyer.webp" alt="Meeting flyer" >}}
+{{< imagehalftoc class="halfright" src="images/meeting-flyer.png" alt="Meeting flyer" >}}
 
 - **Who**: Teachers, Parents, Guardians, Students, Community Members
 - **What**: March General Membership Virtual Meeting  

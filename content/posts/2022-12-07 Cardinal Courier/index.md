@@ -51,7 +51,7 @@ Note: [View and subscribe to the PTA calendar on our website here](/calendar).
 
 ## 🏫 Register for After-School Enrichment Winter Classes
 
-{{< imagehalftoc class="halfright" src="images/winter-enrichment.webp" alt="Winter enrichment flyer" >}}
+{{< imagehalftoc class="halfright" src="images/winter-enrichment.png" alt="Winter enrichment flyer" >}}
 
 Registration for Winter after-school enrichment classes through Baroody Camps will open on **Monday, December 12 at 8:00 am**. Enrichment classes start on **January 17**. The Abingdon PTA is coordinating with vendor Baroody and Abingdon staff to offer these wonderful classes such as ballet, engineering, clay, and science. Register here: https://bc-arl-abingdon.jumbula.com/#/winter-2023
 
@@ -79,7 +79,7 @@ Meeting agenda to be posted here soon: https://www.abingdonpta.org/agendas/2022-
 
 ## ❤️🖤 Abingdon Winter Spirit Week!
 
-{{< imagehalftoc class="halfcenter" src="images/spirit-week.webp" alt="Spirit Week flyer" >}}
+{{< imagehalftoc class="halfcenter" src="images/spirit-week.png" alt="Spirit Week flyer" >}}
 
 ## ☕ Abingdon Title I School-Family Partnership Coffee Chat
 
@@ -115,7 +115,7 @@ Please complete the [PTA's volunteer form](https://docs.google.com/forms/d/e/1FA
 
 ## 💞 Call for Donations
 
-{{< imagehalftoc class="halfright" src="images/gift-card-drive.webp" alt="Gift Card Drive flyer" >}}
+{{< imagehalftoc class="halfright" src="images/gift-card-drive.png" alt="Gift Card Drive flyer" >}}
 
 🎁 **Target Gift Cards:**  We asking our community to gift $25 Target gift cards to our 40 Abingdon families to support parents over the holiday season. Any and all Target gift card donations will be accepted. Please drop off in the Abingdon front office **ATTENTION: PTA**. There will be a lockbox in the front office storing these gift cards.
 
@@ -125,7 +125,7 @@ Please complete the [PTA's volunteer form](https://docs.google.com/forms/d/e/1FA
 
 ## 💸 Passive Fundraising
 
-{{< imagehalftoc class="halfright" src="images/mabels-labels.webp" alt="Mabels Labels flyer" >}}
+{{< imagehalftoc class="halfright" src="images/mabels-labels.png" alt="Mabels Labels flyer" >}}
 
 **🧥 Mabel's Labels Fundraiser.** Help your warm coats and sweatshirts come home each day! Get labels through our [Mabel's Labels Fundraiser](https://mabelslabels.com/en_US/fundraising/support/) and support your Abingdon PTA!
 

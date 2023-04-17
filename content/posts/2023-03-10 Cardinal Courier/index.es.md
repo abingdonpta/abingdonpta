@@ -57,7 +57,7 @@ La inscripción se abrirá el **lunes 13 de marzo a las 8 AM**. Los registros op
 
 ### 👋 Reunión virtual de membresía general de la PTA el martes 14 de marzo
 
-{{< imagehalftoc class="halfright" src="images/meeting-flyer-es.webp" alt="Folleto de la reunión" >}}
+{{< imagehalftoc class="halfright" src="images/meeting-flyer-es.png" alt="Folleto de la reunión" >}}
 
 - **Quién**: maestros, padres, tutores, estudiantes, miembros de la comunidad
 - **Qué**: Reunión virtual de membresía general de marzo

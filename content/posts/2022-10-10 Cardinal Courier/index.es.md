@@ -49,7 +49,7 @@ Nota: Vea y suscríbase al calendario de la PTA en nuestro sitio web [aquí](/ca
 
 ## 👋 ¡Reunión virtual de membresía general de la PTA el martes 11 de octubre!
 
-{{< imagehalftoc class="halfright" src="images/meeting-flyer-es.webp" alt="Folleto de la reunión general de miembros" >}}
+{{< imagehalftoc class="halfright" src="images/meeting-flyer-es.png" alt="Folleto de la reunión general de miembros" >}}
 
 **Quién:** Maestros, padres, tutores, estudiantes, miembros de la comunidad
 **Qué:** Reunión virtual de membresía general de octubre
@@ -80,7 +80,7 @@ Estamos orgullosos de apoyar a nuestra comunidad de Abingdon al honrar la herenc
 
 ## 👻 Tronco o trato!
 
-{{< imagehalftoc class="halfright" src="images/trunk-or-treat-es.webp" alt="Trunk or Treat flyer" >}}
+{{< imagehalftoc class="halfright" src="images/trunk-or-treat-es.png" alt="Trunk or Treat flyer" >}}
 
 ¡La PTA de Abingdon está emocionada de traer de vuelta Trunk or Treat! Los niños se disfrazarán de Halloween y recolectarán dulces de los voluntarios que han decorado sus autos de manera espeluznante.
 - Cuándo: sábado 29 de octubre de 2022, de 12:00 a 14:00
@@ -97,7 +97,7 @@ Si puede ser voluntario, [regístrese aquí](https://docs.google.com/forms/d/e/1
 
 ## 🐌🌲🐛 Laboratorio al aire libre
 
-{{< imagehalftoc class="halfright" src="images/outdoor-lab-es.webp" alt="Folleto de laboratorio al aire libre" >}}
+{{< imagehalftoc class="halfright" src="images/outdoor-lab-es.png" alt="Folleto de laboratorio al aire libre" >}}
 
 **¡La jornada de puertas abiertas de otoño del laboratorio al aire libre!**
 **Domingo 16 de octubre**
@@ -123,7 +123,7 @@ La PTA de Abingdon está creando un **directorio de estudiantes en línea** para
 
 ## 🎨 Concurso de Arte Reflexiones
 
-{{< imagehalftoc class="halfright" src="images/r---show-your-voice_facebook-cropped.webp" alt="Folleto de reflexiones" >}}
+{{< imagehalftoc class="halfright" src="images/r---show-your-voice_facebook-cropped.png" alt="Folleto de reflexiones" >}}
 
 Nuestra PTA participa en Reflections, un programa nacional patrocinado por la PTA que anima a los estudiantes a expresarse artísticamente. Estamos llamando a todos los estudiantes de Abingdon a crear arte visual o literatura que refleje el tema de este año: "**Muestra tu voz**". Los estudiantes pueden crear obras de arte basadas en temas en las categorías de literatura (obras escritas) y artes visuales (pinturas, esculturas, dibujos y grabados). Todas las obras de arte serán reconocidas, celebradas y juzgadas por voluntarios de Abingdon por divisiones de nivel de grado. Una selección de entradas avanzará a la competencia en todo el condado. ¡Estamos emocionados de ver tu talento! Las inscripciones vencen el **jueves 20 de octubre**. [Más información aquí.](/es/reflections)
 
@@ -131,7 +131,7 @@ Nuestra PTA participa en Reflections, un programa nacional patrocinado por la PT
 
 ## 🚶🚴🛴 Camina, anda en bicicleta y rueda a la escuela
 
-{{< imagehalftoc class="halfright" src="images/walk-bike-roll.webp" alt="Folleto Walk Bike & Roll" >}}
+{{< imagehalftoc class="halfright" src="images/walk-bike-roll.png" alt="Folleto Walk Bike & Roll" >}}
 
 ¡Está invitado a unirse a nosotros este miércoles 12 de octubre para un día de **caminar, andar en bicicleta y rodar** a la escuela! El equipo de la PTA, incluido un invitado especial, entregará calcomanías y equipo reflectante a nuestros cardenales. #APSWalk2SchoolDay!
 
@@ -166,7 +166,7 @@ Complete el [formulario de voluntariado de la PTA](https://docs.google.com/forms
 
 - **Golosinas horneadas para la venta de pasteles del día de las elecciones**: estamos buscando voluntarios que puedan ayudar a hornear golosinas o proporcionar productos horneados comprados en la tienda, que la PTA podría vender el día de las elecciones. Si está interesado en ayudar, comuníquese con [abingdonptapresident@gmail.com](mailto:abingdonptapresident@gmail.com).
 
-{{< imagehalftoc class="halfright" src="images/snack-pantry-es.webp" alt="Folleto de Snack Pantry" >}}
+{{< imagehalftoc class="halfright" src="images/snack-pantry-es.png" alt="Folleto de Snack Pantry" >}}
 
 - **Despensa de bocadillos de Abingdon** — Se necesitan voluntarios para la nueva despensa de bocadillos de Abingdon todos los jueves de 2:30 p. m. a 4:30 p. m. Regístrese aquí: https://www.signupgenius.com/go/20f0c4aacab2aaaff2-abingdon.
 

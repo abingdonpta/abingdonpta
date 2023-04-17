@@ -5,7 +5,7 @@ slug: chinese club
 date: 2023-01-10T04:00:00-05:00
 categories: enrichment
 images: 
-- /2023/01/10/chinese-club/images/flyer.webp
+- /2023/01/10/chinese-club/images/flyer.png
 ---
 
 The PTA is launching the Cardinal Chinese Club! Learn about the language and culture. Students will learn conversational phrases, how to write characters, songs, lunar new year traditions, and more.
@@ -20,5 +20,5 @@ Class Schedule: Fridays (3-4 pm)
 - March: 3/10 , 3/17, 3/24, 3/31
 - April: 4/14, 4/21
 
-{{< imagehalf src="images/flyer.webp" alt="Cardinal Chinese Club flyer" >}}
-{{< imagehalf src="images/flyer-es.webp" alt="Cardinal Chinese Club in Spanish" >}}
+{{< imagehalf src="images/flyer.png" alt="Cardinal Chinese Club flyer" >}}
+{{< imagehalf src="images/flyer-es.png" alt="Cardinal Chinese Club in Spanish" >}}

@@ -7,7 +7,7 @@ categories:
     - events
     - passed along
 images: 
-- /2022/11/03/movie-night/images/flyer.webp
+- /2022/11/03/movie-night/images/flyer.png
 ---
 
 The PTA is passing along this message from Renita Upshur, Abingdon's wonderful science teacher and the lead of Abingdon's DEI Committee.
@@ -21,6 +21,6 @@ Come celebrate Día de los Muertos by watching Coco — a musical film celebrati
 
 > *Presented by the DEI Committee. Sponsored by the Abingdon PTA.*
 
-{{< imagehalf src="images/flyer.webp" alt="Movie Night flyer" >}}
-{{< imagehalf src="images/flyer-es.webp" alt="Movie Night flyer in Spanish" >}}
-{{< imagehalf src="images/flyer-mn.webp" alt="Movie Night flyer in Mongolian" >}}
+{{< imagehalf src="images/flyer.png" alt="Movie Night flyer" >}}
+{{< imagehalf src="images/flyer-es.png" alt="Movie Night flyer in Spanish" >}}
+{{< imagehalf src="images/flyer-mn.png" alt="Movie Night flyer in Mongolian" >}}

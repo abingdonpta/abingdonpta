@@ -5,7 +5,7 @@ slug: winter wonderland
 date: 2023-02-14T12:30:00-05:00
 categories: events
 images: 
-- /2023/02/14/winter-wonderland/images/flyer.webp
+- /2023/02/14/winter-wonderland/images/flyer.png
 ---
 
 **Winter Wonderland has been postponed to February 28, from February 16 (poor weather) and from February 9 (band concert).**
@@ -17,5 +17,5 @@ Skating includes rental skates. Skaters must have an adult with them. Wear your 
 - **When:** February 28, 2023, 6 - 8 PM
 - **Where:** Pentagon Row Ice Skating Rink — 1201 S. Joyce Street, Arlington, VA 22202
 
-{{< imagehalf src="images/flyer.webp" alt="Winter Wonderland flyer" >}}
-{{< imagehalf src="images/flyer-es.webp" alt="Winter Wonderland flyer in Spanish" >}}
+{{< imagehalf src="images/flyer.png" alt="Winter Wonderland flyer" >}}
+{{< imagehalf src="images/flyer-es.png" alt="Winter Wonderland flyer in Spanish" >}}

@@ -5,7 +5,7 @@ slug: earth day
 date: 2023-03-13T05:00:00-04:00
 categories: garden
 images: 
-- /2023/03/13/earth-day/images/flyer.webp
+- /2023/03/13/earth-day/images/flyer.png
 draft: true
 ---
 
@@ -16,5 +16,5 @@ Join us in the Abingdon Community Garden on Sunday, April 23, for an Earth Day c
 
 To receive updates about garden volunteer opportunities, please [sign up here](https://us10.list-manage.com/subscribe?u=f9c2cb9188c78232702100f91&id=50d30d2a32).
 
-{{< imagehalf src="images/flyer.webp" alt="Abingdon Community Garden Cleanup flyer in English" >}}
-{{< imagehalf src="images/flyer-es.webp" alt="Abingdon Community Garden Cleanup flyer in Spanish" >}}
+{{< imagehalf src="images/flyer.png" alt="Abingdon Community Garden Cleanup flyer in English" >}}
+{{< imagehalf src="images/flyer-es.png" alt="Abingdon Community Garden Cleanup flyer in Spanish" >}}

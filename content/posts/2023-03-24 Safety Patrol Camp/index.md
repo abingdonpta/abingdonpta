@@ -5,7 +5,7 @@ slug: safety patrol camp
 date: 2023-03-24T05:00:00-04:00
 categories: "passed along"
 images: 
-- /2023/03/24/safety-patrol-camp/images/flyer.webp
+- /2023/03/24/safety-patrol-camp/images/flyer.png
 ---
 
 The PTA is passing along this message from the Arlington County Police Department.
@@ -16,4 +16,4 @@ Interested in becoming a school safety patrol? During this five-day camp, rising
 
 More information, including registration, is available at https://www.arlingtonva.us/Government/Departments/Police-Department/Summer-Safety-Patrol-Camp.
 
-{{< imagehalf class="halfcenter" src="images/flyer.webp" alt="Safety Patrol Camp flyer" >}}
+{{< imagehalf class="halfcenter" src="images/flyer.png" alt="Safety Patrol Camp flyer" >}}

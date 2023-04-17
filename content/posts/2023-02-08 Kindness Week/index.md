@@ -5,7 +5,7 @@ slug: kindness week
 date: 2023-02-08T05:00:00-05:00
 categories: "passed along"
 images: 
-- /2023/02/08/kindness-week/images/flyer.webp
+- /2023/02/08/kindness-week/images/flyer.png
 ---
 
 The PTA is passing along this message from Vasthy Delgado, one of our wonderful School Counselors here at Abingdon.
@@ -25,5 +25,5 @@ Please join us in celebrating all things **KIND** next week for **Virginia Kindn
 
 Let your school counselor know if you have any questions or concerns!
 
-{{< imagehalf src="images/flyer.webp" alt="Kindness Week flyer" >}}
-{{< imagehalf src="images/flyer-es.webp" alt="Kindness Week in Spanish" >}}
+{{< imagehalf src="images/flyer.png" alt="Kindness Week flyer" >}}
+{{< imagehalf src="images/flyer-es.png" alt="Kindness Week in Spanish" >}}

@@ -5,7 +5,7 @@ slug: international night
 date: 2023-03-17T06:00:00-04:00
 categories: events
 images: 
-- /2023/03/17/international-night/images/flyer.webp
+- /2023/03/17/international-night/images/flyer.png
 ---
 
 Abingdon’s Annual International & Cultural Heritage and History Night is COMING! Last year’s event was a huge success thanks to the whole community who brought food and traditions to share, mingled, sang, danced, and volunteered throughout the beautiful night.
@@ -24,12 +24,12 @@ Meredith Greene
 meregreene5@gmail.com  
 703-216-5215
 
-{{< imagehalf src="images/flyer.webp" alt="International Night flyer in English" >}}
-{{< imagehalf src="images/flyer-es.webp" alt="International Night flyer in Spanish" >}}
-{{< imagehalf src="images/flyer-ar.webp" alt="International Night flyer in Arabic" >}}
-{{< imagehalf src="images/flyer-mn.webp" alt="International Night flyer in Mongolian" >}}
-{{< imagehalf src="images/flyer-am.webp" alt="International Night flyer in Amharic" >}}
-{{< imagehalf src="images/flyer-bn.webp" alt="International Night flyer in Bengali" >}}
-{{< imagehalf src="images/flyer-ti.webp" alt="International Night flyer in Tigrinya" >}}
-{{< imagehalf src="images/flyer-fa.webp" alt="International Night flyer in Farsi" >}}
-{{< imagehalf src="images/flyer-la.webp" alt="International Night flyer in Latin" >}}
+{{< imagehalf src="images/flyer.png" alt="International Night flyer in English" >}}
+{{< imagehalf src="images/flyer-es.png" alt="International Night flyer in Spanish" >}}
+{{< imagehalf src="images/flyer-ar.png" alt="International Night flyer in Arabic" >}}
+{{< imagehalf src="images/flyer-mn.png" alt="International Night flyer in Mongolian" >}}
+{{< imagehalf src="images/flyer-am.png" alt="International Night flyer in Amharic" >}}
+{{< imagehalf src="images/flyer-bn.png" alt="International Night flyer in Bengali" >}}
+{{< imagehalf src="images/flyer-ti.png" alt="International Night flyer in Tigrinya" >}}
+{{< imagehalf src="images/flyer-fa.png" alt="International Night flyer in Farsi" >}}
+{{< imagehalf src="images/flyer-la.png" alt="International Night flyer in Latin" >}}

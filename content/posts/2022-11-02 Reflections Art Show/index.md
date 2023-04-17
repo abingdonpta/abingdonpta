@@ -4,7 +4,7 @@ summary: You're invited to celebrate our students' artwork and creativity.
 slug: reflections art show
 date: 2022-11-02T05:00:00-04:00
 images:
-- /2022/11/02/reflections-art-show/images/flyer.webp
+- /2022/11/02/reflections-art-show/images/flyer.png
 categories:
 - reflections
 - "volunteer opportunities"
@@ -17,5 +17,5 @@ You're invited to Abingdon PTA's Reflections Art Show! We will celebrate and sho
 
 If you are able to help set up and clean up, [please sign up to do so here](https://www.signupgenius.com/go/30E0A44ACA72AA5FE3-reflections). Thank you!
 
-{{< imagehalf src="images/flyer.webp" alt="Reflections Art Show flyer" >}}
-{{< imagehalf src="images/flyer-es.webp" alt="Reflections Art Show flyer in Spanish" >}}
+{{< imagehalf src="images/flyer.png" alt="Reflections Art Show flyer" >}}
+{{< imagehalf src="images/flyer-es.png" alt="Reflections Art Show flyer in Spanish" >}}

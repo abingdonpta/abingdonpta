@@ -72,7 +72,7 @@ The Abingdon PTA is creating an **online student directory** for the 2022-2023 s
 
 ## 🎨 Reflections Art Contest
 
-<img src="images/r---show-your-voice_facebook-cropped.webp" alt="Reflections Call for Entries flyer" width="360" height="505" class="flyer" >
+<img src="images/r---show-your-voice_facebook-cropped.png" alt="Reflections Call for Entries flyer" width="360" height="505" class="flyer" >
 
 Our PTA is participating in Reflections - a national PTA-sponsored program that encourages students to express themselves artistically. We’re calling all Abingdon students to create visual art or literature reflecting this year’s theme: “Show Your Voice.” Students can create theme-based artwork in the categories of **literature** (written works) and **visual arts** (paintings, sculptures, drawings, and prints). All artworks will be recognized, celebrated, and judged by Abingdon volunteers by grade-level divisions. A selection of entries will advance to the county-wide competition. We are excited to see your talent! More info [here](/reflections/).
 

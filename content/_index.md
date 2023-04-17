@@ -18,7 +18,7 @@ hr { display: none; }
 </style>
 
 <script>
-    var images = ["carousel/abingdon.webp", "carousel/IMG_2663.webp", "carousel/IMG_5072.webp", "carousel/IMG_7308.webp", "carousel/IMG_2669.webp", "carousel/040222_3.webp"];
+    var images = ["carousel/abingdon-resized.jpg", "carousel/IMG_2663-resized.jpg", "carousel/IMG_5072-cropped-resized.jpg", "carousel/IMG_7308-cropped-resized.jpg", "carousel/IMG_2669-resized.jpg", "carousel/040222_3-cropped-resized.jpg"];
     var randomName = images[Math.floor(Math.random() * images.length)];
 </script>
 

@@ -4,7 +4,7 @@ summary: Infórmese sobre el concurso de arte Reflections que la PTA de Abingdon
 slug: reflections
 date: 2022-09-07T05:00:00-04:00
 images:
-    - social/r---show-your-voice_facebook-cropped.webp
+    - social/r---show-your-voice_facebook-cropped.png
 aliases:
     - /es/reflections/
 categories: reflections
@@ -18,7 +18,7 @@ categories: reflections
     }
 </style>
 
-<img src="social/r---hazte-escuchar_2020reflections_instagramanimoto.webp" alt="Reflections Call for Entries flyer" width="360" height="505" class="flyer" >
+<img src="social/r---hazte-escuchar_2020reflections_instagramanimoto.png" alt="Reflections Call for Entries flyer" width="360" height="505" class="flyer" >
 
 Reflections es un programa patrocinado por la PTA nacional que anima a los estudiantes a expresarse artísticamente. Cada año, la PTA Nacional selecciona un tema y los estudiantes crean y envían una obra de arte que refleja el tema.
 

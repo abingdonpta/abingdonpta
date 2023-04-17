@@ -21,105 +21,105 @@ Below is a timeline of Abingdon's history gleaned from several sources, mostly n
 | 1947-01-31 | Arlington Daily | This was the first known mention of what would become Abingdon Elementary. Fairlington PTA members supported building an elementary school on what was then known as the "North Fairlington site" to relieve overcrowding at Fairlington Elementary. | {{< photosmall src="images/1947-01-31.jpg" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
 | 1947-09-18 | Arlington Daily | An addition was planned for Fairlington Elementary, possibly as an alternative to Abingdon. | {{< photosmall src="images/1947-09-18.jpg" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
 | 1947-10-10 | Sun | Fairlington Elementary was overcrowded and residents wanted a school in North Fairlington. | {{< photosmall src="images/1947-10-10.jpg" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1947-10-12 | Washington Post | The Fairlington Civic Association polled North Fairlington residents and confirmed that they wanted a new school. | {{< photosmall src="images/1947-10-12.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1947-10-22 | Washington Post | The Fairlington Civic Association polled North Fairlington residents and confirmed that they wanted a new school. | {{< photosmall src="images/1947-10-22.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1948-02-16 | Washington Post | The new owners of Fairlington did not immediately turn over the land for the school to the county. | {{< photosmall src="images/1948-02-16_1.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}}<br>{{< photosmall src="images/1948-02-16_2.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1948-02-25 | Washington Post | The county continued to have trouble obtaining the land for Abingdon. | {{< photosmall src="images/1948-02-25.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1948-04-14 | Arlington Daily | The county hired attorneys to obtain the land for Abingdon. | {{< photosmall src="images/1948-04-14.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1948-12-30 | Sun | The county came to an agreement with landowners about the location and the price of the land on which Abingdon would be built. | {{< photosmall src="images/1948-12-30.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1947-10-12 | Washington Post | The Fairlington Civic Association polled North Fairlington residents and confirmed that they wanted a new school. | {{< photosmall src="images/1947-10-12.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1947-10-22 | Washington Post | The Fairlington Civic Association polled North Fairlington residents and confirmed that they wanted a new school. | {{< photosmall src="images/1947-10-22.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1948-02-16 | Washington Post | The new owners of Fairlington did not immediately turn over the land for the school to the county. | {{< photosmall src="images/1948-02-16_1.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}}<br>{{< photosmall src="images/1948-02-16_2.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1948-02-25 | Washington Post | The county continued to have trouble obtaining the land for Abingdon. | {{< photosmall src="images/1948-02-25.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1948-04-14 | Arlington Daily | The county hired attorneys to obtain the land for Abingdon. | {{< photosmall src="images/1948-04-14.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1948-12-30 | Sun | The county came to an agreement with landowners about the location and the price of the land on which Abingdon would be built. | {{< photosmall src="images/1948-12-30.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
 | 1949-01-28 | Sun | The Fairlington Civic Association and the Fairlington Elementary PTA issued a joint report about Abingdon's specifications. | {{< photosmall src="images/1949-01-28.jpg" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1949-06-17 | Washington Post | The county requested bids for the construction of Abingdon. | {{< photosmall src="images/1949-06-17.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1949-06-17 | Washington Post | The county requested bids for the construction of Abingdon. | {{< photosmall src="images/1949-06-17.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
 | 1949-09-02 | Sun | The county accepted a bid for the construction of Abingdon. | {{< photosmall src="images/1949-09-02.jpg" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1949-10-02 | Washington Post | Abingdon's name was announced. | {{< photosmall src="images/1949-10-02.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1949-10-02 | Washington Post | Abingdon's name was announced. | {{< photosmall src="images/1949-10-02.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
 | 1949-10-07 | Sun | Abingdon's name was announced. It was named for the [Abingdon plantation](https://en.wikipedia.org/wiki/Abingdon_(plantation)). | {{< photosmall src="images/1949-10-07.jpg" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1949-10-30 | Washington Post | Officials held a groundbreaking ceremony for Abingdon. This article includes an architect's rendering of what the school would look like upon completion. [More information about the groundbreaking is available in this document.](pdf/abingdon-groundbreaking.pdf) | {{< photosmall src="images/1949-10-30.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1949-10-30 | Washington Post | Officials held a groundbreaking ceremony for Abingdon. This article includes an architect's rendering of what the school would look like upon completion. [More information about the groundbreaking is available in this document.](pdf/abingdon-groundbreaking.pdf) | {{< photosmall src="images/1949-10-30.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
 | 1949-11-04 | Sun | Officials held a groundbreaking ceremony for Abingdon. [More information about the groundbreaking is available in this document.](pdf/abingdon-groundbreaking.pdf) | {{< photosmall src="images/1949-11-04.jpg" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
 | 1950-06-02 | Sun | The Abingdon PTA held its first meeting on June 6, 1950. | {{< photosmall src="images/1950-06-02.jpg" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
 | 1950-06-23 | Sun | A photo of Abingdon's first principal. | {{< photosmall src="images/1950-06-23.jpg" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
 | 1950-08-18 | Sun | Officials announced the date and time of Abingdon's dedication. | {{< photosmall src="images/1950-08-18.jpg" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1950-08-21 | Washington Post | Abingdon was dedicated on August 20, 1950. | {{< photosmall src="images/1950-08-21.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1950-08-21 | Washington Post | Abingdon was dedicated on August 20, 1950. | {{< photosmall src="images/1950-08-21.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
 | 1950-09-22 | Sun | This article includes the first of many mentions of social events that were held at Abingdon. | {{< photosmall src="images/1950-09-22.jpg" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
 | 1950-11-03 | Sun | A rare early photo of the school's interior. | {{< photosmall src="images/1950-11-03.jpg" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
 | 1950-11-21 | Sun | Classes at Abingdon were already overcrowded in its first year. Eight of ten classrooms had more than 35 students, and four classrooms had 46 or 47 students. | {{< photosmall src="images/1950-11-21.jpg" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1951-01-21 | Washington Star | Mothers of Abingdon students volunteered to serve as crossing guards so that their children could travel safely to and from school. This was the first such program in the country. | {{< photosmall src="images/1951-01-21_1.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}}<br>{{< photosmall src="images/1951-01-21_2.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1951-02-09 | Sun | There was evidence of property destruction at Abingdon after club dances. | {{< photosmall src="images/1951-02-09.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1951-02-17 | Washington Star | Abingdon PTA celebrated Founders Day, which commemorated the creation of the National PTA. This was a common celebration among PTA's in the 1950's. | {{< photosmall src="images/1951-02-17.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1951-04-22 | Washington Star | Abingdon students built a greenhouse. | {{< photosmall src="images/1951-04-22.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1951-01-21 | Washington Star | Mothers of Abingdon students volunteered to serve as crossing guards so that their children could travel safely to and from school. This was the first such program in the country. | {{< photosmall src="images/1951-01-21_1.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}}<br>{{< photosmall src="images/1951-01-21_2.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1951-02-09 | Sun | There was evidence of property destruction at Abingdon after club dances. | {{< photosmall src="images/1951-02-09.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1951-02-17 | Washington Star | Abingdon PTA celebrated Founders Day, which commemorated the creation of the National PTA. This was a common celebration among PTA's in the 1950's. | {{< photosmall src="images/1951-02-17.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1951-04-22 | Washington Star | Abingdon students built a greenhouse. | {{< photosmall src="images/1951-04-22.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
 | 1951-06-22 | Sun | Abingdon's first principal departed after one year. | {{< photosmall src="images/1951-06-22.jpg" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1951-08-26 | Washington Post | Abingdon's second principal was announced. | {{< photosmall src="images/1951-08-26.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1951-11-01 | Washington Star | Abingdon students went on a field trip to the National Gallery of Art. | {{< photosmall src="images/1951-11-01.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1951-11-18 | Washington Star | The Abingdon PTA held a book fair. | {{< photosmall src="images/1951-11-18.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1951-12-16 | Washington Star | The Abingdon PTA held a bake sale. | {{< photosmall src="images/1951-12-16.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1951-1952  | [Project DAPS](https://projectdaps.org/items/show/660) | A PTA directory shows a robust organization in the school's second year. | {{< photosmall src="images/1951-09-01.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1953-08-23 | Washington Post | Abingdon's third principal was announced. | {{< photosmall src="images/1953-08-23.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1953-09-30 | Washington Star | [Jim Busby](https://en.wikipedia.org/wiki/Jim_Busby), a professional baseball player, visited Abingdon. | {{< photosmall src="images/1953-09-30.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1953-10-23 | Washington Star | The Abingdon PTA held a fall festival. | {{< photosmall src="images/1953-10-23.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1954-02-17 | Washington Star | The Abingdon PTA held a square dance. | {{< photosmall src="images/1954-02-17.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1955-03-01 | Washington Post | The Abingdon PTA held a panel discussion about racial integration. | {{< photosmall src="images/1955-03-01.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1951-08-26 | Washington Post | Abingdon's second principal was announced. | {{< photosmall src="images/1951-08-26.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1951-11-01 | Washington Star | Abingdon students went on a field trip to the National Gallery of Art. | {{< photosmall src="images/1951-11-01.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1951-11-18 | Washington Star | The Abingdon PTA held a book fair. | {{< photosmall src="images/1951-11-18.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1951-12-16 | Washington Star | The Abingdon PTA held a bake sale. | {{< photosmall src="images/1951-12-16.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1951-1952  | [Project DAPS](https://projectdaps.org/items/show/660) | A PTA directory shows a robust organization in the school's second year. | {{< photosmall src="images/1951-09-01.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1953-08-23 | Washington Post | Abingdon's third principal was announced. | {{< photosmall src="images/1953-08-23.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1953-09-30 | Washington Star | [Jim Busby](https://en.wikipedia.org/wiki/Jim_Busby), a professional baseball player, visited Abingdon. | {{< photosmall src="images/1953-09-30.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1953-10-23 | Washington Star | The Abingdon PTA held a fall festival. | {{< photosmall src="images/1953-10-23.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1954-02-17 | Washington Star | The Abingdon PTA held a square dance. | {{< photosmall src="images/1954-02-17.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1955-03-01 | Washington Post | The Abingdon PTA held a panel discussion about racial integration. | {{< photosmall src="images/1955-03-01.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
 | 1955-06-02 | Sun | A jitterbug contest was held at Abingdon. | {{< photosmall src="images/1955-06-02.jpg" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1955-12-13 | Washington Post | The Fairlington Civic Association and the Abingdon PTA voted to oppose a state constitutional convention that was being organized to continue segregation in Virginia public schools. | {{< photosmall src="images/1955-12-13.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1956-07-27 | Daily Sun | A doll contest was held at Abingdon. | {{< photosmall src="images/1956-07-27.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1959-05-14 | Northern Virginia Sun | A festival being held at Abingdon was rained out. | {{< photosmall src="images/1959-05-14.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1961-01-30 | Northern Virginia Sun | Abingdon hired a new principal who would serve for ten years. | {{< photosmall src="images/1961-01-30.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1962-02-21 | Northern Virginia Sun | Abingdon students nervously watched John Glenn launch into space. | {{< photosmall src="images/1962-02-21.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1955-12-13 | Washington Post | The Fairlington Civic Association and the Abingdon PTA voted to oppose a state constitutional convention that was being organized to continue segregation in Virginia public schools. | {{< photosmall src="images/1955-12-13.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1956-07-27 | Daily Sun | A doll contest was held at Abingdon. | {{< photosmall src="images/1956-07-27.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1959-05-14 | Northern Virginia Sun | A festival being held at Abingdon was rained out. | {{< photosmall src="images/1959-05-14.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1961-01-30 | Northern Virginia Sun | Abingdon hired a new principal who would serve for ten years. | {{< photosmall src="images/1961-01-30.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1962-02-21 | Northern Virginia Sun | Abingdon students nervously watched John Glenn launch into space. | {{< photosmall src="images/1962-02-21.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
 | 1962-04-06 | Northern Virginia Sun | A costume show was held at Abingdon. | {{< photosmall src="images/1962-04-06.jpg" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
 | 1962-11-28 | Northern Virginia Sun | The county planned an addition at Abingdon that would add three or four classrooms and enlarge the library. | {{< photosmall src="images/1962-11-28.jpg" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1963-09-05 | Northern Virginia Sun | The planned addition would add a multi-purpose room for Abingdon and enlarge the library which at that point occupied a small, converted cloakroom. | {{< photosmall src="images/1963-09-05.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1963-09-05 | Northern Virginia Sun | The planned addition would add a multi-purpose room for Abingdon and enlarge the library which at that point occupied a small, converted cloakroom. | {{< photosmall src="images/1963-09-05.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
 | 1963-10-28 | Northern Virginia Sun | A planned multi-purpose room would serve as a cafeteria, auditorium and gym. | {{< photosmall src="images/1963-10-28.jpg" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
 | 1964-02-20 | Northern Virginia Sun | A planned addition cited expectations for 14 elementary classrooms at Abingdon - it's not clear if that included the existing classrooms. | {{< photosmall src="images/1964-02-20.jpg" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1964-05-06 | [Project DAPS](https://projectdaps.org/items/show/1790) | A memo describing integration efforts in Arlington thus far stated that race had ceased to be a stated factor in student placement at this time. However, Abingdon and most other Arlington schools were still segregated due to school boundaries neatly matching settlement patterns in place due to housing discrimination. | {{< photosmall src="images/1964-05-06_01.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}}<br>{{< photosmall src="images/1964-05-06_02.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1964-05-18 | Northern Virginia Sun | A spring festival, with students dancing, was held at Abingdon. | {{< photosmall src="images/1964-05-18.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1964-05-28 | Northern Virginia Sun | Abingdon held a groundbreaking for its new addition. | {{< photosmall src="images/1964-05-28.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1964-10-01 | Northern Virginia Sun | Abingdon introduced its new kindergarten program. | {{< photosmall src="images/1964-10-01.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1965-01-11 | Northern Virginia Sun | Abingdon held a dedication for its new library. | {{< photosmall src="images/1965-01-11.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1965-06-09 | Center for Local History | A publication titled "A Long Range Staff Development Program to Facilitate Effective Integration in the Arlington County Public Schools" ([Library URL](https://libcat.arlingtonva.us/Record/18721)) drafted by the school system stated that there were no Black students at Abingdon in 1965. | {{< photosmall src="images/1965-06-09.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1966-04-01 | Northern Virginia Sun | Though not directly related to Abingdon, the article noted that there were only two Black families living in Fairlington. This would have made it difficult to meaningfully integrate Abingdon. | {{< photosmall src="images/1966-04-01.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1966-04-03 | Washington Post | An article describing the purported mechanics of racial discrimination in Fairlington, which kept Abingdon from integrating. | {{< photosmall src="images/1966-04-03.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1966-04-04 | Northern Virginia Sun | Segregation in Fairlington, which was then a rental community, kept Abingdon segregated long after the Supreme Court had ruled that public school segregation was against the law. | {{< photosmall src="images/1966-04-04.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1964-05-06 | [Project DAPS](https://projectdaps.org/items/show/1790) | A memo describing integration efforts in Arlington thus far stated that race had ceased to be a stated factor in student placement at this time. However, Abingdon and most other Arlington schools were still segregated due to school boundaries neatly matching settlement patterns in place due to housing discrimination. | {{< photosmall src="images/1964-05-06_01.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}}<br>{{< photosmall src="images/1964-05-06_02.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1964-05-18 | Northern Virginia Sun | A spring festival, with students dancing, was held at Abingdon. | {{< photosmall src="images/1964-05-18.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1964-05-28 | Northern Virginia Sun | Abingdon held a groundbreaking for its new addition. | {{< photosmall src="images/1964-05-28.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1964-10-01 | Northern Virginia Sun | Abingdon introduced its new kindergarten program. | {{< photosmall src="images/1964-10-01.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1965-01-11 | Northern Virginia Sun | Abingdon held a dedication for its new library. | {{< photosmall src="images/1965-01-11.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1965-06-09 | Center for Local History | A publication titled "A Long Range Staff Development Program to Facilitate Effective Integration in the Arlington County Public Schools" ([Library URL](https://libcat.arlingtonva.us/Record/18721)) drafted by the school system stated that there were no Black students at Abingdon in 1965. | {{< photosmall src="images/1965-06-09.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1966-04-01 | Northern Virginia Sun | Though not directly related to Abingdon, the article noted that there were only two Black families living in Fairlington. This would have made it difficult to meaningfully integrate Abingdon. | {{< photosmall src="images/1966-04-01.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1966-04-03 | Washington Post | An article describing the purported mechanics of racial discrimination in Fairlington, which kept Abingdon from integrating. | {{< photosmall src="images/1966-04-03.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1966-04-04 | Northern Virginia Sun | Segregation in Fairlington, which was then a rental community, kept Abingdon segregated long after the Supreme Court had ruled that public school segregation was against the law. | {{< photosmall src="images/1966-04-04.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
 | 1966-09-28 | Northern Virginia Sun | Abingdon's principal was given lifetime PTA membership. | {{< photosmall src="images/1966-09-28.jpg" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
 | 1967-08-04 | Northern Virginia Sun | Abingdon bought temporary classroms to relieve overcrowding. | {{< photosmall src="images/1967-08-04.jpg" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1967-10-19 | Northern Virginia Sun | Housing discrimination continued in Fairlington, which contributed to keeping Abingdon segregated. | {{< photosmall src="images/1967-10-19_1.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}}<br>{{< photosmall src="images/1967-10-19_2.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1968-03-18 | Washington Post | Abingdon's Fun Fair was advertised in the Washington Post. | {{< photosmall src="images/1968-03-18.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1967-10-19 | Northern Virginia Sun | Housing discrimination continued in Fairlington, which contributed to keeping Abingdon segregated. | {{< photosmall src="images/1967-10-19_1.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}}<br>{{< photosmall src="images/1967-10-19_2.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1968-03-18 | Washington Post | Abingdon's Fun Fair was advertised in the Washington Post. | {{< photosmall src="images/1968-03-18.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
 | 1968-05-25 | Northern Virginia Sun | Abingdon was slated to receive over a million dollars for a new addition in a bond referendum. | {{< photosmall src="images/1968-05-25.jpg" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1968-09-03 | Northern Virginia Sun | Some families with children who had been signed up to attend Abingdon and Fairlington were told that they would be bused to Drew. Some parents were unhappy about this. | {{< photosmall src="images/1968-09-03_1.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}}<br>{{< photosmall src="images/1968-09-03_2.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1968-09-04 | Northern Virginia Sun | Parents of children who were slated to be bus to Drew requested a School Board hearing. These were primarily Fairlington parents (not Abingdon parents), but some Abingdon students were slated to be bused as well. | {{< photosmall src="images/1968-09-04_1.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}}<br>{{< photosmall src="images/1968-09-04_2.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1968-09-03 | Northern Virginia Sun | Some families with children who had been signed up to attend Abingdon and Fairlington were told that they would be bused to Drew. Some parents were unhappy about this. | {{< photosmall src="images/1968-09-03_1.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}}<br>{{< photosmall src="images/1968-09-03_2.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1968-09-04 | Northern Virginia Sun | Parents of children who were slated to be bus to Drew requested a School Board hearing. These were primarily Fairlington parents (not Abingdon parents), but some Abingdon students were slated to be bused as well. | {{< photosmall src="images/1968-09-04_1.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}}<br>{{< photosmall src="images/1968-09-04_2.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
 | 1968-09-05 | Northern Virginia Sun | An editorial supported the busing of Abingdon and Fairlington students to Drew to relieve overcrowding. | {{< photosmall src="images/1968-09-05.jpg" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1968-09-12 | Northern Virginia Sun | The Arlington School Board declined to intervene on behalf of Fairlington parents who objected to the busing of their children to Drew. | {{< photosmall src="images/1968-09-12_1.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}}<br>{{< photosmall src="images/1968-09-12_2.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1968-09-30 | Center for Local History | There were 51 "minority" students at Abingdon in 1968, and one Black teacher. | {{< photosmall src="images/1968-09-30_1.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}}<br>{{< photosmall src="images/1968-09-30_2.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1969-05-13 | Center for Local History | This critical document shows the year of integration of all schools in Arlington up to this point. Abingdon integrated in 1968 with three Black students. | {{< photosmall src="images/1969-05-13.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1969-06 | Abingdon Yearbooks | Yearbook photos from the 1968-1969 school year, showing the first Black students to enroll at Abingdon. | {{< photosmall src="images/yearbook-1968-1969-6.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}}<br>{{< photosmall src="images/yearbook-1968-1969-1.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}}<br>{{< photosmall src="images/yearbook-1968-1969-k.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1968-09-12 | Northern Virginia Sun | The Arlington School Board declined to intervene on behalf of Fairlington parents who objected to the busing of their children to Drew. | {{< photosmall src="images/1968-09-12_1.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}}<br>{{< photosmall src="images/1968-09-12_2.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1968-09-30 | Center for Local History | There were 51 "minority" students at Abingdon in 1968, and one Black teacher. | {{< photosmall src="images/1968-09-30_1.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}}<br>{{< photosmall src="images/1968-09-30_2.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1969-05-13 | Center for Local History | This critical document shows the year of integration of all schools in Arlington up to this point. Abingdon integrated in 1968 with three Black students. | {{< photosmall src="images/1969-05-13.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1969-06 | Abingdon Yearbooks | Yearbook photos from the 1968-1969 school year, showing the first Black students to enroll at Abingdon. | {{< photosmall src="images/yearbook-1968-1969-6.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}}<br>{{< photosmall src="images/yearbook-1968-1969-1.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}}<br>{{< photosmall src="images/yearbook-1968-1969-k.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
 | 1969-11-25 | Northern Virginia Sun | The Northern Virginia Service League (now the Junior League of Northern Virginia) held a presentation on a pilot program that is apparently similar to the modern-day Extended Day program. | {{< photosmall src="images/1969-11-25.jpg" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1969-11-26 | [Project DAPS](https://projectdaps.org/items/show/1421) | The racial breakdown of Abingdon students in 1969 is the first to count students of each race. | {{< photosmall src="images/1969-11-26.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1969-11-26 | [Project DAPS](https://projectdaps.org/items/show/1421) | The racial breakdown of Abingdon students in 1969 is the first to count students of each race. | {{< photosmall src="images/1969-11-26.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
 | 1971-04-15 | Northern Virginia Sun | A former principal of another Arlington school advocated for busing Abingdon students to Drew to relieve overcrowding. | {{< photosmall src="images/1971-04-15.jpg" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1971-05-03 | Northern Virginia Sun | A new school board member discussed busing Abingdon students to Drew to relieve overcrowding. | {{< photosmall src="images/1971-05-03.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1971-06-25 | [Project DAPS](https://projectdaps.org/files/show/483) | This is a snapshot of the demographics of Arlington elementary schools on the eve of a busing program aimed at racial integration of two formerly segregated schools. | {{< photosmall src="images/1971-06-25.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1971-07 | [Project DAPS](https://projectdaps.org/items/show/823) | This is a boundary map of Green Valley at the outset of Arlington's busing program. A section of Green Valley was slated to attend Abingdon. | {{< photosmall src="images/1971-07-01.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1974-09-17 | Washington Star | Abingdon lost electricity due to a squirrel short-circuiting a transformer. | {{< photosmall src="images/1974-09-17.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1971-05-03 | Northern Virginia Sun | A new school board member discussed busing Abingdon students to Drew to relieve overcrowding. | {{< photosmall src="images/1971-05-03.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1971-06-25 | [Project DAPS](https://projectdaps.org/files/show/483) | This is a snapshot of the demographics of Arlington elementary schools on the eve of a busing program aimed at racial integration of two formerly segregated schools. | {{< photosmall src="images/1971-06-25.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1971-07 | [Project DAPS](https://projectdaps.org/items/show/823) | This is a boundary map of Green Valley at the outset of Arlington's busing program. A section of Green Valley was slated to attend Abingdon. | {{< photosmall src="images/1971-07-01.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1974-09-17 | Washington Star | Abingdon lost electricity due to a squirrel short-circuiting a transformer. | {{< photosmall src="images/1974-09-17.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
 | 1974-12-18 | Northern Virginia Sun | This was the first mention of the potential closure of Fairlington Elementary School. | {{< photosmall src="images/1974-12-18_1.jpg" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}}<br>{{< photosmall src="images/1974-12-18_2.jpg" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
 | 1975-05-21 | Northern Virginia Sun | Abingdon hired a new principal. | {{< photosmall src="images/1975-05-21_1.jpg" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1975-05-21 | Northern Virginia Sun | Abingdon raised money for a field trip by collecting recycling. | {{< photosmall src="images/1975-05-21_2.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1975-09-12 | Washington Star | Abingdon enrolled refugees from Southeast Asia at the end of the Vietnam War. | {{< photosmall src="images/1975-09-12.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1975-05-21 | Northern Virginia Sun | Abingdon raised money for a field trip by collecting recycling. | {{< photosmall src="images/1975-05-21_2.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1975-09-12 | Washington Star | Abingdon enrolled refugees from Southeast Asia at the end of the Vietnam War. | {{< photosmall src="images/1975-09-12.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
 | 1977-03-23 | Northern Virginia Sun | Fairlington Elementary was restricted to grades 1-3. | {{< photosmall src="images/1977-03-03.jpg" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1978-11-15 | Washington Star | [Pearl Bailey](https://en.wikipedia.org/wiki/Pearl_Bailey) visited Abingdon. | {{< photosmall src="images/1978-11-15_1.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}}<br>{{< photosmall src="images/1978-11-15_2.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1978-12-08 | [Washington Post](https://www.washingtonpost.com/archive/local/1978/12/08/arlington-board-votes-to-shut-three-schools/2b460734-f0ad-415d-ad0b-94ac105107df/) | Fairlington Elementary was shut down, and remaining students enrolled in Abingdon starting in the fall of 1979. | {{< photosmall src="images/1978-12-08.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1983-06-17 | [Washington Post](https://www.washingtonpost.com/archive/local/1983/06/17/for-claremont-theres-no-tomorrow/3364fd7f-b1e4-4550-83c1-48a796f31c5a/) | Claremont Elementary was shut down, and remaining students enrolled in Abingdon starting in the fall of 1983. | {{< photosmall src="images/1983-06-17_1.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}}<br>{{< photosmall src="images/1983-06-17_2.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1983-07-01 | [Project DAPS](https://projectdaps.org/items/show/2177) | Attendance zones in Green Valley had changed in an attempt to reduce the impact of busing. Abingdon's attendance zone within Green Valley encompassed what had been the attendance zones of Fairlington and Claremont schools, which were now closed. | {{< photosmall src="images/1983-07-01.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1984-11-07 | [Washington Post](https://www.washingtonpost.com/archive/local/1984/11/07/volunteers-work-is-childs-play/ca319fea-11f5-4f64-befd-271dce5697f9/) | Abingdon students provided requirements to a celebrity playground architect. | {{< photosmall src="images/1984-11-07_1.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}}<br>{{< photosmall src="images/1984-11-07_2.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1985-03-14 | Washington Post | The School Board proposed changes to Abingdon's school attendance boundaries. | {{< photosmall src="images/1985-03-14.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1986-09-05 | [Washington Post](https://www.washingtonpost.com/archive/lifestyle/1986/09/05/playgrounds-to-test-the-mind-and-body/36469714-86de-40e7-9f70-e8dd65cd5bb6/) | A description of Abingdon's playground, listed in an article titled "Playgrounds to Test the Mind and Body." | {{< photosmall src="images/1986-09-05.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}}
-| 1986-12-03 | [Washington Post](https://www.washingtonpost.com/archive/local/1986/12/03/14-area-principals-honored-by-post/3b1a531d-a5fc-457e-98e8-dd862da126d7/) | Abingdon's principal was honored by the Washington Post. | {{< photosmall src="images/1986-12-03.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1987-09 | [Project DAPS](https://projectdaps.org/items/show/2169) | All elementary students living in Green Valley were sent to either Abingdon, Randolph or Barcroft at this time. Compulsory busing to other schools in the county had ceased. | {{< photosmall src="images/1987-09-01.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1988-02-19 | Washington Post | A plan was proposed to place sixth grade students in middle schools, and to reopen Claremont Elementary as an extension of Abingdon. | {{< photosmall src="images/1988-02-19.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1988-04-15 | [Washington Post](https://www.washingtonpost.com/archive/local/1988/04/15/school-plan-poorly-received/70d42adf-977d-4908-88de-ad2ffbbe032e/) | There was pushback to the plan to place sixth graders in middle schools and to reopen Claremont Elementary as an extension to Abingdon. (Claremont would reopen six years later.) | {{< photosmall src="images/1988-04-15.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1991-10-23 | [Washington Post](https://www.washingtonpost.com/archive/lifestyle/food/1991/10/23/a-little-hands-on-harvest/1ccb80df-cb15-4e72-99a2-c27933032992/) | A feature about Abingdon's school garden. | {{< photosmall src="images/1991-10-23_1.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}}<br>{{< photosmall src="images/1991-10-23_2.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1978-11-15 | Washington Star | [Pearl Bailey](https://en.wikipedia.org/wiki/Pearl_Bailey) visited Abingdon. | {{< photosmall src="images/1978-11-15_1.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}}<br>{{< photosmall src="images/1978-11-15_2.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1978-12-08 | [Washington Post](https://www.washingtonpost.com/archive/local/1978/12/08/arlington-board-votes-to-shut-three-schools/2b460734-f0ad-415d-ad0b-94ac105107df/) | Fairlington Elementary was shut down, and remaining students enrolled in Abingdon starting in the fall of 1979. | {{< photosmall src="images/1978-12-08.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1983-06-17 | [Washington Post](https://www.washingtonpost.com/archive/local/1983/06/17/for-claremont-theres-no-tomorrow/3364fd7f-b1e4-4550-83c1-48a796f31c5a/) | Claremont Elementary was shut down, and remaining students enrolled in Abingdon starting in the fall of 1983. | {{< photosmall src="images/1983-06-17_1.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}}<br>{{< photosmall src="images/1983-06-17_2.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1983-07-01 | [Project DAPS](https://projectdaps.org/items/show/2177) | Attendance zones in Green Valley had changed in an attempt to reduce the impact of busing. Abingdon's attendance zone within Green Valley encompassed what had been the attendance zones of Fairlington and Claremont schools, which were now closed. | {{< photosmall src="images/1983-07-01.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1984-11-07 | [Washington Post](https://www.washingtonpost.com/archive/local/1984/11/07/volunteers-work-is-childs-play/ca319fea-11f5-4f64-befd-271dce5697f9/) | Abingdon students provided requirements to a celebrity playground architect. | {{< photosmall src="images/1984-11-07_1.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}}<br>{{< photosmall src="images/1984-11-07_2.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1985-03-14 | Washington Post | The School Board proposed changes to Abingdon's school attendance boundaries. | {{< photosmall src="images/1985-03-14.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1986-09-05 | [Washington Post](https://www.washingtonpost.com/archive/lifestyle/1986/09/05/playgrounds-to-test-the-mind-and-body/36469714-86de-40e7-9f70-e8dd65cd5bb6/) | A description of Abingdon's playground, listed in an article titled "Playgrounds to Test the Mind and Body." | {{< photosmall src="images/1986-09-05.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}}
+| 1986-12-03 | [Washington Post](https://www.washingtonpost.com/archive/local/1986/12/03/14-area-principals-honored-by-post/3b1a531d-a5fc-457e-98e8-dd862da126d7/) | Abingdon's principal was honored by the Washington Post. | {{< photosmall src="images/1986-12-03.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1987-09 | [Project DAPS](https://projectdaps.org/items/show/2169) | All elementary students living in Green Valley were sent to either Abingdon, Randolph or Barcroft at this time. Compulsory busing to other schools in the county had ceased. | {{< photosmall src="images/1987-09-01.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1988-02-19 | Washington Post | A plan was proposed to place sixth grade students in middle schools, and to reopen Claremont Elementary as an extension of Abingdon. | {{< photosmall src="images/1988-02-19.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1988-04-15 | [Washington Post](https://www.washingtonpost.com/archive/local/1988/04/15/school-plan-poorly-received/70d42adf-977d-4908-88de-ad2ffbbe032e/) | There was pushback to the plan to place sixth graders in middle schools and to reopen Claremont Elementary as an extension to Abingdon. (Claremont would reopen six years later.) | {{< photosmall src="images/1988-04-15.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1991-10-23 | [Washington Post](https://www.washingtonpost.com/archive/lifestyle/food/1991/10/23/a-little-hands-on-harvest/1ccb80df-cb15-4e72-99a2-c27933032992/) | A feature about Abingdon's school garden. | {{< photosmall src="images/1991-10-23_1.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}}<br>{{< photosmall src="images/1991-10-23_2.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
 | 1992-11 | [American Horticulturist](https://ahsgardening.org/wp-content/pdfs/1992-11r.pdf#page=10) | A feature about Abingdon's school garden. | [PDF](pdf/1992-11.pdf#page=10) |
-| 1993-11-30 | Washington Post | Abingdon's principal was honored for distinguished leadership. | {{< photosmall src="images/1993-11-30.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1994-03-24 | [Washington Post](https://www.washingtonpost.com/archive/local/1994/03/24/school-boundary-revisions-leave-frustrations/c206cf80-5735-4186-a1f1-a8e72f1c6635/) | Gunston Middle School re-opened after having been closed in 1978, and Abingdon families were excited to send their kids there. Also, Claremont Elementary reopened, which reduced crowding at Abingdon. | {{< photosmall src="images/1994-03-24_1.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}}<br>{{< photosmall src="images/1994-03-24_2.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1995-12-03 | [Washington Post](https://www.washingtonpost.com/archive/local/1995/12/03/in-step-with-her-students/92e7c073-7a7f-494a-882d-d55805f20721/) | A profile of race walking Abingdon teacher. | {{< photosmall src="images/1995-12-03_1.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}}<br>{{< photosmall src="images/1995-12-03_2.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1996-09-01 | Washington Post | A list of quotes from Abingdon staff. | {{< photosmall src="images/1996-09-01.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1999-04-01 | [Washington Post](https://www.washingtonpost.com/archive/local/1999/04/01/speaking-childrens-language/e24488ec-32df-43f0-afeb-2ff6eb5120c5/) | A profile of Abingdon's bilingual program. | {{< photosmall src="images/1999-04-01_1.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}}<br>{{< photosmall src="images/1999-04-01_2.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 2001-03-29 | Washington Post | A profile of a first-year teacher. | {{< photosmall src="images/2001-03-29_1.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}}<br>{{< photosmall src="images/2001-03-29_2.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 2002-01-03 | [Washington Post](https://www.washingtonpost.com/archive/local/2002/01/03/schools-may-merge-spanish-language-programs/a891da84-7d31-4308-add4-df124e50ba2d/) | The school board considered moving Abingdon's bilingual education program. | {{< photosmall src="images/2002-01-03_1.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}}<br>{{< photosmall src="images/2002-01-03_2.webp" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1993-11-30 | Washington Post | Abingdon's principal was honored for distinguished leadership. | {{< photosmall src="images/1993-11-30.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1994-03-24 | [Washington Post](https://www.washingtonpost.com/archive/local/1994/03/24/school-boundary-revisions-leave-frustrations/c206cf80-5735-4186-a1f1-a8e72f1c6635/) | Gunston Middle School re-opened after having been closed in 1978, and Abingdon families were excited to send their kids there. Also, Claremont Elementary reopened, which reduced crowding at Abingdon. | {{< photosmall src="images/1994-03-24_1.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}}<br>{{< photosmall src="images/1994-03-24_2.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1995-12-03 | [Washington Post](https://www.washingtonpost.com/archive/local/1995/12/03/in-step-with-her-students/92e7c073-7a7f-494a-882d-d55805f20721/) | A profile of race walking Abingdon teacher. | {{< photosmall src="images/1995-12-03_1.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}}<br>{{< photosmall src="images/1995-12-03_2.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1996-09-01 | Washington Post | A list of quotes from Abingdon staff. | {{< photosmall src="images/1996-09-01.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1999-04-01 | [Washington Post](https://www.washingtonpost.com/archive/local/1999/04/01/speaking-childrens-language/e24488ec-32df-43f0-afeb-2ff6eb5120c5/) | A profile of Abingdon's bilingual program. | {{< photosmall src="images/1999-04-01_1.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}}<br>{{< photosmall src="images/1999-04-01_2.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 2001-03-29 | Washington Post | A profile of a first-year teacher. | {{< photosmall src="images/2001-03-29_1.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}}<br>{{< photosmall src="images/2001-03-29_2.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 2002-01-03 | [Washington Post](https://www.washingtonpost.com/archive/local/2002/01/03/schools-may-merge-spanish-language-programs/a891da84-7d31-4308-add4-df124e50ba2d/) | The school board considered moving Abingdon's bilingual education program. | {{< photosmall src="images/2002-01-03_1.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}}<br>{{< photosmall src="images/2002-01-03_2.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
 | 2002-02-14 | [Connection Newspapers](http://www.connectionnewspapers.com/news/2002/feb/14/schools-consider-one-more-all-spanish-school/) | The school board considered moving Abingdon's bilingual education program. | |
 | 2006-11-06 | [Washington Post](https://www.washingtonpost.com/archive/local/2006/11/16/2-principals-honored-for-reviving-schools-span-classbankhead18-administrators-receive-post-awards-span/36f6db9a-5fed-4fcc-8f15-6a8fac56acee/) | Abingdon's principal was named Principal of the Year. | [PDF](pdf/2006-11-06.pdf) |
 | 2006-12-10 | [Connection Newspapers](http://www.connectionnewspapers.com/news/2006/dec/10/principal-of-the-year-pushes-abingdon-forward/) | Abingdon's principal was named Principal of the Year. | |
@@ -228,52 +228,52 @@ These photos from the 1950's were found on a Facebook group called "[I grew up i
 
 Abingdon's librarian, Meghan Fatouros, provided the PTA with a box of old documents and photos. Among these was a photo album chronicling life at Abingdon in the late 1970's.
 
-{{< photohalftoc src="images/70s-album-01-01.webp" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
-{{< photohalftoc src="images/70s-album-01-02.webp" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
-{{< photohalftoc src="images/70s-album-01-03.webp" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
-{{< photohalftoc src="images/70s-album-01-04.webp" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
-{{< photohalftoc src="images/70s-album-02-01.webp" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
-{{< photohalftoc src="images/70s-album-02-02.webp" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
-{{< photohalftoc src="images/70s-album-02-03.webp" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
-{{< photohalftoc src="images/70s-album-02-04.webp" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
-{{< photohalftoc src="images/70s-album-03-01.webp" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
-{{< photohalftoc src="images/70s-album-03-02.webp" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
-{{< photohalftoc src="images/70s-album-03-03.webp" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
-{{< photohalftoc src="images/70s-album-03-04.webp" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
-{{< photohalftoc src="images/70s-album-04-01.webp" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
-{{< photohalftoc src="images/70s-album-04-02.webp" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
-{{< photohalftoc src="images/70s-album-04-03.webp" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
-{{< photohalftoc src="images/70s-album-05-02.webp" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
-{{< photohalftoc src="images/70s-album-05-03.webp" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
-{{< photohalftoc src="images/70s-album-05-04.webp" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
-{{< photohalftoc src="images/70s-album-06-01.webp" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
-{{< photohalftoc src="images/70s-album-06-02.webp" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
-{{< photohalftoc src="images/70s-album-06-03.webp" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
-{{< photohalftoc src="images/70s-album-06-04.webp" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
-{{< photohalftoc src="images/70s-album-07-01.webp" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
-{{< photohalftoc src="images/70s-album-07-02.webp" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
-{{< photohalftoc src="images/70s-album-07-03.webp" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
-{{< photohalftoc src="images/70s-album-07-04.webp" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
-{{< photohalftoc src="images/70s-album-07-05.webp" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
-{{< photohalftoc src="images/70s-album-07-06.webp" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
-{{< photohalftoc src="images/70s-album-08-01.webp" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
-{{< photohalftoc src="images/70s-album-08-02.webp" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
-{{< photohalftoc src="images/70s-album-08-03.webp" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
-{{< photohalftoc src="images/70s-album-08-04.webp" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
-{{< photohalftoc src="images/70s-album-08-05.webp" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
-{{< photohalftoc src="images/70s-album-08-06.webp" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
-{{< photohalftoc src="images/70s-album-09-01.webp" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
-{{< photohalftoc src="images/70s-album-10-01.webp" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
-{{< photohalftoc src="images/70s-album-11-01.webp" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
-{{< photohalftoc src="images/70s-album-11-02.webp" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
-{{< photohalftoc src="images/70s-album-12-01.webp" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
-{{< photohalftoc src="images/70s-album-12-02.webp" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
-{{< photohalftoc src="images/70s-album-13-01.webp" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
-{{< photohalftoc src="images/70s-album-13-02.webp" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
-{{< photohalftoc src="images/70s-album-14-01.webp" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
-{{< photohalftoc src="images/70s-album-14-02.webp" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
-{{< photohalftoc src="images/70s-album-15-01.webp" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
-{{< photohalftoc src="images/70s-album-15-02.webp" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
+{{< photohalftoc src="images/70s-album-01-01.png" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
+{{< photohalftoc src="images/70s-album-01-02.png" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
+{{< photohalftoc src="images/70s-album-01-03.png" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
+{{< photohalftoc src="images/70s-album-01-04.png" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
+{{< photohalftoc src="images/70s-album-02-01.png" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
+{{< photohalftoc src="images/70s-album-02-02.png" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
+{{< photohalftoc src="images/70s-album-02-03.png" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
+{{< photohalftoc src="images/70s-album-02-04.png" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
+{{< photohalftoc src="images/70s-album-03-01.png" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
+{{< photohalftoc src="images/70s-album-03-02.png" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
+{{< photohalftoc src="images/70s-album-03-03.png" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
+{{< photohalftoc src="images/70s-album-03-04.png" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
+{{< photohalftoc src="images/70s-album-04-01.png" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
+{{< photohalftoc src="images/70s-album-04-02.png" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
+{{< photohalftoc src="images/70s-album-04-03.png" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
+{{< photohalftoc src="images/70s-album-05-02.png" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
+{{< photohalftoc src="images/70s-album-05-03.png" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
+{{< photohalftoc src="images/70s-album-05-04.png" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
+{{< photohalftoc src="images/70s-album-06-01.png" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
+{{< photohalftoc src="images/70s-album-06-02.png" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
+{{< photohalftoc src="images/70s-album-06-03.png" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
+{{< photohalftoc src="images/70s-album-06-04.png" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
+{{< photohalftoc src="images/70s-album-07-01.png" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
+{{< photohalftoc src="images/70s-album-07-02.png" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
+{{< photohalftoc src="images/70s-album-07-03.png" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
+{{< photohalftoc src="images/70s-album-07-04.png" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
+{{< photohalftoc src="images/70s-album-07-05.png" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
+{{< photohalftoc src="images/70s-album-07-06.png" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
+{{< photohalftoc src="images/70s-album-08-01.png" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
+{{< photohalftoc src="images/70s-album-08-02.png" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
+{{< photohalftoc src="images/70s-album-08-03.png" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
+{{< photohalftoc src="images/70s-album-08-04.png" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
+{{< photohalftoc src="images/70s-album-08-05.png" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
+{{< photohalftoc src="images/70s-album-08-06.png" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
+{{< photohalftoc src="images/70s-album-09-01.png" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
+{{< photohalftoc src="images/70s-album-10-01.png" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
+{{< photohalftoc src="images/70s-album-11-01.png" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
+{{< photohalftoc src="images/70s-album-11-02.png" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
+{{< photohalftoc src="images/70s-album-12-01.png" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
+{{< photohalftoc src="images/70s-album-12-02.png" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
+{{< photohalftoc src="images/70s-album-13-01.png" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
+{{< photohalftoc src="images/70s-album-13-02.png" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
+{{< photohalftoc src="images/70s-album-14-01.png" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
+{{< photohalftoc src="images/70s-album-14-02.png" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
+{{< photohalftoc src="images/70s-album-15-01.png" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
+{{< photohalftoc src="images/70s-album-15-02.png" alt="A photo related to Abingdon from a 1970's-era photo album." >}}
 
 ### 1985 Playground Construction Photos
 
@@ -281,216 +281,216 @@ The photos below show the construction of the "Leathers Playground" in April 198
 
 The photos were provided by Terry Placek, who served on the construction team's "Food Committee," ensuring that the volunteers were well-fed as they built Abingdon's new playground.
 
-{{< photohalftoc src="images/80s-construction-01.webp" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
-{{< photohalftoc src="images/80s-construction-02.webp" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
-{{< photohalftoc src="images/80s-construction-03.webp" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
-{{< photohalftoc src="images/80s-construction-04.webp" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
-{{< photohalftoc src="images/80s-construction-05.webp" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
-{{< photohalftoc src="images/80s-construction-06.webp" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
-{{< photohalftoc src="images/80s-construction-07.webp" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
-{{< photohalftoc src="images/80s-construction-08.webp" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
-{{< photohalftoc src="images/80s-construction-09.webp" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
-{{< photohalftoc src="images/80s-construction-10.webp" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
+{{< photohalftoc src="images/80s-construction-01.png" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
+{{< photohalftoc src="images/80s-construction-02.png" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
+{{< photohalftoc src="images/80s-construction-03.png" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
+{{< photohalftoc src="images/80s-construction-04.png" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
+{{< photohalftoc src="images/80s-construction-05.png" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
+{{< photohalftoc src="images/80s-construction-06.png" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
+{{< photohalftoc src="images/80s-construction-07.png" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
+{{< photohalftoc src="images/80s-construction-08.png" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
+{{< photohalftoc src="images/80s-construction-09.png" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
+{{< photohalftoc src="images/80s-construction-10.png" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
 
 ### 1991 Renovations and Guest Readers
 
 Abingdon's librarian, Meghan Fatouros, provided the PTA with a box of old documents and photos. Among these were three rolls of film from about 1991 which show a renovation/addition to the school being built, as well as visitors reading to students.
 
-{{< photohalftoc src="images/film1-1-1.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film1-1-2.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film1-1-3.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film1-2-1.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film1-2-2.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film1-2-3.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film1-2-4.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film1-3-4.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film1-3-1.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film1-3-2.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film1-3-3.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film1-4-1.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film1-4-2.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film1-4-3.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film1-4-4.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film1-5-1.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film1-5-2.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film1-6-1.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film1-6-2.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film1-6-3.webp" alt="A scanned film photo from about 1991." >}}<!--{{< photohalftoc src="images/film1-7-1.webp" alt="A scanned film photo from about 1991." >}}--><!--{{< photohalftoc src="images/film1-7-2.webp" alt="A scanned film photo from about 1991." >}}-->
-{{< photohalftoc src="images/film1-7-3.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film1-7-4.webp" alt="A scanned film photo from about 1991." >}}<!--{{< photohalftoc src="images/film2-1-1.webp" alt="A scanned film photo from about 1991." >}}--><!--{{< photohalftoc src="images/film2-1-2.webp" alt="A scanned film photo from about 1991." >}}--><!--{{< photohalftoc src="images/film2-1-3.webp" alt="A scanned film photo from about 1991." >}}-->
-{{< photohalftoc src="images/film1-6-4.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film2-2-1.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film2-2-2.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film2-3-1.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film2-3-2.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film2-4-1.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film2-4-2.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film2-5-1.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film2-5-2.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film2-5-3.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film2-5-4.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film2-6-1.webp" alt="A scanned film photo from about 1991." >}}<!--{{< photohalftoc src="images/film2-6-2.webp" alt="A scanned film photo from about 1991." >}}-->
-{{< photohalftoc src="images/film2-6-3.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film2-6-4.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film2-7-1.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film2-7-2.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film2-7-3.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film2-7-4.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film2-8-1.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film2-8-2.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film2-8-3.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film2-8-4.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film3-1-1.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film3-1-4.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film3-2-1.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film3-2-2.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film3-2-3.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film3-2-4.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film3-3-1.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film3-3-2.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film3-3-3.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film3-3-4.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film3-4-1.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film3-4-2.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film3-4-3.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film3-4-4.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film3-5-1.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film3-5-2.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film3-5-3.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film3-5-4.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film3-6-3.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film3-6-4.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film3-7-1.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film3-7-2.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film3-7-3.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film3-7-4.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film3-8-1.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film3-8-2.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film3-8-3.webp" alt="A scanned film photo from about 1991." >}}
-{{< photohalftoc src="images/film3-8-4.webp" alt="A scanned film photo from about 1991." >}}<!--{{< photohalftoc src="images/film3-9-1.webp" alt="A scanned film photo from about 1991." >}}--><!--{{< photohalftoc src="images/film3-9-2.webp" alt="A scanned film photo from about 1991." >}}--><!--{{< photohalftoc src="images/film3-9-3.webp" alt="A scanned film photo from about 1991." >}}-->
+{{< photohalftoc src="images/film1-1-1.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film1-1-2.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film1-1-3.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film1-2-1.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film1-2-2.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film1-2-3.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film1-2-4.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film1-3-4.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film1-3-1.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film1-3-2.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film1-3-3.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film1-4-1.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film1-4-2.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film1-4-3.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film1-4-4.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film1-5-1.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film1-5-2.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film1-6-1.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film1-6-2.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film1-6-3.png" alt="A scanned film photo from about 1991." >}}<!--{{< photohalftoc src="images/film1-7-1.png" alt="A scanned film photo from about 1991." >}}--><!--{{< photohalftoc src="images/film1-7-2.png" alt="A scanned film photo from about 1991." >}}-->
+{{< photohalftoc src="images/film1-7-3.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film1-7-4.png" alt="A scanned film photo from about 1991." >}}<!--{{< photohalftoc src="images/film2-1-1.png" alt="A scanned film photo from about 1991." >}}--><!--{{< photohalftoc src="images/film2-1-2.png" alt="A scanned film photo from about 1991." >}}--><!--{{< photohalftoc src="images/film2-1-3.png" alt="A scanned film photo from about 1991." >}}-->
+{{< photohalftoc src="images/film1-6-4.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film2-2-1.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film2-2-2.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film2-3-1.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film2-3-2.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film2-4-1.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film2-4-2.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film2-5-1.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film2-5-2.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film2-5-3.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film2-5-4.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film2-6-1.png" alt="A scanned film photo from about 1991." >}}<!--{{< photohalftoc src="images/film2-6-2.png" alt="A scanned film photo from about 1991." >}}-->
+{{< photohalftoc src="images/film2-6-3.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film2-6-4.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film2-7-1.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film2-7-2.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film2-7-3.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film2-7-4.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film2-8-1.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film2-8-2.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film2-8-3.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film2-8-4.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-1-1.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-1-4.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-2-1.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-2-2.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-2-3.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-2-4.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-3-1.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-3-2.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-3-3.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-3-4.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-4-1.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-4-2.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-4-3.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-4-4.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-5-1.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-5-2.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-5-3.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-5-4.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-6-3.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-6-4.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-7-1.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-7-2.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-7-3.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-7-4.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-8-1.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-8-2.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-8-3.png" alt="A scanned film photo from about 1991." >}}
+{{< photohalftoc src="images/film3-8-4.png" alt="A scanned film photo from about 1991." >}}<!--{{< photohalftoc src="images/film3-9-1.png" alt="A scanned film photo from about 1991." >}}--><!--{{< photohalftoc src="images/film3-9-2.png" alt="A scanned film photo from about 1991." >}}--><!--{{< photohalftoc src="images/film3-9-3.png" alt="A scanned film photo from about 1991." >}}-->
 
 ### Mid 1990's Classroom
 
 Abingdon's librarian, Meghan Fatouros, provided the PTA with a box of old documents and photos. Among these was were undated classroom photos, likely from the mid-1990's.
 
-{{< photohalftoc src="images/90s-kodak-0001.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/90s-kodak-0002.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/90s-kodak-0003.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/90s-kodak-0004.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/90s-kodak-0005.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/90s-kodak-0006.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/90s-kodak-0007.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/90s-kodak-0008.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/90s-kodak-0009.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/90s-kodak-0010.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/90s-kodak-0011.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/90s-kodak-0012.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/90s-kodak-0013.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/90s-kodak-0014.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/90s-kodak-0015.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/90s-kodak-0016.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/90s-kodak-0017.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/90s-kodak-0018.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/90s-kodak-0020.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/90s-kodak-0021.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/90s-kodak-0022.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/90s-kodak-0023.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/90s-kodak-0019.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/90s-kodak-0001.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/90s-kodak-0002.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/90s-kodak-0003.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/90s-kodak-0004.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/90s-kodak-0005.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/90s-kodak-0006.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/90s-kodak-0007.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/90s-kodak-0008.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/90s-kodak-0009.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/90s-kodak-0010.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/90s-kodak-0011.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/90s-kodak-0012.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/90s-kodak-0013.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/90s-kodak-0014.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/90s-kodak-0015.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/90s-kodak-0016.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/90s-kodak-0017.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/90s-kodak-0018.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/90s-kodak-0020.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/90s-kodak-0021.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/90s-kodak-0022.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/90s-kodak-0023.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/90s-kodak-0019.png" alt="A photo from the 1990's." >}}
 
 ### October 1994 Classroom
 
 Abingdon's librarian, Meghan Fatouros, provided the PTA with a box of old documents and photos. Among these were classroom photos from film developed in October 1994.
 
-{{< photohalftoc src="images/94-oct-0001.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/94-oct-0002.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/94-oct-0003.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/94-oct-0004.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/94-oct-0005.webp" alt="A photo from the 1990's." >}}<!--{{< photohalftoc src="images/94-oct-0006.webp" alt="A photo from the 1990's." >}}-->
-{{< photohalftoc src="images/94-oct-0007.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/94-oct-0008.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/94-oct-0009.webp" alt="A photo from the 1990's." >}}<!--{{< photohalftoc src="images/94-oct-0010.webp" alt="A photo from the 1990's." >}}{{< photohalftoc src="images/94-oct-0011.webp" alt="A photo from the 1990's." >}}{{< photohalftoc src="images/94-oct-0012.webp" alt="A photo from the 1990's." >}}-->
+{{< photohalftoc src="images/94-oct-0001.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/94-oct-0002.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/94-oct-0003.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/94-oct-0004.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/94-oct-0005.png" alt="A photo from the 1990's." >}}<!--{{< photohalftoc src="images/94-oct-0006.png" alt="A photo from the 1990's." >}}-->
+{{< photohalftoc src="images/94-oct-0007.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/94-oct-0008.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/94-oct-0009.png" alt="A photo from the 1990's." >}}<!--{{< photohalftoc src="images/94-oct-0010.png" alt="A photo from the 1990's." >}}{{< photohalftoc src="images/94-oct-0011.png" alt="A photo from the 1990's." >}}{{< photohalftoc src="images/94-oct-0012.png" alt="A photo from the 1990's." >}}-->
 
 ### September 1995 Outdoor Lab and Field Trip
 
 Abingdon's librarian, Meghan Fatouros, provided the PTA with a box of old documents and photos. Among these were photos developed in September 1995 showing a trip to the Outdoor Lab, and likely to a historical site as well.
 
-{{< photohalftoc src="images/95-sep-0001.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/95-sep-0002.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/95-sep-0003.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/95-sep-0004.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/95-sep-0005.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/misc0001.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/misc0002.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/misc0003.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/misc0004.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/95-sep-0006.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/95-sep-0007.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/95-sep-0008.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/95-sep-0009.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/95-sep-0010.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/95-sep-0011.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/95-sep-0012.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/95-sep-0013.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/95-sep-0014.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/95-sep-0015.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/95-sep-0016.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/95-sep-0017.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/95-sep-0018.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/95-sep-0019.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/95-sep-0020.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/95-sep-0021.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/95-sep-0022.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/95-sep-0023.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/95-sep-0024.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/95-sep-0025.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/95-sep-0026.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/95-sep-0027.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/95-sep-0028.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/95-sep-0029.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/95-sep-0030.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/95-sep-0031.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/95-sep-0032.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/95-sep-0033.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/95-sep-0034.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/95-sep-0035.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/95-sep-0036.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/95-sep-0037.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/95-sep-0038.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/95-sep-0039.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/95-sep-0040.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/95-sep-0041.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/95-sep-0042.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/95-sep-0043.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/95-sep-0044.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/95-sep-0045.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/95-sep-0046.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/95-sep-0047.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/95-sep-0048.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/95-sep-0049.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0001.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0002.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0003.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0004.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0005.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/misc0001.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/misc0002.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/misc0003.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/misc0004.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0006.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0007.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0008.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0009.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0010.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0011.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0012.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0013.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0014.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0015.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0016.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0017.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0018.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0019.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0020.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0021.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0022.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0023.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0024.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0025.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0026.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0027.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0028.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0029.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0030.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0031.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0032.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0033.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0034.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0035.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0036.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0037.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0038.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0039.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0040.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0041.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0042.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0043.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0044.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0045.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0046.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0047.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0048.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/95-sep-0049.png" alt="A photo from the 1990's." >}}
 
 ### March 1996 Military Equipment
 
 Abingdon's librarian, Meghan Fatouros, provided the PTA with a box of old documents and photos. Among these were photos developed in March 1996 show students trying on military equipment for some reason, as well as a couple of playground photos.
 
-{{< photohalftoc src="images/96-mar-0001.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/96-mar-0002.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/96-mar-0003.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/96-mar-0004.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/96-mar-0005.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/96-mar-0006.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/96-mar-0007.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/96-mar-0008.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/96-mar-0009.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/96-mar-0010.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/96-mar-0011.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/96-mar-0012.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/96-mar-0013.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/96-mar-0014.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/96-mar-0015.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/96-mar-0016.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/96-mar-0017.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/96-mar-0018.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/96-mar-0019.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/96-mar-0020.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/96-mar-0021.webp" alt="A photo from the 1990's." >}}
-{{< photohalftoc src="images/96-mar-0022.webp" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/96-mar-0001.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/96-mar-0002.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/96-mar-0003.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/96-mar-0004.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/96-mar-0005.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/96-mar-0006.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/96-mar-0007.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/96-mar-0008.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/96-mar-0009.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/96-mar-0010.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/96-mar-0011.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/96-mar-0012.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/96-mar-0013.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/96-mar-0014.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/96-mar-0015.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/96-mar-0016.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/96-mar-0017.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/96-mar-0018.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/96-mar-0019.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/96-mar-0020.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/96-mar-0021.png" alt="A photo from the 1990's." >}}
+{{< photohalftoc src="images/96-mar-0022.png" alt="A photo from the 1990's." >}}

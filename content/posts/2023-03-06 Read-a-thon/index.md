@@ -7,7 +7,7 @@ categories: fundraisers
 aliases:
     - /2023/02/23/read-a-thon/
 images:
-    - /2023/03/06/read-a-thon/images/flyer.webp
+    - /2023/03/06/read-a-thon/images/flyer.png
 ---
 
 We are excited to announce that the Abingdon Read-A-Thon is back! This fun event encourages students to read & build literacy skills while also raising money for our school.
@@ -38,8 +38,8 @@ We are excited to announce that the Abingdon Read-A-Thon is back! This fun event
 - **Friday, March 17th** - Read The Day Away is our celebration of reading at Abingdon. Look out for details about mystery readers in classrooms!
 - **Friday, March 24th** - The Read-A-Thon reader pages will close at the end of the night! Log all reading minutes before midnight!
 
-{{< imagehalf src="images/flyer.webp" alt="Read-a-thon flyer" >}}
-{{< imagehalf src="images/flyer-es.webp" alt="Read-a-thon flyer Spanish" >}}
+{{< imagehalf src="images/flyer.png" alt="Read-a-thon flyer" >}}
+{{< imagehalf src="images/flyer-es.png" alt="Read-a-thon flyer Spanish" >}}
 
 <!--
 

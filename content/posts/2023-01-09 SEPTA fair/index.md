@@ -5,7 +5,7 @@ slug: septa activities fair
 date: 2023-01-09T20:00:00-05:00
 categories: "passed along"
 images: 
-- /2023/01/09/septa-activities-fair/images/flyer.webp
+- /2023/01/09/septa-activities-fair/images/flyer.png
 ---
 
 Arlington Special Education PTA (SEPTA) is hosting a FREE Summer Activities Fair to help you plan for Summer 2023! Come learn about options for summer learning and adventure. SEPTA invites vendors from near and far – day camps and sleep-away camps, social skills, or outdoor adventure. There is something for every child.
@@ -19,4 +19,4 @@ Activities for the kids and refreshments will be provided.
 
 **More information**: https://www.arlingtonsepta.org/event/septa-summer-activity-fair/
 
-{{< imagehalf class="halfcenter" src="images/flyer.webp" alt="SEPTA Activities Fair Flyer" >}}
+{{< imagehalf class="halfcenter" src="images/flyer.png" alt="SEPTA Activities Fair Flyer" >}}

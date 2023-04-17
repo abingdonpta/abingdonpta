@@ -41,11 +41,11 @@ The Abingdon PTA partners with the Student Support Team at Abingdon to help supp
 
 The PTA raises money for school supplies for children whose families cannot afford them.
 
-![Twitter post describing the school supplies drive](images/1289217662661214208.webp)
+![Twitter post describing the school supplies drive](images/1289217662661214208.png)
 
 ## Mask Drive
 
 The PTA raised money to buy high-filtration masks to students, and also collected new masks in packaging to provide to students.
 
-![Twitter post describing the mask drive](images/1455565332261883910.webp)
+![Twitter post describing the mask drive](images/1455565332261883910.png)
 -->

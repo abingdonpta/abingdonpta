@@ -32,7 +32,7 @@ Abingdon’s Annual International & Cultural Heritage and History Night is COMIN
 
 This event is a success **only** with your participation. Beyond joining in the fun, we also need **volunteers** to set up, work the event, and clean up at the end of the night. Please consider offering your time!
 
-{{< imagefulltoc src="images/in-flyer.webp" alt="International Night flyer" >}}
+{{< imagefulltoc src="images/in-flyer.png" alt="International Night flyer" >}}
 
 ### 🙋 Nominations for PTA Leadership 2023-2024
 
@@ -42,14 +42,14 @@ This event is a success **only** with your participation. Beyond joining in the 
 - **Interested?** Look at the positions below and complete [this nomination form](https://docs.google.com/forms/d/e/1FAIpQLScPl5b8CzjnBYOVNXnR33plv3YKtS6cpMw67xFKSorHwZ7i5g/viewform?usp=share_link) by Sunday, April 2.
 - **Questions?** Contact Lauren Shaub, Chair of 2023-2024 Nominating Committee: leshaub[at]gmail.com
 
-<a href="images/nom-flyer.pdf" height="1103" width="875" ><img src="images/nom-flyer.webp" alt="Nominations Flyer"></a>
+<a href="images/nom-flyer.pdf" height="1103" width="875" ><img src="images/nom-flyer.png" alt="Nominations Flyer"></a>
 
 ## 👉 Reminders
 
 - 📚 **Read-A-Thon** is underway! Our students are on their journey around the world! They are taking planes, trains, automobiles to new destinations. As of Monday morning, our students have read 120,419 minutes and thanks to our partnership with you, our PTA has raised over $16,000! Help us meet our goal to raise $20,000 in our biggest fundraiser of the school year! 
     - If your student has not signed up, it is NOT too late. Join the Read-A-Thon by joining @ **https://www.read-a-thon.com/readers/r/AwAipj**. You will have the ability to share with family and friends who might donate to our PTA while you and your student track daily reading minutes. Remember, reading is reading! Track minutes for reading silently, aloud, solo, to a friend, a sibling, a stuffed animal, or a pet. Track minutes listening to a story aloud from a parent, a sibling, an audio recording! We appreciate your support of literacy and our fundraiser.
 
-{{< photohalftoc class="halfcenter" src="images/read-a-thon-photo.webp" alt="Read-a-thon photo" >}}
+{{< photohalftoc class="halfcenter" src="images/read-a-thon-photo.png" alt="Read-a-thon photo" >}}
 
 - 💻 **Abingdon Tech Night** will be held on Monday, March 27 from 6 to 7 PM in the school library.
 
