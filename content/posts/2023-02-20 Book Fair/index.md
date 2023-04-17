@@ -10,7 +10,7 @@ The PTA is hosting the Abingdon Book Fair from March 6-10 to raise money for the
 
 {{< imagehalf src="images/flyer.png" alt="Book Fair flyer" >}}
 {{< imagehalf src="images/flyer-es.png" alt="Book Fair flyer Spanish" >}}
-{{< photohalf src="images/pamphlet-1.png" alt="Book Fair pamphlet page 1" >}}
-{{< photohalf src="images/pamphlet-2.png" alt="Book Fair pamphlet page 2" >}}
-{{< photohalf src="images/pamphlet-3.png" alt="Book Fair pamphlet page 3" >}}
-{{< photohalf src="images/pamphlet-4.png" alt="Book Fair pamphlet page 4" >}}
+{{< imagehalf src="images/pamphlet-1.png" alt="Book Fair pamphlet page 1" >}}
+{{< imagehalf src="images/pamphlet-2.png" alt="Book Fair pamphlet page 2" >}}
+{{< imagehalf src="images/pamphlet-3.png" alt="Book Fair pamphlet page 3" >}}
+{{< imagehalf src="images/pamphlet-4.png" alt="Book Fair pamphlet page 4" >}}

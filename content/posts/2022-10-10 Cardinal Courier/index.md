@@ -74,7 +74,7 @@ Picture Day Retakes are on Friday, October 28. We will share information about h
 
 ## ❤️ Hispanic Heritage Month.
 
-{{< photohalftoc class="halfright" src="images/IMG_4137.jpg" alt="Hispanic Heritage Month wall" >}}
+{{< imagehalftoc class="halfright" src="images/IMG_4137.jpg" alt="Hispanic Heritage Month wall" >}}
 
 We are proud to support our Abingdon community by honoring our colleagues’ and students’ Hispanic heritage and traditions. Thank you so much, Ms. Branco for the exquisite mural and [videos](https://www.instagram.com/abingdonesgift/) showcasing our beautiful community. We love our Cardinal balloon bouquets.
 
@@ -145,7 +145,7 @@ Please complete the [PTA's volunteer form](https://docs.google.com/forms/d/e/1FA
 
 **Sign up for our volunteer opportunities:**
 
-{{< photohalftoc class="halfright" src="images/IMG_4361.jpg" alt="Lifetouch photos for distribution" >}}
+{{< imagehalftoc class="halfright" src="images/IMG_4361.jpg" alt="Lifetouch photos for distribution" >}}
 
 - **Picture Day (Retakes)** — The PTA needs help making Abingdon’s Picture Day run smoothly on **Friday, October 28th.** If you are interested in helping, contact [abingdonptapresident@gmail.com](mailto:abingdonptapresident@gmail.com).
 - **School Picture Coordinator Assistant** — Student photos have arrived! If you have an hour or two to lend to assist with distributing photos, please contact [abingdonptapresident@gmail.com](mailto:abingdonptapresident@gmail.com). We hope to have two volunteers to assist with photo distribution within the next two weeks.
@@ -160,7 +160,7 @@ Please complete the [PTA's volunteer form](https://docs.google.com/forms/d/e/1FA
 - **Translators** — We are looking for volunteers who could translate PTA flyers in the following languages: Mongolian, Amharic, and Arabic. Please contact [abingdonptapresident@gmail.com](mailto:abingdonptapresident@gmail.com) if you can assist with this effort.
 - **Trunk or Treat** — We need 15 more volunteers to decorate their cars & pass out candy from 12 - 2 pm. We also need volunteers to set up from 11 am - 12 pm and clean up from 2 - 3 pm. If you are able to volunteer, [please sign up here](https://docs.google.com/forms/d/e/1FAIpQLSc7S6GrsD0I1r4YQmmdgkgZqFELB0iOFyPxdBRBnrEoMbDpuA/viewform).
 
-{{< photohalftoc class="halfright" src="images/IMG_4379.jpg" alt="Clothes to be placed in the Lost & Found" >}}
+{{< imagehalftoc class="halfright" src="images/IMG_4379.jpg" alt="Clothes to be placed in the Lost & Found" >}}
 
 - **Lost & Found Coordinator** — We hope to have a tidy Lost & Found where our Cardinals can easily search for their lost belongings. If you would like to assist in this endeavor, reach out to [abingdonptapresident@gmail.com](mailto:abingdonptapresident@gmail.com).
 
@@ -200,4 +200,4 @@ We are impressed with the generosity and selflessness of our volunteers and supp
 
 ## ✨ The Abingdon Cardinal loves our school playground!
 
-{{< photofulltoc src="images/IMG_0981.jpg" alt="The Abingdon Cardinal on the Abingdon playground" >}}
+{{< imagefulltoc src="images/IMG_0981.jpg" alt="The Abingdon Cardinal on the Abingdon playground" >}}

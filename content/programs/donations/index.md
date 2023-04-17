@@ -19,7 +19,7 @@ The PTA organizes canned food drives, particularly during school events. A bin i
 
 The PTA also collects side dishes to complete the Thanksgiving dinners for Abingdon families in need.
 
-{{< photohalftoc src="images/AFAC.jpg" alt="249 cans and 65 dry goods in front of Abingdon that were collected by the PTA and donated to AFAC" >}}  
+{{< imagehalftoc src="images/AFAC.jpg" alt="249 cans and 65 dry goods in front of Abingdon that were collected by the PTA and donated to AFAC" >}}  
 During Winter Wonderland 2022, Abingdon collected 249 cans and 65 dry goods for AFAC - a total of 292 lbs of food!
 
 ## Clothing Drives
@@ -28,8 +28,8 @@ The PTA supports Abingdon families by collecting winter clothing for children to
 
 The PTA has also collected clothing to stock our "Extras Closet" for students who may need clothing/personal items during the school day.
 
-{{< photohalftoc src="images/Donation1.jpg" alt="Donated jackets" >}}
-{{< photohalftoc src="images/Donation2.jpg" alt="Donated, knitted hats" >}}  
+{{< imagehalftoc src="images/Donation1.jpg" alt="Donated jackets" >}}
+{{< imagehalftoc src="images/Donation2.jpg" alt="Donated, knitted hats" >}}  
 **Left**: Donated winter coats, gloves, and hats. **Right**: Hats lovingly knitted and donated by a dedicated volunteer.
 
 ## Holiday Gift Card Drive

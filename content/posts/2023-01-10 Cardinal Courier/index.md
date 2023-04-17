@@ -65,7 +65,7 @@ The meeting agenda is available here: https://www.abingdonpta.org/agendas/2023-0
 
 ## ⛸️ Ice Skating Night
 
-{{< photohalftoc class="halfright" src="images/skate-night.png" alt="Skate Night flyer" >}}
+{{< imagehalftoc class="halfright" src="images/skate-night.png" alt="Skate Night flyer" >}}
 
 Abingdon PTA invites students & families to enjoy an evening of free ice skating. In order to know if families can skate with their Abingdon students at this free event, please RSVP @ [rb.gy/lhjmye](https://rb.gy/lhjmye)
 
@@ -194,4 +194,4 @@ We are impressed with the generosity and selflessness of our volunteers and supp
 
 ## ✨ Abingdon Cardinal visits the peaceful school garden to see the zinnia flowers.
 
-{{< photohalftoc class="halfcenter" src="images/cardinal-garden.jpg" alt="Abingdon Cardinal in the school garden" >}}
+{{< imagehalftoc class="halfcenter" src="images/cardinal-garden.jpg" alt="Abingdon Cardinal in the school garden" >}}

@@ -18,20 +18,20 @@ Abingdon's new music teacher, Dr. Will Heim, requested funds for 25 sets of ukul
 
 The ukuleles will help students learn about harmonies and other elements of music. They have four strings instead of a typical six-stringed guitar, so they are simpler and easier to play.
 
-{{< photohalf src="images/IMG_5977.jpg" alt="Ukuleles" >}}
-{{< photohalf src="images/IMG_5978.jpg" alt="Ukuleles" >}}
-{{< photohalf src="images/IMG_5982.jpg" alt="Ukuleles" >}}
+{{< imagehalf src="images/IMG_5977.jpg" alt="Ukuleles" >}}
+{{< imagehalf src="images/IMG_5978.jpg" alt="Ukuleles" >}}
+{{< imagehalf src="images/IMG_5982.jpg" alt="Ukuleles" >}}
 
 ## Multiplication Manipulatives
 
 Ms. Kooiman, one of Abingdon's new fourth grade teachers, requested funds for dry erase multiplication manipulatives. These will help students in grades 3-5 gain a conceptual understanding of multiplication, decimals, and fractions.
 
-{{< photohalf src="images/IMG_7245.jpg" alt="Ms. Kooiman and multiplication manipulatives" >}}
-{{< photohalf src="images/multiplication.jpg" alt="Multiplication manipulatives" >}}
+{{< imagehalf src="images/IMG_7245.jpg" alt="Ms. Kooiman and multiplication manipulatives" >}}
+{{< imagehalf src="images/multiplication.jpg" alt="Multiplication manipulatives" >}}
 
 ## Unifix Cubes
 
 Ms. Tice, one of Abingdon's Math Instructional Coaches, requested funds for Unifix Cubes. These math manipulatives will help students in grades K-4 to explore place value, addition, subtraction, multiplication and division. They will also be used to represent grouping and ungrouping with the foundational learning of multi-digit operations.
 
-{{< photohalf src="images/IMG_8279.jpg" alt="Ms. Tice and Unifix Cubes" >}}
-{{< photohalf src="images/cubes.jpg" alt="Unifix cubes" >}}
+{{< imagehalf src="images/IMG_8279.jpg" alt="Ms. Tice and Unifix Cubes" >}}
+{{< imagehalf src="images/cubes.jpg" alt="Unifix cubes" >}}

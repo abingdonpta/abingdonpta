@@ -72,7 +72,7 @@ Las repeticiones del día de la fotografía son el viernes 28 de octubre. Compar
 
 ## ❤️ Mes de la Herencia Hispana.
 
-{{< photohalftoc class="halfright" src="images/IMG_4137.jpg" alt="muro del Mes de la Herencia Hispana" >}}
+{{< imagehalftoc class="halfright" src="images/IMG_4137.jpg" alt="muro del Mes de la Herencia Hispana" >}}
 
 Estamos orgullosos de apoyar a nuestra comunidad de Abingdon al honrar la herencia y las tradiciones hispanas de nuestros colegas y estudiantes. Muchas gracias, Sra. Branco, por el exquisito mural y los [videos](https://www.instagram.com/abingdonesgift/) que muestran nuestra hermosa comunidad. Nos encantan nuestros ramos de globos Cardinal.
 
@@ -143,7 +143,7 @@ Complete el [formulario de voluntariado de la PTA](https://docs.google.com/forms
 
 **Regístrese para nuestras oportunidades de voluntariado:**
 
-{{< photohalftoc class="halfright" src="images/IMG_4361.jpg" alt="Fotos de Lifetouch para distribución" >}}
+{{< imagehalftoc class="halfright" src="images/IMG_4361.jpg" alt="Fotos de Lifetouch para distribución" >}}
 
 - **Día de Fotografías (Repeticiones)** — La PTA necesita ayuda para que el Día de Fotografías de Abingdon transcurra sin problemas el **viernes 28 de octubre**. Si está interesado en ayudar, comuníquese con [abingdonptapresident@gmail.com](mailto:abingdonptapresident@gmail.com).
 - **Asistente del coordinador de fotos de la escuela** — ¡Llegaron las fotos de los estudiantes! Si tiene una o dos horas para ayudar con la distribución de fotos, comuníquese con [abingdonptapresident@gmail.com](mailto:abingdonptapresident@gmail.com). Esperamos tener dos voluntarios para ayudar con la distribución de fotografías dentro de las próximas dos semanas.
@@ -158,7 +158,7 @@ Complete el [formulario de voluntariado de la PTA](https://docs.google.com/forms
 - **Traductores** — Estamos buscando voluntarios que puedan traducir volantes de la PTA en los siguientes idiomas: mongol, amárico y árabe. Comuníquese con [abingdonptapresident@gmail.com](mailto:abingdonptapresident@gmail.com) si puede ayudar con este esfuerzo.
 - **Trunk or Treat** — Necesitamos 15 voluntarios más para decorar sus autos y repartir dulces de 12 a 2 pm. También necesitamos voluntarios para instalar de 11 am a 12 pm y limpiar de 2 a 3 pm. Si puede ser voluntario, [regístrese aquí](https://docs.google.com/forms/d/e/1FAIpQLSc7S6GrsD0I1r4YQmmdgkgZqFELB0iOFyPxdBRBnrEoMbDpuA/viewform).
 
-{{< photohalftoc class="halfright" src="images/IMG_4379.jpg" alt="Ropa para colocar en Lost & Found" >}}
+{{< imagehalftoc class="halfright" src="images/IMG_4379.jpg" alt="Ropa para colocar en Lost & Found" >}}
 
 - **Coordinador de objetos perdidos** — Esperamos tener un centro de objetos perdidos ordenado donde nuestros cardenales puedan buscar fácilmente sus pertenencias perdidas. Si desea ayudar en este esfuerzo, comuníquese con [abingdonptapresident@gmail.com](mailto:abingdonptapresident@gmail.com).
 
@@ -198,4 +198,4 @@ Estamos impresionados con la generosidad y el desinterés de nuestros voluntario
 
 ## ✨ ¡El cardenal de Abingdon ama el patio de nuestra escuela!
 
-{{< photofulltoc src="images/IMG_0981.jpg" alt="El cardenal de Abingdon en el patio de recreo de Abingdon" >}}
+{{< imagefulltoc src="images/IMG_0981.jpg" alt="El cardenal de Abingdon en el patio de recreo de Abingdon" >}}

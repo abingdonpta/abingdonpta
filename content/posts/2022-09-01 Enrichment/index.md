@@ -18,4 +18,4 @@ We have distributed paper forms to classroom teachers to place in backpacks next
 
 Questions? Contact us at abingdonelementarypta@gmail.com. Thank you kindly.
 
-{{< photohalf class="halfcenter" src="images/IMG_2483.jpg" alt="Fall enrichment paper forms" >}}
+{{< imagehalf class="halfcenter" src="images/IMG_2483.jpg" alt="Fall enrichment paper forms" >}}

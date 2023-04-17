@@ -75,8 +75,8 @@ Please label all of your student’s belongings (e.g., backpack, lunchbox, water
 
 Our Cardinal mascot wanted us to share the following summer photos with you:
 
-{{< photohalftoc src="images/Cardi-1.jpg" alt="Abingdon Cardinal reading by the pool" >}}
-{{< photohalftoc src="images/Cardi-2.jpg" alt="Abingdon Cardinal dipping a toe in the pool" >}}
-{{< photohalftoc src="images/Cardi-3.jpg" alt="Abingdon Cardinal jumping for joy" >}}
+{{< imagehalftoc src="images/Cardi-1.jpg" alt="Abingdon Cardinal reading by the pool" >}}
+{{< imagehalftoc src="images/Cardi-2.jpg" alt="Abingdon Cardinal dipping a toe in the pool" >}}
+{{< imagehalftoc src="images/Cardi-3.jpg" alt="Abingdon Cardinal jumping for joy" >}}
 
 **The Abingdon Cardinal is eager to fly back to see the flock!**

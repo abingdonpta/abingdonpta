@@ -143,7 +143,7 @@ Complete el [formulario de voluntariado de la PTA](https://docs.google.com/forms
 
 ## 🙏 ¡Gracias! ¡Gracias! አመሰግናለሁ! Баярлалаа! شكرًا لك !
 
-{{< photohalftoc class="halfright" src="images/chipotle-thank-you.jpg" alt="Folleto de agradecimiento de Chipotle" >}}
+{{< imagehalftoc class="halfright" src="images/chipotle-thank-you.jpg" alt="Folleto de agradecimiento de Chipotle" >}}
 
 Estamos impresionados con la generosidad y el desinterés de nuestros voluntarios y simpatizantes.
 
@@ -161,4 +161,4 @@ Estamos impresionados con la generosidad y el desinterés de nuestros voluntario
 
 ## ✨ ¡Al superhéroe Abingdon Cardinal le encanta disfrazarse!
 
-{{< photohalftoc  class="halfcenter" src="images/IMG_5930.jpg" alt="Superhéroe Abingdon Cardinal" >}}
+{{< imagehalftoc  class="halfcenter" src="images/IMG_5930.jpg" alt="Superhéroe Abingdon Cardinal" >}}

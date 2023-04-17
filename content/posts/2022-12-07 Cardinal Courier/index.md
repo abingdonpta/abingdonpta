@@ -83,7 +83,7 @@ Meeting agenda to be posted here soon: https://www.abingdonpta.org/agendas/2022-
 
 ## ☕ Abingdon Title I School-Family Partnership Coffee Chat
 
-{{< photohalftoc class="halfright" src="images/title-i.jpg" alt="Title I Flyers" >}}
+{{< imagehalftoc class="halfright" src="images/title-i.jpg" alt="Title I Flyers" >}}
 
 You are invited to join the Abingdon staff for coffee and bagels on Tuesday morning, December 13, 2022, at 7:30 am - 8:10 am, to learn about how Title I funding supports our Cardinal flock. The coffee chat will be held in Room 143/144 (the art room).
 
@@ -156,4 +156,4 @@ We are impressed with the generosity and selflessness of our volunteers and supp
 
 ## ✨ The Abingdon Cardinal loves reading in the school library!
 
-{{< photohalftoc  class="halfcenter" src="images/IMG_3668.jpg" alt="Abingdon Cardinal reading" >}}
+{{< imagehalftoc  class="halfcenter" src="images/IMG_3668.jpg" alt="Abingdon Cardinal reading" >}}

@@ -41,10 +41,10 @@ We will only share documents sent to the entire school, not to a particular clas
 
 {{< imagehalftoc src="images/2023-02-28_1.png" alt="Book Fair flyer" >}}
 {{< imagehalftoc src="images/2023-02-28_2.png" alt="Book Fair flyer" >}}
-{{< photohalftoc src="images/2023-02-28_3.png" alt="Book Fair pamphlet" >}}
-{{< photohalftoc src="images/2023-02-28_4.png" alt="Book Fair pamphlet" >}}
-{{< photohalftoc src="images/2023-02-28_5.png" alt="Book Fair pamphlet" >}}
-{{< photohalftoc src="images/2023-02-28_6.png" alt="Book Fair pamphlet" >}}
+{{< imagehalftoc src="images/2023-02-28_3.png" alt="Book Fair pamphlet" >}}
+{{< imagehalftoc src="images/2023-02-28_4.png" alt="Book Fair pamphlet" >}}
+{{< imagehalftoc src="images/2023-02-28_5.png" alt="Book Fair pamphlet" >}}
+{{< imagehalftoc src="images/2023-02-28_6.png" alt="Book Fair pamphlet" >}}
 
 ## February 21, 2023
 
@@ -129,7 +129,7 @@ No known schoolwide flyers.
 ## October 25, 2022
 
 {{< imagehalftoc src="images/2022-10-25_1.png" alt="Trunk or Treat flyer" >}}
-{{< photohalftoc src="images/2022-10-25_2.png" alt="Coffee chat flyer" >}}
+{{< imagehalftoc src="images/2022-10-25_2.png" alt="Coffee chat flyer" >}}
 {{< imagehalftoc src="images/2022-10-25_3.png" alt="Movie Night flyer - English" >}}
 {{< imagehalftoc src="images/2022-10-25_4.png" alt="Movie Night flyer - Spanish" >}}
 
@@ -168,9 +168,9 @@ No known schoolwide flyers.
 #### Fall Enrichment
 
 ###### English
-{{< photohalftoc src="images/2022-09-06_1.png" alt="First page of English Fall Enrichment flyer" >}}
-{{< photohalftoc src="images/2022-09-06_2.png" alt="Second page of English Fall Enrichment flyer" >}}
+{{< imagehalftoc src="images/2022-09-06_1.png" alt="First page of English Fall Enrichment flyer" >}}
+{{< imagehalftoc src="images/2022-09-06_2.png" alt="Second page of English Fall Enrichment flyer" >}}
 
 ###### Spanish
-{{< photohalftoc src="images/2022-09-06_3.png" alt="First page of Spanish Fall Enrichment flyer" >}}
-{{< photohalftoc src="images/2022-09-06_4.png" alt="Second page of Spanish Fall Enrichment flyer" >}}
+{{< imagehalftoc src="images/2022-09-06_3.png" alt="First page of Spanish Fall Enrichment flyer" >}}
+{{< imagehalftoc src="images/2022-09-06_4.png" alt="Second page of Spanish Fall Enrichment flyer" >}}

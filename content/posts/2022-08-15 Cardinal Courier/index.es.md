@@ -75,8 +75,8 @@ Etiquete todas las pertenencias de su estudiante (por ejemplo, mochila, lonchera
 
 Nuestra mascota Cardinal quería que compartiéramos las siguientes fotos de verano con ustedes:
 
-{{< photohalftoc src="images/Cardi-1.jpg" alt="Abingdon Cardinal leyendo junto a la piscina" >}}
-{{< photohalftoc src="images/Cardi-2.jpg" alt="Abingdon Cardinal sumergiendo un dedo del pie en la piscina" >}}
-{{< photohalftoc src="images/Cardi-3.jpg" alt="Abingdon Cardinal saltando de alegría" >}}
+{{< imagehalftoc src="images/Cardi-1.jpg" alt="Abingdon Cardinal leyendo junto a la piscina" >}}
+{{< imagehalftoc src="images/Cardi-2.jpg" alt="Abingdon Cardinal sumergiendo un dedo del pie en la piscina" >}}
+{{< imagehalftoc src="images/Cardi-3.jpg" alt="Abingdon Cardinal saltando de alegría" >}}
 
 **¡El Cardenal de Abingdon está ansioso por volar de regreso para ver el rebaño!**

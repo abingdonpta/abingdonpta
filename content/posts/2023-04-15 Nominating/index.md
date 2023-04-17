@@ -12,7 +12,7 @@ The Abingdon Elementary PTA’s Nominating Committee would like to report the fo
 | President | James Harlow |
 | VP Educational Programs | Tina Kelly |
 | VP Fundraising | Megan Miller |
-| VP Community Relations | Sarah Kirschner |
+| VP Community Relations | Sara Kirschner |
 | VP Events | Meredith Greene |
 | VP Staff Appreciation | Ashley Farrugia |
 | VP Communications | *Vacant* |

@@ -82,4 +82,4 @@ Esta es una excelente manera de opinar sobre el futuro de la PTA. ¡Gracias!
 
 En nombre de la comunidad de Abingdon, un sincero agradecimiento al estudiante de la Escuela Secundaria de Yorktown, Thomas Totten, quien construyó un cobertizo de jardín personalizado como parte de su Plan de Proyecto de Servicio Eagle Scout para el Jardín Comunitario de Abingdon. Admiramos mucho el aporte y el liderazgo reflexivos de Thomas para ejecutar este proyecto tan necesario, especialmente con la próxima siembra de primavera. Además, agradecemos sus esfuerzos de recaudación de fondos y la coordinación con sus compañeros exploradores y padres que lo acompañaron durante tres días para ejecutar este proyecto. Agradecemos a Thomas por esta hermosa adición al campus de la escuela de Abingdon en apoyo de los eventos de jardín de aprendizaje al aire libre y desarrollo comunitario de nuestro rebaño Cardinal.
 
-{{< photohalftoc class="halfcenter" src="images/IMG-2174.jpg" alt="Cobertizo de jardín nuevo" >}}
+{{< imagehalftoc class="halfcenter" src="images/IMG-2174.jpg" alt="Cobertizo de jardín nuevo" >}}

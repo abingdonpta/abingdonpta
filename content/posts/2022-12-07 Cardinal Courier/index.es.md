@@ -156,4 +156,4 @@ Estamos impresionados con la generosidad y el desinterés de nuestros voluntario
 
 ## ✨ ¡A Abingdon Cardinal le encanta leer en la biblioteca de la escuela!
 
-{{< photohalftoc  class="halfcenter" src="images/IMG_3668.jpg" alt="Lectura del cardenal de Abingdon" >}}
+{{< imagehalftoc  class="halfcenter" src="images/IMG_3668.jpg" alt="Lectura del cardenal de Abingdon" >}}

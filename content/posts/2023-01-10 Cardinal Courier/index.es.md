@@ -65,7 +65,7 @@ La agenda de la reunión está disponible aquí: https://www.abingdonpta.org/age
 
 ## ⛸️ Noche de patinaje sobre hielo
 
-{{< photohalftoc class="halfright" src="images/skate-night-es.png" alt="Folleto de la noche de skate" >}}
+{{< imagehalftoc class="halfright" src="images/skate-night-es.png" alt="Folleto de la noche de skate" >}}
 
 Abingdon PTA invita a los estudiantes y familias a disfrutar de una noche de patinaje sobre hielo gratis. Para saber si las familias pueden patinar con sus estudiantes de Abingdon en este evento gratuito, RSVP @ [rb.gy/lhjmye](https://rb.gy/lhjmye)
 
@@ -194,4 +194,4 @@ Estamos impresionados con la generosidad y el desinterés de nuestros voluntario
 
 ## ✨ Abingdon Cardinal visita el pacífico jardín de la escuela para ver las flores de zinnia.
 
-{{< photohalftoc class="halfcenter" src="images/cardinal-garden.jpg" alt="Abingdon Cardinal en el jardín de la escuela" >}}
+{{< imagehalftoc class="halfcenter" src="images/cardinal-garden.jpg" alt="Abingdon Cardinal en el jardín de la escuela" >}}
