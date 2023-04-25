@@ -133,7 +133,7 @@ Girls on the Run is looking for Buddy Runners for our upcoming 5K. Please consid
 
 - [Click here](https://literacy.bookwormcentral.com/project-aps-order-form.php) to order ten free books to receive this summer through the Title I Summer Mailbox Books program. More information about the program [is available here](https://www.apsva.us/titlei/mailboxbooks/).
 - Washington-Liberty is hosting a robotics day on April 29. More information [can be found here](https://www.apsva.us/ctae/stem/stem-events/).
-- The Arlington Community Foundation raises funds to provide equitable access to after-school programming to families in need at Arlington's Title I schools, including Abingdon.
+- The Arlington Community Foundation is fundraising to support eight Title I elementary schools in Arlington.  If you would like to support after school enrichment scholarships for Arlington Students, and/or specifically for Abingdon students, please visit: https://arlcf.fcsuite.com/erp/donate/create/fund?funit_id=1825.
 
 {{< imagehalftoc class="halfcenter" src="images/acf.png" alt="ACF flyer" >}}
 

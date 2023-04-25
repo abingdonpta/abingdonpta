@@ -133,7 +133,7 @@ Girls on the Run está buscando Buddy Runners para nuestro próximo 5K. Consider
 
 - [Haga clic aquí](https://literacy.bookwormcentral.com/project-aps-order-form.php) para solicitar diez libros gratuitos para recibir este verano a través del programa Título I Summer Mailbox Books. Más información sobre el programa [está disponible aquí](https://www.apsva.us/titlei/mailboxbooks/).
 - Washington-Liberty organizará un día de robótica el 29 de abril. Más información [se puede encontrar aquí](https://www.apsva.us/ctae/stem/stem-events/).
-- La Fundación Comunitaria de Arlington recauda fondos para brindar acceso equitativo a la programación extracurricular a familias necesitadas en las escuelas de Título I de Arlington, incluyendo Abingdon.
+- La Fundación Comunitaria de Arlington está recaudando fondos para apoyar a ocho escuelas primarias de Título I en Arlington. Si desea apoyar becas de enriquecimiento después de la escuela para estudiantes de Arlington y/o específicamente para estudiantes de Abingdon, visite: https://arlcf.fcsuite.com/erp/donate/create/fund?funit_id=1825.
 
 {{< imagehalftoc class="halfcenter" src="images/acf-es.png" alt="folleto ACF" >}}
 

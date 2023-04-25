@@ -25,12 +25,12 @@ Here's what's planted or growing in the garden in **Spring 2023**:
 | Bed    | Plants |
 | ------ | ------ |
 | Bed 1  | Brussels Sprouts 🥬 |
-| Bed 2  | Kale 🥬<br>Collards 🥬<br>Broccoli 🥬<br>Onions 🧅 |
+| Bed 2  | Kale 🥬<br>Collards 🥬<br>Broccoli 🥬<br>Onions 🧅<br>Sage<br>Thyme<br>Lavender<br>Black & Bloom Salvia<br>Lemon Verbena |
 | Bed 3  | Celery 🥬 |
-| Bed 4  |  |
-| Bed 5  | Garlic 🧄<br>Daffodils 💮 |
-| Bed 6  | Lettuce 🥬 |
-| Bed 7  | Milkweed 🌿<br>Clovers ☘️ |
+| Bed 4  | |
+| Bed 5  | Garlic 🧄 |
+| Bed 6  | Onions 🧅<br>Lettuce 🥬 |
+| Bed 7  | Whorled Milkweed 🌿<br>New England Astor |
 | Bed 8  | Onions 🧅<br>Strawberries 🍓<br>Lettuce 🥬 |
 | Bed 9  |  |
 | Bed 10 | Butterfly weed 🦋<br> |
