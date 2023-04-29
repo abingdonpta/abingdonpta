@@ -15,7 +15,7 @@ The Abingdon Elementary PTA’s Nominating Committee would like to report the fo
 | VP Community Relations | Sara Kirschner |
 | VP Events | Meredith Greene |
 | VP Staff Appreciation | Ashley Farrugia |
-| VP Communications | *Vacant* |
+| VP Communications | Maggie Bush |
 | Treasurer | David DeBoer |
 | Secretary | Erin Cassidy |
 
