@@ -38,6 +38,12 @@ Here's what's planted or growing in the garden in **Spring 2023**:
 
 ## Photos
 
+### Shed Ribbon Cutting
+*April 23, 2023*
+
+{{< imagehalftoc src="images/IMG_4294.jpg" alt="Celebrating the new shed" >}}
+{{< imagehalftoc src="images/IMG_4298.jpg" alt="Celebrating the new shed" >}}
+
 ### Shed Construction
 *February 18-19, 2023*
 

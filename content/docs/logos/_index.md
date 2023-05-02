@@ -60,6 +60,14 @@ Abingdon participates in the CETA (Changing Education through the Arts) program 
 | CETA | [PNG](CETA.png) | [Original](https://s3.amazonaws.com/aps-legacy-site/cms/lib2/VA01000586/Centricity/Domain/191/CETA.png) |
 | CETA B&W | [PNG](CETA-bw.png) | |
 
+## Abingdon Graduate Logo
+
+This logo was made by Abingdon's art teacher Lauren Muscarella in 2017.
+
+| Type | SVG | PNG | Original |
+| ---- | --- | --- | -------- |
+| Graduate logo | [SVG](Abingdon-Graduate-Logo.svg) | [PNG](Abingdon-Graduate-Logo.png) | [PDF](Abingdon-Graduate-Logo.pdf) |
+
 ## Abingdon Loves Reading Image
 
 The images below were made by a PTA volunteer and graphic artist (Lindsey Smith) in January 2018 for Read-a-thon.

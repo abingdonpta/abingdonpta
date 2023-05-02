@@ -18,7 +18,6 @@ We will only share documents sent to the entire school, not to a particular clas
 {{< imagehalftoc src="images/2023-04-25_1.png" alt="Art Show flyer" >}}
 {{< imagehalftoc src="images/2023-04-25_2.png" alt="Art Show flyer" >}}
 
-
 ## April 18, 2023
 {{< imagehalftoc src="images/2023-04-18_1.png" alt="Mailbox books flyer" >}}
 
