@@ -7,7 +7,7 @@ categories:
 - photos
 - events
 images: 
-- /2023/05/01/international-night-photos/images/IMG_4445.jpg" alt="Photo from International Night" >}}
+- /2023/05/01/international-night-photos/images/IMG_4445.jpg
 ---
 
 A huge thank you to all of our hardworking volunteers for making International & Cultural Heritage and History Night a success and a memorable experience for our flock!

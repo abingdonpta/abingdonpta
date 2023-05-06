@@ -24,11 +24,11 @@ We are excited to celebrate our wonderful Abingdon Staff during Teacher Apprecia
     - Spa Goodies
     - Afternoon: Trail Mix Bar (donations welcome)
 - Thankful **Thursday, May 11**:
-    - AM: Bring a Flower for your Teacher(s) (don’t forget our specialists!!!) to create a bouquet. If you can’t bring a living flower, feel free to [print this PDF](https://drive.google.com/file/d/1z3Golbev3knHY-9jZvGBJTE8oVVv5d2v/view?usp=sharing) for your child to color in
+    - AM: Bring a Flower for your Teacher(s) (don’t forget our specialists!!!) to create a bouquet. If you can’t bring a living flower, feel free to [print this PDF](images/teacher-flower-page.pdf) for your child to color in
     - Spirit Wear Delivery - teachers will receive their new Abingdon MVP shirts
     - Afternoon: Movie Theatre Concession Stand (donations welcome)
 - Fabulous Flavorful **Friday, May 12**:
-    - Bring your All About My Teacher ([print this PDF](https://drive.google.com/file/d/1YkaRIL9LW_iZl_JeHo0FbL_nCK0wYCns/view?usp=share_link) and have your child bring it in)
+    - Bring your All About My Teacher ([print this PDF](images/All-about-my-teacher.pdf) and have your child bring it in)
     - Dessert Bar (donations welcome)
     - Bundtinis to take home provided by Nothing Bundt The Cake 
 

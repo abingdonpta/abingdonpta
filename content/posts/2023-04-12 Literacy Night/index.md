@@ -4,6 +4,8 @@ summary: Abingdon will hold a Family Literacy Night on April 19.
 slug: literacy night
 date: 2023-04-12T05:00:00-04:00
 categories: "passed along"
+images: 
+- /2023/04/12/literacy-night/images/flyer.png
 ---
 
 Abingdon will hold an event titled "*Growing Readers at Home: An Abingdon Family Literacy Night.*"

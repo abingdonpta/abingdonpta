@@ -11,6 +11,7 @@ Agendas are available here before each meeting, and meeting minutes are availabl
 
 | Meeting Date | [Agenda](/agendas) | [Minutes](/minutes) | Presentation |
 | ------------ | ------ | ------- | ------------ |
+| 2023-05-09   | [Agenda](/agendas/2023-05-09) | | |
 | 2023-04-11   | [Agenda](/agendas/2023-04-11) | [Minutes](/minutes/2023-04-11) | [• Financial Statement — Summary](/presentations/2023-04-11_1.pdf)<br>[• Financial Statement — Spreadsheet](/presentations/2023-04-11_2.pdf)<br>[• CETA Partnership Presentation](/presentations/2023-04-11_3.pdf)  |
 | 2023-03-14   | [Agenda](/agendas/2023-03-14) | [Minutes](/minutes/2023-03-14) | [• Financial Statement — Summary](/presentations/2023-03-14_1.pdf)<br>[• Financial Statement — Spreadsheet](/presentations/2023-03-14_2.pdf)<br>[• Responsive Classroom Presentation](/presentations/2023-03-14_3.pdf) |
 | 2023-02-21   | [Agenda](/agendas/2023-02-21) | [Minutes](/minutes/2023-02-21) | [• Financial Statement — Summary](/presentations/2023-02-21_1.pdf)<br>[• Financial Statement — Spreadsheet](/presentations/2023-02-21_2.pdf)<br>[• Music Team Presentation](/presentations/2023-02-21_3.pdf) |
@@ -51,6 +52,10 @@ The policy is intended to ensure that PTA leadership is not enriching themselves
 The PTA's annual budget must be approved by the general membership at the beginning of each school year.
 
 {{< button relref="budget" >}}Click Here to View the Budget for 2022-2023{{< /button >}}
+
+The PTA also passes a summer budget at the end of the school year to approve expenses during the following summer.
+
+{{< button relref="summerbudget" >}}Click Here to View the Summer Budget for 2023{{< /button >}}
 
 ### Annual Financial Reports
 

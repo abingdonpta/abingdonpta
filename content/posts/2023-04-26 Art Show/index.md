@@ -4,6 +4,8 @@ summary: Abingdon will hold an Art Show on May 3.
 slug: art show
 date: 2023-04-26T05:00:00-04:00
 categories: "passed along"
+images: 
+- /2023/04/26/art-show/images/flyer.png
 ---
 
 Please join us for Abingdon's Annual Art Show!
