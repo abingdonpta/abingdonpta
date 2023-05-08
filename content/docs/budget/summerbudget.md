@@ -1,7 +1,6 @@
 ---
 title: Proposed Summer Budget for July 1, 2023 — September 2023
 summary: 2023 Summer Budget for the Abingdon PTA.
-booktoc: true
 url: /summerbudget/
 aliases:
     - /budget/2023/
