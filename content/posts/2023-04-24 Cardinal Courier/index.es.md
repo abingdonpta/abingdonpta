@@ -108,7 +108,7 @@ TODAVÍA necesitamos VOLUNTARIOS. Este evento es un éxito **solo** con tu parti
 
 Girls on the Run está buscando Buddy Runners para nuestro próximo 5K. Considere registrarse usando [este enlace](https://www.pinwheel.us/register/index/Spring20235KEvent?sid=b01b91fe467f467da7d9450bdd104f78). El evento es la culminación del exitoso equipo Girls on the Run de nuestro primer año en Abingdon. Correremos/caminaremos/trotaremos junto con los estudiantes del equipo el domingo 21 de mayo en la Escuela Independiente BASIS (8000 Jones Branch Drive, McLean, VA 22102). Si tiene preguntas, comuníquese con [ashleybethmccarthy@gmail.com](mailto:ashleybethmccarthy@gmail.com) o [erin.e.mahaffey@gmail.com](mailto:erin.e.mahaffey@gmail.com).
 
-{{< imagefulltoc src="images/gotr.png" alt="Girls on the Run flyer" >}}
+{{< imagewidetoc src="images/gotr.png" alt="Girls on the Run flyer" >}}
 
 ### 💸 Recaudación de fondos pasiva
 
@@ -172,4 +172,4 @@ Girls on the Run está buscando Buddy Runners para nuestro próximo 5K. Consider
 - ¡Gracias a la madre de familia de Abingdon, Ellen, por compilar y organizar las líneas de amor de la PTA para nuestro anuario escolar!
 - ¡Tuvimos una ceremonia de inauguración con el estudiante de Yorktown High School y Troop 106 Scout Thomas para destacar su generosa contribución, un cobertizo de jardín hecho a la medida, para Abingdon! Fue fantástico ver a los niños aprender sobre su proyecto Eagle Scout, desmalezar el jardín y recoger basura. ¡Gracias a todos nuestros voluntarios por asistir a la Celebración del Día de la Tierra de Abingdon!
 
-{{< imagefulltoc src="images/IMG_4294.jpg" alt="Foto de corte de cinta" >}}
+{{< imagewidetoc src="images/IMG_4294.jpg" alt="Foto de corte de cinta" >}}

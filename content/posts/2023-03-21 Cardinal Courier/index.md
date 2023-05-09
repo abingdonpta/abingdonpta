@@ -32,7 +32,7 @@ Abingdon’s Annual International & Cultural Heritage and History Night is COMIN
 
 This event is a success **only** with your participation. Beyond joining in the fun, we also need **volunteers** to set up, work the event, and clean up at the end of the night. Please consider offering your time!
 
-{{< imagefulltoc src="images/in-flyer.png" alt="International Night flyer" >}}
+{{< imagewidetoc src="images/in-flyer.png" alt="International Night flyer" >}}
 
 ### 🙋 Nominations for PTA Leadership 2023-2024
 

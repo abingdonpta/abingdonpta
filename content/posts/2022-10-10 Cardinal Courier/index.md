@@ -200,4 +200,4 @@ We are impressed with the generosity and selflessness of our volunteers and supp
 
 ## ✨ The Abingdon Cardinal loves our school playground!
 
-{{< imagefulltoc src="images/IMG_0981.jpg" alt="The Abingdon Cardinal on the Abingdon playground" >}}
+{{< imagewidetoc src="images/IMG_0981.jpg" alt="The Abingdon Cardinal on the Abingdon playground" >}}

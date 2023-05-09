@@ -198,4 +198,4 @@ Estamos impresionados con la generosidad y el desinterés de nuestros voluntario
 
 ## ✨ ¡El cardenal de Abingdon ama el patio de nuestra escuela!
 
-{{< imagefulltoc src="images/IMG_0981.jpg" alt="El cardenal de Abingdon en el patio de recreo de Abingdon" >}}
+{{< imagewidetoc src="images/IMG_0981.jpg" alt="El cardenal de Abingdon en el patio de recreo de Abingdon" >}}

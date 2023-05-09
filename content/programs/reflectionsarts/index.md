@@ -6,7 +6,7 @@ aliases:
     - /reflections/
 ---
 
-{{< imagefullnolink src="images/reflectionslogo.png" alt="Reflections Logo" >}}
+<img src="images/reflectionslogo.png" alt="Reflections Logo" height="153" width="992">
 
 In the Reflections program, students in Pre-K through Grade 12 create original works of art in response to a student-selected theme. This 50+ year-old program helps them explore their own thoughts, feelings and ideas, develop artistic literacy, increase confidence and find a love for learning that will help them become more successful in school and in life.
 

@@ -108,7 +108,7 @@ We are STILL in NEED of VOLUNTEERS. This event is a success **only** with your p
 
 Girls on the Run is looking for Buddy Runners for our upcoming 5K. Please consider registering using [this link](https://www.pinwheel.us/register/index/Spring20235KEvent?sid=b01b91fe467f467da7d9450bdd104f78). The event is the culmination of our first year's successful Girls on the Run team at Abingdon. We will run/walk/jog together with the students on the team on Sunday, May 21, at BASIS Independent School (8000 Jones Branch Drive, McLean, VA 22102). If you have questions, please contact [ashleybethmccarthy@gmail.com](mailto:ashleybethmccarthy@gmail.com) or [erin.e.mahaffey@gmail.com](mailto:erin.e.mahaffey@gmail.com). 
 
-{{< imagefulltoc src="images/gotr.png" alt="Girls on the Run flyer" >}}
+{{< imagewidetoc src="images/gotr.png" alt="Girls on the Run flyer" >}}
 
 ### 💸 Passive Fundraising
 
@@ -172,4 +172,4 @@ Girls on the Run is looking for Buddy Runners for our upcoming 5K. Please consid
 - Thank you to Abingdon parent Ellen for compiling and organizing the PTA lovelines for our school yearbook!
 - We had a ribbon cutting ceremony with Yorktown High School student and Troop 106 Scout Thomas to spotlight his generous contribution - a custom built garden shed - for Abingdon! It was terrific to see the kids learn about his Eagle Scout project, weed the garden, and pick up litter. A thank you to all of our volunteers for coming out to the Abingdon Earth Day Celebration!
 
-{{< imagefulltoc src="images/IMG_4294.jpg" alt="Ribbon-cutting photo" >}}
+{{< imagewidetoc src="images/IMG_4294.jpg" alt="Ribbon-cutting photo" >}}

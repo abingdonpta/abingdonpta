@@ -2,16 +2,13 @@
 
 {{ $original := (.Page.Resources.ByType "image").GetMatch (printf "*%s*" (.Get "src")) }}
 {{ with $original }}
-{{ $small := .Resize "992x" }}
 
-<a href="{{ $original.RelPermalink }}">
-    <img 
-        src="{{ $small.RelPermalink }}"
-        width="{{ $small.Width }}"
-        height="{{ $small.Height }}"
-        alt="{{ if $alt }}{{ $alt }}{{ end }}"
-        loading="lazy"
-    >
-</a>
+<img 
+    src="{{ $original.RelPermalink }}"
+    width="{{ $original.Width }}"
+    height="{{ $original.Height }}"
+    alt="{{ if $alt }}{{ $alt }}{{ end }}"
+    loading="lazy"
+>
 
 {{ end }}
