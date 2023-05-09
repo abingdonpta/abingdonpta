@@ -17,5 +17,5 @@ Skating includes rental skates. Skaters must have an adult with them. Wear your 
 - **When:** February 28, 2023, 6 - 8 PM
 - **Where:** Pentagon Row Ice Skating Rink — 1201 S. Joyce Street, Arlington, VA 22202
 
-{{< imagehalf src="images/flyer.png" alt="Winter Wonderland flyer" >}}
+{{< imagehalf src="images/flyer-en.png" alt="Winter Wonderland flyer" >}}
 {{< imagehalf src="images/flyer-es.png" alt="Winter Wonderland flyer in Spanish" >}}

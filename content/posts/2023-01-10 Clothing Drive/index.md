@@ -23,5 +23,5 @@ All children's sizes are needed (4T - 16/Adult Small).
 
 Please drop off all donations in the front lobby of Abingdon Elementary School or contact Megan Miller for pick-up (meganmiller44@gmail.com).
 
-{{< imagehalf src="images/flyer.png" alt="Clothing drive flyer" >}}
+{{< imagehalf src="images/flyer-en.png" alt="Clothing drive flyer" >}}
 {{< imagehalf src="images/flyer-es.png" alt="Clothing drive in Spanish" >}}

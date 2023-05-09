@@ -15,5 +15,5 @@ Please join us for Abingdon's Annual Art Show!
 
 Please join us to celebrate Abingdon's artists! Each student has chosen their two favorite artworks to be on display. Enjoy an evening at Abingdon's Art Museum! There will be a collaborative artwork in the Art room (Room 144) to add your artistic flare!
 
-{{< imagehalf src="images/flyer.png" alt="Art Show flyer in English" >}}
+{{< imagehalf src="images/flyer-en.png" alt="Art Show flyer in English" >}}
 {{< imagehalf src="images/flyer-es.png" alt="Art Show flyer in Spanish" >}}

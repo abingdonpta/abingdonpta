@@ -19,4 +19,4 @@ Activities for the kids and refreshments will be provided.
 
 **More information**: https://www.arlingtonsepta.org/event/septa-summer-activity-fair/
 
-{{< imagehalf class="halfcenter" src="images/flyer.png" alt="SEPTA Activities Fair Flyer" >}}
+{{< imagehalf class="imagecenter" src="images/flyer-en.png" alt="SEPTA Activities Fair Flyer" >}}

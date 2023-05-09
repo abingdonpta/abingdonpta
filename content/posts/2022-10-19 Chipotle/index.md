@@ -21,5 +21,5 @@ Abingdon PTA is hosting a Spirit Night at Chipotle!
 
 33% of event sales will be donated to the PTA. 
 
-{{< imagehalf src="images/flyer.png" alt="Chipotle Spirit Night flyer" >}}
+{{< imagehalf src="images/flyer-en.png" alt="Chipotle Spirit Night flyer" >}}
 {{< imagehalf src="images/flyer-es.png" alt="Chipotle Spirit Night flyer in Spanish" >}}

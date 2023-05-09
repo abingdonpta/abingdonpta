@@ -157,4 +157,4 @@ Here's what's planted or growing in the garden in **Spring 2023**:
 
 The Abingdon Garden was founded on April 19, 1991. We believe it was the first school garden in Arlington.
 
-{{< imagewidetoc src="images/1991-04-19.png" alt="Photo from the start of the Abingdon garden" >}}
+{{< imagetoc src="images/1991-04-19.png" alt="Photo from the start of the Abingdon garden" >}}

@@ -16,13 +16,13 @@ Our third tranche of staff grants have been disbursed to staff. If you would lik
 
 The PTA was excited to deliver these STEM bin materials to Mrs. Edmonds, who accepted them on behalf of the second grade team. Abingdon's 2nd grade students will use these STEM activity bins to help foster creativity & problem-solving.
 
-{{< imagehalf class="halfcenter" src="images/stem-bins.jpg" >}}
+{{< imagehalf class="imagecenter" src="images/stem-bins.jpg" >}}
 
 ## Eco-Action Vests
 
 At an Eco-Action Committee meeting, we delivered high-visibility vests that were paid for by a PTA grant. Students will wear their vest when doing work (gardening, recycling, &/or picking up litter) on campus. Thank you Cardinals for your environmental stewardship at Abingdon!
 
-{{< imagehalf class="halfcenter" src="images/vests.png" >}}
+{{< imagehalf class="imagecenter" src="images/vests.png" >}}
 
 ## Math Dice T-Shirts
 

@@ -27,5 +27,5 @@ The Program includes a FREE catered dinner and childcare for younger children. P
 
 More information [is available here](https://www.arlingtonva.us/Government/Departments/DHS/Child-Family-Services/SFP). Interested families may [sign up here](https://docs.google.com/forms/d/e/1FAIpQLSf2EqNLB1m0M8afbcKgn1i9YWFwiTwsHKf92TKWYCQgbmi2fw/viewform).
 
-{{< imagehalf src="images/flyer.png" alt="Strengthening Families flyer" >}}
+{{< imagehalf src="images/flyer-en.png" alt="Strengthening Families flyer" >}}
 {{< imagehalf src="images/flyer-es.png" alt="Strengthening Families flyer in Spanish" >}}

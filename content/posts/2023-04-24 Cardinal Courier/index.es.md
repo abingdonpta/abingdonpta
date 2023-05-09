@@ -52,7 +52,7 @@ Si tiene algún comentario para compartir con nuestra Junta Escolar, puede envia
 
 ### 🎨 Se necesitan voluntarios para la exhibición de arte
 
-{{< imagehalftoc class="halfright" src="images/art.png" alt="Folleto de asistencia para la exposición de arte" >}}
+{{< imagehalftoc class="imageright" src="images/art.png" alt="Folleto de asistencia para la exposición de arte" >}}
 
 Se necesitan voluntarios para ayudar a la Sra. Muscarella y la Sra. Barnes a prepararse para la INCREÍBLE exposición de arte de Abingdon. Considere ofrecerse como voluntario en los próximos días para ayudar. Envíe un correo electrónico a lauren.muscarella@apsva.us o allison.barnes2@apsva.us.
 
@@ -90,7 +90,7 @@ La PTA se complace en entregar muchos materiales de subvención solicitados por 
 
 ### 🗺️ Noche internacional y cultural del patrimonio y la historia
 
-{{< imagehalftoc class="halfright" src="images/international-es.png" alt="Folleto nocturno internacional" >}}
+{{< imagehalftoc class="imageright" src="images/international-es.png" alt="Folleto nocturno internacional" >}}
 
 ¡La Noche Anual de la Historia y el Patrimonio Cultural e Internacional de Abingdon REGRESA, **28 de abril de 5:30 p. m. a 7:30 p. m.**!
 
@@ -108,7 +108,7 @@ TODAVÍA necesitamos VOLUNTARIOS. Este evento es un éxito **solo** con tu parti
 
 Girls on the Run está buscando Buddy Runners para nuestro próximo 5K. Considere registrarse usando [este enlace](https://www.pinwheel.us/register/index/Spring20235KEvent?sid=b01b91fe467f467da7d9450bdd104f78). El evento es la culminación del exitoso equipo Girls on the Run de nuestro primer año en Abingdon. Correremos/caminaremos/trotaremos junto con los estudiantes del equipo el domingo 21 de mayo en la Escuela Independiente BASIS (8000 Jones Branch Drive, McLean, VA 22102). Si tiene preguntas, comuníquese con [ashleybethmccarthy@gmail.com](mailto:ashleybethmccarthy@gmail.com) o [erin.e.mahaffey@gmail.com](mailto:erin.e.mahaffey@gmail.com).
 
-{{< imagewidetoc src="images/gotr.png" alt="Girls on the Run flyer" >}}
+{{< imagetoc src="images/gotr.png" alt="Girls on the Run flyer" >}}
 
 ### 💸 Recaudación de fondos pasiva
 
@@ -135,11 +135,11 @@ Girls on the Run está buscando Buddy Runners para nuestro próximo 5K. Consider
 - Washington-Liberty organizará un día de robótica el 29 de abril. Más información [se puede encontrar aquí](https://www.apsva.us/ctae/stem/stem-events/).
 - La Fundación Comunitaria de Arlington está recaudando fondos para apoyar a ocho escuelas primarias de Título I en Arlington. Si desea apoyar becas de enriquecimiento después de la escuela para estudiantes de Arlington y/o específicamente para estudiantes de Abingdon, visite: https://arlcf.fcsuite.com/erp/donate/create/fund?funit_id=1825.
 
-{{< imagehalftoc class="halfcenter" src="images/acf-es.png" alt="folleto ACF" >}}
+{{< imagehalftoc class="imagecenter" src="images/acf-es.png" alt="folleto ACF" >}}
 
 ## 🔜 Próximamente
 
-{{< imagehalftoc class="halfright" src="images/appreciation.png" alt="Folleto de agradecimiento al personal" >}}
+{{< imagehalftoc class="imageright" src="images/appreciation.png" alt="Folleto de agradecimiento al personal" >}}
 
 🎉🍎La semana de agradecimiento a los maestros es del 8 al 12 de mayo. Estamos muy emocionados de celebrar a nuestros increíbles educadores de Abingdon y reconocerlos por todo lo que hacen. Utilice la siguiente [Lista de deseos de Amazon para](https://www.amazon.com/hz/wishlist/ls/11534AA8PBT6C?ref=cm_sw_sm_r_un_un_QPeN2epu4DkhG) donar a nuestra semana de eventos. También estamos buscando donaciones específicas de alimentos/productos horneados y voluntarios. Consulte [este genio de registro](https://m.signupgenius.com/#!/showSignUp/30e0a44aca72aa5fe3-teacher) para donar para apoyar durante los eventos de la semana. Si no ha agregado su nombre a nuestra [lista de voluntarios](https://docs.google.com/forms/d/e/1FAIpQLSf50HFDkNfDxP5VfE2LzsxKbUPZdmRGQTeNEUhXkU_qLCLWZQ/viewform), ¡hágalo! Busque un correo electrónico próximamente para el apoyo voluntario.
 
@@ -172,4 +172,4 @@ Girls on the Run está buscando Buddy Runners para nuestro próximo 5K. Consider
 - ¡Gracias a la madre de familia de Abingdon, Ellen, por compilar y organizar las líneas de amor de la PTA para nuestro anuario escolar!
 - ¡Tuvimos una ceremonia de inauguración con el estudiante de Yorktown High School y Troop 106 Scout Thomas para destacar su generosa contribución, un cobertizo de jardín hecho a la medida, para Abingdon! Fue fantástico ver a los niños aprender sobre su proyecto Eagle Scout, desmalezar el jardín y recoger basura. ¡Gracias a todos nuestros voluntarios por asistir a la Celebración del Día de la Tierra de Abingdon!
 
-{{< imagewidetoc src="images/IMG_4294.jpg" alt="Foto de corte de cinta" >}}
+{{< imagetoc src="images/IMG_4294.jpg" alt="Foto de corte de cinta" >}}

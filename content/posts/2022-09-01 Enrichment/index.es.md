@@ -18,4 +18,4 @@ Hemos distribuido formularios en papel a los maestros de clase para que los colo
 
 ¿Preguntas? Contáctenos en abingdonelementarypta@gmail.com. Gracias.
 
-{{< imagehalf class="halfcenter" src="images/IMG_2483.jpg" alt="Fall enrichment paper forms" >}}
+{{< imagehalf class="imagecenter" src="images/IMG_2483.jpg" alt="Fall enrichment paper forms" >}}

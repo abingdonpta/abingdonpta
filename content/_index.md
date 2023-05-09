@@ -22,7 +22,7 @@ hr { display: none; }
     var randomName = images[Math.floor(Math.random() * images.length)];
 </script>
 
-<script>document.write('<img src="/' + randomName + '" height="414px" width="736px" alt="Abingdon Elementary" class="halfcenter">');</script>
+<script>document.write('<img src="/' + randomName + '" height="414px" width="736px" alt="Abingdon Elementary" class="imagecenter">');</script>
 
 Abingdon Elementary School serves children in preschool through fifth grade in Arlington, Virginia.
 

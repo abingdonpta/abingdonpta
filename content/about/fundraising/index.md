@@ -38,7 +38,7 @@ Checks can be made out to ```Abingdon PTA```.
 
 ## Harris Teeter
 
-{{< imagehalftoc class="halfright" src="images/harris-teeter.png" alt="Harris Teeter flyer" >}}
+{{< imagehalftoc class="imageright" src="images/harris-teeter.png" alt="Harris Teeter flyer" >}}
 
 Abingdon PTA participates in Harris Teeter's Together in Education (TIE) Program, which provides the PTA a portion of money spent at their stores by customers who link their VIC Card to Abingdon.
 

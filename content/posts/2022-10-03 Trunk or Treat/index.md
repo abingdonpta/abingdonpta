@@ -21,7 +21,7 @@ up from 2 PM - 3 PM
 
 If you are able to volunteer, [please sign up here](https://docs.google.com/forms/d/e/1FAIpQLSc7S6GrsD0I1r4YQmmdgkgZqFELB0iOFyPxdBRBnrEoMbDpuA/viewform).
 
-{{< imagehalf src="images/flyer.png" alt="Trunk or Treat flyer" >}}
+{{< imagehalf src="images/flyer-en.png" alt="Trunk or Treat flyer" >}}
 {{< imagehalf src="images/flyer-es.png" alt="Trunk or Treat flyer in Spanish" >}}
 
 **EDIT 10/25/2022:** Abingdon's Assistant Principals will be making stops throughout Abingdon's attendance zone to give out candy and to say hello.

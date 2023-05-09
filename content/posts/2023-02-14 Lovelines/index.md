@@ -24,6 +24,10 @@ If you have any questions, reach out to abingdonelementarypta@gmail.com.
 
 Please detach the bottom part of the form below and submit with payment to your student's teacher. You should have received this form in your Tuesday folder that went home on February 14 — if not, you can print out the form below.
 
-| English form in color ([PDF](images/flyer.pdf))<br>{{< imagehalf src="images/flyer.png" alt="Lovelines flyer" >}} | Spanish form in color ([PDF](images/flyer-es.pdf))<br>{{< imagehalf src="images/flyer-es.png" alt="Lovelines flyer" >}} |
-|:-:|:-:|
-| **English form in black & white ([PDF](images/flyer-nocolor.pdf))**<br>{{< imagehalf src="images/flyer-nocolor.png" alt="Lovelines flyer" >}} | **Spanish form in black & white ([PDF](images/flyer-es-nocolor.pdf))**<br>{{< imagehalf src="images/flyer-es-nocolor.png" alt="Lovelines flyer" >}} |
+#### Color Forms
+<a href="images/flyer-en.pdf"><img src="images/flyer-en.png" width="492" height="637" alt="Lovelines form in English"></a>
+<a href="images/flyer-es.pdf"><img src="images/flyer-es.png" width="492" height="637" alt="Lovelines form in Spanish"></a>
+
+#### Black and White Forms
+<a href="images/flyer-en-nocolor.pdf"><img src="images/flyer-en-nocolor.png" width="492" height="637" alt="Black and White Lovelines form in English"></a>
+<a href="images/flyer-es-nocolor.pdf"><img src="images/flyer-es-nocolor.png" width="492" height="637" alt="Black and White Lovelines form in Spanish"></a>

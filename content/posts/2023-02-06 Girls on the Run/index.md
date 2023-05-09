@@ -16,5 +16,5 @@ Registration for the Spring 2023 program is open from February 6 through 28, and
 
 We can’t wait to run with you!
 
-{{< imagehalf src="images/flyer.png" alt="Girls on the Run flyer" >}}
+{{< imagehalf src="images/flyer-en.png" alt="Girls on the Run flyer" >}}
 {{< imagehalf src="images/flyer-es.png" alt="Girls on the Run in Spanish" >}}

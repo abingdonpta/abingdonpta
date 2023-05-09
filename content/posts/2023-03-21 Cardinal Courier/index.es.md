@@ -32,7 +32,7 @@ booktoc: true
 
 Este evento es un éxito **solo** con tu participación. Más allá de unirnos a la diversión, también necesitamos **voluntarios** para organizar, trabajar en el evento y limpiar al final de la noche. ¡Por favor considere ofrecer su tiempo!
 
-{{< imagewidetoc src="images/in-flyer-es.png" alt="Folleto de la Noche Internacional" >}}
+{{< imagetoc src="images/in-flyer-es.png" alt="Folleto de la Noche Internacional" >}}
 
 ### 🙋 Nominaciones para el liderazgo de la PTA 2023-2024
 
@@ -49,7 +49,7 @@ Este evento es un éxito **solo** con tu participación. Más allá de unirnos a
 - 📚 ¡**Read-A-Thon** está en marcha! ¡Nuestros estudiantes están en su viaje alrededor del mundo! Están llevando aviones, trenes, automóviles a nuevos destinos. ¡Hasta el lunes por la mañana, nuestros estudiantes han leído 120,419 minutos y gracias a nuestra asociación con ustedes, nuestra PTA ha recaudado más de $16,000! ¡Ayúdenos a alcanzar nuestra meta de recaudar $20,000 en nuestra recaudación de fondos más grande del año escolar!
      - Si su estudiante no se ha inscrito, NO es demasiado tarde. Únase al Read-A-Thon uniéndose a @ **https://www.read-a-thon.com/readers/r/AwAipj**. Tendrá la capacidad de compartir con familiares y amigos que podrían donar a nuestra PTA mientras usted y su estudiante registran los minutos de lectura diarios. Recuerda, ¡leer es leer! Haga un seguimiento de los minutos para leer en silencio, en voz alta, solo, a un amigo, un hermano, un animal de peluche o una mascota. ¡Haga un seguimiento de los minutos escuchando una historia en voz alta de un padre, un hermano, una grabación de audio! Agradecemos su apoyo a la alfabetización ya nuestra recaudación de fondos.
 
-{{< imagehalftoc class="halfcenter" src="images/read-a-thon-photo.png" alt="Read-a-thon photo" >}}
+{{< imagehalftoc class="imagecenter" src="images/read-a-thon-photo.png" alt="Read-a-thon photo" >}}
 
 - 💻 **Abingdon Tech Night** se llevará a cabo el lunes 27 de marzo de 6 a 7 p. m. en la biblioteca de la escuela.
 

@@ -20,5 +20,5 @@ Class Schedule: Fridays (3-4 pm)
 - March: 3/10 , 3/17, 3/24, 3/31
 - April: 4/14, 4/21
 
-{{< imagehalf src="images/flyer.png" alt="Cardinal Chinese Club flyer" >}}
+{{< imagehalf src="images/flyer-en.png" alt="Cardinal Chinese Club flyer" >}}
 {{< imagehalf src="images/flyer-es.png" alt="Cardinal Chinese Club in Spanish" >}}

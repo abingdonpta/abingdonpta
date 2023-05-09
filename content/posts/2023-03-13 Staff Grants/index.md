@@ -16,10 +16,10 @@ Our second tranche of staff grants are being disbursed to staff. If you would li
 
 Ms. Helen Ryan, one of our English Learner teachers, requested phonics, reading, and word materials and games for English Language learner students and also to support emerging readers. They will be used for both English as a second language and 2nd grade readers.
 
-{{< imagehalf class="halfcenter" src="images/IMG-1272.jpg" >}}
+{{< imagehalf class="imagecenter" src="images/IMG-1272.jpg" >}}
 
 ## Mallets for Smaller Hands
 
 Ms. Janet Kingsley, one of our music teachers, requested 30 sets of mallets for playing the xylophones and glockenspiels for children in grades K-2. These will also be used for small hand-held percussion.
 
-{{< imagehalf class="halfcenter" src="images/IMG-2521.jpg" >}}
+{{< imagehalf class="imagecenter" src="images/IMG-2521.jpg" >}}

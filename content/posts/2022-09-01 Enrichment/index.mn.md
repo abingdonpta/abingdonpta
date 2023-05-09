@@ -18,4 +18,4 @@ images:
 
 Асуулт? abingdonelementarypta@gmail.com хаягаар бидэнтэй холбоо барина уу. Баярлалаа.
 
-{{< imagehalf class="halfcenter" src="images/IMG_2483.jpg" alt="Намрын баяжуулалтын цаасны маягтууд" >}}
+{{< imagehalf class="imagecenter" src="images/IMG_2483.jpg" alt="Намрын баяжуулалтын цаасны маягтууд" >}}

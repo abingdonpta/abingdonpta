@@ -16,4 +16,4 @@ The drop-off location is at the **Abingdon Front Office** (3035 S. Abingdon St.)
 
 For more information, contact Megan Miller at meganmiller44@gmail.com.
 
-{{< imagehalf class="halfcenter" src="images/flyer.png" alt="Holiday Gift Card Drive flyer" >}}
+{{< imagehalf class="imagecenter" src="images/flyer-en.png" alt="Holiday Gift Card Drive flyer" >}}

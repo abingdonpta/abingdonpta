@@ -82,4 +82,4 @@ This is a great way to have a say in the future of the PTA. Thank you!
 
 On behalf of the Abingdon community, a heartfelt thank you to Yorktown High School student Thomas Totten who built a custom garden shed as a part of his Eagle Scout Service Project Plan for the Abingdon Community Garden. We greatly admire Thomas’ thoughtful input and leadership to execute this much-needed project, especially with spring planting coming up soon. Additionally, we thank his fundraising efforts and coordination with fellow scouts and parents who joined him over three days to execute this project. We thank Thomas for this beautiful addition to Abingdon's school campus in support of our Cardinal flock's outdoor learning and community-building garden events.
 
-{{< imagehalftoc class="halfcenter" src="images/IMG-2174.jpg" alt="New Garden Shed" >}}
+{{< imagehalftoc class="imagecenter" src="images/IMG-2174.jpg" alt="New Garden Shed" >}}

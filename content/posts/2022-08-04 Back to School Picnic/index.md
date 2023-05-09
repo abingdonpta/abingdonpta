@@ -20,6 +20,5 @@ Please bring your picnic food of choice for your family, and a blanket if you wi
 
 Volunteers greatly appreciated for set up and cleanup, bringing ice coolers, etc. Please contact Meredith Greene at meregreene5@gmail.com to assist.
 
-{{< imagehalf src="images/flyer.png" alt="Back to School Picnic Flyer" >}}
-
+{{< imagehalf src="images/flyer-en.png" alt="Back to School Picnic Flyer in English" >}}
 {{< imagehalf src="images/flyer-es.png" alt="Back to School Picnic Flyer in Spanish" >}}

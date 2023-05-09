@@ -18,4 +18,4 @@ Hemos distribuido formularios en papel a los maestros de clase para que los colo
 
 ¿Preguntas? Contáctenos en abingdonelementarypta@gmail.com. Gracias por su amabilidad.
 
-{{< imagehalf class="halfcenter" src="images/flyer-es.png" alt="Winter Enrichment flyer" >}}
+{{< imagehalf class="imagecenter" src="images/flyer-es.png" alt="Winter Enrichment flyer" >}}

@@ -17,5 +17,5 @@ Join us in the school library on June 1 from 6–7 PM for an information session
 - **When**: Thursday, June 1, 6 PM - 7 PM
 - **Where**: Abingdon's library
 
-{{< imagehalf src="images/flyer.png" alt="Tech Night flyer in English" >}}
+{{< imagehalf src="images/flyer-en.png" alt="Tech Night flyer in English" >}}
 {{< imagehalf src="images/flyer-es.png" alt="Tech Night flyer in Spanish" >}}
