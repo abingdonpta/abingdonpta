@@ -7,7 +7,7 @@ categories:
 - "volunteer opportunities"
 - "snack pantry"
 images: 
-- /2023/01/03/snack-pantry-volunteers/images/flyer.png
+- /2023/01/03/snack-pantry-volunteers/images/flyer-en.png
 ---
 
 The Abingdon PTA is continuing to support the school's [snack pantry](/pantry), which ensures that students facing food insecurity have access to fresh and shelf-stable food.

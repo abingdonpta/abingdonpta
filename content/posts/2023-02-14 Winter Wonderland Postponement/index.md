@@ -5,7 +5,7 @@ slug: winter wonderland
 date: 2023-02-14T12:30:00-05:00
 categories: events
 images: 
-- /2023/02/14/winter-wonderland/images/flyer.png
+- /2023/02/14/winter-wonderland/images/flyer-en.png
 ---
 
 **Winter Wonderland has been postponed to February 28, from February 16 (poor weather) and from February 9 (band concert).**

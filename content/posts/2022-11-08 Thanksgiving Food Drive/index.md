@@ -5,7 +5,7 @@ slug: thanksgiving food drive
 date: 2022-11-08T05:00:00-05:00
 categories: donations
 images: 
-- /2022/11/08/thanksgiving-food-drive/images/flyer.png
+- /2022/11/08/thanksgiving-food-drive/images/flyer-en.png
 ---
 
 The Abingdon Elementary PTA is seeking donations of side dishes to complete the Thanksgiving dinners for 40 families. (Turkeys have generously been donated!)

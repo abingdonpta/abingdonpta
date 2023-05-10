@@ -5,7 +5,7 @@ slug: strengthening families
 date: 2023-03-30T05:00:00-04:00
 categories: "passed along"
 images: 
-- /2023/03/30/strengthening-families/images/flyer.png
+- /2023/03/30/strengthening-families/images/flyer-en.png
 ---
 
 The PTA is passing along this message from Sarah Mullinax, one of our wonderful School Counselors here at Abingdon.

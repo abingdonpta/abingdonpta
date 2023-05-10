@@ -5,7 +5,7 @@ slug: garden workday
 date: 2023-04-25T06:00:00-04:00
 categories: garden
 images: 
-- /2023/04/25/garden-workday/images/flyer.png
+- /2023/04/25/garden-workday/images/flyer-en.png
 ---
 
 Help us clean-up our school garden and pick up litter on the school grounds. We'll also be preparing a sunflower garden!

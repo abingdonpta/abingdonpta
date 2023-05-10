@@ -7,7 +7,7 @@ categories: fundraisers
 aliases:
     - /2023/02/23/read-a-thon/
 images:
-    - /2023/03/06/read-a-thon/images/flyer.png
+    - /2023/03/06/read-a-thon/images/flyer-en.png
 ---
 
 We are excited to announce that the Abingdon Read-A-Thon is back! This fun event encourages students to read & build literacy skills while also raising money for our school.

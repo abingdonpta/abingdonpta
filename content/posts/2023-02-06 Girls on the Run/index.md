@@ -5,7 +5,7 @@ slug: girls on the run
 date: 2023-02-06T05:00:00-05:00
 categories: enrichment
 images: 
-- /2023/02/06/girls-on-the-run/images/flyer.png
+- /2023/02/06/girls-on-the-run/images/flyer-en.png
 ---
 
 Girls on the Run is coming to Abingdon Elementary School! GOTR is a physical activity based positive youth development program for girls in 3rd-8th grade. The program teaches life skills through dynamic interactive lessons and running games. The goal of the program is to unleash confidence through accomplishment, while establishing a lifetime appreciation of health and fitness. Our program has been adapted to ensure physical distancing and safety. In-person practices include safety, sanitizing, and physical distancing precautions and modifications.

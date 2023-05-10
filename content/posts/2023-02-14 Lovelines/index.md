@@ -5,7 +5,7 @@ slug: lovelines
 date: 2023-02-14T05:30:00-05:00
 categories: fundraisers
 images: 
-- /2023/02/14/lovelines/images/flyer.png
+- /2023/02/14/lovelines/images/flyer-en.png
 ---
 
 Yearbook Lovelines are back for the 2023 yearbook! You can leave a special message for your student or your student can leave a message for their friends!

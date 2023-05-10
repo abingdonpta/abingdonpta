@@ -7,7 +7,7 @@ categories:
     - events
     - passed along
 images: 
-- /2022/11/03/movie-night/images/flyer.png
+- /2022/11/03/movie-night/images/flyer-en.png
 ---
 
 The PTA is passing along this message from Renita Upshur, Abingdon's wonderful science teacher and the lead of Abingdon's DEI Committee.

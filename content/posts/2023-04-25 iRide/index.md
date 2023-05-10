@@ -5,7 +5,7 @@ slug: iride
 date: 2023-04-25T05:00:00-04:00
 categories: "passed along"
 images: 
-- /2023/04/25/iride/images/flyer.png
+- /2023/04/25/iride/images/flyer-en.png
 ---
 
 The PTA is passing along this message from Assistant Principal Anne Oliveira.

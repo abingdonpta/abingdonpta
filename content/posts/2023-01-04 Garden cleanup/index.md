@@ -5,7 +5,7 @@ slug: mlk day of service
 date: 2023-01-04T20:00:00-05:00
 categories: garden
 images: 
-- /2023/01/04/garden-cleanup/images/flyer.png
+- /2023/01/04/garden-cleanup/images/flyer-en.png
 ---
 
 You are cordially invited to join us for a garden service opportunity to honor Dr. Martin Luther King, Jr. on Monday, January 16 from 10 a.m. – 12 p.m.

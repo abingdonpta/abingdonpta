@@ -5,7 +5,7 @@ slug: trunk or treat
 date: 2022-10-03T05:00:00-04:00
 categories: events
 images: 
-- /2022/10/03/trunk-or-treat/images/flyer.png
+- /2022/10/03/trunk-or-treat/images/flyer-en.png
 ---
 
 The Abingdon PTA is excited to bring back Trunk or Treat! Kids will dress up in Halloween costumes and collect candy from volunteers who have decorated their cars.

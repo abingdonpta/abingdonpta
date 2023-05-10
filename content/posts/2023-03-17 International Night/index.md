@@ -5,7 +5,7 @@ slug: international night
 date: 2023-03-17T06:00:00-04:00
 categories: events
 images: 
-- /2023/03/17/international-night/images/flyer.png
+- /2023/03/17/international-night/images/flyer-en.png
 ---
 
 Abingdon’s Annual International & Cultural Heritage and History Night is COMING! Last year’s event was a huge success thanks to the whole community who brought food and traditions to share, mingled, sang, danced, and volunteered throughout the beautiful night.

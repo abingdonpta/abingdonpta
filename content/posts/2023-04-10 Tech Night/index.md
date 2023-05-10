@@ -5,7 +5,7 @@ slug: tech night
 date: 2023-04-10T05:00:00-04:00
 categories: "passed along"
 images: 
-- /2023/04/10/tech-night/images/flyer.png
+- /2023/04/10/tech-night/images/flyer-en.png
 ---
 
 The PTA is passing along this message from Molly Fisher, Abingdon's Instructional Technology Coordinator (ITC).
