@@ -1,5 +1,5 @@
 ---
-title: Approved Budget for July 1, 2022 — June 30, 2023
+title: Adopted Budget for July 1, 2022 — June 30, 2023
 summary: 2022-2023 Budget for the Abingdon PTA.
 url: /budget/
 aliases:
@@ -25,13 +25,13 @@ This budget was adopted by the PTA's General Membership at our September 12, 202
 | [🌯 Spirit Nights](#-spirit-nights) | $300 | |
 | | | |
 | 🎓 **Educational Programs** | **Income** | **Expenses** |
-| [🔔 After School Enrichment Scholarships](#-after-school-enrichment-scholarships) | | $2,000 |
+| [🔔 After School Enrichment Scholarships](#-after-school-enrichment-scholarships) | | $3,000<br>Formerly $2,000<sup>2</sup> |
 | [🍅 Garden](#-garden) | | $1,000 |
-| [🎭 School Play](#-school-play) | | $750 |
+| [🎭 School Play](#-school-play) | | $0<br>Formerly $750<sup>2</sup> |
 | [👨‍👦 Cardinal Kids Mentoring Program](#-cardinal-kids-mentoring-program) | | $500 |
 | [🌼 Hispanic Heritage Month](#-hispanic-heritage-month) | | $300 |
 | [🎨 Art Enrichment](#-art-enrichment) | | $500 |
-| [💦 Field Day](#-field-day) | | $100 |
+| [💦 Field Day](#-field-day) | | $2,100<br>Formerly $100<sup>2</sup> |
 | [🚶 Let’s Go Club](#-lets-go-club) | | $300 |
 | [🏃‍♀️ Girls on the Run](#-girls-on-the-run) | | $100 |
 | | | |
@@ -52,10 +52,12 @@ This budget was adopted by the PTA's General Membership at our September 12, 202
 | [👋 Back to School Picnic](#-back-to-school-picnic) | | $750 |
 | [🏠 Open House](#-open-house)| | $250 |
  [🍂 Fall Event](#-fall-event) | | $400 |
-| [❄️ Winter Event](#-winter-event) | | $2,000 |
+| [❄️ Winter Event](#-winter-event) | | $1,000<br> Formerly $2,000<sup>2</sup> |
  [🌱 Spring Event](#-spring-event) | | $4,000 |
 | [🎓 5th Grade Promotion](#-5th-grade-promotion) | | $700 |
-| [🍿 Outdoor Movie Nights](#-outdoor-movie-nights) | | $1,000 |
+| [🍿 Outdoor Movie Nights](#-outdoor-movie-nights) | | $0<br>Formerly $1,000<sup>2</sup> |
+| [🧺 5th Grade Picnic](#-5th-grade-picnic) | | $700<sup>2</sup> |
+| [🚌 5th Grade Field Trip](#-5th-grade-field-trip) | | $300<sup>2</sup> |
 | | | |
 | [🙏 **Staff Appreciation**](#-staff-appreciation) | **Income** | **Expenses** |
 | 🎒 Back-to-School Appreciation | | $750 |
@@ -74,7 +76,7 @@ This budget was adopted by the PTA's General Membership at our September 12, 202
 | | | |
 | **Administrative / Miscellaneous** | **Income** | **Expenses** |
 | [🧻 Office Supplies](#-office-supplies) | | $997 |
-| [🧻 Laminator Film](#-laminator-film) | | $1,500 |
+| [🧻 Laminator Film](#-laminator-film) | | $250<br>Formerly $1,500<sup>2</sup> |
 | [💲 Dues - Virginia PTA and Arlington CCPTA](#-dues---virginia-pta-and-arlington-ccpta) | | $800 |
 | [📰 E-mail Newsletter](#-e-mail-newsletter)| | $600 |
 | [☎️ Student Directory](#-student-directory) | | $300 |
@@ -88,7 +90,14 @@ This budget was adopted by the PTA's General Membership at our September 12, 202
 | | | |
 | **Total (incl. carryover and intended reserves)** | $68,947 | $68,947 |
 
-**Note 1**: Four line items were consolidated into the Staff Appreciation Week line item by a vote of the General Membership on March 14, 2023.
+**Note 1**: Four line items were consolidated into the Staff Appreciation Week line item by a vote of the General Membership on March 14, 2023.  
+**Note 2**: The following changes were made by a vote of the General Membership on May 9, 2023:
+- Move $1,250 from the “Laminator Film” line item to the “Field Day” line item.
+- Move $750 from the “School Play” line item to the “Field Day” line item.
+- Move $1,000 from the “Winter Wonderland” line item to the “After-School Enrichment Scholarships” line item.
+- Move $700 from the “Movie Nights” line item to a new “Fifth Grade Picnic” line item.
+- Move $300 from the “Movie Nights” line item to a new “Fifth Grade Field Trip” line item.
+
 
 ---
 
@@ -251,6 +260,14 @@ The PTA contributes to the 5th Grade Promotion Fund, which is used to celebrate 
 ### 🍿 Outdoor Movie Nights
 
 The PTA would like to hold outdoor movie nights this year.
+
+### 🧺 5th Grade Picnic
+
+5th grade teachers intend to have a picnic for their students to mark the end of their time at Abingdon.
+
+### 🚌 5th Grade Field Trip
+
+The PTA allocated funds for a potential field trip for 5th grade students.
 
 ## 🙏 Staff Appreciation
 
