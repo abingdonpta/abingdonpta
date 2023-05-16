@@ -4,8 +4,7 @@ summary: The Cardinal Courier newsletter for April 24, 2023.
 slug: cardinal courier
 date: 2023-04-24T05:00:00-04:00
 categories: newsletters
-images: 
-- /share/pta.png
+images: ["/share/pta.png"]
 booktoc: true
 ---
 

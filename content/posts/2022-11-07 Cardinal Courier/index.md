@@ -4,8 +4,7 @@ summary: The Cardinal Courier newsletter for November 7, 2022.
 slug: cardinal courier
 date: 2022-11-07T05:00:00-05:00
 categories: newsletters
-images: 
-- /share/pta.png
+images: ["/share/pta.png"]
 booktoc: true
 ---
 

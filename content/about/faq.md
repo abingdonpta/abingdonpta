@@ -3,8 +3,7 @@ title: Frequently Asked Questions
 summary: Frequently asked questions about the Abingdon PTA.
 linktitle: FAQ's
 weight: 10
-aliases:
-    - /about-pta
+aliases: ["/about-pta"]
 booktoc: true
 ---
 

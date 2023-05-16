@@ -3,11 +3,8 @@ title: Trunk or Treat Photos
 summary: A huge thank you to all of our hardworking volunteers for making Trunk or Treat successful!
 slug: trunk or treat photos
 date: 2022-10-29T20:00:00-04:00
-categories:
-- photos
-- events
-images: 
-- /2022/10/29/trunk-or-treat-photos/images/IMG_5815.jpg
+categories: ["photos","events"]
+images: ["/2022/10/29/trunk-or-treat-photos/images/IMG_5815.jpg"]
 ---
 
 A huge thank you to all of our hardworking volunteers for making today's Trunk or Treat a sweet success and a memorable experience for our flock!

@@ -4,8 +4,7 @@ summary: The Cardinal Courier newsletter for May 8, 2023.
 slug: cardinal courier
 date: 2023-05-08T05:00:00-04:00
 categories: newsletters
-images: 
-- /share/pta.png
+images: ["/share/pta.png"]
 booktoc: true
 ---
 

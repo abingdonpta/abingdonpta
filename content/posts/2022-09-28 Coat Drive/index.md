@@ -4,8 +4,7 @@ summary: Share the warmth! Coats, mittens, hats, gloves, and scarves are needed.
 slug: coat drive
 date: 2022-09-28T05:00:00-04:00
 categories: donations
-images: 
-- /2022/09/28/coat-drive/images/flyer-en.png
+images: ["/2022/09/28/coat-drive/images/flyer-en.png"]
 ---
 
 Abingdon is holding a Winter Coat Drive this fall and winter.

@@ -8,7 +8,7 @@ categories: directory
 
 The Abingdon PTA is excited to announce that we have launched a new **online student directory** for our school. This new resource contains contact information for students’ families to help those in the Abingdon community connect to arrange playdates or carpools, discuss classroom activities, share other school-related information, and more.
 
-Contact information has been published in the directory only for those families who completed this year’s Annual Online Verification Process (AOVP) and opted in to share their information with the PTA as part of this process. 
+Contact information has been published in the directory only for those families who completed this year’s Annual Online Verification Process (AOVP) and opted in to share their information with the PTA as part of this process, [as described here](/2022/09/06/directory/).
 
 **If you completed the AOVP and opted in to share your data with the PTA**, please take a minute to complete the following steps to access the directory:
 

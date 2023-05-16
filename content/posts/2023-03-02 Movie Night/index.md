@@ -3,11 +3,8 @@ title: Family Movie Night
 summary: Come watch the movie Wonder on Friday, March 10 in Abingdon's gym.
 slug: movie night
 date: 2023-03-02T19:00:00-05:00
-categories:
-    - events
-    - passed along
-images: 
-- /2023/03/02/movie-night/images/flyer.jpg
+categories: ["events","passed along"]
+images: ["/2023/03/02/movie-night/images/flyer.jpg"]
 ---
 
 The PTA is passing along this message from Renita Upshur, Abingdon's wonderful science teacher and the lead of Abingdon's DEI Committee.

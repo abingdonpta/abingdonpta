@@ -3,8 +3,7 @@ title: Logos
 summary: Abingdon PTA Logos
 bookSearchExclude: true
 url: /logos/
-aliases:
-    - /logo
+aliases: ["/logo"]
 ---
 
 ## Current Cardinal Logos

@@ -4,8 +4,7 @@ summary: The PTA purchased STEM bins, reflective vests and Math Dice t-shirts fo
 slug: grants
 date: 2023-05-06T05:00:00-04:00
 categories: grants
-images: 
-- /2023/05/06/grants/images/math-dice-3.jpg
+images: ["/2023/05/06/grants/images/math-dice-3.jpg"]
 ---
 
 The Abingdon PTA started a [Grant Program](/grants) this year in order to support student learning in the classroom and beyond by funding materials, projects, and experiences beyond the core basics provided by Arlington Public Schools.

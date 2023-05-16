@@ -4,8 +4,7 @@ summary: El registro comienza el lunes 13 de marzo a las 8 AM.
 slug: enrichment
 date: 2023-03-09T05:00:00-05:00
 categories: enrichment
-images: 
-- /2023/03/09/enrichment/images/flyer-es.png
+images: ["/2023/03/09/enrichment/images/flyer-es.png"]
 ---
 
 ¡Es hora de registrarse para la sesión de primavera de clases de enriquecimiento después de la escuela! La PTA de Abingdon se ha asociado con Baroody Camps para ofrecer este programa.

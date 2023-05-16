@@ -4,8 +4,7 @@ summary: The Cardinal Courier newsletter for March 21, 2023.
 slug: cardinal courier
 date: 2023-03-21T05:00:00-04:00
 categories: newsletters
-images: 
-- /share/pta.png
+images: ["/share/pta.png"]
 booktoc: true
 ---
 

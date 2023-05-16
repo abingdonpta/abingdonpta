@@ -54,3 +54,7 @@ url: /boardlinks/
 ---
 
 {{< button relref="logos" >}}Logos{{< /button >}}
+
+---
+
+{{< button href="https://protectyournonprofit.com/wp-content/uploads/2016/05/PTA-Safety-Guide.pdf" >}}Insurance Guide{{< /button >}}

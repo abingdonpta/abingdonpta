@@ -4,8 +4,7 @@ summary: Registration starts Monday, December 12 at 8 AM.
 slug: enrichment
 date: 2022-12-02T05:00:00-05:00
 categories: enrichment
-images: 
-- /2022/12/02/enrichment/images/flyer-en.png
+images: ["/2022/12/02/enrichment/images/flyer-en.png"]
 ---
 
 It's time to register for the Winter Session of after-school enrichment classes! The Abingdon PTA is partnering with Baroody Camps to offer this program.

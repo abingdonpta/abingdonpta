@@ -3,11 +3,8 @@ title: Election Day Bake Sale
 summary: The PTA will be selling baked goods outside of two polling stations on Tuesday, November 8.
 slug: election day
 date: 2022-10-31T05:00:00-04:00
-categories:
-- fundraisers
-- "volunteer opportunities"
-images: 
-- /2022/10/31/election-day/images/flyer-en.png
+categories: ["fundraisers","volunteer opportunities"]
+images: ["/2022/10/31/election-day/images/flyer-en.png"]
 ---
 
 Visit the PTA table to grab a treat for yourself, an educator, a volunteer, or a neighbor! All funds support PTA program and activities for our flock of Cardinals!

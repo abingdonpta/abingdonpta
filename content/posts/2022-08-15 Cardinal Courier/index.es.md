@@ -4,8 +4,7 @@ summary: El Boletín Cardinal del 15 de agosto de 2022.
 slug: cardinal courier
 date: 2022-08-15T05:00:00-04:00
 categories: newsletters
-images: 
-- /share/pta-es.png
+images: ["/share/pta-es.png"]
 booktoc: true
 ---
 

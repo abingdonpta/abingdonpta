@@ -4,8 +4,7 @@ summary: El Boletín Cardinal del 27 de Marzo de 2023.
 slug: cardinal courier
 date: 2023-03-27T05:00:00-04:00
 categories: newsletters
-images: 
-- /share/pta-es.png
+images: ["/share/pta-es.png"]
 booktoc: true
 ---
 

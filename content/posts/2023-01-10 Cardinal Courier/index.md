@@ -4,8 +4,7 @@ summary: The Cardinal Courier newsletter for January 10, 2023.
 slug: cardinal courier
 date: 2023-01-10T05:00:00-05:00
 categories: newsletters
-images: 
-- /share/pta.png
+images: ["/share/pta.png"]
 booktoc: true
 ---
 

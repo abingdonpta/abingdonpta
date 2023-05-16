@@ -2,8 +2,7 @@
 title: Adopted Budget for July 1, 2022 — June 30, 2023
 summary: 2022-2023 Budget for the Abingdon PTA.
 url: /budget/
-aliases:
-    - /budget/2022-2023/
+aliases: ["/budget/2022-2023/"]
 booktoc: true
 ---
 
@@ -56,7 +55,7 @@ This budget was adopted by the PTA's General Membership at our September 12, 202
  [🌱 Spring Event](#-spring-event) | | $4,000 |
 | [🎓 5th Grade Promotion](#-5th-grade-promotion) | | $700 |
 | [🍿 Outdoor Movie Nights](#-outdoor-movie-nights) | | $0<br>Formerly $1,000<sup>2</sup> |
-| [🧺 5th Grade Picnic](#-5th-grade-picnic) | | $700<sup>2</sup> |
+| [👋 5th Grade Picnic](#-5th-grade-picnic) | | $700<sup>2</sup> |
 | [🚌 5th Grade Field Trip](#-5th-grade-field-trip) | | $300<sup>2</sup> |
 | | | |
 | [🙏 **Staff Appreciation**](#-staff-appreciation) | **Income** | **Expenses** |
@@ -261,7 +260,7 @@ The PTA contributes to the 5th Grade Promotion Fund, which is used to celebrate 
 
 The PTA would like to hold outdoor movie nights this year.
 
-### 🧺 5th Grade Picnic
+### 👋 5th Grade Picnic
 
 5th grade teachers intend to have a picnic for their students to mark the end of their time at Abingdon.
 

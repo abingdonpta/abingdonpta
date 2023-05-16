@@ -4,8 +4,7 @@ summary: Abingdon's Winter Wonderland will be an ice skating event at Pentagon R
 slug: winter wonderland
 date: 2023-01-10T04:30:00-05:00
 categories: events
-images: 
-- /2023/01/10/winter-wonderland/images/flyer-en.png
+images: ["/2023/01/10/winter-wonderland/images/flyer-en.png"]
 ---
 
 **Winter Wonderland has been postponed to February 28, from February 16 (poor weather) and from February 9 (band concert).**

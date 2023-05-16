@@ -4,8 +4,7 @@ summary: El Boletín Cardinal del 10 de Enero de 2023.
 slug: cardinal courier
 date: 2023-01-10T05:00:00-05:00
 categories: newsletters
-images: 
-- /share/pta-es.png
+images: ["/share/pta-es.png"]
 booktoc: true
 ---
 

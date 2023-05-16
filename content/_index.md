@@ -1,15 +1,7 @@
 ---
 title: Abingdon Elementary School PTA
 summary: A peaceful world starts here.
-aliases:
-    - /espanol
-    - /community
-    - /news
-    - /single-post/cardinal-courier-september-14
-    - /interested-in-being-a-part-of-pta-leadership-let-us-know
-    - /interesado-en-formar-parte-del-liderazgo-de-la-pta-háganoslo-saber
-    - /single-post/winter-wonderland-flyer-2022
-    - /product-page/stainless-steel-water-bottle
+aliases: ["/espanol","/community","/news","/single-post/cardinal-courier-september-14","/interested-in-being-a-part-of-pta-leadership-let-us-know","/interesado-en-formar-parte-del-liderazgo-de-la-pta-háganoslo-saber","/single-post/winter-wonderland-flyer-2022","/product-page/stainless-steel-water-bottle"]
 ---
 
 <style>

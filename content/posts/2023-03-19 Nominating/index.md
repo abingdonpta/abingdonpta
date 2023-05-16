@@ -4,8 +4,7 @@ summary: Interested in serving as a leader of the PTA next year? Let us know by 
 slug: nominate
 date: 2023-03-19T10:00:00-04:00
 categories: "volunteer opportunities"
-aliases:
-    - /nominate
+aliases: ["/nominate"]
 ---
 
 **Calling all leaders!** The Abingdon Elementary PTA is seeking people who are interested in serving as PTA officers for the 2023-2024 school year.

@@ -4,8 +4,7 @@ summary: The Cardinal Courier newsletter for August 15, 2022.
 slug: cardinal courier
 date: 2022-08-15T05:00:00-04:00
 categories: newsletters
-images: 
-- /share/pta.png
+images: ["/share/pta.png"]
 booktoc: true
 ---
 

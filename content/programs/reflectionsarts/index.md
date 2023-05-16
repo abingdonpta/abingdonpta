@@ -2,8 +2,7 @@
 title: Reflections
 summary: The Reflections program at Abingdon PTA
 weight: 60
-aliases:
-    - /reflections/
+aliases: ["/reflections/"]
 ---
 
 <img src="images/reflectionslogo.png" alt="Reflections Logo" height="153" width="992">

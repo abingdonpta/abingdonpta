@@ -4,8 +4,7 @@ summary: El Boletín Cardinal del 11 de Abril de 2023.
 slug: cardinal courier
 date: 2023-04-11T05:00:00-04:00
 categories: newsletters
-images: 
-- /share/pta-es.png
+images: ["/share/pta-es.png"]
 booktoc: true
 ---
 

@@ -3,8 +3,7 @@ title: Call For Entries — Reflections Art Contest
 summary: Learn about the Reflections Arts Contest that the Abingdon PTA is organizing this fall.
 slug: reflections
 date: 2022-09-07T05:00:00-04:00
-images:
-- /2022/09/07/reflections/social/r---show-your-voice_facebook-cropped.png
+images: ["/2022/09/07/reflections/social/r---show-your-voice_facebook-cropped.png"]
 categories: reflections
 ---
 
