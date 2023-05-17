@@ -26,12 +26,14 @@ A PTA volunteer (Dan Burd) created the PTA logo below before April 2022, made to
 
 ## Old Cardinal Logos
 
-A PTA volunteer (Vickie Spindler) created the two Abingdon Cardinal logos below in September 2014. They were used for Spirit Gear in subsequent years.
+A PTA volunteer (Vickie Spindler) created the two Abingdon Cardinal logos below in September 2014. They were used for Spirit Gear in subsequent years. Dan Burd also made black and white versions of these logos in May 2023 at the request of the then-president.
 
 | Type | SVG | PNG | Original |
 | ---- | --- | --- | -------- |
 | Abingdon Cardinal Circle | [SVG](old/circlelogoAbingdonPTA.svg) | [PNG](old/circlelogoAbingdonPTA.png) | [PDF](old/circlelogoAbingdonPTA.pdf) |
+| Abingdon Cardinal Circle B&W | [SVG](old/circlelogoAbingdonPTAbw.svg) | [PNG](old/circlelogoAbingdonPTAbw.png) | |
 | Abingdon Cardinal | [SVG](old/logoAbingdonPTA.svg) | [PNG](old/logoAbingdonPTA.png) | [PDF](old/logoAbingdonPTA.pdf) |
+| Abingdon Cardinal B&W | [SVG](old/logoAbingdonPTAbw.svg) | [PNG](old/logoAbingdonPTAbw.png) | |
 
 ## Original Cardinal Logo
 
