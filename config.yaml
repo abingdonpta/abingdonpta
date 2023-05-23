@@ -16,8 +16,7 @@ params:
   BookTheme: auto
   BookLogo: favicon.png
   description: A peaceful world starts here.
-  images: 
-    - share/school.jpg
+  images: ["share/school.jpg"]
   twitter: "@AbingdonPTA"
   fb: AbingdonElementaryPTA
   title: Abingdon PTA

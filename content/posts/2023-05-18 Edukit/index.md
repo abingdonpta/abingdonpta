@@ -8,7 +8,7 @@ categories: fundraisers
 
 EduKit sales for the 2023-2024 school year have begun! Each EduKit contains the school supplies your student needs for next year as requested by our Abingdon teachers. Go online to https://www.edukitinc.com/schools/1287 by July 10 to order your child’s EduKit.
 
-<a href="https://www.edukitinc.com/schools/1287/"><img src="images/flyer-en.jpg" alt="Edukit flyer" ></a>
+<a href="https://www.edukitinc.com/schools/1287/"><img src="images/flyer-en.jpg" alt="Edukit flyer" height="451" width="992" ></a>
 
 <!--
 

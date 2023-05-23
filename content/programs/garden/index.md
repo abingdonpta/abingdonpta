@@ -32,10 +32,22 @@ Here's what's planted or growing in the garden in **Spring 2023**:
 | Bed 7  | Whorled Milkweed 🌿<br>New England Astor |
 | Bed 8  | Onions 🧅<br>Strawberries 🍓<br>Lettuce 🥬 |
 | Bed 9  |  |
-| Bed 10 | Butterfly weed 🦋<br> |
+| Bed 10 | Butterfly weed 🦋<br>Zinnia |
 | Bed 11 |  |
 
 ## Photos
+
+### May Garden Cleanup
+*May 21, 2023*
+
+{{< imagehalftoc src="images/IMG_5225.jpg" alt="Photo from May Garden Cleanup" >}}
+{{< imagehalftoc src="images/IMG_5302.jpg" alt="Photo from May Garden Cleanup" >}}
+{{< imagehalftoc src="images/IMG_5303.jpg" alt="Photo from May Garden Cleanup" >}}
+{{< imagehalftoc src="images/IMG_5304.jpg" alt="Photo from May Garden Cleanup" >}}
+{{< imagehalftoc src="images/IMG_5305.jpg" alt="Photo from May Garden Cleanup" >}}
+{{< imagehalftoc src="images/IMG_5310.jpg" alt="Photo from May Garden Cleanup" >}}
+{{< imagehalftoc src="images/IMG_5315.jpg" alt="Photo from May Garden Cleanup" >}}
+{{< imagehalftoc src="images/IMG_5340.jpg" alt="Photo from May Garden Cleanup" >}}
 
 ### Shed Ribbon Cutting
 *April 23, 2023*
