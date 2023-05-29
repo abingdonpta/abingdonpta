@@ -8,12 +8,12 @@ weight: 70
 
 The PTA maintains a calendar for events and meetings. Click on one of the links below to subscribe:
 
-- [Google Calendar](https://calendar.google.com/calendar/r?cid=abingdonelementarypta@gmail.com)
-- [iCal](webcal://calendar.google.com/calendar/ical/abingdonelementarypta@gmail.com/public/basic.ics)
+- [Google Calendar](https://calendar.google.com/calendar/r?cid=pta@abingdonpta.org)
+- [iCal](webcal://calendar.google.com/calendar/ical/pta@abingdonpta.org/public/basic.ics)
 
 The PTA calendar is also viewable here:
 
-<iframe src="https://calendar.google.com/calendar/embed?src=abingdonelementarypta@gmail.com&ctz=America%2FNew_York" title="Abingdon PTA Calendar" style="border: 0" width="992" height="744" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=pta%40abingdonpta.org&ctz=America%2FNew_York" title="Abingdon PTA Calendar" style="border: 0" width="992" height="744" frameborder="0" scrolling="no"></iframe>
 
 ---
 
