@@ -87,6 +87,6 @@ The Abingdon PTA is excited to host Spirit Nights at local restaurants. Check ou
 
 ## Business Donations
 
-Would your company like to support your neighborhood school? The Abingdon PTA has a number of picture-perfect donation opportunities that will benefit children. Please reach out to us at abingdonelementarypta@gmail.com if you are interested.
+Would your company like to support your neighborhood school? The Abingdon PTA has a number of picture-perfect donation opportunities that will benefit children. Please reach out to us at pta@abingdonpta.org if you are interested.
 
 *Abingdon PTA is a subordinate of the Virginia Congress of Parents and Teachers (Virginia PTA), a 501(c)(3) organization.*

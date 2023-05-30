@@ -47,7 +47,7 @@ Grant funds also cannot be used to purchase headphones, which principals should 
 
 {{< button href="https://docs.google.com/forms/d/e/1FAIpQLSd2wtZtzn-QFCMLZIKBvHgBY2Au4c2D0CjZQG0sKcg0IbaxBw/viewform?usp=sf_link" >}}Click Here to Apply for a Staff Grant{{< /button >}}
 
-If you have questions, please reach out to us at abingdonelementarypta@gmail.com.
+If you have questions, please reach out to us at pta@abingdonpta.org.
 
 Thank you for your continued support of our Abingdon students!
 

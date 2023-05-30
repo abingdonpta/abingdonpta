@@ -9,30 +9,15 @@ url: /boardlinks/
 
 ---
 
-{{< button relref="boardminutes" >}}Board Meeting Minutes{{< /button >}}
-
----
-
-{{< button relref="boardagendas" >}}Board Meeting Agendas{{< /button >}}
-
----
-
 {{< button relref="logos" >}}Logos{{< /button >}}
 
 ---
 
 {{< button href="https://protectyournonprofit.com/wp-content/uploads/2016/05/PTA-Safety-Guide.pdf" >}}Insurance Guide{{< /button >}}
 
-
-<!--
-
 ---
 
 {{< button href="https://docs.google.com/spreadsheets/d/1JoCuzG1w8KfeTtAXAAksfECotXyADt9CaBysqmTRt9Y/edit" >}}Volunteer Form Responses{{< /button >}}
-
----
-
-{{< button href="https://drive.google.com/drive/folders/1ReSMLQwEb2ITSDfcvY0PzgKPYLKSJSS8" >}}Cardinal Courier Google Drive Folder{{< /button >}}
 
 ---
 
@@ -44,7 +29,11 @@ url: /boardlinks/
 
 ---
 
-{{< button href="https://docs.google.com/spreadsheets/d/1xshGQbl5DMKV3o4cv3PABOW4jwPy2Hlj1vnNxnBsL5w/edit" >}}Local Business Donations Sheet{{< /button >}}
+{{< button href="https://docs.google.com/forms/d/e/1FAIpQLSfkPBpmAGwX1zfOkZ0KDFmN_mHQI2SB_ldbAbtasMFWWhln7A/viewform" >}}Expense Authorization Form{{< /button >}}
+
+---
+
+{{< button href="https://docs.google.com/spreadsheets/d/1uIpeodZqVWZvU5Af3gFg4juD3oD-dbqnxp5SwDXVrJw/edit" >}}Expense Authorization Form Submissions{{< /button >}}
 
 ---
 
@@ -52,11 +41,23 @@ url: /boardlinks/
 
 ---
 
-{{< button href="https://docs.google.com/forms/d/e/1FAIpQLSfkPBpmAGwX1zfOkZ0KDFmN_mHQI2SB_ldbAbtasMFWWhln7A/viewform" >}}Expense Authorization Form{{< /button >}}
+{{< button href="https://docs.google.com/spreadsheets/d/1xshGQbl5DMKV3o4cv3PABOW4jwPy2Hlj1vnNxnBsL5w/edit" >}}Local Business Donations Sheet{{< /button >}}
 
 ---
 
-{{< button href="https://docs.google.com/spreadsheets/d/1uIpeodZqVWZvU5Af3gFg4juD3oD-dbqnxp5SwDXVrJw/edit" >}}Expense Authorization Form Submissions{{< /button >}}
+{{< button href="https://drive.google.com/drive/folders/1ReSMLQwEb2ITSDfcvY0PzgKPYLKSJSS8" >}}Cardinal Courier Google Drive Folder{{< /button >}}
+
+---
+
+{{< button href="https://drive.google.com/drive/u/9/folders/1C_I4On63WEjFxM6UCyktMDml8p3raIHe" >}}Minutes and Agendas Google Drive Folder{{< /button >}}
+<!--
+---
+
+{{< button relref="boardminutes" >}}Board Meeting Minutes{{< /button >}}
+
+---
+
+{{< button relref="boardagendas" >}}Board Meeting Agendas{{< /button >}}
 
 ---
 
