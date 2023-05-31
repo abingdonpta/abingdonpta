@@ -92,7 +92,15 @@ Guidelines:
 - Parents must stay to supervise their children.
 - Movie theater behavior is expected.
 
-Additionally, the Abingdon DEI Committee has asked for four volunteers to assist with their staff luncheon. Please sign up here:  https://www.signupgenius.com/go/30E0A44ACA72AA5FE3-deistaff. 
+Additionally, the Abingdon DEI Committee has asked for four volunteers to assist with their staff luncheon. Please sign up here: https://www.signupgenius.com/go/30E0A44ACA72AA5FE3-deistaff. 
+
+<p style="clear:right;"></p>
+
+### 🎓 Let's support our 5th graders!
+
+{{< imagehalftoc class="imageright" src="images/graduation-en.png" alt="Graduation Volunteers flyer" >}}
+
+We need 4th grade parent volunteers (other grade level parent volunteers are welcomed too!) to help Abingdon Elementary with the end of the year events such as 5th Grade Promotion & the 5th grade picnic. Help us celebrate our Cardinal graduates before they soar off to middle school! SIgn up here: https://www.signupgenius.com/go/30e0a44aca72aa5fe3-abingdon3#/
 
 <p style="clear:right;"></p>
 

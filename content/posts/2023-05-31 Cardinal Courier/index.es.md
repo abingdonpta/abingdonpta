@@ -96,6 +96,14 @@ Además, el Comité DEI de Abingdon ha solicitado cuatro voluntarios para ayudar
 
 <p style="clear:right;"></p>
 
+### 🎓 ¡Apoyemos a nuestros alumnos de 5to grado!
+
+{{< imagehalftoc class="imageright" src="images/graduation-es.png" alt="Folleto de voluntarios de graduación" >}}
+
+Necesitamos padres voluntarios de 4° grado (¡los padres voluntarios de otros grados también son bienvenidos!) para ayudar a Abingdon Elementary con los eventos de fin de año, como la promoción de 5° grado y el picnic de 5° grado. ¡Ayúdenos a celebrar a nuestros graduados cardenales antes de que se disparen a la escuela intermedia! Regístrate aquí: https://www.signupgenius.com/go/30e0a44aca72aa5fe3-abingdon3#/
+
+<p style="clear:right;"></p>
+
 ## 👉 Recordatorios
 
 ### Noche tecnológica
