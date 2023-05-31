@@ -9,8 +9,8 @@ booktoc: true
 
 Agendas are available here before each meeting, and meeting minutes are available soon after each meeting. Additionally, any presentation that is made during the meeting will be posted here.
 
-| Meeting Date | [Agenda](/agendas) | [Minutes](/minutes) | Presentation |
-| ------------ | ------------------ | ------------------- | ------------ |
+| Meeting Date | [Agenda](/agendas) | [Minutes](/minutes) | Presentations |
+| ------------ | ------------------ | ------------------- | ------------- |
 | 2023-05-09   | [Agenda](/agendas/2023-05-09) | [Minutes](/minutes/2023-05-09) | [• Financial Statement — Summary](/presentations/2023-05-09_1.pdf)<br>[• Financial Statement — Spreadsheet](/presentations/2023-05-09_2.pdf) |
 | 2023-04-11   | [Agenda](/agendas/2023-04-11) | [Minutes](/minutes/2023-04-11) | [• Financial Statement — Summary](/presentations/2023-04-11_1.pdf)<br>[• Financial Statement — Spreadsheet](/presentations/2023-04-11_2.pdf)<br>[• CETA Partnership Presentation](/presentations/2023-04-11_3.pdf)  |
 | 2023-03-14   | [Agenda](/agendas/2023-03-14) | [Minutes](/minutes/2023-03-14) | [• Financial Statement — Summary](/presentations/2023-03-14_1.pdf)<br>[• Financial Statement — Spreadsheet](/presentations/2023-03-14_2.pdf)<br>[• Responsive Classroom Presentation](/presentations/2023-03-14_3.pdf) |
