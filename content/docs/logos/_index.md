@@ -77,3 +77,15 @@ The images below were made by a PTA volunteer and graphic artist (Lindsey Smith)
 | ---- | --- | --- | -------- |
 | Color | [SVG](AbingdonLovesReading.svg) | [PNG](AbingdonLovesReading.png) | [EPS](AbingdonLovesReading.eps) |
 | B&W | [SVG](AbingdonLovesReading_BWVersion.svg) | [PNG](AbingdonLovesReading_BWVersion.png) | [EPS](AbingdonLovesReading_BWVersion.eps) |
+
+## QR Codes
+
+These QR codes were made by Dan Burd at various times for use at events and on flyers. They all go to [our "Connect" page](/connect), which is a reasonable landing page for people who aren't familiar with our organization. Ask Dan if you'd like similar QR codes with different destinations.
+
+| Type | SVG | PNG | Source |
+| ---- | --- | --- | ------ |
+| QR with Cardinal Logo | [SVG](qr/qr-cardinal.svg) | [PNG](qr/qr-cardinal.png) | Made with Inkscape |
+| QR with PTA Logo | [SVG](qr/qr-pta.svg) | [PNG](qr/qr-pta.png) | Made with Inkscape |
+| Halftone QR with Cardinal Logo | | [PNG](qr/qr-cardinal-halftone.png) | [Made with this generator](https://nythrox.github.io/halftone-qrcode/) |
+| Halftone QR with PTA Logo | | [PNG](qr/qr-pta-halftone.png) | [Made with this generator](https://nythrox.github.io/halftone-qrcode/) |
+| Qart with Cardinal Logo | [SVG](qr/qart.svg) | [PNG](qr/qart.png) | [Made with this generator](https://research.swtch.com/qr/draw/)<br>[Using this image](qr/cardinal-body-bw.svg)<br>[Used this tool to convert to SVG](https://codepen.io/shshaw/pen/XbxvNj) |

@@ -10,7 +10,7 @@ booktoc: true
 
 {{< button href="https://us11.list-manage.com/subscribe?u=e8c2877018f64aa7e1fd2e884&id=b884e2a18e" >}}Click here to receive the Cardinal Courier newsletter in your inbox.{{< /button >}}
 
-## President's Message
+## 📝 President's Message
 
 Dear Abingdon Friends and Families,
 
@@ -27,6 +27,8 @@ It has truly been a pleasure to serve our Abingdon community and we always remai
 Gratefully,  
 Sharon Burd
 
+---
+
 ## 📅 Dates
 
 - **June 1** (6:00-7:00 PM) — Tech Night
@@ -38,6 +40,8 @@ Sharon Burd
 - **June 14** (1:30-3:00 PM) — Kick Off to Kindergarten
 - **June 16** — Last Day of School! Early Release at 12:20 PM
 
+---
+
 ## 🆕 New
 
 ### ✏️ Edukit is Available to Order
@@ -45,6 +49,8 @@ Sharon Burd
 EduKit sales for the 2023-2024 school year have begun! Each EduKit contains the school supplies your student needs for next year as requested by our Abingdon teachers. Go online to https://www.edukitinc.com/schools/1287 by July 10 to order your child's EduKit.
 
 {{< imagefull src="images/edukit-en.jpg" alt="Edukit flyer" >}}
+
+---
 
 ### 👋 Kick Off to Kindergarten
 
@@ -56,6 +62,8 @@ The school is hosting an event for registered, rising kindgarteners who will be 
 - **Where**: Abingdon Elementary front playground - near the front entrance
 
 <p style="clear:right;"></p>
+
+---
 
 ### 🏃 Field Day Volunteers Needed
 
@@ -74,6 +82,8 @@ https://www.signupgenius.com/go/30e0a44aca72aa5fe3-field1#/
 **NOTE**:  Arlington Public Schools (APS) requires all parent volunteers to complete the APS Volunteer Application listed [here](https://abingdon.apsva.us/families/volunteer/).
 
 <p style="clear:right;"></p>
+
+---
 
 ### 📽️ Family Movie Night
 
@@ -96,7 +106,9 @@ Additionally, the Abingdon DEI Committee has asked for four volunteers to assist
 
 <p style="clear:right;"></p>
 
-### 🎓 Let's support our 5th graders!
+---
+
+### 🎓 Let's Support Our 5th Graders!
 
 {{< imagehalftoc class="imageright" src="images/graduation-en.png" alt="Graduation Volunteers flyer" >}}
 
@@ -104,14 +116,18 @@ We need 4th grade parent volunteers (other grade level parent volunteers are wel
 
 <p style="clear:right;"></p>
 
+---
+
 ## 👉 Reminders
 
-### Tech Night
+### 💻 Tech Night
 
 Join us in the school library on June 1 from 6–7 PM for an information session to review ParentVue, the Acceptable Use Policy, how to access all APS resources, along with best practices for Digital Citizenship. Parents of students in all grades are welcome. Detective Tiffanie McGuire of the Arlington County Police Department's Special Victims Unit will give a presentation about Digital Citizenship.
 
 - **When**: Thursday, June 1, 6 PM - 7 PM
 - **Where**: Abingdon's library
+
+---
 
 ### 🛍️ Abingdon PTA Gift Store: 
 If you are interested in purchasing any of the following items, reach out to abingdonptapresident@gmail.com. All proceeds support the Abingdon PTA Budget.
@@ -123,8 +139,12 @@ If you are interested in purchasing any of the following items, reach out to abi
 - 2019-2020 Abingdon Yearbook $15
 - 2018-2019 Abingdon Yearbook $15
 
+---
+
 ## 🔜 Coming Soon
 There will be a limited number of 2022-2023 Yearbooks that will be available for sale mid-June. The cost is $25 per yearbook. Please note that the Abingdon PTA will continue the tradition of gifting all 5th graders a yearbook.
+
+---
 
 ## 🙏 Thank You
 Thank you to Steve, Christina, Clare, Gina, and Emily for generously volunteering to support our spring picture day!

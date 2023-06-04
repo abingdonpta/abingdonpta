@@ -9,7 +9,7 @@ booktoc: true
 - [🏫 View Abingdon's webpage.](https://abingdon.apsva.us/)
 - [<img src="/images/Calendar.svg" height="20" width="20" alt="Calendar logo"> View Abingdon's calendar.](https://abingdon.apsva.us/calendar/)
 - [<img src="/images/Twitter.svg" height="20" width="20" alt="Twitter logo"> Follow Abingdon on Twitter.](https://twitter.com/AbingdonGIFT)
-- [<img src="/images/Twitter.svg" height="20" width="20" alt="Twitter logo"> Follow Abingdon staff on Twitter.](https://twitter.com/search?q=list%3A218686586%20-filter%3Anativeretweets%20-filter%3Areplies&f=live)
+- [<img src="/images/Twitter.svg" height="20" width="20" alt="Twitter logo"> Follow Abingdon staff on Twitter.](https://twitter.com/i/lists/218686586)
 - [<img src="/images/Facebook.svg" height="20" width="20" alt="Facebook logo"> Follow Abingdon on Facebook.](https://facebook.com/AbingdonES)
 - [<img src="/images/Instagram.svg" height="20" width="20" alt="Instagram logo"> Follow Abingdon on Instagram.](https://www.instagram.com/abingdonesgift/)
 <!--- [<img src="/images/RSS.svg" height="20" width="20" alt="RSS logo"> Subscribe to Abindgon's RSS feed.](https://abingdon.apsva.us/feed/)
