@@ -3,6 +3,7 @@ title: Yearbooks Are On Sale
 summary: Yearbooks for the 2022-2023 school year can be bought at certain times in front of the school for $25. Cash or check only.
 slug: yearbook sale
 date: 2023-06-08T19:00:00-04:00
+categories: yearbook
 images: ["/2023/06/08/yearbook-sale/images/flyer-en.png"]
 ---
 

@@ -4,7 +4,6 @@ summary: Abingdon PTA's advocacy led to the CCPTA requesting that APS provide me
 slug: advocacy
 date: 2023-01-09T20:00:00-05:00
 categories: advocacy
-draft: true
 ---
 
 The PTA frequently advocates for Abingdon families when the need arises. Recently, two needs were raised with the PTA, which the PTA moved to resolve at the county level.
@@ -14,7 +13,7 @@ The PTA frequently advocates for Abingdon families when the need arises. Recentl
 First, a staff member requested that the Abingdon PTA provide menstrual supplies so that the school could keep them on hand to provide to students. An eagle-eyed PTA board member spotted a [recently-enacted Virginia statute](https://law.lis.virginia.gov/vacode/22.1-6.1/) that mandates school systems to provide these supplies at no cost. Our PTA raised this with the Arlington County Council of PTA's (CCPTA), who found that Arlington Public Schools was not complying with this mandate. Consequently, CCPTA's President, Claire Nokes, sent the following email to the School Board and to APS leadership:
 
 > Dear members of the School Board, Dr. Duran, Ms. Smith, Dr. Ottley, Mr. Marku, Ms. Graves, Dr. Sampson, and Dr. Devaney:<br><br>
-> The executive board of the CCPTA would like to call your attention to the continued challenges that schools are having with complying with VA Code 22.1-6.1, which requires each school board to make menstrual supplies (pads or tampons) available in an accessible location at each school, and in particular, in the bathrooms at middle and high schools.  (https://law.lis.virginia.gov/vacode/22.1-6.1/) We are receiving reports from our PTAs that school counseling personnel are requesting that PTAs run donation drives to obtain such supplies because they are not otherwise available when accidents happen. School counselors should not be placed in the position to plead for donations of supplies that a school is required to supply by law.<br><br>
+> The executive board of the CCPTA would like to call your attention to the continued challenges that schools are having with complying with VA Code 22.1-6.1, which requires each school board to make menstrual supplies (pads or tampons) available in an accessible location at each school, and in particular, in the bathrooms at middle and high schools. (https://law.lis.virginia.gov/vacode/22.1-6.1/) We are receiving reports from our PTAs that school counseling personnel are requesting that PTAs run donation drives to obtain such supplies because they are not otherwise available when accidents happen. School counselors should not be placed in the position to plead for donations of supplies that a school is required to supply by law.<br><br>
 > Please note that the law applies the requirement to the school board, which may make it appropriate for the school board to adopt a policy addressing how it will comply (I do not see a policy already adopted). It will be important for such a policy (and/or its PIP) to ensure that such supplies are not just theoretically accessible, but that there are consistent checks done to make sure supplies are restocked, dispensers are functioning, personnel are informed where the supplies are kept at elementary schools, etc. It may also be important to consider menstrual supplies as part of the supplies planning factor for purposes of building out the budget.<br><br>
 > Aside from the legal angle, this is also an equity issue where half of the student population has greater needs for basic hygiene supplies, AND low-income students are the most challenged by missing supplies. According to the "State of the Period 2021" ([https://period.org/uploads/State-of-the-Period-2021.pdf](https://period.org/uploads/State-of-the-Period-2021.pdf)), "The new data show period poverty—the inability to access menstrual hygiene products—has jumped to nearly a quarter of all students (up from 1 in 5 in 2019), and lower income and students of color have been particularly affected."<br><br>
 > Finally, a quote from the bill sponsor, Sen. Jennifer Boysko, captures some of the emotional distress encountered by our youngest students when they don't have products readily accessible: “I can remember being a preteen and being horrified when I got my period in fifth grade,” she said. “Having products available in the bathroom relieves that embarrassment.”<br><br>
@@ -24,8 +23,8 @@ First, a staff member requested that the Abingdon PTA provide menstrual supplies
 
 APS transmitted the following response:
 
-> Thank you so much for reaching out about this issue.  APS is installing dispensers and receptacles in secondary restrooms, communal and individual, over the course of the spring and summer of 2023.  The dispensers will provide menstrual supplies free of charge.<br><br>
-> Free supplies will also be available in the school health clinics at all schools.  School nurses already maintain menstrual supplies on an as-needed basis, and APS is working to provide additional products for the clinics to ensure all students in need have access.<br><br>
+> Thank you so much for reaching out about this issue. APS is installing dispensers and receptacles in secondary restrooms, communal and individual, over the course of the spring and summer of 2023. The dispensers will provide menstrual supplies free of charge.<br><br>
+> Free supplies will also be available in the school health clinics at all schools. School nurses already maintain menstrual supplies on an as-needed basis, and APS is working to provide additional products for the clinics to ensure all students in need have access.<br><br>
 > As supplies are stocked and installation of the new equipment begins, we will be providing broader communication to the community.<br><br>
 > All the best,<br><br>
 > **Darrell Sampson, EdD, MA, LPC, NCC (he/him/his)**<br>
@@ -46,6 +45,21 @@ Second, an Abingdon parent with limited English proficiency contacted the PTA an
 > These are just some suggestions on the issue of improving the communication of student progress to LEP parents/guardians, and we would welcome further thoughts and discussion on this issue.<br><br>
 > Best,<br>
 > Claire Noakes
+
+APS transmitted the following response:
+
+> CCPTA President Claire Noakes,<br><br>
+> I quickly discussed this matter with my team and we were able to add a new “Report Card” tab to the navigation bar in ParentVUE. Families are also now able to view student grades on this tab instead of having to open a PDF to view the report card. We were planning to activate this feature next month in conjunction with the distribution of report cards, but have activated it at this time due to the feedback you provided. If “Spanish” is selected at the bottom of the screen, most of the field labels are translated. Unfortunately, the course titles are not able to be translated along with some of the field labels currently because these fields are customized, so we are working on a solution.<br><br>
+> Besides these changes to make report cards accessible to families, we are currently in the process of making multiple improvements to ParentVUE, which includes the availability of additional languages. Currently, ParentVUE is only available in English and Spanish, so we are in the process of making Amharic, Arabic, and Mongolian available as well. These languages will be available by the end of February, and we will share information with families in their native language once these languages become available.<br><br>
+> Another improvement we will make is to the parent acknowledgment page prior to opening ParentVUE. We will have a new message in the parent acknowledgement on how to receive assistance with translations in various languages. We are working with schools to provide improved assistance to our LEP families with understanding student report cards, especially since the report is a template that is not available to be translated through the system at this time.<br><br>
+> One of the ways we are improving support to communicate student progress with families is through the expansion of the [TalkingPoints platform](https://talkingpts.org/about-us/). This platform is currently being piloted at Carlin Springs, Randolph, Gunston, Kenmore, Wakefield, and Washington-Liberty. We are in the process of expanding this platform to all schools so they are able to communicate with families in one of 145 available languages.<br><br>
+> Regarding standards-based grading, we shared the [Standards-Based Reporting Parent Guide](https://www.apsva.us/elementary-implementation/) in multiple languages a few months ago to provide information on this grading method. We will continue to work to clarify this information and make it easier for families to understand.<br><br>
+> One of the final improvements I would like to mention is our work to revise the [Family and Community Engagement (FACE)](https://go.boarddocs.com/vsba/arlington/Board.nsf/files/AZ3MS25C931A/$file/I-11.1 Family and Community Engagement.pdf) policy with a strong focus on how schools support and engage families. There is a committee comprised of both internal and external stakeholders working to revise it, which will improve how we support families moving forward.<br><br>
+> I began the “Every Student Counts – Excellence for All” initiative this year to improve how families are involved in the education of their students and to improve their knowledge of the supports available for students.<br><br>
+> I would like to thank you for bringing this issue to my attention because it is imperative we effectively communicate student success with families as we are focused on ultimately improving student outcomes.<br><br>
+> Dr. Francisco Durán,<br>
+> Superintendent<br>
+> Arlington Public Schools
 
 ---
 

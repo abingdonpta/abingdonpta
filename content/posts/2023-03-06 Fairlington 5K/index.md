@@ -3,6 +3,7 @@ title: Fairlington 5K
 summary: The Fairlington 5K will be held on Saturday, April 29. Proceeds support Abingdon Field Day festivities and a former Abingdon student with a rare health condition.
 slug: fairlington 5k
 date: 2023-03-06T12:00:00-05:00
+lastmod: 2023-03-16T12:00:00-05:00
 categories: "passed along"
 ---
 
@@ -25,7 +26,7 @@ Children five and under are free
 More information is available here: https://www.fairlington5k.com/race-info  
 Register here: https://www.zippy-reg.com/online_reg/index2022.php?e=1798
 
-{{< imagehalf src="images/Kids at 5K.jpeg" alt="Fairlington 5K photo" >}}
-{{< imagehalf src="images/starting line.jpeg" alt="Fairlington 5K photo" >}}
-{{< imagehalf src="images/starting line 2 .jpeg" alt="Fairlington 5K photo" >}}
-{{< imagehalf src="images/starting line 3 .jpeg" alt="Fairlington 5K photo" >}}
+{{< imagehalf src="images/Kids at 5K.jpg" alt="Fairlington 5K photo" >}}
+{{< imagehalf src="images/starting line.jpg" alt="Fairlington 5K photo" >}}
+{{< imagehalf src="images/starting line 2.jpg" alt="Fairlington 5K photo" >}}
+{{< imagehalf src="images/starting line 3.jpg" alt="Fairlington 5K photo" >}}

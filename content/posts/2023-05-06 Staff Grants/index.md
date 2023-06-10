@@ -27,6 +27,6 @@ At an Eco-Action Committee meeting, we delivered high-visibility vests that were
 
 The PTA bought t-shirts for Abingdon's Math Dice team, who competed against other Arlington elementary schools in a tournament on May 6. The shirts feature the team's award-winning name as well as each of the team members' names.
 
-{{< imagehalf src="images/math-dice-2.jpeg" >}}
-{{< imagehalf src="images/math-dice-3.jpeg" >}}
-{{< imagehalf src="images/math-dice-1.jpeg" >}}
+{{< imagehalf src="images/math-dice-2.jpg" >}}
+{{< imagehalf src="images/math-dice-3.jpg" >}}
+{{< imagehalf src="images/math-dice-1.jpg" >}}
