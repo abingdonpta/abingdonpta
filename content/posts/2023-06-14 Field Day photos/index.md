@@ -45,6 +45,6 @@ Abingdon's Field Day rocks! Shout out to Mr. Reed, Mr. Spadaro, and Mr. Collazos
 
 The final Read-a-Thon prize (because Abingdon students surpassed their reading goals) was awarded at field day today: water balloons at Mr. Micael.
 
-<video controls width=992px>
+<video controls width="100%">
     <source src="images/IMG_6980.mp4" type="video/mp4">
 </video>
