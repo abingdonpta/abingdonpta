@@ -15,7 +15,8 @@ We will only share documents sent to the entire school, not to a particular clas
 ---
 
 ## June 13, 2023
-No known schoolwide flyers.
+{{< imagehalftoc src="images/2023-06-13_1.png" alt="iPad flyer" >}}
+{{< imagehalftoc src="images/2023-06-13_2.png" alt="iPad flyer" >}}
 
 ## June 6, 2023
 No known schoolwide flyers.
