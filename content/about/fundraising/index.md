@@ -51,7 +51,7 @@ To link your VIC Card, you can do one of the following:
 **Those who linked their VIC Cards to Abingdon in previous years must do so again each year, starting August 1.** VIC Card links are reset each year on May 31.
 {{< /hint >}}
 
-During the 2021-2022 school year, the 60 people who were signed up helped earn $670 for Abingdon. Thank you!
+During the 2022-2023 school year, the 134 people who were signed up helped earn $1449.03 for Abingdon. Thank you!
 
 <p style="clear:right;"></p>
 

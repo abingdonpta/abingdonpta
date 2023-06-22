@@ -211,14 +211,6 @@ The PTA partners with the Student Support Team at Abingdon to help support famil
 - **Time of day**: School day
 - **Months**: November and December
 
-### 🥨 Snack Pantry
-
-[Abingdon received a significant donation from Amazon in the 2022-2023 school year.](/2022/09/21/amazon-donation/) The PTA will take the lead in ordering snacks for children, storing it a central location within the school, and ensuring classrooms are well-stocked.
-
-- **Location**: School
-- **Time of day**: School day
-- **Months**: Year-round
-
 ### 🧮 ACTL Representative
 
 The Advisory Council on Teaching & Learning (ACTL) assists in the continuous systematic review of various aspects of the instructional program and in the development of recommendations for instructional improvement. The Council’s work includes:
@@ -233,7 +225,7 @@ Serving on the ACTL is an excellent way to represent our school's interests and 
 
 ### 🏫 CCPTA Representative
 
-The County Council of PTA's (CCPTA) serves as the corganizing body for the PTA's of all of Arlington's public schools, although it is independent of APS. The CCPTA serves as a venue for PTA officials to exchange ideas and information. Read more about CCPTA [on their website](https://ccpta.apsva.us).
+The County Council of PTA's (CCPTA) serves as the organizing body for the PTA's of all of Arlington's public schools, although it is independent of APS. The CCPTA serves as a venue for PTA officials to exchange ideas and information. Read more about CCPTA [on their website](https://ccpta.apsva.us).
 
 - **Location**: Home
 - **Time of day**: Evening
@@ -302,6 +294,76 @@ The committee shall consider the following:
 
 More information about School Plan Advisory Committees can be found on [APS Policy B-3.6.36](https://go.boarddocs.com/vsba/arlington/Board.nsf/files/AZ2VS7621799/$file/B-3.6.36%20School%20Plan%20Advisory%20Committees.pdf).
 
+## 📣 Communications Role Descriptions
+
+### 📱 Social Media
+
+The Abingdon PTA maintains a Twitter account and a Facebook page. The Social Media Coordinator uses these accounts to share information about PTA activities, as well as to share pertinent updates from Abingdon and from APS.
+
+- **Location**: Home
+- **Time of day**: Any, but some daytime availability would be a plus
+- **Months**: Year-round
+
+### 📰 Newsletter
+
+The Cardinal Courier is the PTA's weekly e-newsletter, distributed via Constant Contact. It is the main way that the PTA updates families on PTA activities.
+
+The Newsletter Coordinator helps to gather updates from other PTA coordinators for inclusion in the newsletter, and drafts original content as well.
+
+The newsletter typically goes out on Tuesdays. We try to have a Friday deadline for new content to give the Newsletter Coordinator time to assemble the newsletter and get it translated.
+
+- **Location**: Home
+- **Time of day**: Any
+- **Months**: Year-round
+
+### 🖥️ Website
+
+The website administrator maintains this very website, adding and updating content when necessary.
+
+- **Location**: Home
+- **Time of day**: Any
+- **Months**: Year-round
+
+### ☎️ Directory
+
+The Abingdon PTA is responsible for creating a student directory. It contains information for only those families who have opted in to share such information with the PTA via the checkbox on the Annual Online Verification Process that all families complete annually.
+
+The Directory Coordinator collects and organizes student and family data as provided by the school registrar and formats the information to prepare for inclusion in the online student directory.
+
+- **Location**: Home
+- **Time of day**: Any
+- **Months**: September to November
+
+### 🖼️ Graphic Designer
+
+The Graphic Designer(s) designs PTA flyers.
+
+- **Location**: Home
+- **Time of day**: Any
+- **Months**: Year-round
+
+### 📄 Photocopying Flyers
+
+Abingdon students typically bring home to their parents a paper folder from the school each Tuesday (the "Tuesday folder") containing work that they have done in the previous week, as well as various flyers and other updates from the school. These may include updates from the PTA, including flyers for upcoming events. Many parents learn about PTA events from flyers placed in the Tuesday folders.
+
+We need volunteers to photocopy PTA flyers on Monday mornings and to distribute the appropriate number of flyers to each classroom teachers' mailbox. (The classroom teachers then place the flyers in each student's Tuesday folder.) Occasionally, copies may need to be made on a Friday before a holiday on Monday.
+
+It is ideal to have at least two people in this role, if not more, to ensure coverage each week. While we have many ways of sharing information with families, paper flyers are still the best way to get a message across to the most people.
+
+- **Location**: School
+- **Time of day**: School day
+- **Months**: Year-round
+
+### 🌎 Translators
+
+Translators help the PTA by translating emails and flyers into other languages that are commonly spoken by Abingdon families. Approximately 160 families at Abingdon speak Spanish at home, and many families speak Arabic, Amharic, and Mongolian at home.
+
+Translators may also help us translate live PTA meetings if they are able to do so, though this is not necessary. We would be grateful for any help that a translator is able to provide.
+
+- **Location**: Home
+- **Time of day**: Any
+- **Months**: Year-round
+
 ## 🎉 Event Descriptions
 
 ### 👋 Back to School Picnic
@@ -310,15 +372,15 @@ The PTA's Back to School Picnic has been a tradition for many years. It's held o
 
 ### 🎃 Trunk or Treat
 
-In 2021, the PTA held a Trunk or Treat in which volunteers decked out their cars in spooky setups and handed out candy to costumed visitors. In prior years, the PTA held a Fall Festival with games and other activities.
+In 2021 and 2022, the PTA held a Trunk or Treat in which volunteers decked out their cars in spooky setups and handed out candy to costumed visitors. In prior years, the PTA held a Fall Festival with games and other activities.
 
 ### ❄️ Winter Wonderland
 
-The PTA organized Winter Wonderland in 2022 with music, games, alpacas, and a garden cleanup.
+The PTA organized Winter Wonderland in 2022 with music, games, alpacas, and a garden cleanup. In 2023, the PTA organized an ice skating event.
 
 ### 🇺🇳 International Night
 
-The PTA has held International Night each spring between 2017-2019 and in 2022. International Night celebrates the diverse population of our school and the many countries and cultures we represent.
+The PTA has held International Night each spring between 2017-2019 and 2022-2023. International Night celebrates the diverse population of our school and the many countries and cultures we represent.
 
 ### 🎓 5th Grade Promotion
 
@@ -359,36 +421,6 @@ The Garden Coordinator works with Abingdon's Sustainability Coordinator (traditi
 - **Location**: School
 - **Time of day**: Weekend daytime, though some weekday availability is a plus to coordinate with staff and students
 - **Months**: Year-round except for winter
-
-### 🖼️ Graphic Designer
-
-The Graphic Designer(s) designs PTA flyers and may also help design new Spirit Gear products.
-
-- **Location**: Home
-- **Time of day**: Any
-- **Months**: Year-round
-
-### 📄 Photocopying Flyers
-
-Abingdon students typically bring home to their parents a paper folder from the school each Tuesday (the "Tuesday folder") containing work that they have done in the previous week, as well as various flyers and other updates from the school. These may include updates from the PTA, including flyers for upcoming events. Many parents learn about PTA events from flyers placed in the Tuesday folders.
-
-We need volunteers to photocopy PTA flyers on Monday mornings and to distribute the appropriate number of flyers to each classroom teachers' mailbox. (The classroom teachers then place the flyers in each student's Tuesday folder.) Occasionally, copies may need to be made on a Friday before a holiday on Monday.
-
-It is ideal to have at least two people in this role, if not more, to ensure coverage each week. While we have many ways of sharing information with families, paper flyers are still the best way to get a message across to the most people.
-
-- **Location**: School
-- **Time of day**: School day
-- **Months**: Year-round
-
-### 🌎 Translator
-
-Translators help the PTA by translating emails and flyers into other languages that are commonly spoken by Abingdon families. Approximately 160 families at Abingdon speak Spanish at home, and many families speak Arabic, Amharic, Mongolian and Persian at home.
-
-Translators may also help us translate live PTA meetings if they are able to do so, though this is not necessary. We would be grateful for any help that a translator is able to provide.
-
-- **Location**: Home
-- **Time of day**: Any
-- **Months**: Year-round
 
 ### 📖 Yearbook
 
@@ -434,24 +466,6 @@ The Virginia PTA requires that our bank statements be opened each month by an in
 - **Time of day**: Any
 - **Months**: Year-round
 
-### 🖥️ Website Administrator
-
-The website administrator maintains this very website, adding and updating content when necessary.
-
-- **Location**: Home
-- **Time of day**: Any
-- **Months**: Year-round
-
-### ☎️ Directory
-
-The Abingdon PTA intends to create a student directory during the 2022-2023 school year. This would be the first student directory in several years. It will contain information for only those families who have opted in to share such information with the PTA via the checkbox on the Annual Online Verification Process that all families complete annually.
-
-The Directory Coordinator collects and organizes student and family data as provided by the school registrar and formats the information to prepare for inclusion in the online student directory.
-
-- **Location**: Home
-- **Time of day**: Any
-- **Months**: September to November
-
 ### 📦 Grants Coordinator
 
 The Grants Coordinator administers the [grants program](/grants). This includes establishing the disbursement schedule and deadlines; publicizing the program and upcoming deadlines to Abingdon staff; reviewing proposals and working with their authors to ensure that proposals meet our guidelines; informing the PTA board of proposals in advance of their meetings; and ordering the items and delivering them if necessary.
@@ -460,19 +474,19 @@ The Grants Coordinator administers the [grants program](/grants). This includes 
 - **Time of day**: Any
 - **Months**: Year-round, with periods of inactivity between disbursements
 
-### 🙋 Nominating Committee
+### 🙋 Nominations Committee
 
-The Nominating Committee nominates PTA members to serve as officers the following year. (Officer roles are the President, Treasurer, Secretary, as well as Vice President roles.) Members of the Nominating Committee identify PTA members interested in serving as officers, and report to the general membership a list of nominees for the annual election.
+The Nominations Committee nominates PTA members to serve as officers the following year. (Officer roles are the President, Treasurer, Secretary, as well as Vice President roles.) Members of the Nominations Committee identify PTA members interested in serving as officers, and report to the general membership a list of nominees for the annual election.
 
-At least three people need to serve on the committee. The committee needs to be up and running by March. The nominating committee submits the officer nominees to the general membership in April so that the election can be held in May.
+At least three people need to serve on the committee. The committee needs to be up and running by March. The Nominations Committee submits the officer nominees to the general membership in April so that the election can be held in May.
 
 - **Location**: Home
 - **Time of day**: Evening
 - **Months**: March and April
 
-### ✅ Audit Committee
+### ✅ Financial Review Committee
 
-The Virginia PTA requires that each PTA audit their finances at the conclusion of each school year. (This is sometimes called a financial review.) In practice, the audit is more like a checklist, and no financial experience is required to serve on the committee.
+The Virginia PTA requires that each PTA conduct a financial review of their finances at the conclusion of each school year. (This was previously called an audit.) In practice, the financial review is more like a checklist, and no financial experience is required to serve on the committee.
 
 At least three people need to serve on the committee. The Treasurer provides their records to the committee at the end of the fiscal year (July 1). The committee drafts the financial review and submits it to the Virginia PTA by August 1. The general membership then votes to approve the financial review at their first meeting of the school year in September. In practice, the committee spends a few hours in July reviewing the financial records from the prior school year and meets once in order to finalize the review.
 

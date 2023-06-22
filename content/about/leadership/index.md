@@ -5,24 +5,23 @@ weight: 20
 booktoc: true
 ---
 
-The PTA leadership for the 2022-2023 School Year are listed below, as well as role descriptions. If you click on a role, you will see a description for that role.
+The PTA leadership for the 2023-2024 School Year are listed below, as well as role descriptions. If you click on a role, you will see a description for that role.
 
 Please [fill out our volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSf50HFDkNfDxP5VfE2LzsxKbUPZdmRGQTeNEUhXkU_qLCLWZQ/viewform?usp=sf_link) or reach out to pta@abingdonpta.org if you have interest in one of the roles below. We would be delighted for you to join our team!
 
 ## Officers
 
-| Role | Name | Bio |
-|-|-|-|
-| [🦸 President](/roles/#-president) | [Sharon Burd](mailto:president@abingdonpta.org) | [Bio](</2022/05/11/officer-bios/#-sharon-burd--president>) |
-| [🎓 VP for Educational Programs](/roles/#-vice-president) | Ken Venable | [Bio](</2022/05/11/officer-bios/#-ken-venable--vp-for-educational-programs>) |
-| [💵 VP for Fundraising](/roles/#-vice-president) | Clare Rosenberger | [Bio](</2022/05/11/officer-bios/#-clare-rosenberger--vp-for-fundraising>) |
-| [🏘️ VP for Community Relations](/roles/#-vice-president) | Megan Miller | [Bio](</2022/05/11/officer-bios/#-megan-miller--vp-for-community-relations>) |
-| [🎉 VP for Events](/roles/#-vice-president) | Meredith Greene | [Bio](</2022/05/11/officer-bios/#-meredith-greene--vp-for-events>) |
-| [🙏 VP for Staff Appreciation](/roles/#-vice-president) | Ashley Farrugia | [Bio](</2022/05/11/officer-bios/#-ashley-farrugia--vp-for-staff-appreciation>) |
-| [💰 Treasurer](/roles/#-treasurer) | [Christian Lindstrom](mailto:treasurer@abingdonpta.org) | [Bio](</2022/05/11/officer-bios/#-christian-lindstrom--treasurer>) |
-| [✍️ Secretary](/roles/#-secretary) | Dan Burd | [Bio](</2022/05/11/officer-bios/#-dan-burd--secretary>) |
-
-{{< imagetoc src="images/meettheboard.png" alt="Meet Your PTA Board flyer" >}}
+| Role | Name |
+|-|-|
+| [🦸 President](/roles/#-president) | [James Harlow](mailto:president@abingdonpta.org) |
+| [🎓 VP for Educational Programs](/roles/#-vice-president) | Tina Kelly |
+| [💵 VP for Fundraising](/roles/#-vice-president) | Megan Miller |
+| [🏘️ VP for Community Relations](/roles/#-vice-president) | Sara Kirschner |
+| [📣 VP for Communications](/roles#-vice-president) | Maggie Bush |
+| [🎉 VP for Events](/roles/#-vice-president) | Meredith Greene |
+| [🙏 VP for Staff Appreciation](/roles/#-vice-president) | Ashley Farrugia |
+| [💰 Treasurer](/roles/#-treasurer) | [David DeBoer](mailto:treasurer@abingdonpta.org) |
+| [✍️ Secretary](/roles/#-secretary) | Erin Cassidy |
 
 ## Coordinators
 
@@ -30,7 +29,7 @@ Please [fill out our volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSf
 
 | Role | Coordinator |
 |-|-|
-| [🔔 After School Enrichment](/roles/#-after-school-enrichment) | Ken Venable |
+| [🔔 After School Enrichment](/roles/#-after-school-enrichment) | Tina Vu |
 | [🎨 Reflections](/roles/#-reflections) | Mary Savig |
 | [🏃‍♀️ Girls on the Run](/roles/#-girls-on-the-run) | Ashley Farrugia<br>Erin Mahaffey |
 | [👩‍💻 Cardinal Coding Club](/roles/#-cardinal-coding-club) | Molly Fisher |
@@ -45,10 +44,10 @@ There are other educational programs available to elementary school students, li
 |-|-|
 | [💸 Retail Rebates](/roles/#-retail-rebates) |
 | [👕 Spirit Gear](/roles/#-spirit-gear) | Ashley McCarthy<br>Meredith Greene |
-| [✏️ Edukit](/roles/#-edukit) | Samantha Levine-Finley |
+| [✏️ Edukit](/roles/#-edukit) | Lisa Winkler |
 | [📸 School Pictures](/roles/#-school-pictures) |
-| [📚 Read-A-Thon](/roles/#-read-a-thon) | Clare Rosenberger |
-| [🌯 Spirit Night](/roles/#-spirit-night) | Clare Rosenberger |
+| [📚 Read-A-Thon](/roles/#-read-a-thon) |
+| [🌯 Spirit Night](/roles/#-spirit-night) |
 | [🤝 Sponsorships](/roles/#-sponsorships) |
 | [❤️ Lovelines](/roles/#-lovelines) | Ellen Dobro |
 
@@ -56,18 +55,29 @@ There are other educational programs available to elementary school students, li
 
 | Role | Coordinator |
 |-|-|
-| [🧥 Winter Clothing Drive](/roles/#-winter-clothing-drive) | Megan Miller |
+| [🧥 Winter Clothing Drive](/roles/#-winter-clothing-drive) |
 | [🥫 Canned Food Drive](/roles/#-canned-food-drive) |
-| [🎁 Holiday Gift Card Drive](/roles/#holiday-gift-card-drive) | Megan Miller |
-| [🥨 Snack Pantry](/roles/#-snack-pantry) | Megan Miller |
-| [🧮 ACTL Representative](/roles/#-actl-representative) | Jackie Winkelvoss |
-| [🏫 CCPTA Representative](/roles/#-ccpta-representative) | Megan Miller<br>Ken Venable |
+| [🎁 Holiday Gift Card Drive](/roles/#holiday-gift-card-drive) |
+| [🧮 ACTL Representative](/roles/#-actl-representative) |
+| [🏫 CCPTA Representative](/roles/#-ccpta-representative) |
 | [🏫 SEPTA Representative](/roles/#-septa-representative) | Amy Turner |
 | [⚕️ SHAB Representative](/roles/#-shab-representative) |
 | [🚌 ACTC Representative](/roles/#-actc-representative) |
 | [🏫 FAC Representative](/roles/#-fac-representative) |
 | [🪙 Budget Advisory Council Representative](/roles/#-budget-advisory-council-representative) |
 | [🏫 School Plan Advisory Committee Representative](/roles/#-school-plan-advisory-committee-representative) |
+
+### 📣 Communications
+
+| Role | Coordinator |
+|-|-|
+| [📱 Social Media](/roles#-social-media) | Maggie Bush |
+| [📰 Newsletter](/roles#-newsletter) | Maggie Bush |
+| [🖥️ Website](/roles/#-website) | Dan Burd |
+| [☎️ Directory](/roles/#-directory) | Kathryn Vesey White |
+| [🖼️ Graphic Designer](/roles/#-graphic-designer) |
+| [📄 Photocopying Flyers](/roles/#-photocopying-flyers) |
+| [🌎 Translators](/roles/#-translators) |
 
 ### 🎉 Events
 
@@ -122,17 +132,12 @@ The PTA blesses our wonderful Abingdon staff throughout the year. Please help us
 | Role | Coordinator |
 |-|-|
 | [🍅 Garden](/roles/#-garden) | Lauren Shaub |
-| [🖼️ Graphic Designer](/roles/#-graphic-designer) |
-| [📄 Photocopying Flyers](/roles/#-photocopying-flyers) | Rachel Mallory<br>Amanda Broadhurst |
-| [🌎 Translators](/roles/#-translator) |
 | [📖 Yearbook](/roles/#-yearbook) | Lauren Muscarella |
 | [📚 Book Fair](/roles/#-book-fair) | Emily Lyons<br>Maureen McCormick Harlow<br>Tina Kelly |
 | [🧸 Lost and Found](/roles/#-lost-and-found) |
 | [🗽 Diversity Coordinator](/roles/#-diversity-coordinator) |
 | [💳 Bank Statement Reviewer](/roles/#-bank-statement-reviewer) |
-| [🖥️ Website Administrator](/roles/#-website-administrator) | Dan Burd |
-| [☎️ Directory](/roles/#-directory) | Kathryn Vesey White |
-| [📦 Grants Coordinator](/roles/#-grants-coordinator) | Dan Burd |
-| [🙋 Nominating Committee](/roles/#-nominating-committee) | *Selected in March* |
-| [✅ Audit Committee](/roles/#-audit-committee) | *Selected in May* |
+| [📦 Grants Coordinator](/roles/#-grants-coordinator) |
+| [🙋 Nominations Committee](/roles/#-nominations-committee) | *Selected in March* |
+| [✅ Financial Review Committee](/roles/#-financial-review-committee) | *Selected in May* |
 | [🐦 Mascot](/roles/#-mascot) | Abingdon Cardinal |
