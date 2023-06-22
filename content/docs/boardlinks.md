@@ -45,22 +45,16 @@ url: /boardlinks/
 
 ---
 
-{{< button href="https://drive.google.com/drive/folders/1ReSMLQwEb2ITSDfcvY0PzgKPYLKSJSS8" >}}Cardinal Courier Google Drive Folder{{< /button >}}
+{{< button href="https://drive.google.com/drive/folders/1ReSMLQwEb2ITSDfcvY0PzgKPYLKSJSS8" >}}Cardinal Courier — Google Drive Folder{{< /button >}}
 
 ---
 
-{{< button href="https://drive.google.com/drive/u/9/folders/1C_I4On63WEjFxM6UCyktMDml8p3raIHe" >}}Minutes and Agendas Google Drive Folder{{< /button >}}
-<!--
----
-
-{{< button relref="boardminutes" >}}Board Meeting Minutes{{< /button >}}
+{{< button href="https://drive.google.com/drive/u/9/folders/1C_I4On63WEjFxM6UCyktMDml8p3raIHe" >}}Minutes and Agendas — Google Drive Folder{{< /button >}}
 
 ---
 
-{{< button relref="boardagendas" >}}Board Meeting Agendas{{< /button >}}
+{{< button relref="boardminutes" >}}Board Meeting Minutes — Website{{< /button >}}
 
 ---
 
-{{< button href="/1023/1023.pdf" >}}IRS Form 1023{{< /button >}}
-
--->
+{{< button relref="boardagendas" >}}Board Meeting Agendas — Website{{< /button >}}

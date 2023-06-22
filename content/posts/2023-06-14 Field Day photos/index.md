@@ -1,5 +1,5 @@
 --- 
-title: Field Day Photos
+title: Photos from Field Day
 summary: Abingdon's Field Day was amazing!
 slug: field day photos
 date: 2023-06-14T05:00:00-04:00

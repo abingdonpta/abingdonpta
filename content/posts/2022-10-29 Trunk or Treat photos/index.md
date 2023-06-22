@@ -1,5 +1,5 @@
 --- 
-title: Trunk or Treat Photos
+title: Photos from Trunk or Treat
 summary: A huge thank you to all of our hardworking volunteers for making Trunk or Treat successful!
 slug: trunk or treat photos
 date: 2022-10-29T20:00:00-04:00

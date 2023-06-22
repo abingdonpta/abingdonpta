@@ -1,5 +1,5 @@
 --- 
-title: International Night Photos
+title: Photos from International Night
 summary: A huge thank you to all of our hardworking volunteers for making International & Cultural Heritage and History Night successful!
 slug: international night photos
 date: 2023-05-01T05:00:00-04:00

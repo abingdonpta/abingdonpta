@@ -11,7 +11,8 @@ The PTA organizes several events throughout the year. These events strengthen ou
 
 If you're interested in helping to organize our events, please [fill out our volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSf50HFDkNfDxP5VfE2LzsxKbUPZdmRGQTeNEUhXkU_qLCLWZQ/viewform?usp=sf_link).
 
-{{< button relref="/categories/events/" >}}Click Here for the Latest News About Events{{< /button >}}
+{{< button relref="/categories/events/" >}}Click Here for the Latest News About Events{{< /button >}}<br><br>
+{{< button relref="/categories/photos/" >}}Click Here for More Photos of Past Events{{< /button >}}
 
 ## Rising Kindergarten Playdates
 
@@ -27,16 +28,18 @@ If you're interested in helping to organize our events, please [fill out our vol
 
 ## Tears and Cheers
 
-{{< imagehalftoc src="images/IMG_2290.jpg" alt="Tears and Cheers poster for the first day of school" >}}
 {{< imagehalftoc src="images/IMG_2294.jpg" alt="Parents gathering in front of the school for our Tears and Cheers event on the first day of school" >}}
 {{< imagehalftoc src="images/IMG_2297.jpg" alt="Parents gathering in front of the school for our Tears and Cheers event on the first day of school" >}}
+{{< imagehalftoc src="images/IMG_2290.jpg" alt="Tears and Cheers poster for the first day of school" >}}
 
 ## Trunk or Treat
 
-{{< imagehalftoc src="images/1454571445716197381_1.jpg" alt="Trick-or-treating at Trunk or Treat" >}}
-{{< imagehalftoc src="images/1454571445716197381_2.jpg" alt="Trick-or-treating at Trunk or Treat" >}}
-{{< imagehalftoc src="images/1454571445716197381_3.jpg" alt="Trick-or-treating at Trunk or Treat" >}}
-{{< imagehalftoc src="images/1454571445716197381_4.jpg" alt="Costumed family posing in front of their decorated car at Trunk or Treat" >}}
+{{< imagehalftoc src="images/IMG_5787.jpg" alt="Abingdon Cardinal with Chewbacca at Trunk or Treat" >}}
+{{< imagehalftoc src="images/IMG_5855.jpg" alt="Trunk or Treat" >}}
+{{< imagehalftoc src="images/IMG_5872.jpg" alt="Mad scientist at Trunk or Treat" >}}
+{{< imagehalftoc src="images/IMG_5887.jpg" alt="Harry Potter at Trunk or Treat" >}}
+{{< imagehalftoc src="images/IMG_5895.jpg" alt="Ewoks and Princess Leia at Trunk or Treat" >}}
+{{< imagehalftoc src="images/IMG_5900.jpg" alt="Pirate ship and shark at Trunk or Treat" >}}
 
 ## Winter Wonderland
 
@@ -56,24 +59,31 @@ If you're interested in helping to organize our events, please [fill out our vol
 
 ## International Night
 
-{{< imagehalftoc src="images/IMG_7194.jpg" alt="Japanese table at International Night" >}}
 {{< imagehalftoc src="images/IMG_7199.jpg" alt="Kazakh and Uzbek table at International Night" >}}
-{{< imagehalftoc src="images/IMG_7310.jpg" alt="Irish dancers at International Night" >}}
 {{< imagehalftoc src="images/PXL_20220513_225717941.jpg" alt="Henna being placed on childrens' hands at International Night" >}}
-{{< imagehalftoc src="images/IMG_7198.jpg" alt="Peruvian table at International Night" >}}
-{{< imagehalftoc src="images/PXL_20220513_230410310.MP.jpg" alt="Participants in Korean dress at International Night" >}}
 {{< imagehalftoc src="images/IMG_7266.jpg" alt="Participants in Salvadorean and Chinese dress at International Night" >}}
 {{< imagehalftoc src="images/PXL_20220513_230241415.jpg" alt="A generous and diverse array of food at International Night" >}}
+{{< imagehalftoc src="images/IMG_4492.jpg" alt="Native American participant at International Night" >}}
+{{< imagehalftoc src="images/IMG_4452.jpg" alt="Dancers at International Night" >}}
+{{< imagehalftoc src="images/IMG_4488.jpg" alt="Martial artists at International Night" >}}
+{{< imagehalftoc src="images/IMG_4445.jpg" alt="Participant in Salvadorean dress at International Night" >}}
 
 ## 5th Grade Promotion
 
-{{< imagehalftoc src="images/1009075392618160128.jpg" alt="Children on stage at their 5th Grade Promotion ceremony" >}}
+{{< imagehalftoc src="images/IMG_7169.jpg" alt="5th Grade Promotion ceremony" >}}
+{{< imagehalftoc src="images/IMG_7099.jpg" alt="5th Grade Promotion ceremony" >}}
+{{< imagehalftoc src="images/IMG_7138.jpg" alt="5th Grade Promotion ceremony" >}}
+{{< imagehalftoc src="images/IMG_7177.jpg" alt="5th Grade Promotion ceremony" >}}
 
-## Movie Night
+## 5th Grade Glow Party
 
-{{< imagehalftoc src="images/2020-02-21.jpg" alt="Abingdon Cardinal welcoming participants to Movie Night" >}}
+{{< imagehalftoc src="images/glow.jpg" alt="Students celebrating at a Glow Party" >}}
 
 ## Free Book Swap
 
 {{< imagehalftoc src="images/PXL_20220319_165345334.jpg" alt="Books in front of Abingdon available to be taken or swapped" >}}
 {{< imagehalftoc src="images/PXL_20220319_171526195.jpg" alt="People swapping books in front of Abingdon" >}}
+
+## Movie Night
+
+{{< imagehalftoc src="images/2020-02-21.jpg" alt="Abingdon Cardinal welcoming participants to Movie Night" >}}
