@@ -225,7 +225,7 @@ Serving on the ACTL is an excellent way to represent our school's interests and 
 
 ### 🏫 CCPTA Representative
 
-The County Council of PTA's (CCPTA) serves as the organizing body for the PTA's of all of Arlington's public schools, although it is independent of APS. The CCPTA serves as a venue for PTA officials to exchange ideas and information. Read more about CCPTA [on their website](https://ccpta.apsva.us).
+The County Council of PTA's (CCPTA) serves as the organizing body for the PTA's of all of Arlington's public schools, although it is independent of APS. The CCPTA serves as a venue for PTA officials to exchange ideas and information. Read more about CCPTA [on their website](https://www.arlingtonccpta.org/).
 
 - **Location**: Home
 - **Time of day**: Evening
