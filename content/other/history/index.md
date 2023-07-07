@@ -198,7 +198,7 @@ If you've ever walked Abingdon's labyrinthine hallways, it's obvious that the bu
 | 1949-1950 | Initial construction. Ten classrooms, a multi-purpose room, a library, offices for the principal and secretary, a teacher's lounge, a kitchen and a storage room. [View the floor plan here.](pdf/floor-plan-1949.pdf) |
 | 1964-1965 | A new library, and probably more (9 classrooms? a conference room?) |
 | 1970-1971 | 15 classrooms, media center, gymnasium, conference rooms for reading, music, science, art, an office and additional storage space. And air conditioning for the entire school except the gym. [View the floor plan here.](pdf/floor-plan-1974.pdf)  |
-| 1990 | Unknown |
+| 1990-1991 | Unknown |
 | [2016-2017](https://www.apsva.us/design-and-construction/abingdon-additionrenovations/) | 12 new classrooms, a new gymnasium, a new kitchen, and an outdoor instructional area. |
 
 ### Principals
