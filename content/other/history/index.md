@@ -93,7 +93,7 @@ Below is a timeline of Abingdon's history gleaned from several sources, mostly n
 | 1965-01-11 | Northern Virginia Sun | Abingdon held a dedication for its new library. | {{< imagesmall src="images/1965-01-11.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
 | 1965-06-09 | Center for Local History | A publication titled "A Long Range Staff Development Program to Facilitate Effective Integration in the Arlington County Public Schools" ([Library URL](https://libcat.arlingtonva.us/Record/18721)) drafted by the school system stated that there were no Black students at Abingdon in 1965. | {{< imagesmall src="images/1965-06-09.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
 | 1966-04-01 | Northern Virginia Sun | Though not directly related to Abingdon, the article noted that there were only two Black families living in Fairlington. This would have made it difficult to meaningfully integrate Abingdon. | {{< imagesmall src="images/1966-04-01.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
-| 1966-04-02 | Robert Shostak | Photos of a protest over housing discrimination in Fairlington, a policy which kept Abingdon segregated. | {{< imagesmall src="images/1966-04-02_1.jpg" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}}<br>{{< imagesmall src="images/1966-04-02_2.jpg" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}}<br>{{< imagesmall src="images/1966-04-02_3.jpg" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
+| 1966-04-02 | Fairlington resident | Photos of a protest over housing discrimination in Fairlington, a policy which kept Abingdon segregated. | {{< imagesmall src="images/1966-04-02_1.jpg" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}}<br>{{< imagesmall src="images/1966-04-02_2.jpg" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}}<br>{{< imagesmall src="images/1966-04-02_3.jpg" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
 | 1966-04-03 | Washington Post | An article describing the purported mechanics of racial discrimination in Fairlington, which kept Abingdon from integrating. | {{< imagesmall src="images/1966-04-03.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
 | 1966-04-04 | Northern Virginia Sun | Segregation in Fairlington, which was then a rental community, kept Abingdon segregated long after the Supreme Court had ruled that public school segregation was against the law. | {{< imagesmall src="images/1966-04-04.png" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
 | 1966-09-28 | Northern Virginia Sun | Abingdon's principal was given lifetime PTA membership. | {{< imagesmall src="images/1966-09-28.jpg" alt="A newspaper or document excerpt describing an event in Abingdon's history." >}} |
@@ -183,9 +183,7 @@ The documents below reveal important information about what Abingdon was like in
 | 1968 | [Arlington Library](https://libcat.arlingtonva.us/Record/10555) | Architectural and mechanical report for proposed additions and alterations to Oakridge and Abingdon elementary schools. | [PDF](pdf/addition-plan-1968.pdf) |
 | 1971-03 | Arlington Library | A history of Abingdon Elementary. | [PDF](pdf/abingdon-elementary-history.pdf) |
 | 1985-04-01 | Fairlington resident | The Fairlington Civic Association newsletter documenting the construction of the new Abingdon playground. | [PDF](pdf/playground-fca-bulletin.pdf) |
-| 1985-04-18 | Fairlington resident | Pamphlets describing the construction effort of the new Abingdon playground. | [PDF](pdf/playground-pamphlets.pdf) |
 | 1985-05-04 | Fairlington resident | A document dedicating the Abingdon playground constructed by the community. | [PDF](pdf/playground-dedication.pdf) |
-| 1985 | Abingdon archives | Documents from scrapbook detailing the construction of the new playground. | [PDF1](pdf/1980s-playground-scrapbook-1.pdf) [PDF2](pdf/1980s-playground-scrapbook-2.pdf) |
 | 2009-2011 | Abingdon PTA | Little Bird PTA Newsletters for September 2009 to April 2011. | [PDF](pdf/little-bird.pdf) |
 
 ## Other Information
@@ -298,7 +296,7 @@ Abingdon's librarian, Meghan Fatouros, provided the PTA with a box of old docume
 
 ### 1985 Playground Construction Photos
 
-The photos below show the construction of the "Leathers Playground" in April 1985. The playground was designed by Robert Leathers, a celebrity playground architect whose designs were constructed over multiple days by hundreds of community volunteers. ([The Washington Post published an article describing some of Abingdon's planning efforts.](https://www.washingtonpost.com/archive/local/1984/11/07/volunteers-work-is-childs-play/ca319fea-11f5-4f64-befd-271dce5697f9/)) For additional information, see the [Dedication document](pdf/playground-dedication.pdf) in the documents section.
+The photos below show the construction of the "Leathers Playground" in April 1985. The playground was designed by Robert Leathers, a celebrity playground architect whose designs were constructed over multiple days by hundreds of community volunteers. ([The Washington Post published an article describing some of Abingdon's planning efforts.](https://www.washingtonpost.com/archive/local/1984/11/07/volunteers-work-is-childs-play/ca319fea-11f5-4f64-befd-271dce5697f9/)) For additional information about the 1985 playground, see the [dedication document](pdf/playground-dedication.pdf) and the [community newsletter](pdf/playground-fca-bulletin.pdf) in the documents section.
 
 The following photos and flyers were provided by Meghan Fatourous, Abingdon's librarian. They were contained in a scrapbook stored in Abingdon's library.
 
@@ -334,6 +332,8 @@ The following photos and flyers were provided by Meghan Fatourous, Abingdon's li
 {{< imagehalftoc src="images/80s-012-94.png" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
 {{< imagehalftoc src="images/80s-013.png" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
 {{< imagehalftoc src="images/80s-013-1.png" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
+{{< imagehalftoc src="images/80s-013-2.png" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
+{{< imagehalftoc src="images/80s-013-3.png" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
 {{< imagehalftoc src="images/80s-013-4.png" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
 {{< imagehalftoc src="images/80s-013-5.png" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
 {{< imagehalftoc src="images/80s-013-6.png" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
