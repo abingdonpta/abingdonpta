@@ -236,7 +236,7 @@ If you've ever walked Abingdon's labyrinthine hallways, it's obvious that the bu
 These photos from the 1950's were found on a Facebook group called "[I grew up in Fairlington!](https://www.facebook.com/groups/381712054921)" They are the only known photos of the outside of the original school building. They also show a Halloween parade.
 
 {{< imagehalftoc src="images/fb_1955-1957school1.jpg" alt="A photo found on Facebook showing Abingdon in the 1950's." >}}
-{{< imagehalftoc src="images/fb_1955-1957school2.jpg" alt="A photo found on Facebook showing Abingdon in the 1950's." >}}
+{{< imagehalftoc src="images/abingdon-1958-8x10.jpg" alt="A photo showing Abingdon in the 1950's." >}}
 {{< imagehalftoc src="images/fb_1955-1957school3.jpg" alt="A photo found on Facebook showing Abingdon in the 1950's." >}}
 {{< imagehalftoc src="images/fb_1955-1956patrols.jpg" alt="A photo found on Facebook showing Abingdon in the 1950's." >}}
 {{< imagehalftoc src="images/fb_mid1950shalloweenparade1.jpg" alt="A photo found on Facebook showing Abingdon in the 1950's." >}}

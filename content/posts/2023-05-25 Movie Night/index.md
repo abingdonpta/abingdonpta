@@ -2,7 +2,7 @@
 title: Family Movie Night
 summary: Come watch the movie Little Door Gods on Friday, June 2 in Abingdon's gym.
 slug: movie night
-date: 2023-05-25T19:00:00-05:00
+date: 2023-05-25T19:00:00-04:00
 categories: ["events","passed along"]
 images: ["/2023/05/25/movie-night/images/flyer-en.png"]
 ---

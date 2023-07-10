@@ -2,7 +2,7 @@
 title: Teacher Appreciation Week
 summary: Sign up to help celebrate our wonderful teachers.
 slug: teacher appreciation week
-date: 2023-05-02T05:00:00-05:00
+date: 2023-05-02T05:00:00-04:00
 categories: appreciation
 images: ["/2023/05/02/teacher-appreciation-week/images/flyer-en.png"]
 ---
