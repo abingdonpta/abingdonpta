@@ -92,6 +92,7 @@ The PTA Treasurer is required to submit this form to the IRS and to the Virginia
 
 | IRS Form 990 |
 |-|
+| [2022-2023 990](/990/2022-2023.pdf) |
 | [2021-2022 990](/990/2021-2022.pdf) |
 
 ### Virginia PTA Tax-Exempt Letter

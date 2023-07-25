@@ -179,6 +179,7 @@ The documents below reveal important information about what Abingdon was like in
 | -------- | ---- | ------ | ------ |
 | 1949-10-29 | [Arlington Library](https://libraryarchives.arlingtonva.us/Detail/collections/1096) | Speeches and flyers for Abingdon's groundbreaking ceremony. | [PDF](pdf/abingdon-groundbreaking.pdf) |
 | 1957-1958 | [Arlington Library](https://ead.lib.virginia.edu/vivaxtf/view?docId=arlington/ViAr00169.xml) | Handbook for Abingdon parents. | [PDF](pdf/parent-handbook-1957-1958.pdf) |
+| 1957-1958 | Abingdon graduate | Yearbook for the 1957-1958 school year. | [PDF](pdf/yearbook-1957-1958.pdf) |
 | 1958-1975 | [Arlington Library](https://ead.lib.virginia.edu/vivaxtf/view?docId=arlington/ViAr00169.xml) | Reports and other documents from Abingdon nurses. | [PDF](pdf/nurse-file.pdf) |
 | 1968 | [Arlington Library](https://libcat.arlingtonva.us/Record/10555) | Architectural and mechanical report for proposed additions and alterations to Oakridge and Abingdon elementary schools. | [PDF](pdf/addition-plan-1968.pdf) |
 | 1971-03 | Arlington Library | A history of Abingdon Elementary. | [PDF](pdf/abingdon-elementary-history.pdf) |

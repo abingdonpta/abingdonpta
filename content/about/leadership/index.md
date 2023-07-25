@@ -138,6 +138,6 @@ The PTA blesses our wonderful Abingdon staff throughout the year. Please help us
 | [🗽 Diversity Coordinator](/roles/#-diversity-coordinator) |
 | [💳 Bank Statement Reviewer](/roles/#-bank-statement-reviewer) |
 | [📦 Grants Coordinator](/roles/#-grants-coordinator) |
-| [🙋 Nominations Committee](/roles/#-nominations-committee) | *Selected in March* |
-| [✅ Financial Review Committee](/roles/#-financial-review-committee) | *Selected in May* |
+| [🙋 Nominations Committee](/roles/#-nominations-committee) | *Selected annually in March* |
+| [✅ Financial Review Committee](/roles/#-financial-review-committee) | *Selected annually in May* |
 | [🐦 Mascot](/roles/#-mascot) | Abingdon Cardinal |
