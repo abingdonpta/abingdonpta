@@ -10,6 +10,8 @@ EduKit sales for the 2023-2024 school year have begun! Each EduKit contains the 
 
 <a href="https://www.edukitinc.com/schools/1287/"><img src="images/flyer-en.jpg" alt="Edukit flyer" height="451" width="992" ></a>
 
+Supply lists [can be found here](https://abingdon.apsva.us/wp-content/uploads/sites/3/2023/07/Class-Supply-List-2023-2024-English.pdf), and [in Spanish here](https://abingdon.apsva.us/wp-content/uploads/sites/3/2023/07/Class-Supply-2023-2024-Spanish.pdf).
+
 <!--
 
 Did you know that the EduKit program has raised nearly $3,200 for the Abingdon PTA since it started up in 2014? This program provides a convenient, easy, and less expensive option to purchase school supplies for the upcoming school year. Each kit contains what Abingdon will request, by grade, for the coming year.

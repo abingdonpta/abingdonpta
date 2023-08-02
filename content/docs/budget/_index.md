@@ -175,7 +175,7 @@ The PTA funds a breakfast each year that celebrates Hispanic Heritage Month.
 
 The PTA pays for a few art-related needs:
 - Supplementary supplies for art classrooms
-- [The Reflections program](/reflections/), for awards and certificates for participating students
+- [The Reflections program](/reflections/), for ribbons and certificates for participating students
 - Support for Abingdon's annual art show
 
 ### 💦 Field Day
