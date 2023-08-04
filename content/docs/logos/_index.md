@@ -79,6 +79,15 @@ The images below were made by a PTA volunteer and graphic artist (Lindsey Smith)
 | Color | [SVG](AbingdonLovesReading.svg) | [PNG](AbingdonLovesReading.png) | [EPS](AbingdonLovesReading.eps) |
 | B&W | [SVG](AbingdonLovesReading_BWVersion.svg) | [PNG](AbingdonLovesReading_BWVersion.png) | [EPS](AbingdonLovesReading_BWVersion.eps) |
 
+## Cardinal Cartoon Logo Fall 2023
+
+This logo was used by the school in communications in August 2023 for reasons that are not yet clear. We don't have access to a vector file for this logo.
+
+| Type | SVG | PNG | Original | Source |
+| ---- | --- | --- | -------- | ------ |
+| Color | N/A | N/A | [Original](Abingdon-cartoon-cardinal60-scaled.jpg) | [iStock](https://www.istockphoto.com/vector/cartoon-cardinal-bird-mascot-gm1001264662-270664417)
+
+
 ## QR Codes
 
 These QR codes were made by Dan Burd at various times for use at events and on flyers. Unless otherwise noted, they all go to [the PTA's "Connect" webpage](/connect), which is a reasonable landing page for people who aren't familiar with the PTA. Ask Dan if you'd like similar QR codes with different destinations, or feel free to make your own. Also, test out the QR codes to make sure they reliably work.
