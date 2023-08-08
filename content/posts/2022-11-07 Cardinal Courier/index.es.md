@@ -65,7 +65,7 @@ Nota: [Vea y suscríbase al calendario de la PTA en nuestro sitio web aquí.](/c
 
 ## 🇺🇸 ¡Venta de pasteles del día de las elecciones!
 
-{{< imagehalftoc class="imageright" src="images/bake-sale-es.png" alt="Folleto de venta de pasteles" >}}
+{{< imagehalftoc class="imageright" src="files/bake-sale-es.png" alt="Folleto de venta de pasteles" >}}
 
 ¡Visite la mesa de la PTA para disfrutar de un regalo para usted, un educador, un voluntario o un vecino! ¡Todos los fondos apoyan los programas y actividades de la PTA para nuestro rebaño de cardenales!
 
@@ -83,7 +83,7 @@ Nota: [Vea y suscríbase al calendario de la PTA en nuestro sitio web aquí.](/c
 
 ## 🎨 Espectáculo de arte Reflejos
 
-{{< imagehalftoc class="imageright" src="images/reflections-art-show-es.png" alt="Folleto de Reflections Art Show" >}}
+{{< imagehalftoc class="imageright" src="files/reflections-art-show-es.png" alt="Folleto de Reflections Art Show" >}}
 
 ¡Está invitado a la exhibición de arte Reflections de Abingdon PTA! Celebraremos y mostraremos las obras de arte y la creatividad de nuestros estudiantes.
 
@@ -96,7 +96,7 @@ Para ayudar con la exhibición de arte Reflections, [regístrese aquí](https://
 
 ## 👩‍💻 Club de Codificación Cardinal
 
-{{< imagehalftoc class="imageright" src="images/cardinal-coding-club-es.png" alt="Folleto del Cardenal Coding Club" >}}
+{{< imagehalftoc class="imageright" src="files/cardinal-coding-club-es.png" alt="Folleto del Cardenal Coding Club" >}}
 
 ¡La PTA está lanzando nuestro primer Cardinal Coding Club este mes! Los estudiantes de 3.° a 5.° grado están invitados a unirse a nosotros después de la escuela los miércoles a partir de noviembre. Estamos colaborando con Boolean Girl, una organización local sin fines de lucro, cuya misión es involucrar a los estudiantes en las ciencias de la computación. Las inscripciones se abrirán el jueves 10 de noviembre de 2022 a las 12 h; el enlace de registro se compartirá en el Facebook y Twitter de la PTA al mediodía. Si tiene alguna pregunta, comuníquese con Teresa Valdez-Bain en ftvedu@yahoo.com.
 
@@ -133,8 +133,8 @@ Complete el [formulario de voluntariado de la PTA](https://docs.google.com/forms
 
 ## 💸 Recaudación de fondos pasiva
 
-{{< imagehalftoc src="images/amazonsmile-es.png" alt="Folleto de AmazonSmile" >}}
-{{< imagehalftoc src="images/harris-teeter-es.png" alt="folleto de Harris Teeter" >}}
+{{< imagehalftoc src="files/amazonsmile-es.png" alt="Folleto de AmazonSmile" >}}
+{{< imagehalftoc src="files/harris-teeter-es.png" alt="folleto de Harris Teeter" >}}
 
 📦 **AmazonSmile.** [Cuando te registras aquí](https://smile.amazon.com/ch/52-1289072) y compras en https://smile.amazon.com, Amazon donará 0.5% a Asociación de padres y maestros de Abingdon. ¡Amigos, familiares y vecinos también están invitados a registrarse!  
 🛒 **Reembolsos en comestibles.** Vincule su tarjeta VIC de Harris Teeter a Abingdon Elementary (**5748**). También se invita a amigos, familiares y vecinos a vincular su tarjeta VIC a Abingdon. [Regístrate aquí.](https://docs.google.com/forms/d/e/1FAIpQLSeiAe72qt4qTb_b2xmB-TUZByVkD-QxfVNyFEEHGc6sGkFzYQ/viewform)  
@@ -142,7 +142,7 @@ Complete el [formulario de voluntariado de la PTA](https://docs.google.com/forms
 
 ## 🙏 ¡Gracias! ¡Gracias! አመሰግናለሁ! Баярлалаа! شكرًا لك !
 
-{{< imagehalftoc class="imageright" src="images/chipotle-thank-you.jpg" alt="Folleto de agradecimiento de Chipotle" >}}
+{{< imagehalftoc class="imageright" src="files/chipotle-thank-you.jpg" alt="Folleto de agradecimiento de Chipotle" >}}
 
 Estamos impresionados con la generosidad y el desinterés de nuestros voluntarios y simpatizantes.
 
@@ -160,4 +160,4 @@ Estamos impresionados con la generosidad y el desinterés de nuestros voluntario
 
 ## ✨ ¡Al superhéroe Abingdon Cardinal le encanta disfrazarse!
 
-{{< imagehalftoc  class="imagecenter" src="images/IMG_5930.jpg" alt="Superhéroe Abingdon Cardinal" >}}
+{{< imagehalftoc  class="imagecenter" src="files/IMG_5930.jpg" alt="Superhéroe Abingdon Cardinal" >}}

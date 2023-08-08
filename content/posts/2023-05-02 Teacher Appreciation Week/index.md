@@ -4,12 +4,12 @@ summary: Sign up to help celebrate our wonderful teachers.
 slug: teacher appreciation week
 date: 2023-05-02T05:00:00-04:00
 categories: appreciation
-images: ["/2023/05/02/teacher-appreciation-week/images/flyer-en.png"]
+images: ["/2023/05/02/teacher-appreciation-week/files/flyer-en.png"]
 ---
 
 We are excited to celebrate our wonderful Abingdon Staff during Teacher Appreciation Week Monday, May 8th-Friday, May 12th. Please consider signing up to support the PTA with events during the week. Below you will find the flyer for next week and additional details and ways you and your student can support our amazing staff.
 
-{{< imagefull class="imagecenter" src="images/flyer-en.png" alt="Teacher Appreciation Week flyer" >}}
+{{< imagefull class="imagecenter" src="files/flyer-en.png" alt="Teacher Appreciation Week flyer" >}}
 
 - **Sunday, May 7** from 3pm-4pm:
     - Chalk the Walk - decorate the entryway and parking lot to welcome staff 
@@ -23,11 +23,11 @@ We are excited to celebrate our wonderful Abingdon Staff during Teacher Apprecia
     - Spa Goodies
     - Afternoon: Trail Mix Bar (donations welcome)
 - Thankful **Thursday, May 11**:
-    - AM: Bring a Flower for your Teacher(s) (don’t forget our specialists!!!) to create a bouquet. If you can’t bring a living flower, feel free to [print this PDF](images/teacher-flower-page.pdf) for your child to color in
+    - AM: Bring a Flower for your Teacher(s) (don’t forget our specialists!!!) to create a bouquet. If you can’t bring a living flower, feel free to [print this PDF](files/teacher-flower-page.pdf) for your child to color in
     - Spirit Wear Delivery - teachers will receive their new Abingdon MVP shirts
     - Afternoon: Movie Theatre Concession Stand (donations welcome)
 - Fabulous Flavorful **Friday, May 12**:
-    - Bring your All About My Teacher ([print this PDF](images/All-about-my-teacher.pdf) and have your child bring it in)
+    - Bring your All About My Teacher ([print this PDF](files/All-about-my-teacher.pdf) and have your child bring it in)
     - Dessert Bar (donations welcome)
     - Bundtinis to take home provided by Nothing Bundt The Cake 
 

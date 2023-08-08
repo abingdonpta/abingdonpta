@@ -4,7 +4,7 @@ summary: Abingdon is celebrating Kindness Week starting on February 13.
 slug: kindness week
 date: 2023-02-08T05:00:00-05:00
 categories: "passed along"
-images: ["/2023/02/08/kindness-week/images/flyer-en.png"]
+images: ["/2023/02/08/kindness-week/files/flyer-en.png"]
 ---
 
 The PTA is passing along this message from Vasthy Delgado, one of our wonderful School Counselors here at Abingdon.
@@ -24,5 +24,5 @@ Please join us in celebrating all things **KIND** next week for **Virginia Kindn
 
 Let your school counselor know if you have any questions or concerns!
 
-{{< imagefull src="images/flyer-en.png" alt="Kindness Week flyer in English" >}}
-{{< imagefull src="images/flyer-es.png" alt="Kindness Week flyer in Spanish" >}}
+{{< imagefull src="files/flyer-en.png" alt="Kindness Week flyer in English" >}}
+{{< imagefull src="files/flyer-es.png" alt="Kindness Week flyer in Spanish" >}}

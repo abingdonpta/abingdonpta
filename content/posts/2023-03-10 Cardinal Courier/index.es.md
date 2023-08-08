@@ -56,7 +56,7 @@ La inscripción se abrirá el **lunes 13 de marzo a las 8 AM**. Los registros op
 
 ### 👋 Reunión virtual de membresía general de la PTA el martes 14 de marzo
 
-{{< imagehalftoc class="imageright" src="images/meeting-flyer-es.png" alt="Folleto de la reunión" >}}
+{{< imagehalftoc class="imageright" src="files/meeting-flyer-es.png" alt="Folleto de la reunión" >}}
 
 - **Quién**: maestros, padres, tutores, estudiantes, miembros de la comunidad
 - **Qué**: Reunión virtual de membresía general de marzo
@@ -71,7 +71,7 @@ La agenda de la reunión está disponible aquí: https://www.abingdonpta.org/age
 
 ### 📽️ Noche de cine familiar esta noche
 
-{{< imagehalftoc class="imageright" src="images/movie-flyer-es.jpg" alt="Movie flyer" >}}
+{{< imagehalftoc class="imageright" src="files/movie-flyer-es.jpg" alt="Movie flyer" >}}
 
 El Comité DEI de Abingdon está presentando Family Movie Night esta noche, presentando “Wonder”, clasificada PG.
 

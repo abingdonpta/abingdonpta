@@ -1,7 +1,7 @@
 ---
 title: Donation Drives
 summary: The Abingdon PTA organizes many donation drives for our school community.
-images: ["donations/images/AFAC.jpg"]
+images: ["donations/files/AFAC.jpg"]
 weight: 20
 booktoc: true
 ---
@@ -18,7 +18,7 @@ The PTA organizes canned food drives, particularly during school events. A bin i
 
 The PTA also collects side dishes to complete the Thanksgiving dinners for Abingdon families in need.
 
-{{< imagehalftoc src="images/AFAC.jpg" alt="249 cans and 65 dry goods in front of Abingdon that were collected by the PTA and donated to AFAC" >}}  
+{{< imagehalftoc src="files/AFAC.jpg" alt="249 cans and 65 dry goods in front of Abingdon that were collected by the PTA and donated to AFAC" >}}  
 During Winter Wonderland 2022, Abingdon collected 249 cans and 65 dry goods for AFAC - a total of 292 lbs of food!
 
 ## Clothing Drives
@@ -27,8 +27,8 @@ The PTA supports Abingdon families by collecting winter clothing for children to
 
 The PTA has also collected clothing to stock our "Extras Closet" for students who may need clothing/personal items during the school day.
 
-{{< imagehalftoc src="images/Donation1.jpg" alt="Donated jackets" >}}
-{{< imagehalftoc src="images/Donation2.jpg" alt="Donated, knitted hats" >}}  
+{{< imagehalftoc src="files/Donation1.jpg" alt="Donated jackets" >}}
+{{< imagehalftoc src="files/Donation2.jpg" alt="Donated, knitted hats" >}}  
 **Left**: Donated winter coats, gloves, and hats. **Right**: Hats lovingly knitted and donated by a dedicated volunteer.
 
 ## Holiday Gift Card Drive
@@ -40,11 +40,11 @@ The Abingdon PTA partners with the Student Support Team at Abingdon to help supp
 
 The PTA raises money for school supplies for children whose families cannot afford them.
 
-![Twitter post describing the school supplies drive](images/1289217662661214208.png)
+![Twitter post describing the school supplies drive](files/1289217662661214208.png)
 
 ## Mask Drive
 
 The PTA raised money to buy high-filtration masks to students, and also collected new masks in packaging to provide to students.
 
-![Twitter post describing the mask drive](images/1455565332261883910.png)
+![Twitter post describing the mask drive](files/1455565332261883910.png)
 -->

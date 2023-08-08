@@ -4,7 +4,7 @@ summary: Girls on the Run will start in March and meet on Mondays and Wednesdays
 slug: girls on the run
 date: 2023-02-06T05:00:00-05:00
 categories: enrichment
-images: ["/2023/02/06/girls-on-the-run/images/flyer-en.png"]
+images: ["/2023/02/06/girls-on-the-run/files/flyer-en.png"]
 ---
 
 Girls on the Run is coming to Abingdon Elementary School! GOTR is a physical activity based positive youth development program for girls in 3rd-8th grade. The program teaches life skills through dynamic interactive lessons and running games. The goal of the program is to unleash confidence through accomplishment, while establishing a lifetime appreciation of health and fitness. Our program has been adapted to ensure physical distancing and safety. In-person practices include safety, sanitizing, and physical distancing precautions and modifications.
@@ -15,5 +15,5 @@ Registration for the Spring 2023 program is open from February 6 through 28, and
 
 We can’t wait to run with you!
 
-{{< imagehalf src="images/flyer-en.png" alt="Girls on the Run flyer" >}}
-{{< imagehalf src="images/flyer-es.png" alt="Girls on the Run in Spanish" >}}
+{{< imagehalf src="files/flyer-en.png" alt="Girls on the Run flyer" >}}
+{{< imagehalf src="files/flyer-es.png" alt="Girls on the Run in Spanish" >}}

@@ -4,7 +4,7 @@ summary: Abingdon will hold a Family Literacy Night on April 19.
 slug: literacy night
 date: 2023-04-12T05:00:00-04:00
 categories: "passed along"
-images: ["/2023/04/12/literacy-night/images/flyer-en.png"]
+images: ["/2023/04/12/literacy-night/files/flyer-en.png"]
 ---
 
 Abingdon will hold an event titled "*Growing Readers at Home: An Abingdon Family Literacy Night.*"
@@ -14,8 +14,8 @@ Abingdon will hold an event titled "*Growing Readers at Home: An Abingdon Family
 
 Come participate in activities that support your children’s literacy growth. Help your children choose 10 free “*Summer Mailbox Books*” shipped to your home this summer! Pizza provided.
 
-{{< imagehalf src="images/flyer-en.png" alt="Literacy Night flyer in English" >}}
-{{< imagehalf src="images/flyer-es.png" alt="Literacy Night flyer in Spanish" >}}
-{{< imagehalf src="images/flyer-ar.png" alt="Literacy Night flyer in Arabic" >}}
-{{< imagehalf src="images/flyer-mn.png" alt="Literacy Night flyer in Mongolian" >}}
-{{< imagehalf src="images/flyer-am.png" alt="Literacy Night flyer in Amharic" >}}
+{{< imagehalf src="files/flyer-en.png" alt="Literacy Night flyer in English" >}}
+{{< imagehalf src="files/flyer-es.png" alt="Literacy Night flyer in Spanish" >}}
+{{< imagehalf src="files/flyer-ar.png" alt="Literacy Night flyer in Arabic" >}}
+{{< imagehalf src="files/flyer-mn.png" alt="Literacy Night flyer in Mongolian" >}}
+{{< imagehalf src="files/flyer-am.png" alt="Literacy Night flyer in Amharic" >}}

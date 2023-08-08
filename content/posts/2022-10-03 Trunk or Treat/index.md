@@ -4,7 +4,7 @@ summary: Abingdon's second annual Trunk or Treat will be held on Saturday, Octob
 slug: trunk or treat
 date: 2022-10-03T05:00:00-04:00
 categories: events
-images: ["/2022/10/03/trunk-or-treat/images/flyer-en.png"]
+images: ["/2022/10/03/trunk-or-treat/files/flyer-en.png"]
 ---
 
 The Abingdon PTA is excited to bring back Trunk or Treat! Kids will dress up in Halloween costumes and collect candy from volunteers who have decorated their cars.
@@ -20,8 +20,8 @@ up from 2 PM - 3 PM
 
 If you are able to volunteer, [please sign up here](https://docs.google.com/forms/d/e/1FAIpQLSc7S6GrsD0I1r4YQmmdgkgZqFELB0iOFyPxdBRBnrEoMbDpuA/viewform).
 
-{{< imagehalf src="images/flyer-en.png" alt="Trunk or Treat flyer" >}}
-{{< imagehalf src="images/flyer-es.png" alt="Trunk or Treat flyer in Spanish" >}}
+{{< imagehalf src="files/flyer-en.png" alt="Trunk or Treat flyer" >}}
+{{< imagehalf src="files/flyer-es.png" alt="Trunk or Treat flyer in Spanish" >}}
 
 **EDIT 10/25/2022:** Abingdon's Assistant Principals will be making stops throughout Abingdon's attendance zone to give out candy and to say hello.
 
@@ -29,7 +29,7 @@ If you are able to volunteer, [please sign up here](https://docs.google.com/form
 - At **Wildwood Park Apartments**, 12:40 - 1:15 (Courtyard in back of the building)
 - At **Columbia Grove Apartments**, 1:20 - 2:00 (1012 S. Frederick St.)
 
-{{< imagehalf src="images/ap-en.png" alt="AP's Trunk or Treat flyer" >}}
-{{< imagehalf src="images/ap-es.png" alt="AP's Trunk or Treat flyer in Spanish" >}}
-{{< imagehalf src="images/ap-am.png" alt="AP's Trunk or Treat flyer in Amharic" >}}
-{{< imagehalf src="images/ap-mn.png" alt="AP's Trunk or Treat flyer in Mongolian" >}}
+{{< imagehalf src="files/ap-en.png" alt="AP's Trunk or Treat flyer" >}}
+{{< imagehalf src="files/ap-es.png" alt="AP's Trunk or Treat flyer in Spanish" >}}
+{{< imagehalf src="files/ap-am.png" alt="AP's Trunk or Treat flyer in Amharic" >}}
+{{< imagehalf src="files/ap-mn.png" alt="AP's Trunk or Treat flyer in Mongolian" >}}

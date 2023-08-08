@@ -57,7 +57,7 @@ For our last group of grants this school year, the PTA was happy to purchase STE
 
 ### 🌱 Spring Garden Workday
 
-{{< imagehalftoc class="imageright" src="images/garden.png" alt="Garden workday flyer" >}}
+{{< imagehalftoc class="imageright" src="files/garden.png" alt="Garden workday flyer" >}}
 
 We will have a spring garden workday on Sunday, May 21, 2023, from 9:30 am to 11:30 am. Help us clean-up our school garden and pick up litter on the school grounds. We'll also be preparing a sunflower garden!
 
@@ -67,7 +67,7 @@ We will have a spring garden workday on Sunday, May 21, 2023, from 9:30 am to 11
 
 ### 🙏 Teacher Appreciation Week
 
-This week is Teacher Appreciation Week! Join us in celebrating our amazing staff next week, May 7-12 in various ways. [Print bouquet pdf](https://www.abingdonpta.org/2023/05/02/teacher-appreciation-week/images/teacher-flower-page.pdf) or bring live flowers Thursday & print and write your “[all about my teacher](https://www.abingdonpta.org/2023/05/02/teacher-appreciation-week/images/All-about-my-teacher.pdf)” or note of appreciation. [More details about Teacher Appreciation Week at Abingdon are here.](https://www.abingdonpta.org/2023/05/02/teacher-appreciation-week/)
+This week is Teacher Appreciation Week! Join us in celebrating our amazing staff next week, May 7-12 in various ways. [Print bouquet pdf](https://www.abingdonpta.org/2023/05/02/teacher-appreciation-week/files/teacher-flower-page.pdf) or bring live flowers Thursday & print and write your “[all about my teacher](https://www.abingdonpta.org/2023/05/02/teacher-appreciation-week/files/All-about-my-teacher.pdf)” or note of appreciation. [More details about Teacher Appreciation Week at Abingdon are here.](https://www.abingdonpta.org/2023/05/02/teacher-appreciation-week/)
 
 ### 📸 Picture Day is Tuesday, May 9
 

@@ -14,4 +14,4 @@ Abingdon's art teachers are asking for volunteers to help prepare for Abingdon's
 
 If you are available, please reach out to lauren.muscarella@apsva.us or allison.barnes2@apsva.us.
 
-{{< imagefull src="images/flyer-en.png" alt="Abingdon Art Show flyer" >}}
+{{< imagefull src="files/flyer-en.png" alt="Abingdon Art Show flyer" >}}

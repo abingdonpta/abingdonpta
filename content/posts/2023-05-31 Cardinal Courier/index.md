@@ -48,13 +48,13 @@ Sharon Burd
 
 EduKit sales for the 2023-2024 school year have begun! Each EduKit contains the school supplies your student needs for next year as requested by our Abingdon teachers. Go online to https://www.edukitinc.com/schools/1287 by July 10 to order your child's EduKit.
 
-{{< imagefull src="images/edukit-en.jpg" alt="Edukit flyer" >}}
+{{< imagefull src="files/edukit-en.jpg" alt="Edukit flyer" >}}
 
 ---
 
 ### 👋 Kick Off to Kindergarten
 
-{{< imagehalftoc class="imageright" src="images/kindergarten-en.png" alt="Kick off to Kindergarten flyer" >}}
+{{< imagehalftoc class="imageright" src="files/kindergarten-en.png" alt="Kick off to Kindergarten flyer" >}}
 
 The school is hosting an event for registered, rising kindgarteners who will be attending Abingdon Elementary in the fall of 2023. Come meet a teacher and receive a goody bag!
 
@@ -67,7 +67,7 @@ The school is hosting an event for registered, rising kindgarteners who will be 
 
 ### 🏃 Field Day Volunteers Needed
 
-{{< imagehalftoc class="imageright" src="images/field-en.png" alt="Field Day flyer" >}}
+{{< imagehalftoc class="imageright" src="files/field-en.png" alt="Field Day flyer" >}}
 
 You're invited to volunteer to help make Abingdon's Field Day a success! The school in need of volunteers to help with the 12 stations that students will rotate through during Field Day on Friday, June 9. There are 3 shifts:
 
@@ -87,7 +87,7 @@ https://www.signupgenius.com/go/30e0a44aca72aa5fe3-field1#/
 
 ### 📽️ Family Movie Night
 
-{{< imagehalftoc class="imageright" src="images/movie-en.png" alt="Movie Night flyer" >}}
+{{< imagehalftoc class="imageright" src="files/movie-en.png" alt="Movie Night flyer" >}}
 
 Abingdon's DEI Committee is presenting Family Movie Night, featuring "Little Door Gods." 
 
@@ -110,7 +110,7 @@ Additionally, the Abingdon DEI Committee has asked for four volunteers to assist
 
 ### 🎓 Let's Support Our 5th Graders!
 
-{{< imagehalftoc class="imageright" src="images/graduation-en.png" alt="Graduation Volunteers flyer" >}}
+{{< imagehalftoc class="imageright" src="files/graduation-en.png" alt="Graduation Volunteers flyer" >}}
 
 We need 4th grade parent volunteers (other grade level parent volunteers are welcomed too!) to help Abingdon Elementary with the end of the year events such as 5th Grade Promotion & the 5th grade picnic. Help us celebrate our Cardinal graduates before they soar off to middle school! SIgn up here: https://www.signupgenius.com/go/30e0a44aca72aa5fe3-abingdon3#/
 

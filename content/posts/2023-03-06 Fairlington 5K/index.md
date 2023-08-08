@@ -26,7 +26,7 @@ Children five and under are free
 More information is available here: https://www.fairlington5k.com/race-info  
 Register here: https://www.zippy-reg.com/online_reg/index2022.php?e=1798
 
-{{< imagehalf src="images/Kids at 5K.jpg" alt="Fairlington 5K photo" >}}
-{{< imagehalf src="images/starting line.jpg" alt="Fairlington 5K photo" >}}
-{{< imagehalf src="images/starting line 2.jpg" alt="Fairlington 5K photo" >}}
-{{< imagehalf src="images/starting line 3.jpg" alt="Fairlington 5K photo" >}}
+{{< imagehalf src="files/Kids at 5K.jpg" alt="Fairlington 5K photo" >}}
+{{< imagehalf src="files/starting line.jpg" alt="Fairlington 5K photo" >}}
+{{< imagehalf src="files/starting line 2.jpg" alt="Fairlington 5K photo" >}}
+{{< imagehalf src="files/starting line 3.jpg" alt="Fairlington 5K photo" >}}

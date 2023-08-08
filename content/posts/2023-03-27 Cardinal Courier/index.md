@@ -42,7 +42,7 @@ Sharon Burd
 
 ### 🌎 Earth Day Celebration
 
-{{< imagehalftoc class="imageright" src="images/earth-day-flyer.png" alt="Earth Day flyer" >}}
+{{< imagehalftoc class="imageright" src="files/earth-day-flyer.png" alt="Earth Day flyer" >}}
 
 This spring our school garden will approach its 32nd anniversary.  We will be hosting an Abingdon Earth Day Celebration to honor this historic milestone and a ribbon cutting ceremony to unveil our new school garden shed built by Yorktown High School student and Troop 106 Scout Thomas Totten.  We will also be cleaning up the garden and picking up litter from school grounds.
 
@@ -109,7 +109,7 @@ The Fairlington 5K has been cancelled due to a change in county policies. For mo
 
 ### 🗺️ International & Cultural Heritage & History Night
 
-{{< imagehalftoc class="imageright" src="images/in-flyer.png" alt="International Night flyer" >}}
+{{< imagehalftoc class="imageright" src="files/in-flyer.png" alt="International Night flyer" >}}
 
 Abingdon's Annual International & Cultural Heritage and History Night is RETURNING, **April 28th from 5:30-7:30PM**! Last year, we celebrated together in the cafeteria with loads of food and fun!
 

@@ -4,7 +4,7 @@ summary: The PTA is asking for Target gift cards for 40 Abingdon families for th
 slug: holiday gift card drive
 date: 2022-11-09T05:00:00-05:00
 categories: donations
-images: ["/2022/11/09/holiday-gift-card-drive/images/flyer-en.png"]
+images: ["/2022/11/09/holiday-gift-card-drive/files/flyer-en.png"]
 ---
 
 The Abingdon Elementary PTA is asking our community to gift Target gift cards for 40 of our Abingdon families to support parents over the holiday season. Any and all Target gift card donations will be accepted and will be given to families in increments of $25. Please drop off your donations in the Abingdon front office ATTENTION: PTA. There will be a lockbox in the front office storing these gift cards.
@@ -15,4 +15,4 @@ The drop-off location is at the **Abingdon Front Office** (3035 S. Abingdon St.)
 
 For more information, contact Megan Miller at meganmiller44@gmail.com.
 
-{{< imagehalf class="imagecenter" src="images/flyer-en.png" alt="Holiday Gift Card Drive flyer" >}}
+{{< imagehalf class="imagecenter" src="files/flyer-en.png" alt="Holiday Gift Card Drive flyer" >}}

@@ -4,7 +4,7 @@ summary: The PTA is hosting popsicle playdates for rising kindergarteners this s
 slug: rising kindergarten playdates
 date: 2023-06-06T05:00:00-04:00
 categories: events
-images: ["/2023/06/06/rising-kindergarten-playdates/images/flyer-en.png"]
+images: ["/2023/06/06/rising-kindergarten-playdates/files/flyer-en.png"]
 ---
 
 Rising Kindergarten families are invited to join us on the blue playground (in front of Abingdon) to meet new friends. Siblings are also welcome too!
@@ -17,5 +17,5 @@ Rising Kindergarten families are invited to join us on the blue playground (in f
 
 *Dates subject to change due to inclement weather.*
 
-{{< imagehalf src="images/flyer-en.png" alt="Rising Kindergartener Playdate flyer in English" >}}
-{{< imagehalf src="images/flyer-es.png" alt="Rising Kindergartener Playdate flyer in Spanish" >}}
+{{< imagehalf src="files/flyer-en.png" alt="Rising Kindergartener Playdate flyer in English" >}}
+{{< imagehalf src="files/flyer-es.png" alt="Rising Kindergartener Playdate flyer in Spanish" >}}

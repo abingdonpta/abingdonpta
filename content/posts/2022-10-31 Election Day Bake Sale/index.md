@@ -4,7 +4,7 @@ summary: The PTA will be selling baked goods outside of two polling stations on 
 slug: election day
 date: 2022-10-31T05:00:00-04:00
 categories: ["fundraisers","volunteer opportunities"]
-images: ["/2022/10/31/election-day/images/flyer-en.png"]
+images: ["/2022/10/31/election-day/files/flyer-en.png"]
 ---
 
 Visit the PTA table to grab a treat for yourself, an educator, a volunteer, or a neighbor! All funds support PTA program and activities for our flock of Cardinals!
@@ -19,5 +19,5 @@ We will be selling cookies, bagels, muffins, coffee, car magnets, and more!
 - If you'd like to donate baked goods or supplies, please [sign up here](https://www.signupgenius.com/go/10c0948aba629a2fa7-election).
 - If you'd like to volunteer to staff a table, please [sign up here](https://www.signupgenius.com/go/10c0948aba629a2fa7-election1).
 
-{{< imagehalf src="images/flyer-en.png" alt="Election Day Bake Sale flyer" >}}
-{{< imagehalf src="images/flyer-es.png" alt="Election Day Bake Sale flyer in Spanish" >}}
+{{< imagehalf src="files/flyer-en.png" alt="Election Day Bake Sale flyer" >}}
+{{< imagehalf src="files/flyer-es.png" alt="Election Day Bake Sale flyer in Spanish" >}}

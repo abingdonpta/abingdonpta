@@ -57,7 +57,7 @@ Para nuestro último grupo de subvenciones de este año escolar, la PTA se compl
 
 ### 🌱 Jornada laboral en el jardín de primavera
 
-{{< imagehalftoc class="imageright" src="images/garden-es.png" alt="Folleto del día laboral del jardín" >}}
+{{< imagehalftoc class="imageright" src="files/garden-es.png" alt="Folleto del día laboral del jardín" >}}
 
 Tendremos un día de trabajo de jardín de primavera el domingo 21 de mayo de 2023, de 9:30 am a 11:30 am. Ayúdenos a limpiar el jardín de nuestra escuela y recoja la basura en los terrenos de la escuela. ¡También prepararemos un jardín de girasoles!
 
@@ -67,7 +67,7 @@ Tendremos un día de trabajo de jardín de primavera el domingo 21 de mayo de 20
 
 ### 🙏 Semana de agradecimiento a los maestros
 
-¡Esta semana es la Semana de Agradecimiento a los Maestros! Únase a nosotros para celebrar a nuestro increíble personal la próxima semana, del 7 al 12 de mayo, de varias maneras. [Imprimir ramo en pdf](/2023/05/02/teacher-appreciation-week/images/teacher-flower-page.pdf) o traer flores vivas el jueves e imprimir y escribir su “[ todo sobre mi maestro](/2023/05/02/teacher-appreciation-week/images/All-about-my-teacher.pdf)” o nota de agradecimiento. [Más detalles sobre la Semana de agradecimiento a los maestros en Abingdon están aquí.](/2023/05/02/teacher-appreciation-week/)
+¡Esta semana es la Semana de Agradecimiento a los Maestros! Únase a nosotros para celebrar a nuestro increíble personal la próxima semana, del 7 al 12 de mayo, de varias maneras. [Imprimir ramo en pdf](/2023/05/02/teacher-appreciation-week/files/teacher-flower-page.pdf) o traer flores vivas el jueves e imprimir y escribir su “[ todo sobre mi maestro](/2023/05/02/teacher-appreciation-week/files/All-about-my-teacher.pdf)” o nota de agradecimiento. [Más detalles sobre la Semana de agradecimiento a los maestros en Abingdon están aquí.](/2023/05/02/teacher-appreciation-week/)
 
 ### 📸 El día de la foto es el martes 9 de mayo
 

@@ -51,7 +51,7 @@ If you have any comments to share with our School Board, you can email them at s
 
 ### 🎨 Art Show Volunteers Needed
 
-{{< imagehalftoc class="imageright" src="images/art.png" alt="Art Show assistance flyer" >}}
+{{< imagehalftoc class="imageright" src="files/art.png" alt="Art Show assistance flyer" >}}
 
 Volunteers Needed to help Ms. Muscarella and Ms. Barnes prep for the AMAZING Abingdon Art show. Please consider volunteering in the coming days to help. Email lauren.muscarella@apsva.us or allison.barnes2@apsva.us.
 
@@ -89,7 +89,7 @@ The PTA has been excited to deliver many grant materials requested from Abingdon
 
 ### 🗺️ International & Cultural Heritage & History Night
 
-{{< imagehalftoc class="imageright" src="images/international.png" alt="International Night flyer" >}}
+{{< imagehalftoc class="imageright" src="files/international.png" alt="International Night flyer" >}}
 
 Abingdon's Annual International & Cultural Heritage and History Night is RETURNING, **April 28th from 5:30-7:30PM**! 
 
@@ -107,7 +107,7 @@ We are STILL in NEED of VOLUNTEERS. This event is a success **only** with your p
 
 Girls on the Run is looking for Buddy Runners for our upcoming 5K. Please consider registering using [this link](https://www.pinwheel.us/register/index/Spring20235KEvent?sid=b01b91fe467f467da7d9450bdd104f78). The event is the culmination of our first year's successful Girls on the Run team at Abingdon. We will run/walk/jog together with the students on the team on Sunday, May 21, at BASIS Independent School (8000 Jones Branch Drive, McLean, VA 22102). If you have questions, please contact [ashleybethmccarthy@gmail.com](mailto:ashleybethmccarthy@gmail.com) or [erin.e.mahaffey@gmail.com](mailto:erin.e.mahaffey@gmail.com). 
 
-{{< imagetoc src="images/gotr.png" alt="Girls on the Run flyer" >}}
+{{< imagetoc src="files/gotr.png" alt="Girls on the Run flyer" >}}
 
 ### 💸 Passive Fundraising
 
@@ -134,11 +134,11 @@ Girls on the Run is looking for Buddy Runners for our upcoming 5K. Please consid
 - Washington-Liberty is hosting a robotics day on April 29. More information [can be found here](https://www.apsva.us/ctae/stem/stem-events/).
 - The Arlington Community Foundation is fundraising to support eight Title I elementary schools in Arlington.  If you would like to support after school enrichment scholarships for Arlington Students, and/or specifically for Abingdon students, please visit: https://arlcf.fcsuite.com/erp/donate/create/fund?funit_id=1825.
 
-{{< imagehalftoc class="imagecenter" src="images/acf.png" alt="ACF flyer" >}}
+{{< imagehalftoc class="imagecenter" src="files/acf.png" alt="ACF flyer" >}}
 
 ## 🔜 Coming Soon
 
-{{< imagehalftoc class="imageright" src="images/appreciation.png" alt="Staff Appreciation flyer" >}}
+{{< imagehalftoc class="imageright" src="files/appreciation.png" alt="Staff Appreciation flyer" >}}
 
 🎉🍎Teacher Appreciation Week is May 8th-12th. We are so excited to celebrate our amazing Abingdon Educators and recognize them for all they do. Please use the following [Amazon Wish List to](https://www.amazon.com/hz/wishlist/ls/11534AA8PBT6C?ref=cm_sw_sm_r_un_un_QPeN2epu4DkhG) donate to our week of events. We are also looking for specific donated food/baked goods and volunteers. Please check out [this sign up genius](https://m.signupgenius.com/#!/showSignUp/30e0a44aca72aa5fe3-teacher) to donate to support during the week's events! If you haven't added your name to our [volunteer list](https://docs.google.com/forms/d/e/1FAIpQLSf50HFDkNfDxP5VfE2LzsxKbUPZdmRGQTeNEUhXkU_qLCLWZQ/viewform), please do! Look for an email coming soon for volunteer support.
 
@@ -171,4 +171,4 @@ Girls on the Run is looking for Buddy Runners for our upcoming 5K. Please consid
 - Thank you to Abingdon parent Ellen for compiling and organizing the PTA lovelines for our school yearbook!
 - We had a ribbon cutting ceremony with Yorktown High School student and Troop 106 Scout Thomas to spotlight his generous contribution - a custom built garden shed - for Abingdon! It was terrific to see the kids learn about his Eagle Scout project, weed the garden, and pick up litter. A thank you to all of our volunteers for coming out to the Abingdon Earth Day Celebration!
 
-{{< imagetoc src="images/IMG_4294.jpg" alt="Ribbon-cutting photo" >}}
+{{< imagetoc src="files/IMG_4294.jpg" alt="Ribbon-cutting photo" >}}

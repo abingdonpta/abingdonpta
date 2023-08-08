@@ -4,15 +4,15 @@ summary: The program for International & Cultural Heritage and History Night is 
 slug: program
 date: 2023-04-21T05:00:00-04:00
 categories: events
-images: ["/2023/04/21/program/images/flyer-es-1.png"]
+images: ["/2023/04/21/program/files/flyer-es-1.png"]
 ---
 
 The program for International & Cultural Heritage and History Night in Spanish and English is below.
 
-<img src="images/flyer-es-1.png" alt="International Night flyer page 1 in Spanish" width="492" height="637">
-<img src="images/flyer-es-2.png" alt="International Night flyer page 2 in Spanish" width="492" height="637">
-<img src="images/flyer-en-1.png" alt="International Night flyer page 1 in English" width="492" height="637">
-<img src="images/flyer-en-2.png" alt="International Night flyer page 2 in English" width="492" height="637">
+<img src="files/flyer-es-1.png" alt="International Night flyer page 1 in Spanish" width="492" height="637">
+<img src="files/flyer-es-2.png" alt="International Night flyer page 2 in Spanish" width="492" height="637">
+<img src="files/flyer-en-1.png" alt="International Night flyer page 1 in English" width="492" height="637">
+<img src="files/flyer-en-2.png" alt="International Night flyer page 2 in English" width="492" height="637">
 
 ## Abingdon's International-Cultural Heritage & History Night
 

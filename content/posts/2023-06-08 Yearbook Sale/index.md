@@ -4,7 +4,7 @@ summary: Yearbooks for the 2022-2023 school year can be bought at certain times 
 slug: yearbook sale
 date: 2023-06-08T19:00:00-04:00
 categories: yearbook
-images: ["/2023/06/08/yearbook-sale/images/flyer-en.png"]
+images: ["/2023/06/08/yearbook-sale/files/flyer-en.png"]
 ---
 
 Abingdon Elementary '22-'23 yearbooks are on sale now! 
@@ -22,5 +22,5 @@ Visit the Abingdon PTA table (in front of the school) at the following times to 
 
 **Times may be subject to change based on volunteer availability.**
 
-{{< imagehalf src="images/flyer-en.png" alt="Yearbook sale flyer in English" >}}
-{{< imagehalf src="images/flyer-es.png" alt="Yearbook sale flyer in Spanish" >}}
+{{< imagehalf src="files/flyer-en.png" alt="Yearbook sale flyer in English" >}}
+{{< imagehalf src="files/flyer-es.png" alt="Yearbook sale flyer in Spanish" >}}

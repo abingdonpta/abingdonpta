@@ -4,7 +4,7 @@ summary: Registration starts Monday, March 13 at 8 AM.
 slug: enrichment
 date: 2023-03-09T05:00:00-05:00
 categories: enrichment
-images: ["/2023/03/09/enrichment/images/flyer-en.png"]
+images: ["/2023/03/09/enrichment/files/flyer-en.png"]
 ---
 
 It's time to register for the Spring Session of after-school enrichment classes! The Abingdon PTA is partnering with Baroody Camps to offer this program.
@@ -17,5 +17,5 @@ We have distributed paper forms to classroom teachers to place in backpacks next
 
 Questions? Contact us at abingdonelementarypta@gmail.com. Thank you kindly.
 
-{{< imagehalf src="images/flyer-en.png" alt="Winter Enrichment flyer" >}}
-{{< imagehalf src="images/flyer-es.png" alt="Winter Enrichment flyer in Spanish" >}}
+{{< imagehalf src="files/flyer-en.png" alt="Winter Enrichment flyer" >}}
+{{< imagehalf src="files/flyer-es.png" alt="Winter Enrichment flyer in Spanish" >}}

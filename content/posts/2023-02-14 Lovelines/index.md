@@ -4,7 +4,7 @@ summary: Lovelines are back for the 2023 yearbook! You can leave a special messa
 slug: lovelines
 date: 2023-02-14T05:30:00-05:00
 categories: fundraisers
-images: ["/2023/02/14/lovelines/images/flyer-en.png"]
+images: ["/2023/02/14/lovelines/files/flyer-en.png"]
 ---
 
 Yearbook Lovelines are back for the 2023 yearbook! You can leave a special message for your student or your student can leave a message for their friends!
@@ -24,9 +24,9 @@ If you have any questions, reach out to abingdonelementarypta@gmail.com.
 Please detach the bottom part of the form below and submit with payment to your student's teacher. You should have received this form in your Tuesday folder that went home on February 14 — if not, you can print out the form below.
 
 #### Color Forms
-<a href="images/flyer-en.pdf"><img src="images/flyer-en.png" width="492" height="637" alt="Lovelines form in English"></a>
-<a href="images/flyer-es.pdf"><img src="images/flyer-es.png" width="492" height="637" alt="Lovelines form in Spanish"></a>
+<a href="files/flyer-en.pdf"><img src="files/flyer-en.png" width="492" height="637" alt="Lovelines form in English"></a>
+<a href="files/flyer-es.pdf"><img src="files/flyer-es.png" width="492" height="637" alt="Lovelines form in Spanish"></a>
 
 #### Black and White Forms
-<a href="images/flyer-en-nocolor.pdf"><img src="images/flyer-en-nocolor.png" width="492" height="637" alt="Black and White Lovelines form in English"></a>
-<a href="images/flyer-es-nocolor.pdf"><img src="images/flyer-es-nocolor.png" width="492" height="637" alt="Black and White Lovelines form in Spanish"></a>
+<a href="files/flyer-en-nocolor.pdf"><img src="files/flyer-en-nocolor.png" width="492" height="637" alt="Black and White Lovelines form in English"></a>
+<a href="files/flyer-es-nocolor.pdf"><img src="files/flyer-es-nocolor.png" width="492" height="637" alt="Black and White Lovelines form in Spanish"></a>

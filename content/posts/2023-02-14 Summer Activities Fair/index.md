@@ -4,7 +4,7 @@ summary: Learn about the available programs, camps, and activities for this summ
 slug: summer activities fair
 date: 2023-02-14T05:00:00-05:00
 categories: "passed along"
-images: ["/2023/02/14/summer-activities-fair/images/flyer-en.png"]
+images: ["/2023/02/14/summer-activities-fair/files/flyer-en.png"]
 ---
 
 The PTA is passing along this message from the [Arlington County Council of PTA's](https://www.arlingtonccpta.org/).
@@ -28,5 +28,5 @@ For questions, contact Gerson Paniagua at [gerson.paniagua@apsva.us](mailto:dary
 
 More information is available here: https://www.apsva.us/summerfair/
 
-{{< imagehalf src="images/flyer-en.png" alt="Summer Activities Fair flyer" >}}
-{{< imagehalf src="images/flyer-es.png" alt="Summer Activities Fair Spanish" >}}
+{{< imagehalf src="files/flyer-en.png" alt="Summer Activities Fair flyer" >}}
+{{< imagehalf src="files/flyer-es.png" alt="Summer Activities Fair Spanish" >}}

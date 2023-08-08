@@ -15,7 +15,7 @@ The Abingdon PTA Grant Program supports student learning in the classroom and be
 - This money is split into three tranches to be granted in the fall, winter, and spring. The Executive Board votes on grant applications at their meetings.
 - Grant requests may be funded, in whole or in part, by a business donor, with the mutual consent of the donor and the staff recipient. This is a great way for local businesses to support their neighborhood school, and to stretch PTA funds further.
 - When a grant is approved, the PTA will pay directly for the item or service whenever possible.
-- The awardee will [sign this form](pdf/grant-program-agreement.pdf), agreeing that the granted items are now property of Abingdon Elementary School; that the PTA will not be responsible for any maintenance or subsequent costs; and that the PTA asks that these items stay at Abingdon Elementary regardless of staff turnover.
+- The awardee will [sign this form](files/grant-program-agreement.pdf), agreeing that the granted items are now property of Abingdon Elementary School; that the PTA will not be responsible for any maintenance or subsequent costs; and that the PTA asks that these items stay at Abingdon Elementary regardless of staff turnover.
 
 ## When are grants awarded?
 
@@ -35,7 +35,7 @@ Grant requests should provide a beneficial impact to a wide range of students (e
 
 Grants cannot be used to pay for items already purchased, something that will only benefit a small number of students or a single classroom, capital expenses, IEP materials, professional memberships or training, or curriculum materials which are the responsibility of APS.
 
-Grant funds also cannot be used to purchase headphones, which principals should provide to staff upon request. Superintendent Durán stated this during the [January](pdf/ccpta-1.pdf#page=2) and [February](pdf/ccpta-2.pdf#page=2) 2023 CCPTA meetings.
+Grant funds also cannot be used to purchase headphones, which principals should provide to staff upon request. Superintendent Durán stated this during the [January](files/ccpta-1.pdf#page=2) and [February](files/ccpta-2.pdf#page=2) 2023 CCPTA meetings.
 
 **Grant requests should be between $100 and $500.**
 

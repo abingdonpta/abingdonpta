@@ -4,7 +4,7 @@ summary: Come watch the movie Wonder on Friday, March 10 in Abingdon's gym.
 slug: movie night
 date: 2023-03-02T19:00:00-05:00
 categories: ["events","passed along"]
-images: ["/2023/03/02/movie-night/images/flyer.jpg"]
+images: ["/2023/03/02/movie-night/files/flyer.jpg"]
 ---
 
 The PTA is passing along this message from Renita Upshur, Abingdon's wonderful science teacher and the lead of Abingdon's DEI Committee.
@@ -28,12 +28,12 @@ Guidelines:
 
 > *Presented by the DEI Committee. Sponsored by the Abingdon PTA.*
 
-<a href="images/flyer.jpg"><img src="images/flyer.jpg" alt="Movie Night flyer" height="637" width="492"></a>
-<a href="images/flyer-es.jpg"><img src="images/flyer-es.jpg" alt="Movie Night flyer" height="637" width="492"></a>
+<a href="files/flyer.jpg"><img src="files/flyer.jpg" alt="Movie Night flyer" height="637" width="492"></a>
+<a href="files/flyer-es.jpg"><img src="files/flyer-es.jpg" alt="Movie Night flyer" height="637" width="492"></a>
 
 <!--
 
-{{< imagehalf src="images/flyer.jpg" alt="Movie Night flyer" >}}
-{{< imagehalf src="images/flyer-es.jpg" alt="Movie Night flyer in Spanish" >}}
+{{< imagehalf src="files/flyer.jpg" alt="Movie Night flyer" >}}
+{{< imagehalf src="files/flyer-es.jpg" alt="Movie Night flyer in Spanish" >}}
 
 -->

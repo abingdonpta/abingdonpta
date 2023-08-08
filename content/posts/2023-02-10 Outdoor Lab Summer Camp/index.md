@@ -4,7 +4,7 @@ summary: Sign up for summer camp at the Arlington Outdoor Lab starting on March 
 slug: outdoor lab summer camp
 date: 2023-02-13T05:00:00-05:00
 categories: "passed along"
-images: ["/2023/02/13/outdoor-lab-summer-camp/images/brochure-1.png"]
+images: ["/2023/02/13/outdoor-lab-summer-camp/files/brochure-1.png"]
 ---
 
 The PTA is passing along this message from Clare McLean, one of our wonderful Kindergarten Assistants here at Abingdon. She also serves as the Summer Camp Assistant Director at the Outdoor Lab.
@@ -25,10 +25,10 @@ Hope to see your student at Outdoor Lab Summer Camp!
 
 *If you have questions about summer camp activities or registration, please contact: Lab Coordinator Rochelle Proctor at [rochelle.proctor@apsva.us](mailto:rochelle.proctor@apsva.us) or 540.347.2258.*
 
-#### English brochure ([PDF](images/brochure.pdf))
-{{< imagehalf src="images/brochure-en-1.png" alt="Outdoor Lab Summer Camp brochure in English" >}}
-{{< imagehalf src="images/brochure-en-2.png" alt="Outdoor Lab Summer Camp brochure in English" >}}
+#### English brochure ([PDF](files/brochure.pdf))
+{{< imagehalf src="files/brochure-en-1.png" alt="Outdoor Lab Summer Camp brochure in English" >}}
+{{< imagehalf src="files/brochure-en-2.png" alt="Outdoor Lab Summer Camp brochure in English" >}}
 
-#### Spanish brochure ([PDF](images/brochure-es.pdf))
-{{< imagehalf src="images/brochure-es-1.png" alt="Outdoor Lab Summer Camp brochure in Spanish" >}}
-{{< imagehalf src="images/brochure-es-2.png" alt="Outdoor Lab Summer Camp brochure in Spanish" >}}
+#### Spanish brochure ([PDF](files/brochure-es.pdf))
+{{< imagehalf src="files/brochure-es-1.png" alt="Outdoor Lab Summer Camp brochure in Spanish" >}}
+{{< imagehalf src="files/brochure-es-2.png" alt="Outdoor Lab Summer Camp brochure in Spanish" >}}

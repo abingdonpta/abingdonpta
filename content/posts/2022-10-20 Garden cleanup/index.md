@@ -4,7 +4,7 @@ summary: Join us Abingdon Community Garden on Sunday, November 6 for gardening, 
 slug: garden cleanup
 date: 2022-10-20T05:00:00-04:00
 categories: garden
-images: ["/2022/10/20/garden-cleanup/images/flyer-en.png"]
+images: ["/2022/10/20/garden-cleanup/files/flyer-en.png"]
 ---
 
 Help us clean up the school garden and plant cover crops. We will also have a special guest, Mrs. Andrea Nesbitt, who will read a story about the Native American Jingle Dress Dance and lead a craft activity too!
@@ -14,5 +14,5 @@ Help us clean up the school garden and plant cover crops. We will also have a sp
 
 To receive updates about garden volunteer opportunities, please [sign up here](https://us10.list-manage.com/subscribe?u=f9c2cb9188c78232702100f91&id=50d30d2a32).
 
-{{< imagehalf src="images/flyer-en.png" alt="Abingdon Community Garden Cleanup flyer in English" >}}
-{{< imagehalf src="images/flyer-es.png" alt="Abingdon Community Garden Cleanup flyer in Spanish" >}}
+{{< imagehalf src="files/flyer-en.png" alt="Abingdon Community Garden Cleanup flyer in English" >}}
+{{< imagehalf src="files/flyer-es.png" alt="Abingdon Community Garden Cleanup flyer in Spanish" >}}

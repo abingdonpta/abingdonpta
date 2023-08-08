@@ -4,7 +4,7 @@ summary: The Arlington Police are holding a summer camp for rising fifth graders
 slug: safety patrol camp
 date: 2023-03-24T05:00:00-04:00
 categories: "passed along"
-images: ["/2023/03/24/safety-patrol-camp/images/flyer-en.png"]
+images: ["/2023/03/24/safety-patrol-camp/files/flyer-en.png"]
 ---
 
 The PTA is passing along this message from the Arlington County Police Department.
@@ -15,4 +15,4 @@ Interested in becoming a school safety patrol? During this five-day camp, rising
 
 More information, including registration, is available at https://www.arlingtonva.us/Government/Departments/Police-Department/Summer-Safety-Patrol-Camp.
 
-{{< imagehalf class="imagecenter" src="images/flyer-en.png" alt="Safety Patrol Camp flyer" >}}
+{{< imagehalf class="imagecenter" src="files/flyer-en.png" alt="Safety Patrol Camp flyer" >}}

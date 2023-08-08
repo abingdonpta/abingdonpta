@@ -4,7 +4,7 @@ summary: El registro está abierto hasta el viernes 9 de septiembre.
 slug: enrichment
 date: 2022-09-01T15:00:00-04:00
 categories: enrichment
-images: ["/2022/09/01/enrichment/images/IMG_2483.jpg"]
+images: ["/2022/09/01/enrichment/files/IMG_2483.jpg"]
 ---
 
 ¡Es hora de registrarse para la sesión de otoño de clases de enriquecimiento después de la escuela! La PTA de Abingdon se ha asociado con Baroody Camps para ofrecer este programa.
@@ -17,4 +17,4 @@ Hemos distribuido formularios en papel a los maestros de clase para que los colo
 
 ¿Preguntas? Contáctenos en abingdonelementarypta@gmail.com. Gracias.
 
-{{< imagehalf class="imagecenter" src="images/IMG_2483.jpg" alt="Fall enrichment paper forms" >}}
+{{< imagehalf class="imagecenter" src="files/IMG_2483.jpg" alt="Fall enrichment paper forms" >}}

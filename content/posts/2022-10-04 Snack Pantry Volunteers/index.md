@@ -4,7 +4,7 @@ summary: We are asking for volunteers to help distribute food to Abingdon's clas
 slug: snack pantry volunteers
 date: 2022-10-04T05:00:00-04:00
 categories: ["volunteer opportunities","snack pantry"]
-images: ["/2022/10/04/snack-pantry-volunteers/images/flyer-en.png"]
+images: ["/2022/10/04/snack-pantry-volunteers/files/flyer-en.png"]
 ---
 
 Amazon is donating more than $250,000 worth of products from Amazon Fresh to Food For Neighbors, Abingdon Elementary School, and DC Food Project to support more students facing food insecurity have access to fresh and shelf-stable food.
@@ -19,5 +19,5 @@ We need help with:
 
 Volunteers are needed every Thursday, from 2:30 to 4:30 PM. To volunteer, click here: https://www.signupgenius.com/go/20f0c4aacab2aaaff2-abingdon1
 
-{{< imagehalf src="images/flyer-en.png" alt="Snack Pantry Volunteer flyer" >}}
-{{< imagehalf src="images/flyer-es.png" alt="Snack Pantry Volunteer flyer" >}}
+{{< imagehalf src="files/flyer-en.png" alt="Snack Pantry Volunteer flyer" >}}
+{{< imagehalf src="files/flyer-es.png" alt="Snack Pantry Volunteer flyer" >}}

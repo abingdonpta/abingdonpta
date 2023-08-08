@@ -4,7 +4,7 @@ summary: Parents and students are invited to come and visit their new classroom 
 slug: open house
 date: 2023-08-04T5:00:00-04:00
 categories: ["events","passed along"]
-images: ["/2023/08/04/open-house/images/flyer.png"]
+images: ["/2023/08/04/open-house/files/flyer.png"]
 ---
 
 The PTA is passing along this message from [Abingdon's website. View the website for additional information about the start of school.](https://abingdon.apsva.us/post/2023-2024-class-assignments-and-school-year-information/)
@@ -17,4 +17,4 @@ Open House will be on Thursday, August 24, 2023 for families by Last Name as fol
 
 Parents and students are invited to come and visit their new classroom and to meet their new teachers.
 
-{{< image src="images/flyer.png" alt="Open House flyer in English and Spanish" >}}
+{{< image src="files/flyer.png" alt="Open House flyer in English and Spanish" >}}
