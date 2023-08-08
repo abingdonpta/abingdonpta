@@ -4,6 +4,7 @@ summary: The PTA is hosting popsicle playdates for rising kindergarteners this s
 slug: rising kindergarten playdates
 date: 2023-06-06T05:00:00-04:00
 categories: events
+aliases: ["/2023/06/05/rising-kindergarten-playdates"]
 images: ["/2023/06/06/rising-kindergarten-playdates/files/flyer-en.png"]
 ---
 

@@ -7,7 +7,7 @@ categories: ["events","passed along"]
 images: ["/2023/08/04/open-house/files/flyer.png"]
 ---
 
-The PTA is passing along this message from [Abingdon's website. View the website for additional information about the start of school.](https://abingdon.apsva.us/post/2023-2024-class-assignments-and-school-year-information/)
+The PTA is passing along this message from [Abingdon's website. View the website](https://abingdon.apsva.us/post/2023-2024-class-assignments-and-school-year-information/) for additional information about the start of school.
 
 ---
 
