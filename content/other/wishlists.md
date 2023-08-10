@@ -2,7 +2,6 @@
 title: Staff Wishlists
 summary: Abingdon staff have put together wishlists for classroom supplies.
 weight: 40
-linktitle: Staff Wishlists
 aliases: ["/wishlist"]
 booktoc: true
 ---

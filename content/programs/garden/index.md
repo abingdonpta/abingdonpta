@@ -17,7 +17,7 @@ Abingdon Elementary would love your support to create a successful, sustainable 
 
 ## What's Growing?
 
-Here's what's planted or growing in the garden in **Spring 2023**:
+Here's what's planted or growing in the garden in **Summer 2023**:
 
 <a href="files/garden-map.svg"><img src="files/garden-map.svg" width="736" height="368" alt="Garden Map"></a>
 
@@ -25,15 +25,15 @@ Here's what's planted or growing in the garden in **Spring 2023**:
 | ------ | ------ |
 | Bed 1  | Brussels Sprouts 🥬 |
 | Bed 2  | Kale 🥬<br>Collards 🥬<br>Broccoli 🥬<br>Onions 🧅<br>Sage<br>Thyme<br>Lavender<br>Black & Bloom Salvia<br>Lemon Verbena |
-| Bed 3  | Celery 🥬 |
-| Bed 4  | |
+| Bed 3  | Celery 🥬<br>Tomatoes 🍅 |
+| Bed 4  | Tomatoes 🍅<br>Flowers 🌼 |
 | Bed 5  | Garlic 🧄 |
 | Bed 6  | Onions 🧅<br>Lettuce 🥬 |
-| Bed 7  | Whorled Milkweed 🌿<br>New England Astor |
-| Bed 8  | Onions 🧅<br>Strawberries 🍓<br>Lettuce 🥬 |
-| Bed 9  |  |
-| Bed 10 | Butterfly weed 🦋<br>Zinnia |
-| Bed 11 |  |
+| Bed 7  | Whorled Milkweed 🌿<br>New England Astor<br>Black-eyed Susan<br>Zinnia 🌼 |
+| Bed 8  | Strawberries 🍓<br>Lettuce 🥬<br>Okra |
+| Bed 9  | Corn 🌽 |
+| Bed 10 | Butterfly weed 🦋<br>Zinnia 🌼<br>Peppers 🫑 |
+| Bed 11 | Zinnias and other flowers 🌼 |
 
 ## Photos
 
