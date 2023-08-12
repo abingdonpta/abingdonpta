@@ -2,6 +2,7 @@
 title: Snack Pantry
 summary: The Abingdon PTA distributes snacks to support students facing food insecurity.
 weight: 70
+draft: true
 ---
 
 [Amazon has made a generous donation to Abingdon Elementary in order to support students facing food insecurity.](https://www.aboutamazon.com/news/community/amazon-alleviating-hunger-for-students-throughout-hq2-region) This donation is being used to stock Abingdon's classrooms with shelf-stable food for students.

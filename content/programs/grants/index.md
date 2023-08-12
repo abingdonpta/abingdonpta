@@ -11,13 +11,15 @@ The Abingdon PTA Grant Program supports student learning in the classroom and be
 
 ## How does the grant process work?
 
-- The PTA allocates funds for grants in September as part of its annual budget. For the 2022-2023 school year, the PTA has budgeted **$3,400** for grants.
+- The PTA allocates funds for grants in September as part of its annual budget. For the 2022-2023 school year, the PTA budgeted **$3,400** for grants.
 - This money is split into three tranches to be granted in the fall, winter, and spring. The Executive Board votes on grant applications at their meetings.
 - Grant requests may be funded, in whole or in part, by a business donor, with the mutual consent of the donor and the staff recipient. This is a great way for local businesses to support their neighborhood school, and to stretch PTA funds further.
 - When a grant is approved, the PTA will pay directly for the item or service whenever possible.
 - The awardee will [sign this form](files/grant-program-agreement.pdf), agreeing that the granted items are now property of Abingdon Elementary School; that the PTA will not be responsible for any maintenance or subsequent costs; and that the PTA asks that these items stay at Abingdon Elementary regardless of staff turnover.
 
 ## When are grants awarded?
+
+This was the schedule for the 2022-2023 school year. Stay tuned for the 2023-2024 schedule.
 
 | Season | Grant Deadline | Executive Board meeting | Money to be Granted |
 | ------ | -------------- | ----------------------- | ------------------- |
