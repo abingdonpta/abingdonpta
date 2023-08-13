@@ -12,4 +12,4 @@ draft: true
 We could use your help to ensure this program is a success. If you are able to help distribute food to classrooms, please sign up here:
 https://www.signupgenius.com/go/20f0c4aacab2aaaff2-abingdon1
 
-{{< button relref="/categories/snack-pantry/" >}}Click Here for the Latest News About Abingdon's Snack Pantry{{< /button >}}
+{{< button relref="/categories/snack-pantry/" >}}View Latest Updates About Abingdon's Snack Pantry{{< /button >}}

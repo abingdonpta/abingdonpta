@@ -8,7 +8,7 @@ Abingdon's PTA partners with a vendor who provides in-person enrichment classes 
 
 The PTA may also operate after-school programs directly, such as [Cardinal Coding Club](/2022/11/07/cardinal-coding/) and [Cardinal Chinese Club](/2023/01/10/chinese-club/).
 
-{{< button relref="/categories/enrichment/" >}}Click Here for the Latest News About After-School Enrichment{{< /button >}}
+{{< button relref="/categories/enrichment/" >}}View Latest Updates About After-School Enrichment{{< /button >}}
 
 ---
 
@@ -16,4 +16,4 @@ The PTA may also operate after-school programs directly, such as [Cardinal Codin
 
 Families that need regular before-school and afterschool child care may register for Extended Day, which is run through Arlington Public Schools.
 
-{{< button href="https://www.apsva.us/extended-day/" >}}Click Here to Register for Extended Day{{< /button >}}
+{{< button href="https://www.apsva.us/extended-day/" >}}Register for Extended Day{{< /button >}}

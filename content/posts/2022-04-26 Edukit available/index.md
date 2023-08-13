@@ -17,4 +17,4 @@ Order by June 30 for the best prices! Extended ordering is available July 1 – 
 
 Questions? Contact Samantha Levine-Finley, slevinefinley@gmail.com.
 
-{{< button href="https://www.edukitinc.com/schools/1287/" >}}Click Here to Order Your Edukit for 2022-2023{{< /button >}}
+{{< button href="https://www.edukitinc.com/schools/1287/" >}}Order Your Edukit for 2022-2023{{< /button >}}

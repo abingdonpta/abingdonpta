@@ -9,7 +9,7 @@ booktoc: true
 
 The PTA needs to raise funds to fulfill its mission. Fortunately, there are a number of ways to financially support the PTA.
 
-{{< button relref="/categories/fundraisers/" >}}Click Here for the Latest News About Fundraisers{{< /button >}}
+{{< button relref="/categories/fundraisers/" >}}View Latest Updates About Fundraisers{{< /button >}}
 
 ## Donate
 
@@ -20,7 +20,7 @@ The PTA accepts open-ended donations at all times, using the following methods:
 {{< tab "Credit Card" >}}
 You may donate to the PTA using a credit card on Memberhub. A portion of the donation will be used to pay transaction fees ($0.50 + 3.5% of each transaction).
 
-{{< button href="https://abingdonpta.memberhub.com/store/items/62200" >}}Click Here to Donate to the PTA Using Memberhub{{< /button >}}
+{{< button href="https://abingdonpta.memberhub.com/store/items/62200" >}}Donate to the PTA Using Memberhub{{< /button >}}
 {{< /tab >}}
 {{< tab "Check" >}}
 You may donate to the PTA by sending us a check. You may mail checks to:

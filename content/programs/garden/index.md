@@ -13,7 +13,7 @@ Abingdon Elementary would love your support to create a successful, sustainable 
 
 ## What's New in the Garden?
 
-{{< button relref="/categories/garden/" >}}Click Here for the Latest Garden News{{< /button >}}
+{{< button relref="/categories/garden/" >}}View Latest Updates about Abingdon's Garden{{< /button >}}
 
 ## What's Growing?
 

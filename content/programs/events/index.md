@@ -11,8 +11,8 @@ The PTA organizes several events throughout the year. These events strengthen ou
 
 If you're interested in helping to organize our events, please [fill out our volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSf50HFDkNfDxP5VfE2LzsxKbUPZdmRGQTeNEUhXkU_qLCLWZQ/viewform?usp=sf_link).
 
-{{< button relref="/categories/events/" >}}Click Here for the Latest News About Events{{< /button >}}<br><br>
-{{< button relref="/categories/photos/" >}}Click Here for More Photos of Past Events{{< /button >}}
+{{< button relref="/categories/events/" >}}View Latest Updates About Events{{< /button >}}<br><br>
+{{< button relref="/categories/photos/" >}}Additional Photos of Past Events{{< /button >}}
 
 ## Rising Kindergarten Playdates
 

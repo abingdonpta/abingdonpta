@@ -2,7 +2,7 @@
 title: Adopted Summer Budget for July 1, 2023 — September 2023
 summary: 2023 Summer Budget for the Abingdon PTA.
 url: /summerbudget/
-aliases: ["/budget/2023/"]
+aliases: ["/summerbudget/2023/"]
 ---
 
 This summer budget was adopted by the PTA's General Membership at our May 9, 2023 meeting.
