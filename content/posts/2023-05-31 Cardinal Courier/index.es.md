@@ -44,7 +44,7 @@ Sharon Burd
 
 ¡Comenzaron las ventas de EduKit para el año escolar 2023-2024! Cada EduKit contiene los útiles escolares que su estudiante necesita para el próximo año según lo solicitado por nuestros maestros de Abingdon. Vaya en línea a https://www.edukitinc.com/schools/1287 antes del 10 de julio para pedir el EduKit de su hijo.
 
-{{< imagefull src="files/edukit-en.jpg" alt="Edukit flyer" >}}
+{{< image src="files/edukit-en.jpg" alt="Edukit flyer" >}}
 
 ### 👋 Inicio del jardín de infancia
 

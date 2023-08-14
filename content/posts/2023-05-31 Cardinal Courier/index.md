@@ -48,7 +48,7 @@ Sharon Burd
 
 EduKit sales for the 2023-2024 school year have begun! Each EduKit contains the school supplies your student needs for next year as requested by our Abingdon teachers. Go online to https://www.edukitinc.com/schools/1287 by July 10 to order your child's EduKit.
 
-{{< imagefull src="files/edukit-en.jpg" alt="Edukit flyer" >}}
+{{< image src="files/edukit-en.jpg" alt="Edukit flyer" >}}
 
 ---
 
