@@ -18,6 +18,6 @@ Come celebrate Día de los Muertos by watching Coco — a musical film celebrati
 
 > *Presented by the DEI Committee. Sponsored by the Abingdon PTA.*
 
-{{< imagehalf src="files/flyer-en.png" alt="Movie Night flyer" >}}
-{{< imagehalf src="files/flyer-es.png" alt="Movie Night flyer in Spanish" >}}
-{{< imagehalf src="files/flyer-mn.png" alt="Movie Night flyer in Mongolian" >}}
+{{< imgresize o=492x src="files/flyer-en.png" alt="Movie Night flyer" >}}
+{{< imgresize o=492x src="files/flyer-es.png" alt="Movie Night flyer in Spanish" >}}
+{{< imgresize o=492x src="files/flyer-mn.png" alt="Movie Night flyer in Mongolian" >}}

@@ -56,7 +56,7 @@ Registration will open on **Monday, March 13 at 8 AM**. Signups will operate acc
 
 ### 👋 PTA General Membership Virtual Meeting on Tuesday, March 14
 
-{{< imagehalftoc class="imageright" src="files/meeting-flyer.png" alt="Meeting flyer" >}}
+{{< imgresize o=360x class="imageright" src="files/meeting-flyer.png" alt="Meeting flyer" >}}
 
 - **Who**: Teachers, Parents, Guardians, Students, Community Members
 - **What**: March General Membership Virtual Meeting  
@@ -71,7 +71,7 @@ The meeting agenda is available here: https://www.abingdonpta.org/agendas/2023-0
 
 ### 📽️ Family Movie Night Tonight
 
-{{< imagehalftoc class="imageright" src="files/movie-flyer.jpg" alt="Movie flyer" >}}
+{{< imgresize o=360x class="imageright" src="files/movie-flyer.jpg" alt="Movie flyer" >}}
 
 Abingdon's DEI Committee is presenting Family Movie Night tonight, featuring “Wonder,” rated PG.
 

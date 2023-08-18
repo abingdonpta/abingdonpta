@@ -19,5 +19,5 @@ We need help with:
 
 Volunteers are needed every Thursday, from 2:30 to 4:30 PM. To volunteer, click here: https://www.signupgenius.com/go/20f0c4aacab2aaaff2-abingdon1
 
-{{< imagehalf src="files/flyer-en.png" alt="Snack Pantry Volunteer flyer" >}}
-{{< imagehalf src="files/flyer-es.png" alt="Snack Pantry Volunteer flyer" >}}
+{{< imgresize o=492x src="files/flyer-en.png" alt="Snack Pantry Volunteer flyer" >}}
+{{< imgresize o=492x src="files/flyer-es.png" alt="Snack Pantry Volunteer flyer" >}}

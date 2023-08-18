@@ -44,11 +44,11 @@ Sharon Burd
 
 ¡Comenzaron las ventas de EduKit para el año escolar 2023-2024! Cada EduKit contiene los útiles escolares que su estudiante necesita para el próximo año según lo solicitado por nuestros maestros de Abingdon. Vaya en línea a https://www.edukitinc.com/schools/1287 antes del 10 de julio para pedir el EduKit de su hijo.
 
-{{< image src="files/edukit-en.jpg" alt="Edukit flyer" >}}
+{{< fig src="files/edukit-en.jpg" alt="Edukit flyer" >}}
 
 ### 👋 Inicio del jardín de infancia
 
-{{< imagehalftoc class="imageright" src="files/kindergarten-en.png" alt="Folleto de inicio del jardín de infancia" >}}
+{{< imgresize o=360x class="imageright" src="files/kindergarten-en.png" alt="Folleto de inicio del jardín de infancia" >}}
 
 La escuela está organizando un evento para los estudiantes registrados que ingresarán al jardín de infantes y que asistirán a la escuela primaria Abingdon en el otoño de 2023. ¡Venga a conocer a un maestro y reciba una bolsa de obsequios!
 
@@ -59,7 +59,7 @@ La escuela está organizando un evento para los estudiantes registrados que ingr
 
 ### 🏃 Se necesitan voluntarios para el día de campo
 
-{{< imagehalftoc class="imageright" src="files/field-es.png" alt="Field Day flyer" >}}
+{{< imgresize o=360x class="imageright" src="files/field-es.png" alt="Field Day flyer" >}}
 
 ¡Está invitado a ser voluntario para ayudar a que el Día de campo de Abingdon sea un éxito! La escuela necesita voluntarios para ayudar con las 12 estaciones por las que los estudiantes rotarán durante el Field Day el viernes 9 de junio. Hay 3 turnos:
 
@@ -77,7 +77,7 @@ https://www.signupgenius.com/go/30e0a44aca72aa5fe3-field1#/
 
 ### 📽️ Noche de cine en familia
 
-{{< imagehalftoc class="imageright" src="files/movie-es.png" alt="Folleto de la noche de cine" >}}
+{{< imgresize o=360x class="imageright" src="files/movie-es.png" alt="Folleto de la noche de cine" >}}
 
 El Comité DEI de Abingdon está presentando Family Movie Night, con "Little Door Gods".
 
@@ -98,7 +98,7 @@ Además, el Comité DEI de Abingdon ha solicitado cuatro voluntarios para ayudar
 
 ### 🎓 ¡Apoyemos a nuestros alumnos de 5to grado!
 
-{{< imagehalftoc class="imageright" src="files/graduation-es.png" alt="Folleto de voluntarios de graduación" >}}
+{{< imgresize o=360x class="imageright" src="files/graduation-es.png" alt="Folleto de voluntarios de graduación" >}}
 
 Necesitamos padres voluntarios de 4° grado (¡los padres voluntarios de otros grados también son bienvenidos!) para ayudar a Abingdon Elementary con los eventos de fin de año, como la promoción de 5° grado y el picnic de 5° grado. ¡Ayúdenos a celebrar a nuestros graduados cardenales antes de que se disparen a la escuela intermedia! Regístrate aquí: https://www.signupgenius.com/go/30e0a44aca72aa5fe3-abingdon3#/
 

@@ -8,8 +8,8 @@ images: ["/2023/06/30/thank-you/files/flyer-en.png"]
 
 Thank you for pouring your heart into our Abingdon community during the 2022-2023 school year!
 
-{{< imagehalf src="files/flyer-en.png" alt="Thank you flyer in English" >}}
-{{< imagehalf src="files/flyer-es.png" alt="Thank you flyer in Spanish" >}}
+{{< imgresize o=492x src="files/flyer-en.png" alt="Thank you flyer in English" >}}
+{{< imgresize o=492x src="files/flyer-es.png" alt="Thank you flyer in Spanish" >}}
 
 \* = New during the 2022-2023 school year (or reinstated from pre-COVID years)
 

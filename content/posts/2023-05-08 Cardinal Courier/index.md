@@ -57,7 +57,7 @@ For our last group of grants this school year, the PTA was happy to purchase STE
 
 ### 🌱 Spring Garden Workday
 
-{{< imagehalftoc class="imageright" src="files/garden.png" alt="Garden workday flyer" >}}
+{{< imgresize o=360x class="imageright" src="files/garden.png" alt="Garden workday flyer" >}}
 
 We will have a spring garden workday on Sunday, May 21, 2023, from 9:30 am to 11:30 am. Help us clean-up our school garden and pick up litter on the school grounds. We'll also be preparing a sunflower garden!
 

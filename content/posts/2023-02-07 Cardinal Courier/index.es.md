@@ -38,7 +38,7 @@ P.D.: También estamos encantados de compartir que el Equipo de Música Vocal e 
 
 ### 🏃‍♀️🏃🏾‍♀️ Girls on the Run
 
-{{< imagehalftoc class="imageright" src="files/gotr-flyer-es.png" alt="Girls on the Run flyer" >}}
+{{< imgresize o=360x class="imageright" src="files/gotr-flyer-es.png" alt="Girls on the Run flyer" >}}
 
 ¡Girls on the Run viene a la Escuela Primaria Abingdon! GOTR es un programa de desarrollo juvenil positivo basado en la actividad física para niñas de 3.° a 8.° grado. El programa enseña habilidades para la vida a través de lecciones interactivas dinámicas y juegos de correr. El objetivo del programa es dar rienda suelta a la confianza a través de los logros, al mismo tiempo que se establece una apreciación de por vida de la salud y el estado físico. Nuestro programa se ha adaptado para garantizar el distanciamiento físico y la seguridad. Las prácticas en persona incluyen precauciones y modificaciones de seguridad, desinfección y distanciamiento físico.
 
@@ -52,7 +52,7 @@ La inscripción para el programa Primavera 2023 está abierta del 6 al 28 de feb
 
 ### 👕 Nueva ropa de espíritu de Abingdon
 
-{{< imagehalftoc class="imageright" src="files/spirit-wear.png" alt="Spirit Wear" >}}
+{{< imgresize o=360x class="imageright" src="files/spirit-wear.png" alt="Spirit Wear" >}}
 
 ¡El PTA de Abingdon se complace en anunciar el NUEVO Spirit Wear! Muestre su espíritu escolar y apoye al PTA de Abingdon al mismo tiempo. Las ganancias de esta venta se destinan a financiar la PTA y sus esfuerzos para apoyar a la escuela y la comunidad. Consulte nuestro Spirit Wear que puede comprar utilizando el siguiente enlace: https://whitewaterprinting.com/abingdon-elementary. La compra comenzará el 15 de febrero y tendrá una duración de 3 semanas adicionales.
 

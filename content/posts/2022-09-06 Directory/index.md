@@ -11,7 +11,7 @@ The Abingdon PTA is pleased to announce we intend to create an **online student 
 #### How to opt in:
 Every year, as part of the [Annual Online Verification Process](https://www.apsva.us/registering-your-child/annual-online-verification-process/) (AOVP), families are required to review or update their contact information in [ParentVUE](https://va-arl-psv.edupoint.com/PXP2_Login.aspx) and verify that their information on file with the school is accurate and current. When completing this process, parents will come to a page asking whether they would like their family contact information to be included in the PTA Student Directory. Please be sure to select **“Yes, Please provide my student/family information”** to opt in to being included. (See screenshot below.)
 
-{{< image src="files/directory-opt-in2.png" alt="Screenshot showing how to opt-in to the online student directory" >}}
+{{< fig src="files/directory-opt-in2.png" alt="Screenshot showing how to opt-in to the online student directory" >}}
 
 #### For technical assistance:
 Please contact [Abingdon](https://abingdon.apsva.us/contact-us/) for assistance in activating your ParentVUE account or completing the AOVP. 

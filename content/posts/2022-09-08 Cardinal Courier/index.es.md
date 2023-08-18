@@ -89,7 +89,7 @@ Complete el [formulario de voluntariado de la PTA](https://docs.google.com/forms
 
 ## ☕ Convocatoria de donaciones de café
 
-{{< imagehalftoc class="imageright" src="files/IMG_8786.jpg" alt="Flyer para donaciones de café" >}}
+{{< imgresize o=360x class="imageright" src="files/IMG_8786.jpg" alt="Flyer para donaciones de café" >}}
 
 La PTA está solicitando donaciones de K-Cup con cafeína para nuestros excepcionales educadores de Abingdon. Envíe las donaciones a la oficina principal de Abingdon, con la etiqueta "PTA", o envíelas a:
 
@@ -109,4 +109,4 @@ También, gracias a nuestro equipo de riego de verano - Pat, Lauren, Amy, Matt y
 
 ¡El Cardenal de Abingdon realizó una excursión a la Feria del Condado de Arlington el mes pasado y quedó asombrado al ver los premiados okra, pimientos banana, menta, albahaca, tomates y zinnia de Abingdon!
 
-{{< imagehalftoc  class="imagecenter" src="files/IMG_1248.jpg" alt="El cardenal de Abingdon en la feria del condado de Arlington con plantas premiadas del jardín de Abingdon" >}}
+{{< figresize o=360x src="files/IMG_1248.jpg" alt="El cardenal de Abingdon en la feria del condado de Arlington con plantas premiadas del jardín de Abingdon" >}}

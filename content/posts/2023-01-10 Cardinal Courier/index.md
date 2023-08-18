@@ -47,7 +47,7 @@ Note: [View and subscribe to the PTA calendar on our website here](/calendar).
 
 ## 👋 PTA General Membership Virtual Meeting on Tuesday, January 10
 
-{{< imagehalftoc class="imageright" src="files/meeting-flyer.png" alt="Meeting flyer" >}}
+{{< imgresize o=360x class="imageright" src="files/meeting-flyer.png" alt="Meeting flyer" >}}
 
 **Who:** Teachers, Parents, Guardians, Students, Community Members  
 **What:** January General Membership Virtual Meeting  
@@ -64,7 +64,7 @@ The meeting agenda is available here: https://www.abingdonpta.org/agendas/2023-0
 
 ## ⛸️ Ice Skating Night
 
-{{< imagehalftoc class="imageright" src="files/skate-night.png" alt="Skate Night flyer" >}}
+{{< imgresize o=360x class="imageright" src="files/skate-night.png" alt="Skate Night flyer" >}}
 
 Abingdon PTA invites students & families to enjoy an evening of free ice skating. In order to know if families can skate with their Abingdon students at this free event, please RSVP @ [rb.gy/lhjmye](https://rb.gy/lhjmye)
 
@@ -78,7 +78,7 @@ Abingdon’s mental health team is helping to inspire students to be knowledgeab
 
 ## 🥨 Support the Classroom Snack Pantry
 
-{{< imagehalftoc class="imageright" src="files/snack-pantry.png" alt="Snack pantry flyer" >}}
+{{< imgresize o=360x class="imageright" src="files/snack-pantry.png" alt="Snack pantry flyer" >}}
 
 Volunteers are needed every Thursday from 2:30 pm - 4:30 pm for Abingdon’s classroom snack pantry. Sign up here: www.signupgenius.com/go/20f0c4aacab2aaaff2-abingdon1#/.
 
@@ -86,7 +86,7 @@ Volunteers are needed every Thursday from 2:30 pm - 4:30 pm for Abingdon’s cla
 
 ## 🧧 Lunar New Year Celebration
 
-{{< imagehalftoc class="imageright" src="files/lunar-new-year.png" alt="Lunar New Year flyer" >}}
+{{< imgresize o=360x class="imageright" src="files/lunar-new-year.png" alt="Lunar New Year flyer" >}}
 
 Join us for a Lunar New Year Celebration on Saturday, January 28th, as we welcome the Year of the Rabbit.
 
@@ -94,7 +94,7 @@ Join us for a Lunar New Year Celebration on Saturday, January 28th, as we welcom
 
 ## 🐲 Register for Cardinal Chinese Club
 
-{{< imagehalftoc class="imageright" src="files/chinese-club.png" alt="Lunar New Year flyer" >}}
+{{< imgresize o=360x class="imageright" src="files/chinese-club.png" alt="Lunar New Year flyer" >}}
 
 The PTA is launching an after school Cardinal Chinese Club on Fridays. Students will learn conversational phrases, how to write simplified characters, songs, and more. Students in kindergarten through 5th grade are invited to register. Financial assistance will be available. If you have any questions, reach out to Sharon Burd at abingdonptapresident@gmail.com.
 
@@ -102,7 +102,7 @@ The PTA is launching an after school Cardinal Chinese Club on Fridays. Students 
 
 ## ✏️ Abingdon’s Winter Assessment Date
 
-{{< imagehalftoc class="imageright" src="files/winter-assessments.png" alt="Winter Assessment Dates flyer" >}}
+{{< imgresize o=360x class="imageright" src="files/winter-assessments.png" alt="Winter Assessment Dates flyer" >}}
 
 Beginning in 2022 - 2023, students in grades 3rd - 8th take the Virginia Growth Assessment (VGA) in fall and winter. The purpose of these assessments is to measure student growth and progress in reading and mathematics content standards. Previously, last school year the test was only administered in the fall.
 
@@ -143,7 +143,7 @@ Please complete the [PTA's volunteer form](https://docs.google.com/forms/d/e/1FA
 
 ## 💞 Call for Donations
 
-{{< imagehalftoc class="imageright" src="files/clothing-drive.png" alt="Clothing Drive flyer" >}}
+{{< imgresize o=360x class="imageright" src="files/clothing-drive.png" alt="Clothing Drive flyer" >}}
 
 🧦 **Abingdon Clothing Drive**: We are collecting CLEAN WEARABLE unwanted clothing to stock our “Extras Closet” for students who may need clothing/personal items during the school day. Please drop off all donations in the front lobby of Abingdon Elementary or contact Megan Miller for pick-up at meganmiller44@gmail.com.
 
@@ -151,7 +151,7 @@ Please complete the [PTA's volunteer form](https://docs.google.com/forms/d/e/1FA
 
 ## 💸 Passive Fundraising
 
-{{< imagehalftoc class="imageright" src="files/mabels-labels.png" alt="Mabels Labels flyer" >}}
+{{< imgresize o=360x class="imageright" src="files/mabels-labels.png" alt="Mabels Labels flyer" >}}
 
 **🧥 Mabel's Labels Fundraiser.** Help your warm coats and sweatshirts come home each day! Get labels through our [Mabel's Labels Fundraiser](http://campaigns.mabelslabels.com/) and support your Abingdon PTA!
 
@@ -165,7 +165,7 @@ Please complete the [PTA's volunteer form](https://docs.google.com/forms/d/e/1FA
 
 ## ⛺ SEPTA Summer Camps & Activities Fair
 
-{{< imagehalftoc class="imageright" src="files/septa.png" alt="SEPTA Activities Fair flyer" >}}
+{{< imgresize o=360x class="imageright" src="files/septa.png" alt="SEPTA Activities Fair flyer" >}}
 
 Arlington Special Education PTA (SEPTA) is hosting a FREE Summer Activities Fair to help you plan for Summer 2023! Come learn about options for summer learning and adventure. SEPTA invites vendors from near and far – day camps and sleep-away camps, social skills, or outdoor adventure. There is something for every child.
 
@@ -193,4 +193,4 @@ We are impressed with the generosity and selflessness of our volunteers and supp
 
 ## ✨ Abingdon Cardinal visits the peaceful school garden to see the zinnia flowers.
 
-{{< imagehalftoc class="imagecenter" src="files/cardinal-garden.jpg" alt="Abingdon Cardinal in the school garden" >}}
+{{< figresize o=360x src="files/cardinal-garden.jpg" alt="Abingdon Cardinal in the school garden" >}}

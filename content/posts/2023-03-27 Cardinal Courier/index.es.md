@@ -42,7 +42,7 @@ Sharon Burd
 
 ### 🌎 Celebración del Día de la Tierra
 
-{{< imagehalftoc class="imageright" src="files/earth-day-flyer-es.png" alt="Folleto del Día de la Tierra" >}}
+{{< imgresize o=360x class="imageright" src="files/earth-day-flyer-es.png" alt="Folleto del Día de la Tierra" >}}
 
 Esta primavera nuestro jardín escolar se acercará a su 32 aniversario. Organizaremos una celebración del Día de la Tierra de Abingdon para honrar este hito histórico y una ceremonia de corte de cinta para revelar nuestro nuevo cobertizo de jardín escolar construido por el estudiante de la escuela secundaria Yorktown y Troop 106 Scout Thomas Totten. También estaremos limpiando el jardín y recogiendo basura de los terrenos de la escuela.
 
@@ -109,7 +109,7 @@ El Fairlington 5K se canceló debido a un cambio en las políticas del condado. 
 
 ### 🗺️ Noche internacional y cultural del patrimonio y la historia
 
-{{< imagehalftoc class="imageright" src="files/in-flyer-es.png" alt="International Night flyer" >}}
+{{< imgresize o=360x class="imageright" src="files/in-flyer-es.png" alt="International Night flyer" >}}
 
 ¡La Noche Anual de la Historia y el Patrimonio Cultural e Internacional de Abingdon REGRESA, **28 de abril de 5:30 p. m. a 7:30 p. m.**! ¡El año pasado celebramos juntos en la cafetería con mucha comida y diversión!
 

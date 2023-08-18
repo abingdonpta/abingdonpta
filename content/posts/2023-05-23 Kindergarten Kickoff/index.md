@@ -14,4 +14,4 @@ The school is hosting an event for registered, rising kindgarteners who will be 
 
 Please call the main office at (703) 228-6650 with any questions. Parking will be limited, so please plan accordingly.
 
-{{< imagehalf class="imagecenter" src="files/flyer-en.png" alt="Kick Off to Kindergarten Flyer" >}}
+{{< figresize o=492x src="files/flyer-en.png" alt="Kick Off to Kindergarten Flyer" >}}

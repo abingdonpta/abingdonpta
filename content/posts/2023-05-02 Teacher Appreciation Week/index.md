@@ -9,7 +9,7 @@ images: ["/2023/05/02/teacher-appreciation-week/files/flyer-en.png"]
 
 We are excited to celebrate our wonderful Abingdon Staff during Teacher Appreciation Week Monday, May 8th-Friday, May 12th. Please consider signing up to support the PTA with events during the week. Below you will find the flyer for next week and additional details and ways you and your student can support our amazing staff.
 
-{{< image class="imagecenter" src="files/flyer-en.png" alt="Teacher Appreciation Week flyer" >}}
+{{< fig src="files/flyer-en.png" alt="Teacher Appreciation Week flyer" >}}
 
 - **Sunday, May 7** from 3pm-4pm:
     - Chalk the Walk - decorate the entryway and parking lot to welcome staff 

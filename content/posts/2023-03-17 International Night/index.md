@@ -23,12 +23,12 @@ Meredith Greene
 meregreene5@gmail.com  
 703-216-5215
 
-{{< imagehalf src="files/flyer-en.png" alt="International Night flyer in English" >}}
-{{< imagehalf src="files/flyer-es.png" alt="International Night flyer in Spanish" >}}
-{{< imagehalf src="files/flyer-ar.png" alt="International Night flyer in Arabic" >}}
-{{< imagehalf src="files/flyer-mn.png" alt="International Night flyer in Mongolian" >}}
-{{< imagehalf src="files/flyer-am.png" alt="International Night flyer in Amharic" >}}
-{{< imagehalf src="files/flyer-bn.png" alt="International Night flyer in Bengali" >}}
-{{< imagehalf src="files/flyer-ti.png" alt="International Night flyer in Tigrinya" >}}
-{{< imagehalf src="files/flyer-fa.png" alt="International Night flyer in Farsi" >}}
-{{< imagehalf src="files/flyer-la.png" alt="International Night flyer in Latin" >}}
+{{< imgresize o=492x src="files/flyer-en.png" alt="International Night flyer in English" >}}
+{{< imgresize o=492x src="files/flyer-es.png" alt="International Night flyer in Spanish" >}}
+{{< imgresize o=492x src="files/flyer-ar.png" alt="International Night flyer in Arabic" >}}
+{{< imgresize o=492x src="files/flyer-mn.png" alt="International Night flyer in Mongolian" >}}
+{{< imgresize o=492x src="files/flyer-am.png" alt="International Night flyer in Amharic" >}}
+{{< imgresize o=492x src="files/flyer-bn.png" alt="International Night flyer in Bengali" >}}
+{{< imgresize o=492x src="files/flyer-ti.png" alt="International Night flyer in Tigrinya" >}}
+{{< imgresize o=492x src="files/flyer-fa.png" alt="International Night flyer in Farsi" >}}
+{{< imgresize o=492x src="files/flyer-la.png" alt="International Night flyer in Latin" >}}

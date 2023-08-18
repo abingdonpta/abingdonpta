@@ -28,5 +28,5 @@ For questions, contact Gerson Paniagua at [gerson.paniagua@apsva.us](mailto:dary
 
 More information is available here: https://www.apsva.us/summerfair/
 
-{{< imagehalf src="files/flyer-en.png" alt="Summer Activities Fair flyer" >}}
-{{< imagehalf src="files/flyer-es.png" alt="Summer Activities Fair Spanish" >}}
+{{< imgresize o=492x src="files/flyer-en.png" alt="Summer Activities Fair flyer" >}}
+{{< imgresize o=492x src="files/flyer-es.png" alt="Summer Activities Fair Spanish" >}}

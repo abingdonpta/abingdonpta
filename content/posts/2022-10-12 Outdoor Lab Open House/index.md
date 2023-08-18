@@ -33,5 +33,5 @@ Last spring, Abingdon had more families attend the Open House than any other APS
 
 Hope to see some of you at the Outdoor Lab on October 16th!
 
-{{< imagehalf src="files/flyer-en.png" alt="Outdoor Lab Open House flyer" >}}
-{{< imagehalf src="files/flyer-es.png" alt="Outdoor Lab Open House flyer in Spanish" >}}
+{{< imgresize o=492x src="files/flyer-en.png" alt="Outdoor Lab Open House flyer" >}}
+{{< imgresize o=492x src="files/flyer-es.png" alt="Outdoor Lab Open House flyer in Spanish" >}}

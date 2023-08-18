@@ -93,7 +93,7 @@ Please complete the [PTA's volunteer form](https://docs.google.com/forms/d/e/1FA
 
 ## ☕ Call for Coffee Donations
 
-{{< imagehalftoc class="imageright" src="files/IMG_8786.jpg" alt="Flyer for coffee donations" >}}
+{{< imgresize o=360x class="imageright" src="files/IMG_8786.jpg" alt="Flyer for coffee donations" >}}
 
 The PTA is calling for caffeinated K-Cup donations for our exceptional Abingdon educators. Please drop donations to the Abingdon main office, labeled "PTA," or ship to:
 
@@ -113,4 +113,4 @@ Also, thank you to our summer watering team - Pat, Lauren, Amy, Matt, and Karen 
 
 The Abingdon Cardinal took a field trip to the Arlington County Fair last month and was in awe of seeing Abingdon’s prize-winning okra, banana peppers, mint, basil, tomatoes, and zinnia!
 
-{{< imagehalftoc  class="imagecenter" src="files/IMG_1248.jpg" alt="The Abingdon Cardinal at the Arlington County Fair with prize-winning plants from Abingdon's garden" >}}
+{{< figresize o=360x src="files/IMG_1248.jpg" alt="The Abingdon Cardinal at the Arlington County Fair with prize-winning plants from Abingdon's garden" >}}

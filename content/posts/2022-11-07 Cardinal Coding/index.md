@@ -10,5 +10,5 @@ The PTA is launching our first Cardinal Coding Club this month! Students in 3rd 
 
 *Cardinal Coding Club: Mixing hands-on coding with interactive play, your young Computer Scientist will learn basic coding principles that allow them to bring stories to life. Using Scratch, a drag-and-drop multimedia programming language designed by MIT, children learn algorithms and programming all while developing and illustrating their own personal stories. Ms. Molly Fisher, Abingdon’s Instructional Technology Coordinator (ITC), will model how to plan, develop, and create a story using Scratch. Even Pixar will be impressed with the final creations!*
 
-{{< imagehalf src="files/flyer-en.png" alt="Cardinal Coding flyer" >}}
-{{< imagehalf src="files/flyer-es.png" alt="Cardinal Coding flyer in Spanish" >}}
+{{< imgresize o=492x src="files/flyer-en.png" alt="Cardinal Coding flyer" >}}
+{{< imgresize o=492x src="files/flyer-es.png" alt="Cardinal Coding flyer in Spanish" >}}

@@ -11,14 +11,14 @@ On November 9, Abingdon students participated in the Reflections program for the
 
 Three students will go on to represent Abingdon at the [Arlington County Reflections contest](https://www.apsva.us/post/arlington-county-council-of-ptas-announced-the-2022-23-reflections-winners/), which will be held at Washington-Liberty High School on January 17.
 
-{{< imagehalf src="files/PXL_20221109_234725231.jpg" alt="Photo from the Reflections Art Show" >}}
-{{< imagehalf src="files/PXL_20221109_235207828.jpg" alt="Photo from the Reflections Art Show" >}}
-{{< imagehalf src="files/PXL_20221109_234216892.jpg" alt="Photo from the Reflections Art Show" >}}
-{{< imagehalf src="files/PXL_20221109_234235060.jpg" alt="Photo from the Reflections Art Show" >}}
-{{< imagehalf src="files/PXL_20221109_234657931.jpg" alt="Photo from the Reflections Art Show" >}}
-{{< imagehalf src="files/PXL_20221109_234755219.jpg" alt="Photo from the Reflections Art Show" >}}
-{{< imagehalf src="files/PXL_20221109_234808066.jpg" alt="Photo from the Reflections Art Show" >}}
-{{< imagehalf src="files/PXL_20221109_234819642.jpg" alt="Photo from the Reflections Art Show" >}}
-{{< imagehalf src="files/PXL_20221109_235041153.jpg" alt="Photo from the Reflections Art Show" >}}
-{{< imagehalf src="files/PXL_20221109_235051494.jpg" alt="Photo from the Reflections Art Show" >}}
-{{< imagehalf src="files/PXL_20221109_234826197.jpg" alt="Photo from the Reflections Art Show" >}}
+{{< imgresize o=492x src="files/PXL_20221109_234725231.jpg" alt="Photo from the Reflections Art Show" >}}
+{{< imgresize o=492x src="files/PXL_20221109_235207828.jpg" alt="Photo from the Reflections Art Show" >}}
+{{< imgresize o=492x src="files/PXL_20221109_234216892.jpg" alt="Photo from the Reflections Art Show" >}}
+{{< imgresize o=492x src="files/PXL_20221109_234235060.jpg" alt="Photo from the Reflections Art Show" >}}
+{{< imgresize o=492x src="files/PXL_20221109_234657931.jpg" alt="Photo from the Reflections Art Show" >}}
+{{< imgresize o=492x src="files/PXL_20221109_234755219.jpg" alt="Photo from the Reflections Art Show" >}}
+{{< imgresize o=492x src="files/PXL_20221109_234808066.jpg" alt="Photo from the Reflections Art Show" >}}
+{{< imgresize o=492x src="files/PXL_20221109_234819642.jpg" alt="Photo from the Reflections Art Show" >}}
+{{< imgresize o=492x src="files/PXL_20221109_235041153.jpg" alt="Photo from the Reflections Art Show" >}}
+{{< imgresize o=492x src="files/PXL_20221109_235051494.jpg" alt="Photo from the Reflections Art Show" >}}
+{{< imgresize o=492x src="files/PXL_20221109_234826197.jpg" alt="Photo from the Reflections Art Show" >}}

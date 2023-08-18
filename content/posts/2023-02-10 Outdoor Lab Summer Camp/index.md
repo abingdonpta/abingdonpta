@@ -26,9 +26,9 @@ Hope to see your student at Outdoor Lab Summer Camp!
 *If you have questions about summer camp activities or registration, please contact: Lab Coordinator Rochelle Proctor at [rochelle.proctor@apsva.us](mailto:rochelle.proctor@apsva.us) or 540.347.2258.*
 
 #### English brochure ([PDF](files/brochure.pdf))
-{{< imagehalf src="files/brochure-en-1.png" alt="Outdoor Lab Summer Camp brochure in English" >}}
-{{< imagehalf src="files/brochure-en-2.png" alt="Outdoor Lab Summer Camp brochure in English" >}}
+{{< imgresize o=492x src="files/brochure-en-1.png" alt="Outdoor Lab Summer Camp brochure in English" >}}
+{{< imgresize o=492x src="files/brochure-en-2.png" alt="Outdoor Lab Summer Camp brochure in English" >}}
 
 #### Spanish brochure ([PDF](files/brochure-es.pdf))
-{{< imagehalf src="files/brochure-es-1.png" alt="Outdoor Lab Summer Camp brochure in Spanish" >}}
-{{< imagehalf src="files/brochure-es-2.png" alt="Outdoor Lab Summer Camp brochure in Spanish" >}}
+{{< imgresize o=492x src="files/brochure-es-1.png" alt="Outdoor Lab Summer Camp brochure in Spanish" >}}
+{{< imgresize o=492x src="files/brochure-es-2.png" alt="Outdoor Lab Summer Camp brochure in Spanish" >}}

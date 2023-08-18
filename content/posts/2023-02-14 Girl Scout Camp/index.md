@@ -23,5 +23,5 @@ Bus transportation and snack included!
 
 Space is limited—register today at https://form.jotform.com/GSCNCMembership/spring-camps. Or contact Sarah Mayotte: smayotte@gscnc.org or (202) 534-3764.
 
-{{< imagehalf src="files/flyer-en.png" alt="Girl Scout Camp flyer" >}}
-{{< imagehalf src="files/flyer-es.png" alt="Girl Scout Camp in Spanish" >}}
+{{< imgresize o=492x src="files/flyer-en.png" alt="Girl Scout Camp flyer" >}}
+{{< imgresize o=492x src="files/flyer-es.png" alt="Girl Scout Camp in Spanish" >}}

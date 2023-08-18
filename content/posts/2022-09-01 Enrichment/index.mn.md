@@ -17,4 +17,4 @@ images: ["/2022/09/01/enrichment/files/IMG_2483.jpg"]
 
 Асуулт? abingdonelementarypta@gmail.com хаягаар бидэнтэй холбоо барина уу. Баярлалаа.
 
-{{< imagehalf class="imagecenter" src="files/IMG_2483.jpg" alt="Намрын баяжуулалтын цаасны маягтууд" >}}
+{{< figresize o=492x src="files/IMG_2483.jpg" alt="Намрын баяжуулалтын цаасны маягтууд" >}}

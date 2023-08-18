@@ -15,4 +15,4 @@ Interested in becoming a school safety patrol? During this five-day camp, rising
 
 More information, including registration, is available at https://www.arlingtonva.us/Government/Departments/Police-Department/Summer-Safety-Patrol-Camp.
 
-{{< imagehalf class="imagecenter" src="files/flyer-en.png" alt="Safety Patrol Camp flyer" >}}
+{{< figresize o=492x src="files/flyer-en.png" alt="Safety Patrol Camp flyer" >}}

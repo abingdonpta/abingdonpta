@@ -57,7 +57,7 @@ Para nuestro último grupo de subvenciones de este año escolar, la PTA se compl
 
 ### 🌱 Jornada laboral en el jardín de primavera
 
-{{< imagehalftoc class="imageright" src="files/garden-es.png" alt="Folleto del día laboral del jardín" >}}
+{{< imgresize o=360x class="imageright" src="files/garden-es.png" alt="Folleto del día laboral del jardín" >}}
 
 Tendremos un día de trabajo de jardín de primavera el domingo 21 de mayo de 2023, de 9:30 am a 11:30 am. Ayúdenos a limpiar el jardín de nuestra escuela y recoja la basura en los terrenos de la escuela. ¡También prepararemos un jardín de girasoles!
 

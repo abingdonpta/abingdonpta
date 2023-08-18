@@ -17,5 +17,5 @@ You can [view the reinstatement document here](/reinstatement/reinstatement.pdf)
 
 Thank you for your patience and for your support!
 
-{{< imagehalf src="files/reinstatement-1.png" alt="Page 1 of the IRS Reinstatement Letter" >}}
-{{< imagehalf src="files/reinstatement-2.png" alt="Page 2 of the IRS Reinstatement Letter" >}}
+{{< imgresize o=492x src="files/reinstatement-1.png" alt="Page 1 of the IRS Reinstatement Letter" >}}
+{{< imgresize o=492x src="files/reinstatement-2.png" alt="Page 2 of the IRS Reinstatement Letter" >}}

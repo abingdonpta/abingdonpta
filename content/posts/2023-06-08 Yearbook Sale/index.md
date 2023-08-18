@@ -22,5 +22,5 @@ Visit the Abingdon PTA table (in front of the school) at the following times to 
 
 **Times may be subject to change based on volunteer availability.**
 
-{{< imagehalf src="files/flyer-en.png" alt="Yearbook sale flyer in English" >}}
-{{< imagehalf src="files/flyer-es.png" alt="Yearbook sale flyer in Spanish" >}}
+{{< imgresize o=492x src="files/flyer-en.png" alt="Yearbook sale flyer in English" >}}
+{{< imgresize o=492x src="files/flyer-es.png" alt="Yearbook sale flyer in Spanish" >}}

@@ -37,4 +37,4 @@ Here are the officer positions, their descriptions, and their status as of March
 | 🎉 VP, Events | Organizes fun events like to Trunk-or-Treat, Winter Wonderland, Free Book Swap, and International Night. | Incumbent seeking re-election |
 | 🙏 VP, Staff Appreciation | Supervises staff appreciation initiatives throughout the year. | Incumbent seeking re-election |
 
-<a href="files/flyer-en.pdf">{{< image src="files/flyer-en.png" alt="Nominations Flyer" >}}</a>
+<a href="files/flyer-en.pdf">{{< fig src="files/flyer-en.png" alt="Nominations Flyer" >}}</a>

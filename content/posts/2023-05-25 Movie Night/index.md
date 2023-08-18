@@ -26,6 +26,6 @@ Guidelines:
 
 > *Presented by the DEI Committee. Sponsored by the Abingdon PTA.*
 
-{{< imagehalf src="files/flyer-en.png" alt="Movie Night flyer in English" >}}
-{{< imagehalf src="files/flyer-es.png" alt="Movie Night flyer in Spanish" >}}
-{{< imagehalf src="files/flyer-mn.png" alt="Movie Night flyer in Mongolian" >}}
+{{< imgresize o=492x src="files/flyer-en.png" alt="Movie Night flyer in English" >}}
+{{< imgresize o=492x src="files/flyer-es.png" alt="Movie Night flyer in Spanish" >}}
+{{< imgresize o=492x src="files/flyer-mn.png" alt="Movie Night flyer in Mongolian" >}}

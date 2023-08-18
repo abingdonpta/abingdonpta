@@ -18,5 +18,5 @@ Rising Kindergarten families are invited to join us on the blue playground (in f
 
 *Dates subject to change due to inclement weather.*
 
-{{< imagehalf src="files/flyer-en.png" alt="Rising Kindergartener Playdate flyer in English" >}}
-{{< imagehalf src="files/flyer-es.png" alt="Rising Kindergartener Playdate flyer in Spanish" >}}
+{{< imgresize o=492x src="files/flyer-en.png" alt="Rising Kindergartener Playdate flyer in English" >}}
+{{< imgresize o=492x src="files/flyer-es.png" alt="Rising Kindergartener Playdate flyer in Spanish" >}}

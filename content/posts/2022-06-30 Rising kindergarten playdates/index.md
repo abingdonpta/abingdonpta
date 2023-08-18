@@ -18,4 +18,4 @@ The PTA is hosting popsicle playdates for rising kindergarteners this summer!
 
 *Dates subject to change due to inclement weather. We will share any inclement weather updates on our [Facebook](https://www.facebook.com/AbingdonElementaryPTA) and [Twitter](https://twitter.com/AbingdonPTA) pages.*
 
-{{< imagehalf class="imagecenter" src="files/flyer.png" alt="Rising Kindergartener Playdate flyer in English and Spanish" >}}
+{{< figresize o=492x src="files/flyer.png" alt="Rising Kindergartener Playdate flyer in English and Spanish" >}}

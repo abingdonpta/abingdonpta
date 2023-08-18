@@ -12,8 +12,8 @@ images: ["/2022/12/05/title-i/files/flyer-en.png"]
  - **When**: Tuesday, December 13, 7:30 am - 8:10 am
  - **Where**: Room 143/144 (art room)
 
-{{< imagehalf src="files/flyer-en.png" alt="English flyer" >}}
-{{< imagehalf src="files/flyer-es.png" alt="Spanish flyer" >}}
-{{< imagehalf src="files/flyer-ar.png" alt="Arabic flyer" >}}
-{{< imagehalf src="files/flyer-am.png" alt="Amharic flyer" >}}
-{{< imagehalf src="files/flyer-mn.png" alt="Mongolian flyer" >}}
+{{< imgresize o=492x src="files/flyer-en.png" alt="English flyer" >}}
+{{< imgresize o=492x src="files/flyer-es.png" alt="Spanish flyer" >}}
+{{< imgresize o=492x src="files/flyer-ar.png" alt="Arabic flyer" >}}
+{{< imgresize o=492x src="files/flyer-am.png" alt="Amharic flyer" >}}
+{{< imgresize o=492x src="files/flyer-mn.png" alt="Mongolian flyer" >}}

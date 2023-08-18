@@ -24,5 +24,5 @@ https://www.signupgenius.com/go/30e0a44aca72aa5fe3-field1#/
 
 **NOTE**:  Arlington Public Schools (APS) requires all parent volunteers to complete the APS Volunteer Application listed [here](https://abingdon.apsva.us/families/volunteer/).
 
-{{< imagehalf src="files/flyer-en.png" alt="Field Day flyer in English" >}}
-{{< imagehalf src="files/flyer-es.png" alt="Field Day flyer in Spanish" >}}
+{{< imgresize o=492x src="files/flyer-en.png" alt="Field Day flyer in English" >}}
+{{< imgresize o=492x src="files/flyer-es.png" alt="Field Day flyer in Spanish" >}}

@@ -3,9 +3,10 @@ title: 2022-2023 PTA Officer Nominee Bios
 summary: Get to know your new PTA officers for the next school year.
 slug: Officer bios
 date: 2022-05-11T07:00:00-04:00
+booktoc: true
 ---
 
-{{< imagetoc src="files/meettheboard.png" alt="Meet Your PTA Board flyer" >}}
+{{< figresize o=736x src="files/meettheboard.png" alt="Meet Your PTA Board flyer" >}}
 
 Here are the bios of the nominees for PTA Officers during the 2022-2023 school year:
 

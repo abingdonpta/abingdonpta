@@ -24,14 +24,14 @@ booktoc: true
 
 ¡Llega la Noche Anual de la Historia y el Patrimonio Cultural e Internacional de Abingdon! El evento del año pasado fue un gran éxito gracias a toda la comunidad que trajo comida y tradiciones para compartir, mezclarse, cantar, bailar y ser voluntarios durante la hermosa noche.
 
-{{< imagehalftoc src="files/IMG_7310.jpg" alt="Baile irlandés en la Noche Internacional" >}}
-{{< imagehalftoc src="files/PXL_20220513_230241415.jpg" alt="Una generosa y diversa variedad de comidas en la Noche Internacional" >}}
+{{< imgresize o=360x src="files/IMG_7310.jpg" alt="Baile irlandés en la Noche Internacional" >}}
+{{< imgresize o=360x src="files/PXL_20220513_230241415.jpg" alt="Una generosa y diversa variedad de comidas en la Noche Internacional" >}}
 
 **Este año**, esperamos reunir a nuestra comunidad para celebrar las diversas culturas que representan a nuestra población de estudiantes y personal el **28 de abril de 5:30 p. m. a 7:30 p. m.**. Estamos emocionados de una vez más “partir el pan” juntos y aprender tradiciones unos de otros. Utilice el siguiente [enlace](http://shorturl.at/wPTX7) para confirmar su asistencia y avísenos si asistirá. Alentamos a las familias a considerar compartir un plato de su cultura, vestirse con atuendos culturales tradicionales y lo invitamos a compartir una actuación cultural o tradición con la comunidad.
 
 Este evento es un éxito **solo** con tu participación. Más allá de unirnos a la diversión, también necesitamos **voluntarios** para organizar, trabajar en el evento y limpiar al final de la noche. ¡Por favor considere ofrecer su tiempo!
 
-{{< imagetoc src="files/in-flyer-es.png" alt="Folleto de la Noche Internacional" >}}
+{{< figresize o=736x src="files/in-flyer-es.png" alt="Folleto de la Noche Internacional" >}}
 
 ### 🙋 Nominaciones para el liderazgo de la PTA 2023-2024
 
@@ -48,7 +48,7 @@ Este evento es un éxito **solo** con tu participación. Más allá de unirnos a
 - 📚 ¡**Read-A-Thon** está en marcha! ¡Nuestros estudiantes están en su viaje alrededor del mundo! Están llevando aviones, trenes, automóviles a nuevos destinos. ¡Hasta el lunes por la mañana, nuestros estudiantes han leído 120,419 minutos y gracias a nuestra asociación con ustedes, nuestra PTA ha recaudado más de $16,000! ¡Ayúdenos a alcanzar nuestra meta de recaudar $20,000 en nuestra recaudación de fondos más grande del año escolar!
      - Si su estudiante no se ha inscrito, NO es demasiado tarde. Únase al Read-A-Thon uniéndose a @ **https://www.read-a-thon.com/readers/r/AwAipj**. Tendrá la capacidad de compartir con familiares y amigos que podrían donar a nuestra PTA mientras usted y su estudiante registran los minutos de lectura diarios. Recuerda, ¡leer es leer! Haga un seguimiento de los minutos para leer en silencio, en voz alta, solo, a un amigo, un hermano, un animal de peluche o una mascota. ¡Haga un seguimiento de los minutos escuchando una historia en voz alta de un padre, un hermano, una grabación de audio! Agradecemos su apoyo a la alfabetización ya nuestra recaudación de fondos.
 
-{{< imagehalftoc class="imagecenter" src="files/read-a-thon-photo.png" alt="Read-a-thon photo" >}}
+{{< figresize o=360x src="files/read-a-thon-photo.png" alt="Read-a-thon photo" >}}
 
 - 💻 **Abingdon Tech Night** se llevará a cabo el lunes 27 de marzo de 6 a 7 p. m. en la biblioteca de la escuela.
 

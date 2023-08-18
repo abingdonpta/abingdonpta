@@ -17,4 +17,4 @@ Open House will be on Thursday, August 24, 2023 for families by Last Name as fol
 
 Parents and students are invited to come and visit their new classroom and to meet their new teachers.
 
-{{< imagefull src="files/flyer.png" alt="Open House flyer in English and Spanish" >}}
+{{< figresize o=992x src="files/flyer.png" alt="Open House flyer in English and Spanish" >}}

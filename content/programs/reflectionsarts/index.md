@@ -13,4 +13,4 @@ Abingdon students participate in the appropriate division for their grade: Prima
 
 {{< button relref="/categories/reflections/" >}}View Latest Updates About Reflections{{< /button >}}
 <br><br>
-{{< imagehalf class="imagecenter" src="files/PXL_20221109_234725231.jpg" alt="Photo from the Reflections Art Show" >}}
+{{< figresize o=492x src="files/PXL_20221109_234725231.jpg" alt="Photo from the Reflections Art Show" >}}

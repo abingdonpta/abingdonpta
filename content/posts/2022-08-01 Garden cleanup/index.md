@@ -12,4 +12,4 @@ Please help us clean up our school garden for fall season planting. We will also
 - **When**: Sunday, August 7 from 8:30 am – 10:30 am
 - **Where**: Abingdon Community Garden, next to the school.
 
-{{< imagehalf class="imagecenter" src="files/flyer.png" alt="Abingdon Community Garden Cleanup flyer in English and Spanish" >}}
+{{< figresize o=492x src="files/flyer.png" alt="Abingdon Community Garden Cleanup flyer in English and Spanish" >}}

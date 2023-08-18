@@ -17,5 +17,5 @@ We have distributed paper forms to classroom teachers to place in backpacks next
 
 Questions? Contact us at abingdonelementarypta@gmail.com. Thank you kindly.
 
-{{< imagehalf src="files/flyer-en.png" alt="Winter Enrichment flyer" >}}
-{{< imagehalf src="files/flyer-es.png" alt="Winter Enrichment flyer in Spanish" >}}
+{{< imgresize o=492x src="files/flyer-en.png" alt="Winter Enrichment flyer" >}}
+{{< imgresize o=492x src="files/flyer-es.png" alt="Winter Enrichment flyer in Spanish" >}}

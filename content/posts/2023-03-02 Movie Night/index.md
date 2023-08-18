@@ -33,7 +33,7 @@ Guidelines:
 
 <!--
 
-{{< imagehalf src="files/flyer.jpg" alt="Movie Night flyer" >}}
-{{< imagehalf src="files/flyer-es.jpg" alt="Movie Night flyer in Spanish" >}}
+{{< imgresize o=492x src="files/flyer.jpg" alt="Movie Night flyer" >}}
+{{< imgresize o=492x src="files/flyer-es.jpg" alt="Movie Night flyer in Spanish" >}}
 
 -->

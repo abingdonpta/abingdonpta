@@ -26,4 +26,4 @@ The drop-off locations are:
 
 For more information, contact Megan Miller at meganmiller44@gmail.com.
 
-{{< imagehalf class="imagecenter" src="files/flyer-en.png" alt="Thanksgiving Food Drive flyer" >}}
+{{< figresize o=492x src="files/flyer-en.png" alt="Thanksgiving Food Drive flyer" >}}

@@ -37,5 +37,5 @@ To help manage visitors, we need families to pre-register through Eventbrite her
 
 [The official announcement page is here.](https://outdoorlab.org/2023/02/open-house-sat-april-22-earth-day/)
 
-{{< imagehalf src="files/flyer-en.png" alt="Outdoor Lab Open House flyer" >}}
-{{< imagehalf src="files/flyer-es.png" alt="Outdoor Lab Open House flyer in Spanish" >}}
+{{< imgresize o=492x src="files/flyer-en.png" alt="Outdoor Lab Open House flyer" >}}
+{{< imgresize o=492x src="files/flyer-es.png" alt="Outdoor Lab Open House flyer in Spanish" >}}
