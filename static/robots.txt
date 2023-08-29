@@ -100,6 +100,8 @@ Disallow: /roles
 Disallow: /roles/
 Disallow: /stuff
 Disallow: /stuff/
+Disallow: /summerbudget
+Disallow: /summerbudget/
 Disallow: /tags
 Disallow: /tags/
 Disallow: /volunteer
@@ -117,3 +119,6 @@ Disallow: /ar/
 Disallow: /am/
 Disallow: /mn/
 Disallow: /fa/
+
+User-agent: GPTBot
+Disallow: /

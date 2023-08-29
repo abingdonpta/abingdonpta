@@ -77,6 +77,7 @@ The PTA is required to conduct an audit of its finances every fiscal year. (This
 
 | Audits |
 |-|
+| [2022-2023 Audit](/audits/2022-2023.pdf) |
 | [2021-2022 Audit](/audits/2021-2022.pdf) |
 
 ---
