@@ -2,7 +2,7 @@
 title: Abingdon's Open House on Thursday, August 24
 summary: Parents and students are invited to come and visit their new classroom and to meet their new teachers.
 slug: open house
-date: 2023-08-04T5:00:00-04:00
+date: 2023-08-04T05:00:00-04:00
 categories: ["events","passed along"]
 images: ["/2023/08/04/open-house/files/flyer.png"]
 ---
