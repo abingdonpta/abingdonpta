@@ -298,7 +298,7 @@ More information about School Plan Advisory Committees can be found on [APS Poli
 
 ### 📱 Social Media
 
-The Abingdon PTA maintains a Twitter account and a Facebook page. The Social Media Coordinator uses these accounts to share information about PTA activities, as well as to share pertinent updates from Abingdon and from APS.
+The Abingdon PTA maintains a a Facebook page. The Social Media Coordinator uses the page to share information about PTA activities, as well as to share pertinent updates from Abingdon and from APS.
 
 - **Location**: Home
 - **Time of day**: Any, but some daytime availability would be a plus

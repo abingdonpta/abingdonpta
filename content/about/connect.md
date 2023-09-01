@@ -11,7 +11,6 @@ There are many ways to stay informed about PTA events and activities.
 [<img src="/svg/Newsletter.svg" height="20" width="20" alt="Newsletter logo"> Subscribe to our newsletter, the Cardinal Courier.](https://us11.list-manage.com/subscribe?u=e8c2877018f64aa7e1fd2e884&id=b884e2a18e)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[📰 Previous newsletters are viewable here.](/categories/newsletters)  
 [<img src="/svg/Facebook.svg" height="20" width="20" alt="Facebook logo"> Follow us on Facebook.](https://www.facebook.com/AbingdonElementaryPTA)  
-[<img src="/svg/Twitter.svg" height="20" width="20" alt="Twitter logo"> Follow us on Twitter.](https://twitter.com/AbingdonPTA)  
 [<img src="/svg/WhatsApp.svg" height="20" width="20" alt="WhatsApp logo"> Join our WhatsApp groups.](/whatsapp/)  
 [<img src="/svg/Calendar.svg" height="20" width="20" alt="Calendar logo"> View and subscribe to our calendar.](/calendar/)  
 [<img src="/svg/RSS.svg" height="20" width="20" alt="RSS logo"> Subscribe to our RSS feed.](/posts/index.xml)  
@@ -30,3 +29,5 @@ Finally, please sign up for our retail rebates programs:
 [<img src="/svg/Harris-Teeter.svg" height="20" width="20" alt="Harris Teeter logo"> Harris Teeter](/fundraising/#harris-teeter)  
 [<img src="/svg/General-Mills.svg" height="20" width="20" alt="General Mills logo">  Box Tops for Education](/fundraising/#box-tops-for-education)  
 [🏷️ Mabel's Labels](/fundraising/#mabels-labels)
+
+<!--[<img src="/svg/Twitter.svg" height="20" width="20" alt="Twitter logo"> Follow us on Twitter.](https://twitter.com/AbingdonPTA)  -->
