@@ -1,6 +1,6 @@
 --- 
 title: Volunteers Requested for Food Distribution
-summary: The school has requested volunteers to help ensure a successful food distribution event on Thursday, September 7.
+summary: The school has requested volunteers to help distribute food on Thursday, September 7.
 slug: food distribution
 date: 2023-09-01T05:00:00-04:00
 categories: ["volunteer opportunities","passed along"]
