@@ -11,15 +11,7 @@ Agendas are available here before each meeting, and meeting minutes are availabl
 
 | Meeting Date | [Agenda](/agendas) | [Minutes](/minutes) | Presentations |
 | ------------ | ------------------ | ------------------- | ------------- |
-| 2023-05-09   | [Agenda](/agendas/2023-05-09) | [Minutes](/minutes/2023-05-09) | [• Financial Statement — Summary](/presentations/2023-05-09_1.pdf)<br>[• Financial Statement — Spreadsheet](/presentations/2023-05-09_2.pdf) |
-| 2023-04-11   | [Agenda](/agendas/2023-04-11) | [Minutes](/minutes/2023-04-11) | [• Financial Statement — Summary](/presentations/2023-04-11_1.pdf)<br>[• Financial Statement — Spreadsheet](/presentations/2023-04-11_2.pdf)<br>[• CETA Partnership Presentation](/presentations/2023-04-11_3.pdf)  |
-| 2023-03-14   | [Agenda](/agendas/2023-03-14) | [Minutes](/minutes/2023-03-14) | [• Financial Statement — Summary](/presentations/2023-03-14_1.pdf)<br>[• Financial Statement — Spreadsheet](/presentations/2023-03-14_2.pdf)<br>[• Responsive Classroom Presentation](/presentations/2023-03-14_3.pdf) |
-| 2023-02-21   | [Agenda](/agendas/2023-02-21) | [Minutes](/minutes/2023-02-21) | [• Financial Statement — Summary](/presentations/2023-02-21_1.pdf)<br>[• Financial Statement — Spreadsheet](/presentations/2023-02-21_2.pdf)<br>[• Music Team Presentation](/presentations/2023-02-21_3.pdf) |
-| 2023-01-10   | [Agenda](/agendas/2023-01-10) | [Minutes](/minutes/2023-01-10) | [• Financial Statement — Summary](/presentations/2023-01-10_1.pdf)<br>[• Financial Statement — Spreadsheet](/presentations/2023-01-10_2.pdf)<br>[• Counseling Team Presentation](/presentations/2023-01-10_3.pdf) |
-| 2022-12-13   | [Agenda](/agendas/2022-12-13) | [Minutes](/minutes/2022-12-13) | [• Financial Statement — Summary](/presentations/2022-12-13_1.pdf)<br>[• Financial Statement — Spreadsheet](/presentations/2022-12-13_2.pdf)<br>[• Math Team Presentation](/presentations/2022-12-13_3.pdf) |
-| 2022-11-08   | [Agenda](/agendas/2022-11-08) | [Minutes](/minutes/2022-11-08) | [• Financial Statement — Summary](/presentations/2022-11-08_1.pdf)<br>[• Financial Statement — Spreadsheet](/presentations/2022-11-08_2.pdf) |
-| 2022-10-11   | [Agenda](/agendas/2022-10-11) | [Minutes](/minutes/2022-10-11) | [• Financial Statement — Summary](/presentations/2022-10-11_1.pdf)<br>[• Financial Statement — Spreadsheet](/presentations/2022-10-11_2.pdf)<br>[• Gifted Information Presentation](/presentations/2022-10-11_3.pdf)<br>[• School Plan](/presentations/2022-10-11_4.pdf) |
-| 2022-09-12   | [Agenda](/agendas/2022-09-12) | [Minutes](/minutes/2022-09-12) | [• Financial Statement — Summary](/presentations/2022-09-12_1.pdf)<br>[• Financial Statement — Spreadsheet](/presentations/2022-09-12_2.pdf) |
+| 2023-08-22   |                    | [Minutes](/minutes/2023-08-22) |    |
 
 ---
 

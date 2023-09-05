@@ -14,6 +14,12 @@ We will only share documents sent to the entire school, not to a particular clas
 
 ---
 
+## September 5, 2023
+{{< imgresize o=360x src="files/2023-09-05_1.png" alt="Attendance flyer" >}}
+{{< imgresize o=360x src="files/2023-09-05_2.png" alt="Attendance flyer" >}}
+{{< imgresize o=360x src="files/2023-09-05_3.png" alt="Acceptable Use Agreement" >}}
+{{< imgresize o=360x src="files/2023-09-05_4.png" alt="Acceptable Use Agreement" >}}
+
 ## August 29, 2023
 {{< imgresize o=360x src="files/2023-08-29_1.png" alt="Attendance flyer" >}}
 {{< imgresize o=360x src="files/2023-08-29_2.png" alt="Attendance flyer" >}}
