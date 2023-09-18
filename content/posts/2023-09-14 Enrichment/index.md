@@ -13,7 +13,7 @@ Classes will meet **October 10 – December 7**. Families may view the list of c
 
 Registration will open on **Monday, September 18 at 9 AM**.
 
-Questions? Contact us at abingdonelementarypta@gmail.com. Thank you kindly.
+Questions? Contact us at pta@abingdonpta.org. Thank you kindly.
 
 {{< imgresize o=492x src="files/flyer-en.png" alt="Fall Enrichment flyer in English" >}}
 {{< imgresize o=492x src="files/flyer-es.png" alt="Fall Enrichment flyer in Spanish" >}}
