@@ -4,7 +4,6 @@ summary: New Abingdon families can opt in to be included, and returning families
 slug: directory
 date: 2023-09-19T05:00:00-04:00
 categories: directory
-draft: true
 ---
 
 In December 2022, the Abingdon PTA launched a new [online student directory](https://abingdonpta.membershiptoolkit.com/) for our school. The directory contains contact information for students’ families to help those in the Abingdon community connect to arrange playdates, discuss classroom activities, share other school-related information, and more.
