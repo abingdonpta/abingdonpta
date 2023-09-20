@@ -15,6 +15,9 @@ At the meeting, we will:
 - Hear from Mr. Horak about developments at Abingdon; and
 - Share ideas about PTA's direction for the new school year.
 
-Need to bring your kids? No problem! PTA will provide pizza and games in the cafeteria. We just need a headcount: [RSVP NOW](https://docs.google.com/forms/d/e/1FAIpQLSfthsG7AfcW6CkMkt7YDQ-UwSS5biI3sEYVFNL_-ECe8sA-8w/viewform)**
+**Need to bring your kids? No problem! PTA will provide pizza and games in the cafeteria. We just need a headcount: [RSVP NOW](https://docs.google.com/forms/d/e/1FAIpQLSfthsG7AfcW6CkMkt7YDQ-UwSS5biI3sEYVFNL_-ECe8sA-8w/viewform)**
 
 If you are unable to attend in person, please check the PTA email newsletter for the Zoom link.
+
+Hope to see you there!  
+\- Abingdon PTA 
