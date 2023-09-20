@@ -6,9 +6,9 @@ weight: 70
 
 <style>
 iframe {
-	aspect-ratio: 4 / 3;
-	height: 100%;
-	width: 100%;
+    aspect-ratio: 4 / 3;
+    height: 100%;
+    width: 100%;
 }
 </style>
 
