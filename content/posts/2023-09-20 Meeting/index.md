@@ -4,13 +4,17 @@ summary: The PTA will have its first meeting of the year on Thursday in the scho
 slug: meeting
 date: 2023-09-20T17:00:00-04:00
 categories: meeting
-draft: true
 ---
 
-The PTA's first general membership meeting of the year is this Thursday at 5:15pm in the Abingdon Library. We’ll talk about plans for the year, hear from Mr Horak and share opportunities for you to get involved.
+The PTA's first general membership meeting of the year is this Thursday at 5:15pm in the Abingdon Library.
 
-There will be pizza and games for kids in the cafeteria. Please RSVP so we have a headcount:
+At the meeting, we will:
 
-https://docs.google.com/forms/d/e/1FAIpQLSfthsG7AfcW6CkMkt7YDQ-UwSS5biI3sEYVFNL_-ECe8sA-8w/viewform
+- Learn about PTA events and programs for 2023-2024;
+- Discover ways you can contribute to the Abingdon community;
+- Hear from Mr. Horak about developments at Abingdon; and
+- Share ideas about PTA's direction for the new school year.
+
+Need to bring your kids? No problem! PTA will provide pizza and games in the cafeteria. We just need a headcount: [RSVP NOW](https://docs.google.com/forms/d/e/1FAIpQLSfthsG7AfcW6CkMkt7YDQ-UwSS5biI3sEYVFNL_-ECe8sA-8w/viewform)**
 
 If you are unable to attend in person, please check the PTA email newsletter for the Zoom link.
