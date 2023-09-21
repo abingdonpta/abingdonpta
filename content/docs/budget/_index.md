@@ -2,7 +2,7 @@
 title: Adopted Budget for July 1, 2022 — June 30, 2023
 summary: 2022-2023 Budget for the Abingdon PTA.
 url: /budget/
-aliases: ["/budget/2022-2023/"]
+aliases: ["/budget/2022-2023/","budgets"]
 booktoc: true
 ---
 

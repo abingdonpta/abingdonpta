@@ -62,6 +62,8 @@ Disallow: /faq
 Disallow: /faq/
 Disallow: /financialreports
 Disallow: /financialreports/
+Disallow: /financialreviews
+Disallow: /financialreviews/
 Disallow: /financialstatements
 Disallow: /financialstatements/
 Disallow: /fundraising

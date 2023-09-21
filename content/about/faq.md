@@ -25,7 +25,7 @@ There are roles for everyone, and it depends on your interests and skillset:
 - **Bilingual**: We can always use help translating our emails and other communications.
 - **Organizer**: You can lead a committee or help plan an event.
 - **Technically savvy**: You can update and manage our website.
-- **Financially savvy**: You can review our credit card statements and audit our finances. (Or serve as Treasurer!)
+- **Financially savvy**: You can review our credit card statements and review our finances. (Or serve as Treasurer!)
 - **Just want to participate**: We have several events throughout the year and can use volunteers.
 [Check out the roles listed here](/roles/), and then fill out our [volunteer form](/volunteer/).
 

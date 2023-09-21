@@ -20,4 +20,8 @@ At the meeting, we will:
 If you are unable to attend in person, please check the PTA email newsletter for the Zoom link.
 
 Hope to see you there!  
-\- Abingdon PTA 
+\- Abingdon PTA
+
+- [Proposed 2023-2024 Budget](<files/Abingdon PTA Proposed 2023-2024 Budget - 23-24 FY Proposed Budget.pdf>)
+- [2022-23 Actual vs 2023-24 Budget](<files/Abingdon PTA - 2022-23 Actual vs 2023-24 Budget.pdf>)
+- [2022-2023 Financial Review](/financialreviews/2022-2023.pdf)

@@ -9,7 +9,7 @@ booktoc: true
 
 Agendas are available here before each meeting, and meeting minutes are available soon after each meeting. Additionally, any presentation that is made during the meeting will be posted here.
 
-| Meeting Date | [Agenda](/agendas) | [Minutes](/minutes) | Presentations |
+| Meeting Date | [Agendas](/agendas) | [Minutes](/minutes) | Presentations |
 | ------------ | ------------------ | ------------------- | ------------- |
 | 2023-09-21   |
 | 2023-08-22   |                    | [Minutes](/minutes/2023-08-22) |    |
@@ -64,14 +64,14 @@ The Treasurer must prepare an annual financial report at the close of the fiscal
 | [2017-2018 Financial Report](/financialreports/2017-2018.pdf) |
 | [2016-2017 Financial Report](/financialreports/2016-2017.pdf) |
 
-### Audits
+### Financial Reviews
 
-The PTA is required to conduct an audit of its finances every fiscal year. (This is also known as a financial review.) In the spring, the general membership approves an audit committee to conduct an audit. The audit is submitted to the Virginia PTA and also must be approved by the general membership in the beginning of the next school year.
+The PTA is required to conduct a review of its finances every fiscal year. (This was previously known as an audit.) In the spring, the general membership approves a financial review committee who conducts the review. The review is submitted to the Virginia PTA and also must be approved by the general membership in the beginning of the next school year.
 
-| Audits |
+| Financial Reviews |
 |-|
-| [2022-2023 Audit](/audits/2022-2023.pdf) |
-| [2021-2022 Audit](/audits/2021-2022.pdf) |
+| [2022-2023 Financial Review](/financialreviews/2022-2023.pdf) |
+| [2021-2022 Financial Review](/financialreviews/2021-2022.pdf) |
 
 ---
 
