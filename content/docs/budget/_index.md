@@ -18,6 +18,6 @@ This budget was adopted by the PTA's General Membership at our September 21, 202
 | Staff Appreciation              | Appreciation events for back-to-school, parent-teacher conference days, staff appreciation week; classroom and instructional supplies; and other initiatives |         | $7,750  |
 | Administrative                  | Office supplies, online directory, email newsletter, domain registration, insurance, and other general organizational expenses |         | $2,100  |
 |                                 | Total:                                                       | $45,840 | $45,650 |
-|                                 |                                                              |         |         |
-|                                 | Beginning balance on July 1, 2023                            | $39,839 |         |
-|                                 | Projected ending balance on June 30, 2024                    | $40,029 |         |
+
+- Beginning balance on July 1, 2023: $39,839
+- Projected ending balance on June 30, 2024: $40,029
