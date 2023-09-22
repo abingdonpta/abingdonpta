@@ -11,7 +11,7 @@ Agendas are available here before each meeting, and meeting minutes are availabl
 
 | Meeting Date | [Agendas](/agendas) | [Minutes](/minutes) | Presentations |
 | ------------ | ------------------ | ------------------- | ------------- |
-| 2023-09-21   |
+| 2023-09-21   |                    |                     | • [Proposed Budget](<files/Abingdon PTA Proposed 2023-2024 Budget - 23-24 FY Proposed Budget.pdf>)<br>• [Budget Comparison](<files/Abingdon PTA - 2022-23 Actual vs 2023-24 Budget.pdf>)<br>• [Financial Review](/financialreviews/2022-2023.pdf)
 | 2023-08-22   |                    | [Minutes](/minutes/2023-08-22) |    |
 
 ---
@@ -28,7 +28,7 @@ Every PTA in Virginia is required to adhere to the [Virginia PTA Local Unit Unif
 
 The Organizational Structure Form provides important details about how this PTA conducts business, including timing of elections and term limits on officers. The PTA must complete this form and have it approved by the general membership at the beginning of each school year. The Treasurer then submits the form to the Virginia PTA.
 
-{{< button href="/organizational/2022-2023.pdf" >}}View Our Organizational Structure Form for 2022-2023{{< /button >}}
+{{< button href="/organizational/2023-2024.pdf" >}}View Our Organizational Structure Form for 2023-2024{{< /button >}}
 
 ### Conflict of Interest Policy
 
@@ -44,7 +44,7 @@ The policy is intended to ensure that PTA leadership is not enriching themselves
 
 The PTA's annual budget must be approved by the general membership at the beginning of each school year.
 
-{{< button relref="budget" >}}View Our Budget for 2022-2023{{< /button >}}
+{{< button relref="budget" >}}View Our Budget for 2023-2024{{< /button >}}
 
 The PTA also passes a summer budget at the end of the school year to approve expenses for the following summer.
 
