@@ -14,6 +14,12 @@ We will only share documents sent to the entire school, not to a particular clas
 
 ---
 
+## September 26 2023
+{{< imgresize o=360x src="files/2023-09-26_1.png" alt="PTA meeting flyer" >}}
+{{< imgresize o=360x src="files/2023-09-26_2.png" alt="PTA meeting flyer" >}}
+{{< imgresize o=360x src="files/2023-09-26_3.png" alt="CETA flyer" >}}
+{{< imgresize o=360x src="files/2023-09-26_4.png" alt="CETA flyer" >}}
+
 ## September 19, 2023
 No known schoolwide flyers.
 
