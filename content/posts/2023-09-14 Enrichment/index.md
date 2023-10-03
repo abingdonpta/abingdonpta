@@ -2,7 +2,7 @@
 title: Register for Fall After-School Enrichment Classes
 summary: Registration starts Monday, September 18 at 9 AM.
 slug: enrichment
-date: 2023-09-14T05:00:00-05:00
+date: 2023-09-14T05:00:00-04:00
 categories: enrichment
 images: ["/2023/09/14/enrichment/files/flyer-en.png"]
 ---

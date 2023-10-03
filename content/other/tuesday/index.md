@@ -14,7 +14,17 @@ We will only share documents sent to the entire school, not to a particular clas
 
 ---
 
-## September 26 2023
+## October 3, 2023
+
+{{< imgresize o=360x src="files/2023-10-03_1.png" alt="Trunk or Treat flyer" >}}
+{{< imgresize o=360x src="files/2023-10-03_2.png" alt="Trunk or Treat flyer" >}}
+{{< imgresize o=360x src="files/2023-10-03_3.png" alt="Odyssey of the Mind flyer" >}}
+{{< imgresize o=360x src="files/2023-10-03_4.png" alt="Odyssey of the Mind flyer" >}}
+{{< imgresize o=360x src="files/2023-10-03_5.png" alt="Fundraising flyer" >}}
+{{< imgresize o=360x src="files/2023-10-03_6.png" alt="Fundraising flyer" >}}
+{{< imgresize o=360x src="files/2023-10-03_7.png" alt="Bullying Prevention Spirit Week flyer" >}}
+
+## September 26, 2023
 {{< imgresize o=360x src="files/2023-09-26_1.png" alt="PTA meeting flyer" >}}
 {{< imgresize o=360x src="files/2023-09-26_2.png" alt="PTA meeting flyer" >}}
 {{< imgresize o=360x src="files/2023-09-26_3.png" alt="CETA flyer" >}}
