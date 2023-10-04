@@ -17,3 +17,6 @@ Parent coaches needed! Odyssey of the Mind teams WILL NOT be formed unless paren
 Click the link below to complete the Google form to sign up for Odyssey of the Mind by Wednesday, October 6, 2023, at 7 pm.
 
 {{< button href="https://docs.google.com/forms/d/e/1FAIpQLSdAaqt8znJMzxFO-KxTCY1oBHHsDqyOp8aSqmjnLs4BYkrWfg/viewform" >}}Click Here to Complete the Form{{< /button >}}
+
+{{< imgresize o=492x src="files/flyer-en.png" alt="Odyssey of the Mind flyer in English" >}}
+{{< imgresize o=492x src="files/flyer-es.png" alt="Odyssey of the Mind flyer in Spanish" >}}

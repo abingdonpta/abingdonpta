@@ -2,7 +2,7 @@
 title: Abingdon Student Directory — How to Be Included
 summary: New Abingdon families can opt in to be included, and returning families can update their information in the directory.
 slug: directory
-date: 2023-09-19T05:00:00-04:00
+date: 2023-09-19T17:00:00-04:00
 categories: directory
 ---
 

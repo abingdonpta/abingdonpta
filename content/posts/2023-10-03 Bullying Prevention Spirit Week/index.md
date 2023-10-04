@@ -2,7 +2,7 @@
 title: Bullying Prevention Spirit Week
 summary: Abingdon is celebrating Bullying Prevention Spirit Week on October 16-20.
 slug: spirit week
-date: 2023-10-03T09:00:00-05:00
+date: 2023-10-03T11:00:00-05:00
 categories: "passed along"
 images: ["/2023/10/03/spirit-week/files/flyer-en.png"]
 ---
