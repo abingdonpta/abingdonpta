@@ -14,7 +14,7 @@ Contact Tina Kelly via email at tinatnvu@gmail.com if you have any questions.
 Parent coaches needed! Odyssey of the Mind teams WILL NOT be formed unless parents volunteer to coach or co-coach a team. We do not have coaches in place yet. Please consider coaching! All coaches must go through the APS volunteer process.
 {{< /hint >}}
  
-Click the link below to complete the Google form to sign up for Odyssey of the Mind by Wednesday, October 6, 2023, at 7 pm.
+Click the link below to complete the Google form to sign up for Odyssey of the Mind by Wednesday, October 4, 2023, at 7 pm.
 
 {{< button href="https://docs.google.com/forms/d/e/1FAIpQLSdAaqt8znJMzxFO-KxTCY1oBHHsDqyOp8aSqmjnLs4BYkrWfg/viewform" >}}Click Here to Complete the Form{{< /button >}}
 
