@@ -1,6 +1,6 @@
 --- 
 title: Convocatoria de participación — Concurso de arte Reflections
-summary: Infórmese sobre el concurso de arte Reflections que la PTA de Abingdon está organizando este otoño.
+summary: Su hijo está invitado a participar en el Concurso de Artes Reflections este otoño.
 slug: reflections
 date: 2023-10-05T05:00:00-04:00
 images: ["/2023/10/05/reflections/social/iahb-reflections-sp__fb-post.png"]
