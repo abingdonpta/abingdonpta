@@ -6,14 +6,13 @@ date: 2023-10-05T05:00:00-04:00
 images: ["/2023/10/05/reflections/social/iahb_facebook-post.png"]
 categories: reflections
 aliases: ["/reflections/"]
-draft: true
 ---
 
 {{< figresize o=736x src="social/iahb_facebook-post.png" alt="Reflections Flyer" >}}
 
 Reflections is a national PTA-sponsored program that encourages students to express themselves artistically. Each year the National PTA selects a theme and students create and submit a work of art that reflects the theme.
 
-This year's theme is **I am Hopeful Because...**.
+This year's theme is "**I am Hopeful Because...**"
 
 ## About the Competition
 
@@ -21,11 +20,10 @@ All Abingdon students are invited to create theme-based artwork in the categorie
 
 ## Participation instructions
 
-Create a work of visual art or literature that reflects this year's theme of "I am Hopeful Because..." Ensure it meets the guidelines published by the National PTA (**Visual Arts guidelines**: [English](<guidelines/Visual Arts.pdf>), [Spanish](<guidelines/Visual Arts - Spanish.pdf>)), and **Literature guidelines**: [English](<guidelines/Literature.pdf>), [Spanish](<guidelines/Literature - Spanish.pdf>)).
-
+1. Create a work of visual art or literature that reflects this year's theme of "I am Hopeful Because..." Ensure it meets the guidelines published by the National PTA (**Visual Arts guidelines** in [English](<guidelines/Visual Arts.pdf>) and [Spanish](<guidelines/Visual Arts - Spanish.pdf>), and **Literature guidelines** in [English](<guidelines/Literature.pdf>) and [Spanish](<guidelines/Literature - Spanish.pdf>)).
 1. Clearly label the back or underside of your work with your name, your teacher's name, and the title of your work.
-1. Carefully drop off your work in the Reflections bin inside the school. **The bin for submissions is just inside the school's front entrance (Door 1).**
-1. Fill out our Entry Form ([English](forms/fillable-form_local-leader.pdf), [Spanish](forms/fillable-form_local-leader---es.pdf)) and send it to reflections@abingdonpta.org.
+1. Carefully drop off your work in the Reflections bin inside the school. **The bin for submissions will be just inside the school's front entrance (Door 1).**
+1. Fill out our Entry Form ([English](forms/fillable-form_local-leader.pdf), [Spanish](forms/fillable-form_local-leader---es.pdf)) and send it to reflections@abingdonpta.org. The form can also be completed on paper and placed in the bin with your art.
 
 If you have any questions, please email us at reflections@abingdonpta.org.
 

@@ -14,4 +14,4 @@ Support the Abingdon PTA by eating at the Silver Diner on Tuesday, October 17.
 
 Order to go at [SilverDiner.com](https://www.silverdiner.com) or call 703-789-9251.
 
-{{< figresize o=492x src="files/flyer.png" alt="Silver Diner flyer" >}}
+{{< figresize o=492x src="files/flyer.jpg" alt="Silver Diner flyer" >}}

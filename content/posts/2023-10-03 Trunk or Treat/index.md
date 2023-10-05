@@ -21,5 +21,5 @@ There will be:
 {{< button href="https://docs.google.com/forms/d/e/1FAIpQLScaHcqXP6ak0Q-Jr50qd-ilBG4Gt7EpA5Wu9yqiIo44yMZMNQ/viewform" >}}Click Here to Volunteer{{< /button >}}  
 {{< button href="https://www.amazon.com/hz/wishlist/ls/FVMZN0UJ9M30" >}}Click Here to Donate Candy{{< /button >}}
 
-{{< imgresize o=492x src="files/flyer-en.png" alt="Trunk or Treat flyer" >}}
-{{< imgresize o=492x src="files/flyer-es.png" alt="Trunk or Treat flyer in Spanish" >}}
+{{< imgresize o=492x src="files/flyer-en.jpg" alt="Trunk or Treat flyer" >}}
+{{< imgresize o=492x src="files/flyer-es.jpg" alt="Trunk or Treat flyer in Spanish" >}}

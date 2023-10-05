@@ -4,7 +4,6 @@ summary: Infórmese sobre el concurso de arte Reflections que la PTA de Abingdon
 slug: reflections
 date: 2022-09-07T05:00:00-04:00
 images: ["social/r---show-your-voice_facebook-cropped.png"]
-aliases: ["/es/reflections/"]
 categories: reflections
 ---
 
