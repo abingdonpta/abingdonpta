@@ -10,6 +10,8 @@ The PTA shows appreciation for our wonderful Abingdon staff throughout the year.
 
 If you'd like to help organize our staff appreciation activities, please [fill out our volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSf50HFDkNfDxP5VfE2LzsxKbUPZdmRGQTeNEUhXkU_qLCLWZQ/viewform?usp=sf_link).
 
+{{< button relref="/categories/appreciation/" >}}View Latest Updates About Staff Appreciation{{< /button >}}
+
 ## Teacher Appreciation
 
 ### Spirit Gear for Teachers

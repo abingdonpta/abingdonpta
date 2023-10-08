@@ -4,7 +4,7 @@ summary: The Kona Ice Truck will be stationed outside the cafeteria during Thurs
 slug: kona ice
 date: 2023-08-21T14:00:00-04:00
 images: ["/2023/08/21/kona-ice/files/flyer-en.jpg"]
-categories: ["fundraising","appreciation"]
+categories: ["fundraisers","appreciation"]
 ---
 
 The Kona Ice Truck will be stationed outside the cafeteria during the [Open House on Thursday, August 24](/2023/08/04/open-house). Come cool off with us - and donate now or on-site to buy your favorite Abingdon staffer a snow cone!

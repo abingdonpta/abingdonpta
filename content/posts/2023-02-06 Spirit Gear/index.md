@@ -3,7 +3,7 @@ title: Spirit Wear Sale
 summary: The sale begins on February 15th and will run for three weeks.
 slug: spirit gear
 date: 2023-02-06T05:00:00-05:00
-categories: fundraising
+categories: fundraisers
 images: ["/2023/02/06/spirit-wear/files/flyer-en.png"]
 ---
 

@@ -4,7 +4,7 @@ summary: Consider donating to sponsor lunch for our hardworking teachers during 
 slug: teacher lunch
 date: 2023-10-03T08:00:00-04:00
 images: ["/2023/10/03/teacher-lunch/files/flyer-en.jpg"]
-categories: ["fundraising","appreciation"]
+categories: ["fundraisers","appreciation"]
 ---
 
 Parent/teacher conferences are right around the corner (10/19-20). Consider donating to sponsor lunch for our hardworking teachers during conference week.
