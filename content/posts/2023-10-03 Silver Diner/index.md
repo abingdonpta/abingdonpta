@@ -4,7 +4,7 @@ summary: Support the Abingdon PTA by eating at the Silver Diner on Tuesday, Octo
 slug: silver diner
 date: 2023-10-03T14:00:00-04:00
 images: ["/2023/10/03/silver-diner/files/flyer.png"]
-categories: fundraisers
+categories: fundraising
 ---
 
 Support the Abingdon PTA by eating at the Silver Diner on Tuesday, October 17.

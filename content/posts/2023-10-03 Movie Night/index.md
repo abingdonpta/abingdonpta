@@ -7,7 +7,7 @@ categories: ["events","passed along"]
 images: ["/2023/10/03/movie-night/files/flyer-en.png"]
 ---
 
-The PTA is passing along this message from Abingdon's DEI Committee.
+The PTA is passing along [this message from Abingdon's DEI Committee](https://abingdon.apsva.us/post/movie-night/).
 
 ---
 

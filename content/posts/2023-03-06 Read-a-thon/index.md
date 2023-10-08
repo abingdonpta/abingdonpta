@@ -3,7 +3,7 @@ title: Read-a-thon Starts on March 13
 summary: Our Read-a-thon is our biggest fundraiser of the year.
 slug: read a thon
 date: 2023-03-06T20:00:00-05:00
-categories: fundraisers
+categories: fundraising
 aliases: ["/2023/02/23/read-a-thon/"]
 images: ["/2023/03/06/read-a-thon/files/flyer-en.png"]
 ---

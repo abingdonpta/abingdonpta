@@ -3,7 +3,7 @@ title: Lovelines for Sale
 summary: Lovelines are back for the 2023 yearbook! You can leave a special message for your student.
 slug: lovelines
 date: 2023-02-14T05:30:00-05:00
-categories: fundraisers
+categories: fundraising
 images: ["/2023/02/14/lovelines/files/flyer-en.png"]
 ---
 

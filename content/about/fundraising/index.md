@@ -9,7 +9,7 @@ booktoc: true
 
 The PTA needs to raise funds to fulfill its mission. Fortunately, there are a number of ways to financially support the PTA.
 
-{{< button relref="/categories/fundraisers/" >}}View Latest Updates About Fundraisers{{< /button >}}
+{{< button relref="/categories/fundraising/" >}}View Latest Updates About Fundraising{{< /button >}}
 
 ## Donate
 

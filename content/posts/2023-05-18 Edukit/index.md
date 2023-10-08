@@ -3,7 +3,7 @@ title: Edukit is Available to Order
 summary: You can now order your school supplies for the 2023-24 school year in one convenient package.
 slug: edukit
 date: 2023-05-18T05:00:00-04:00
-categories: fundraisers
+categories: fundraising
 ---
 
 EduKit sales for the 2023-2024 school year have begun! Each EduKit contains the school supplies your student needs for next year as requested by our Abingdon teachers. Go online to https://www.edukitinc.com/schools/1287 by July 10 to order your child’s EduKit.

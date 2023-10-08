@@ -7,7 +7,7 @@ categories: ["events","passed along"]
 images: ["/2023/10/05/fall-parade/files/flyer-en.png"]
 ---
 
-The PTA is passing along this message from Abingdon Elementary.
+The PTA is passing along [this message from Abingdon Elementary](https://abingdon.apsva.us/post/fall-parade/).
 
 ---
 
