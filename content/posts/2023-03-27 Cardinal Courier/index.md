@@ -113,7 +113,7 @@ The Fairlington 5K has been cancelled due to a change in county policies. For mo
 
 Abingdon's Annual International & Cultural Heritage and History Night is RETURNING, **April 28th from 5:30-7:30PM**! Last year, we celebrated together in the cafeteria with loads of food and fun!
 
-**This year**, we have bigger plans for performances, break out sessions, food, and mingling. Please use the following [link](https://shorturl.at/wPTX7) to RSVP and let us know if you will be attending. We encourage families to consider sharing a dish from your culture, dress in traditional cultural attire, and invite you to share a cultural performance or tradition with the community. 
+**This year**, we have bigger plans for performances, break out sessions, food, and mingling. Please use the following [link](https://docs.google.com/forms/d/e/1FAIpQLSeizr_doYREpIoMxxgNoYP1Y2Musbz9BzvuIe78e_lKHzC-ZA/viewform) to RSVP and let us know if you will be attending. We encourage families to consider sharing a dish from your culture, dress in traditional cultural attire, and invite you to share a cultural performance or tradition with the community. 
 
 This event is a success **only** with your participation. Beyond joining in the fun, we also need **volunteers** to set up, work the event, and clean up at the end of the night. Please consider offering your time!
 

@@ -53,7 +53,7 @@ Cada año, las escuelas de Virginia administran evaluaciones para evaluar el con
 
 ## 👉 Recordatorios
 
-- ¡No lo olvides! Abingdon llevará a cabo la Noche de la Historia y el Patrimonio Cultural e Internacional el viernes 28 de abril. [Más información sobre el evento y cómo ser voluntario está disponible aquí.](https://shorturl.at/wPTX7)
+- ¡No lo olvides! Abingdon llevará a cabo la Noche de la Historia y el Patrimonio Cultural e Internacional el viernes 28 de abril. [Más información sobre el evento y cómo ser voluntario está disponible aquí.](https://docs.google.com/forms/d/e/1FAIpQLSeizr_doYREpIoMxxgNoYP1Y2Musbz9BzvuIe78e_lKHzC-ZA/viewform)
 - Abingdon tendrá un evento del Día de la Tierra en el jardín de la escuela el domingo 23 de abril. [Hay más información disponible aquí.](https://www.abingdonpta.org/2023/03/17/earth-day/)
 
 ## 🙏 Gracias

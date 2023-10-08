@@ -62,10 +62,10 @@ The Abingdon PTA is excited to announce NEW Spirit Wear! Please show your school
 
 ## 👉 Reminders
 
-⛸️ **Save the date for ice-skating February 16th!** Please RSVP @ [rb.gy/lhjmye](https://rb.gy/lhjmye)
+⛸️ **Save the date for ice-skating February 16th!** Please RSVP @ https://docs.google.com/forms/d/e/1FAIpQLSfydGoTkuV0MkyGvvYBAE4cvqknOScNe9WxzJj8XJUogxBBwQ/viewform
 (Note the date change from February 9 to February 16.)
 
-🏈 **Support our MVPs (Most Valuable Personnel).**  Please sign up to bring a “Super Bowl snack” on Friday, 2/10 at 10:00 am to Abingdon Teachers Lounge. We appreciate our amazing Abingdon Staff for all that they do. Sign up here: [shorturl.at/drO58](https://shorturl.at/drO58)
+🏈 **Support our MVPs (Most Valuable Personnel).**  Please sign up to bring a “Super Bowl snack” on Friday, 2/10 at 10:00 am to Abingdon Teachers Lounge. We appreciate our amazing Abingdon Staff for all that they do. Sign up here: https://www.signupgenius.com/go/30e0a44aca72aa5fe3-mvpsuperbowl#/
 
 ☎️ **Directory Reminder:** The Abingdon PTA recently launched a new online student directory for our school. The directory contains contact information for students’ families to help those in the Abingdon community connect to arrange playdates, discuss classroom activities, share other school-related information, and more. To access the directory, follow the instructions here: https://www.abingdonpta.org/2022/12/01/directory/
 

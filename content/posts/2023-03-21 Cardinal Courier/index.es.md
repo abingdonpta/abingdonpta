@@ -27,7 +27,7 @@ booktoc: true
 {{< imgresize o=360x src="files/IMG_7310.jpg" alt="Baile irlandés en la Noche Internacional" >}}
 {{< imgresize o=360x src="files/PXL_20220513_230241415.jpg" alt="Una generosa y diversa variedad de comidas en la Noche Internacional" >}}
 
-**Este año**, esperamos reunir a nuestra comunidad para celebrar las diversas culturas que representan a nuestra población de estudiantes y personal el **28 de abril de 5:30 p. m. a 7:30 p. m.**. Estamos emocionados de una vez más “partir el pan” juntos y aprender tradiciones unos de otros. Utilice el siguiente [enlace](http://shorturl.at/wPTX7) para confirmar su asistencia y avísenos si asistirá. Alentamos a las familias a considerar compartir un plato de su cultura, vestirse con atuendos culturales tradicionales y lo invitamos a compartir una actuación cultural o tradición con la comunidad.
+**Este año**, esperamos reunir a nuestra comunidad para celebrar las diversas culturas que representan a nuestra población de estudiantes y personal el **28 de abril de 5:30 p. m. a 7:30 p. m.**. Estamos emocionados de una vez más “partir el pan” juntos y aprender tradiciones unos de otros. Utilice el siguiente [enlace](https://docs.google.com/forms/d/e/1FAIpQLSeizr_doYREpIoMxxgNoYP1Y2Musbz9BzvuIe78e_lKHzC-ZA/viewform) para confirmar su asistencia y avísenos si asistirá. Alentamos a las familias a considerar compartir un plato de su cultura, vestirse con atuendos culturales tradicionales y lo invitamos a compartir una actuación cultural o tradición con la comunidad.
 
 Este evento es un éxito **solo** con tu participación. Más allá de unirnos a la diversión, también necesitamos **voluntarios** para organizar, trabajar en el evento y limpiar al final de la noche. ¡Por favor considere ofrecer su tiempo!
 

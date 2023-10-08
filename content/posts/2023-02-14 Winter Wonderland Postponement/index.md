@@ -9,7 +9,7 @@ images: ["/2023/02/14/winter-wonderland/files/flyer-en.png"]
 
 **Winter Wonderland has been postponed to February 28, from February 16 (poor weather) and from February 9 (band concert).**
 
-Abingdon PTA invites students & families to enjoy an evening of FREE ice skating. In order to know if families can skate with their Abingdon students at this FREE event, please RSVP @ [rb.gy/lhjmye](https://rb.gy/lhjmye)
+Abingdon PTA invites students & families to enjoy an evening of FREE ice skating. In order to know if families can skate with their Abingdon students at this FREE event, please RSVP @ https://docs.google.com/forms/d/e/1FAIpQLSfydGoTkuV0MkyGvvYBAE4cvqknOScNe9WxzJj8XJUogxBBwQ/viewform
 
 Skating includes rental skates. Skaters must have an adult with them. Wear your spirit gear or red and black to show your Abingdon spirit!
 

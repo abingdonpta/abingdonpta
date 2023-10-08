@@ -66,7 +66,7 @@ La agenda de la reunión está disponible aquí: https://www.abingdonpta.org/age
 
 {{< imgresize o=360x class="imageright" src="files/skate-night-es.png" alt="Folleto de la noche de skate" >}}
 
-Abingdon PTA invita a los estudiantes y familias a disfrutar de una noche de patinaje sobre hielo gratis. Para saber si las familias pueden patinar con sus estudiantes de Abingdon en este evento gratuito, RSVP @ [rb.gy/lhjmye](https://rb.gy/lhjmye)
+Abingdon PTA invita a los estudiantes y familias a disfrutar de una noche de patinaje sobre hielo gratis. Para saber si las familias pueden patinar con sus estudiantes de Abingdon en este evento gratuito, RSVP @ https://docs.google.com/forms/d/e/1FAIpQLSfydGoTkuV0MkyGvvYBAE4cvqknOScNe9WxzJj8XJUogxBBwQ/viewform
 
 **NOTA: La fecha se ha cambiado del 9 de febrero al 16 de febrero.**
 

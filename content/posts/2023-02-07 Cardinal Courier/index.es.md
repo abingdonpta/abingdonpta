@@ -60,10 +60,9 @@ La inscripción para el programa Primavera 2023 está abierta del 6 al 28 de feb
 
 ## 👉 Recordatorios
 
-⛸️ **¡Guarda la fecha para el patinaje sobre hielo el 16 de febrero!** Confirma tu asistencia @ [rb.gy/lhjmye](https://rb.gy/lhjmye)
-(Tenga en cuenta el cambio de fecha del 9 de febrero al 16 de febrero).
+⛸️ **¡Guarda la fecha para el patinaje sobre hielo el 16 de febrero!** Confirma tu asistencia @ https://docs.google.com/forms/d/e/1FAIpQLSfydGoTkuV0MkyGvvYBAE4cvqknOScNe9WxzJj8XJUogxBBwQ/viewform (Tenga en cuenta el cambio de fecha del 9 de febrero al 16 de febrero).
 
-🏈 **Apoye a nuestros MVP (personal más valioso).** Regístrese para traer un "refrigerio del Super Bowl" el viernes 2/10 a las 10:00 a.m. en el salón de maestros de Abingdon. Agradecemos a nuestro increíble personal de Abingdon por todo lo que hacen. Regístrate aquí: [shorturl.at/drO58](https://shorturl.at/drO58)
+🏈 **Apoye a nuestros MVP (personal más valioso).** Regístrese para traer un "refrigerio del Super Bowl" el viernes 2/10 a las 10:00 a.m. en el salón de maestros de Abingdon. Agradecemos a nuestro increíble personal de Abingdon por todo lo que hacen. Regístrate aquí: https://www.signupgenius.com/go/30e0a44aca72aa5fe3-mvpsuperbowl#/
 
 ☎️ **Recordatorio del directorio:** La PTA de Abingdon lanzó recientemente un nuevo directorio de estudiantes en línea para nuestra escuela. El directorio contiene información de contacto para las familias de los estudiantes para ayudar a los miembros de la comunidad de Abingdon a conectarse para organizar citas para jugar, discutir actividades en el aula, compartir otra información relacionada con la escuela y más. Para acceder al directorio, siga las instrucciones aquí: https://www.abingdonpta.org/2022/12/01/directory/
 

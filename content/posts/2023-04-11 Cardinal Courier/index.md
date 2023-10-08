@@ -53,7 +53,7 @@ Join us in the school library on June 1 from 6–7 PM for an information session
 
 ## 👉 Reminders
 
-- Don't forget! Abingdon will hold International & Cultural Heritage and History Night on Friday, April 28th. [More information about the event and how to volunteer is available here.](https://shorturl.at/wPTX7)
+- Don't forget! Abingdon will hold International & Cultural Heritage and History Night on Friday, April 28th. [More information about the event and how to volunteer is available here.](https://docs.google.com/forms/d/e/1FAIpQLSeizr_doYREpIoMxxgNoYP1Y2Musbz9BzvuIe78e_lKHzC-ZA/viewform)
 - Abingdon will have an Earth Day event in the school garden on Sunday, April 23rd. [More information is available here.](https://www.abingdonpta.org/2023/03/17/earth-day/)
 
 ## 🙏 Thank You

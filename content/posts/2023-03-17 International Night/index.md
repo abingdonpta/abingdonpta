@@ -9,7 +9,7 @@ images: ["/2023/03/17/international-night/files/flyer-en.png"]
 
 Abingdon’s Annual International & Cultural Heritage and History Night is COMING! Last year’s event was a huge success thanks to the whole community who brought food and traditions to share, mingled, sang, danced, and volunteered throughout the beautiful night.
 
-**This year**, we look forward to bringing our community together to celebrate the many various cultures that represent our student and staff population on **April 28th from 5:30 PM-7:30PM**. We are excited to once again “break bread” together and learn traditions from one another. Please use the following [link](http://shorturl.at/wPTX7) to RSVP and let us know if you will be attending. We encourage families to consider sharing a dish from your culture, dress in traditional cultural attire, and invite you to share a cultural performance or tradition with the community. 
+**This year**, we look forward to bringing our community together to celebrate the many various cultures that represent our student and staff population on **April 28th from 5:30 PM-7:30PM**. We are excited to once again “break bread” together and learn traditions from one another. Please use the following [link](https://docs.google.com/forms/d/e/1FAIpQLSeizr_doYREpIoMxxgNoYP1Y2Musbz9BzvuIe78e_lKHzC-ZA/viewform) to RSVP and let us know if you will be attending. We encourage families to consider sharing a dish from your culture, dress in traditional cultural attire, and invite you to share a cultural performance or tradition with the community. 
 
 This event is a success **only** with your participation. Beyond joining in the fun, we also need **volunteers** to set up, work the event, and clean up at the end of the night. Please consider offering your time!
 
