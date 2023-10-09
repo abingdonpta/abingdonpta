@@ -5,41 +5,31 @@ weight: 50
 booktoc: true
 ---
 
-## What is the Grant Program?
+## What is the Staff and Student Activities Grant Program?
 
-The Abingdon PTA Grant Program supports student learning in the classroom and beyond by funding materials, projects, and experiences beyond the core basics provided by Arlington Public Schools. The Grant Program prioritizes those requests that benefit the largest number of students possible or to meet a community identified need otherwise unmet by APS resources.
+The Abingdon PTA Staff and Student Activities Grant Program funds materials, projects, and experiences beyond the core basics provided by Arlington Public Schools. Grants support learning experiences during the school day, extracurricular activities (ex. student clubs), and other initiatives that benefit the school community. The Grant Program prioritizes requests that would benefit the largest number of students possible or address a significant need otherwise unmet by APS resources.
 
 ## How does the grant process work?
 
-- The PTA allocates funds for grants in September as part of its annual budget. For the 2022-2023 school year, the PTA budgeted **$3,400** for grants.
-- This money is split into three tranches to be granted in the fall, winter, and spring. The Executive Board votes on grant applications at their meetings.
-- Grant requests may be funded, in whole or in part, by a business donor, with the mutual consent of the donor and the staff recipient. This is a great way for local businesses to support their neighborhood school, and to stretch PTA funds further.
+- The PTA allocates funds for grants in September as part of its annual budget. For the 2023-2024 school year, the PTA budgeted **$5,500** for the Grant Program.
+- Grant requests may be submitted at any time. All requests are reviewed on a rolling basis by the Staff and Student Activities Grant Committee until the budgeted funds have been dispensed.
+- Requests may be funded in whole, in part, or not at all, at the discretion of the Staff and Student Activities Grant Committee.
 - When a grant is approved, the PTA will pay directly for the item or service whenever possible.
 - The awardee will [sign this form](files/grant-program-agreement.pdf), agreeing that the granted items are now property of Abingdon Elementary School; that the PTA will not be responsible for any maintenance or subsequent costs; and that the PTA asks that these items stay at Abingdon Elementary regardless of staff turnover.
 
 ## When are grants awarded?
 
-This was the schedule for the 2022-2023 school year. Stay tuned for the 2023-2024 schedule.
-
-| Season | Grant Deadline | Executive Board meeting | Money to be Granted |
-| ------ | -------------- | ----------------------- | ------------------- |
-| Fall   | October 18 | October 25 | $1,100 |
-| Winter | January 17 | January 24 | $1,100 |
-| Spring | March 21   | March 28   | $1,200 |
+Grant requests are reviewed on a rolling basis throughout the year until all budgeted funds have been dispensed.
 
 ## Who can apply for grants?
 
-Any individual member of the Abingdon staff or team of educators may apply.
+Any member of the Abingdon staff may apply for themselves, on behalf of several staff members (ex. a grant request by all 3rd Grade teachers), or as the staff representative for a student club or other extracurricular activity.
 
 ## What is the PTA looking for in a grant application?
 
-Grant requests should provide a beneficial impact to a wide range of students (e.g., an entire grade, multiple grades, or the whole school) and a long-term or sustainable benefit to the school. Grants can be used to enrich classroom learning, support cultural arts program, school visits, field trips, and items and activities that benefit a large number of students.
+Applications should identify the purpose of the grant and explain the anticipated benefit to the Abingdon community. Applications should provide an itemized breakdown, to the extent feasible, of how funds would be used and when funds would be needed.
 
-Grants cannot be used to pay for items already purchased, something that will only benefit a small number of students or a single classroom, capital expenses, IEP materials, professional memberships or training, or curriculum materials which are the responsibility of APS.
-
-Grant funds also cannot be used to purchase headphones, which principals should provide to staff upon request. Superintendent Durán stated this during the [January](files/ccpta-1.pdf#page=2) and [February](files/ccpta-2.pdf#page=2) 2023 CCPTA meetings.
-
-**Grant requests should be between $100 and $500.**
+Grants cannot be used to pay for items already purchased, something that will only benefit a small number of students, capital expenses, IEP materials, professional memberships or training, or curriculum materials which are the responsibility of APS. Grant funds also cannot be used to purchase headphones, which principals should provide to staff upon request. (Superintendent Durán stated this during the [January](files/ccpta-1.pdf#page=2) and [February](files/ccpta-2.pdf#page=2) 2023 CCPTA meetings.)
 
 ## What grants have been awarded in the past?
 
