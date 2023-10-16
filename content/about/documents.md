@@ -11,7 +11,7 @@ Agendas are available here before each meeting, and meeting minutes are availabl
 
 | Meeting Date | [Agendas](/agendas) | [Minutes](/minutes) | Presentations |
 | ------------ | ------------------ | ------------------- | ------------- |
-| 2023-09-21   |                    |                     | • [Proposed Budget](</presentations/2023-09-21_1.pdf>)<br>• [Budget Comparison](</presentations/2023-09-21_2.pdf>)<br>• [Financial Review](/financialreviews/2022-2023.pdf)
+| 2023-09-21   |                    | [Minutes](/minutes/2023-09-21) | • [Proposed Budget](</presentations/2023-09-21_1.pdf>)<br>• [Budget Comparison](</presentations/2023-09-21_2.pdf>)<br>• [Financial Review](/financialreviews/2022-2023.pdf)
 | 2023-08-22   |                    | [Minutes](/minutes/2023-08-22) |    |
 
 ---

@@ -2,7 +2,7 @@
 title: Odyssey of the Mind Interest Form
 summary: If you're interested in participating in Odyssey of the Mind, let us know by completing this form.
 slug: enrichment
-date: 2023-10-03T12:00:00-04:00
+date: 2023-10-03T07:00:00-04:00
 categories: enrichment
 ---
 
