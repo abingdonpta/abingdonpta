@@ -31,4 +31,8 @@ If you have any questions, please email us at reflections@abingdonpta.org.
 Please submit your art and your Entry Form by **Friday, November 17** in order to participate.
 {{< /hint >}}
 
+{{< hint info >}}
+The Reflections Art Show is scheduled for **Tuesday, December 12** at 6:30 PM in the school cafeteria. More information to follow.
+{{< /hint >}}
+
 Thank you very much, and we are excited to see what you create!
