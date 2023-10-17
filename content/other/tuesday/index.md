@@ -14,6 +14,12 @@ We will only share documents sent to the entire school, not to a particular clas
 
 ---
 
+## October 17, 2023
+No known schoolwide flyers.
+
+## October 10, 2023
+No known schoolwide flyers.
+
 ## October 3, 2023
 
 {{< imgresize o=360x src="files/2023-10-03_1.png" alt="Trunk or Treat flyer" >}}
