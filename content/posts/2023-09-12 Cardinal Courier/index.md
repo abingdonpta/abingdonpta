@@ -8,6 +8,8 @@ images: ["/share/pta.png"]
 booktoc: true
 ---
 
+{{< button href="https://us11.list-manage.com/subscribe?u=e8c2877018f64aa7e1fd2e884&id=b884e2a18e" >}}Click here to receive the Cardinal Courier newsletter in your inbox.{{< /button >}}
+
 ## The Essentials
 
 - Dominos Dough-Raiser TONIGHT (Use Code DN3)

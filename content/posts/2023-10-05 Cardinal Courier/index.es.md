@@ -8,6 +8,8 @@ images: ["/share/pta-es.png"]
 booktoc: true
 ---
 
+{{< button href="https://us11.list-manage.com/subscribe?u=e8c2877018f64aa7e1fd2e884&id=b884e2a18e" >}}Haga clic aquí para recibir el boletín de Cardinal Courier en su bandeja de entrada.{{< /button >}}
+
 ## Lo escencial
 
 - Noche de espíritu Silver Diner: 17/10 de 5 a 8 p. m.

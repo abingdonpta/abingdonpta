@@ -1,6 +1,6 @@
 --- 
 title: Fall Parade
-summary: Abingdon Elementary will hold a fall parade on Monday, October 30, from 12:15 to 1:00.
+summary: Abingdon Elementary will hold a fall parade on Monday, October 30, at 11:45.
 slug: fall parade
 date: 2023-10-05T04:00:00-04:00
 categories: ["events","passed along"]
