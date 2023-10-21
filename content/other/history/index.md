@@ -176,17 +176,30 @@ Below is a timeline of Abingdon's history gleaned from several sources, mostly n
 The documents below reveal important information about what Abingdon was like in decades past. They were mostly obtained from Arlington Library’s Center for Local History.
 
 | Date | Source | Document | Link |
-| -------- | ---- | ------ | ------ |
+| ---- | ------ | -------- | ---- |
 | 1949-10-29 | [Arlington Library](https://libraryarchives.arlingtonva.us/Detail/collections/1096) | Speeches and flyers for Abingdon's groundbreaking ceremony. | [PDF](pdf/abingdon-groundbreaking.pdf) |
 | 1957-1958 | [Arlington Library](https://ead.lib.virginia.edu/vivaxtf/view?docId=arlington/ViAr00169.xml) | Handbook for Abingdon parents. | [PDF](pdf/parent-handbook-1957-1958.pdf) |
-| 1957-1958 | Abingdon graduate | Yearbook for the 1957-1958 school year. | [PDF](pdf/yearbook-1957-1958.pdf) |
 | 1958-1975 | [Arlington Library](https://ead.lib.virginia.edu/vivaxtf/view?docId=arlington/ViAr00169.xml) | Reports and other documents from Abingdon nurses. | [PDF](pdf/nurse-file.pdf) |
 | 1968 | [Arlington Library](https://libcat.arlingtonva.us/Record/10555) | Architectural and mechanical report for proposed additions and alterations to Oakridge and Abingdon elementary schools. | [PDF](pdf/addition-plan-1968.pdf) |
-| 1968-1969 | Abingdon Library | Yearbook for the 1968-1969 school year. | [PDF](pdf/yearbook-1968-1969.pdf) |
 | 1971-03 | Arlington Library | A history of Abingdon Elementary. | [PDF](pdf/abingdon-elementary-history.pdf) |
 | 1985-04-01 | Fairlington resident | The Fairlington Civic Association newsletter documenting the construction of the new Abingdon playground. | [PDF](pdf/playground-fca-bulletin.pdf) |
 | 1985-05-04 | Fairlington resident | A document dedicating the Abingdon playground constructed by the community. | [PDF](pdf/playground-dedication.pdf) |
 | 2009-2011 | Abingdon PTA | Little Bird PTA Newsletters for September 2009 to April 2011. | [PDF](pdf/little-bird.pdf) |
+
+### Yearbooks
+
+| Date | Source | Link |
+| ---- | ------ | ---- |
+| 1957-1958 | Abingdon graduate | [PDF](pdf/yearbook-1957-1958.pdf) |
+| 1959-1960 | Abingdon Library | [PDF](pdf/yearbook-1959-1960.pdf) |
+| 1960-1961 | Abingdon Library | [PDF](pdf/yearbook-1960-1961.pdf) |
+| 1961-1962 | Abingdon Library | [PDF](pdf/yearbook-1961-1962.pdf) |
+| 1964-1965 | Abingdon Library | [PDF](pdf/yearbook-1964-1965.pdf) |
+| 1965-1966 | Abingdon Library | [PDF](pdf/yearbook-1965-1966.pdf) |
+| 1966-1967 | Abingdon Library | [PDF](pdf/yearbook-1966-1967.pdf) |
+| 1967-1968 | Abingdon Library | [PDF](pdf/yearbook-1967-1968.pdf) |
+| 1968-1969 | Abingdon Library | [PDF](pdf/yearbook-1968-1969.pdf) |
+| 1969-1970 | Abingdon Library | [PDF](pdf/yearbook-1969-1970.pdf) |
 
 ## Other Information
 

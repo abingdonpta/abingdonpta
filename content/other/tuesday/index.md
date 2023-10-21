@@ -18,7 +18,7 @@ We will only share documents sent to the entire school, not to a particular clas
 No known schoolwide flyers.
 
 ## October 10, 2023
-No known schoolwide flyers.
+{{< imgresize o=360x src="files/2023-10-10_1.png" alt="Reflections flyer" >}}
 
 ## October 3, 2023
 
