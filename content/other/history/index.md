@@ -194,12 +194,14 @@ The documents below reveal important information about what Abingdon was like in
 | 1959-1960 | Abingdon Library | [PDF](pdf/yearbook-1959-1960.pdf) |
 | 1960-1961 | Abingdon Library | [PDF](pdf/yearbook-1960-1961.pdf) |
 | 1961-1962 | Abingdon Library | [PDF](pdf/yearbook-1961-1962.pdf) |
+| 1962-1963 | Abingdon Library | [PDF](pdf/yearbook-1962-1963.pdf) |
 | 1964-1965 | Abingdon Library | [PDF](pdf/yearbook-1964-1965.pdf) |
 | 1965-1966 | Abingdon Library | [PDF](pdf/yearbook-1965-1966.pdf) |
 | 1966-1967 | Abingdon Library | [PDF](pdf/yearbook-1966-1967.pdf) |
 | 1967-1968 | Abingdon Library | [PDF](pdf/yearbook-1967-1968.pdf) |
 | 1968-1969 | Abingdon Library | [PDF](pdf/yearbook-1968-1969.pdf) |
 | 1969-1970 | Abingdon Library | [PDF](pdf/yearbook-1969-1970.pdf) |
+| 1970-1971 | Abingdon Library | [PDF](pdf/yearbook-1970-1971.pdf) |
 
 ## Other Information
 
