@@ -14,6 +14,12 @@ We will only share documents sent to the entire school, not to a particular clas
 
 ---
 
+## October 24, 2023
+{{< imgresize o=360x src="files/2023-10-24_1.png" alt="Fall Parade flyer" >}}
+{{< imgresize o=360x src="files/2023-10-24_2.png" alt="Fall Parade flyer" >}}
+{{< imgresize o=360x src="files/2023-10-24_3.png" alt="Odyssey of the Mind flyer" >}}
+{{< imgresize o=360x src="files/2023-10-24_4.png" alt="Odyssey of the Mind flyer" >}}
+
 ## October 17, 2023
 No known schoolwide flyers.
 

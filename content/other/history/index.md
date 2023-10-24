@@ -182,6 +182,7 @@ The documents below reveal important information about what Abingdon was like in
 | 1958-1975 | [Arlington Library](https://ead.lib.virginia.edu/vivaxtf/view?docId=arlington/ViAr00169.xml) | Reports and other documents from Abingdon nurses. | [PDF](pdf/nurse-file.pdf) |
 | 1968 | [Arlington Library](https://libcat.arlingtonva.us/Record/10555) | Architectural and mechanical report for proposed additions and alterations to Oakridge and Abingdon elementary schools. | [PDF](pdf/addition-plan-1968.pdf) |
 | 1971-03 | Arlington Library | A history of Abingdon Elementary. | [PDF](pdf/abingdon-elementary-history.pdf) |
+| 1985 | Fairlington resident | Pamphlets soliciting assistance in building the new Abingdon playground. | [PDF](pdf/playground-pamphlets.pdf) |
 | 1985-04-01 | Fairlington resident | The Fairlington Civic Association newsletter documenting the construction of the new Abingdon playground. | [PDF](pdf/playground-fca-bulletin.pdf) |
 | 1985-05-04 | Fairlington resident | A document dedicating the Abingdon playground constructed by the community. | [PDF](pdf/playground-dedication.pdf) |
 | 2009-2011 | Abingdon PTA | Little Bird PTA Newsletters for September 2009 to April 2011. | [PDF](pdf/little-bird.pdf) |
@@ -437,14 +438,10 @@ The following photos and flyers were provided by Meghan Fatourous, Abingdon's li
 {{< imgresize o=360x src="images/80s-087.png" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
 {{< imgresize o=360x src="images/80s-088.png" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
 {{< imgresize o=360x src="images/80s-089.png" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
-{{< imgresize o=360x src="images/80s-090.png" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
-{{< imgresize o=360x src="images/80s-091.png" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
-{{< imgresize o=360x src="images/80s-092.png" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
-{{< imgresize o=360x src="images/80s-093.png" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
-{{< imgresize o=360x src="images/80s-094.png" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
+{{< imgresize o=360x src="images/80s-097.png" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
 {{< imgresize o=360x src="images/80s-095.png" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
 {{< imgresize o=360x src="images/80s-096.png" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
-{{< imgresize o=360x src="images/80s-097.png" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
+{{< imgresize o=360x src="images/80s-090.png" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
 {{< imgresize o=360x src="images/80s-098.png" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
 {{< imgresize o=360x src="images/80s-099.png" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
 {{< imgresize o=360x src="images/80s-100.png" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}

@@ -16,5 +16,9 @@ Abingdon Elementary will hold a fall parade on Monday, October 30, ~~from 12:15 
 - **When**: Monday, October 30, ~~12:15 - 1:00 PM~~ **11:45 AM**
 - **Where**: Abingdon Elementary ~~and surrounding neighborhood~~
 
+{{< imgresize o=492x src="files/flyer2-en.png" alt="Fall Parade flyer in English" >}}
+{{< imgresize o=492x src="files/flyer2-es.png" alt="Fall Parade flyer in Spanish" >}}
+
+#### Original flyer:
 {{< imgresize o=492x src="files/flyer-en.jpg" alt="Fall Parade flyer in English" >}}
 {{< imgresize o=492x src="files/flyer-es.jpg" alt="Fall Parade flyer in Spanish" >}}

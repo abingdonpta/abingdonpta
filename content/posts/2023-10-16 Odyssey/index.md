@@ -19,3 +19,6 @@ ZOOM info will be provided if needed when you RSVP.
 **We still need coaches; please sign up to coach a team.** The time commitment is only 1-2 hours a week, and you can work out when and where to meet with your team that best suits you and your team. If we have enough parents to co-coach, the time commitment will be less.
 
 Contact Tina Kelly for more information at [tntkellyhouse@gmail.com](mailto:tntkellyhouse@gmail.com).
+
+{{< imgresize o=492x src="files/flyer-en.png" alt="Odyssey of the Mind flyer in English" >}}
+{{< imgresize o=492x src="files/flyer-es.png" alt="Odyssey of the Mind flyer in Spanish" >}}
