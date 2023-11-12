@@ -8,7 +8,7 @@ categories: donations
 
 The PTA is collecting side dishes to provide Thanksgiving meals for 30+ Abingdon families (turkeys have been donated by another organization).
 
-Please review the available slots for non-perishable food items below and sign up by clicking the button below. **Please include a comment to indicate how many of the listed item you will provide.**
+Please review and sign up for the available slots for non-perishable food items at the link below. **Please include a comment to indicate how many of the listed item you will provide.**
 
 We are also looking for volunteers to help with the food distribution on Saturday, Nov. 18 at 11 am and Wednesday, Nov. 22 at 12 pm. If you are available to help, please sign up below.
 
