@@ -14,6 +14,12 @@ We will only share documents sent to the entire school, not to a particular clas
 
 ---
 
+## November 7, 2023
+No Tuesday folder distributed (Election Day).
+
+## October 31, 2023
+No known schoolwide flyers.
+
 ## October 24, 2023
 {{< imgresize o=360x src="files/2023-10-24_1.png" alt="Fall Parade flyer" >}}
 {{< imgresize o=360x src="files/2023-10-24_2.png" alt="Fall Parade flyer" >}}
