@@ -1,11 +1,10 @@
 --- 
-title: Call For Entries — Reflections Art Contest
-summary: Your child is invited to participate in the Reflections Arts Contest this fall.
+title: Reflections Art Contest Reminder
+summary: The deadline for submissions has been moved back to Tuesday, November 28.
 slug: reflections
-date: 2023-10-05T05:00:00-04:00
+date: 2023-11-16T20:00:00-05:00
 images: ["/2023/10/05/reflections/social/iahb_facebook-post.png"]
 categories: reflections
-aliases: ["/reflections/"]
 ---
 
 {{< figresize o=736x src="social/iahb_facebook-post.png" alt="Reflections Flyer" >}}
@@ -20,10 +19,10 @@ All Abingdon students are invited to create theme-based artwork in the categorie
 
 ## Participation instructions
 
-1. Create a work of visual art or literature that reflects this year's theme of "I am Hopeful Because..." Ensure it meets the guidelines published by the National PTA (**Visual Arts guidelines** in [English](<guidelines/Visual Arts.pdf>) and [Spanish](<guidelines/Visual Arts - Spanish.pdf>), and **Literature guidelines** in [English](<guidelines/Literature.pdf>) and [Spanish](<guidelines/Literature - Spanish.pdf>)).
+1. Create a work of visual art or literature that reflects this year's theme of "I am Hopeful Because..." Ensure it meets the guidelines published by the National PTA (**Visual Arts guidelines** in [English](</2023/10/05/reflections/guidelines/Visual Arts.pdf>) and [Spanish](</2023/10/05/reflections/guidelines/Visual Arts - Spanish.pdf>), and **Literature guidelines** in [English](</2023/10/05/reflections/guidelines/Literature.pdf>) and [Spanish](</2023/10/05/reflections/guidelines/Literature - Spanish.pdf>)).
 1. Clearly label the back or underside of your work with your name, your teacher's name, and the title of your work.
 1. Carefully drop off your work in the Reflections bin inside the school. **The bin for submissions will be just inside the school's front entrance (Door 1).**
-1. Fill out our Entry Form ([English](forms/fillable-form_local-leader.pdf), [Spanish](forms/fillable-form_local-leader---es.pdf)) and send it to reflections@abingdonpta.org. The form can also be completed on paper and placed in the bin with your art.
+1. Fill out our Entry Form ([English](/2023/10/05/reflections/forms/fillable-form_local-leader.pdf), [Spanish](/2023/10/05/reflections/forms/fillable-form_local-leader---es.pdf)) and send it to reflections@abingdonpta.org. The form can also be completed on paper and placed in the bin with your art.
 
 If you have any questions, please email us at reflections@abingdonpta.org.
 
