@@ -121,6 +121,7 @@ Disallow: /ar/
 Disallow: /am/
 Disallow: /mn/
 Disallow: /fa/
+Disallow: /index.xml
 
 User-agent: GPTBot
 Disallow: /
