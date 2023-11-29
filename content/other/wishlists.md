@@ -16,16 +16,12 @@ When sending packages directly to the school, please include "ATTN: [Staff name]
 
 If you work at Abingdon and would like your wishlist featured on this page, please email the PTA at pta@abingdonpta.org.
 
-## Kindergarten
-
-- [Ms. Platt](https://www.amazon.com/hz/wishlist/ls/UW5CNNPMGAFB)
-
 ## 2nd Grade
 
-- [Ms. Madrona](https://www.amazon.com/hz/wishlist/ls/1KBQWYUEJJWAY)
 - [Ms. Edmonds](https://www.amazon.com/hz/wishlist/ls/3O3REUGA8ALYH)
 - [Ms. Cimilluca](https://www.amazon.com/hz/wishlist/ls/1YHUOLUQWIQ6U)
 
 ## 3rd Grade
 
 - [Ms. Burd](https://www.amazon.com/hz/wishlist/ls/3NHI49RVDQWDF)
+- [Ms. Madrona](https://www.amazon.com/hz/wishlist/ls/1KBQWYUEJJWAY)
