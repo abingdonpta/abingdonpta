@@ -14,6 +14,9 @@ We will only share documents sent to the entire school, not to a particular clas
 
 ---
 
+## December 19, 2023
+No known schoolwide flyers.
+
 ## December 12, 2023
 No known schoolwide flyers.
 
