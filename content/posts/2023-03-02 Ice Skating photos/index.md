@@ -3,7 +3,7 @@ title: Photos from Winter Wonderland Ice Skating
 summary: Abingdon students had a lot of fun skating on Tuesday evening.
 slug: ice skating photos
 date: 2023-03-02T05:00:00-05:00
-images: ["/2023/03/02/ice-skating-photos/files/IMG-2353.jpg"]
+images: ["files/IMG-2353.jpg"]
 categories: ["events","photos"]
 ---
 

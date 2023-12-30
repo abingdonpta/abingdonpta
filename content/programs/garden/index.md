@@ -1,7 +1,7 @@
 ---
 Title: Abingdon's Garden
 summary: Abingdon Elementary would love your support to create a successful, sustainable community garden.
-images: ["garden/files/IMG_0118.jpg"]
+images: ["files/IMG_0118.jpg"]
 linkTitle: Garden
 weight: 40
 booktoc: true

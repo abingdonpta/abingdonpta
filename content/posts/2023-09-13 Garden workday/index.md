@@ -4,7 +4,7 @@ summary: Help us clean up our garden on Sunday, September 24.
 slug: garden workday
 date: 2023-09-13T05:00:00-04:00
 categories: garden
-images: ["/2023/09/13/garden-workday/files/flyer-en.png"]
+images: ["files/flyer-en.png"]
 ---
 
 Help us clean up our Abingdon Community Garden. No garden experience required. Bring your water bottle too!

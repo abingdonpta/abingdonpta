@@ -4,7 +4,7 @@ summary: The PTA purchased mallets and educational games for Abingdon students.
 slug: grants
 date: 2023-03-13T05:00:00-04:00
 categories: grants
-images: ["/2023/03/13/grants/files/IMG_1272.jpg"]
+images: ["files/IMG_1272.jpg"]
 ---
 
 The Abingdon PTA started a [Grant Program](/grants) this year in order to support student learning in the classroom and beyond by funding materials, projects, and experiences beyond the core basics provided by Arlington Public Schools.

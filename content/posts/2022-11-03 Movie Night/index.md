@@ -4,7 +4,7 @@ summary: Come watch Coco on Friday, November 4 in Abingdon's gym.
 slug: movie night
 date: 2022-11-03T05:00:00-04:00
 categories: ["events","passed along"]
-images: ["/2022/11/03/movie-night/files/flyer-en.png"]
+images: ["files/flyer-en.png"]
 ---
 
 The PTA is passing along this message from Renita Upshur, Abingdon's wonderful science teacher and the lead of Abingdon's DEI Committee.

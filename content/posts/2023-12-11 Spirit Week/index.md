@@ -4,7 +4,7 @@ summary: Dress up for Spirit Week, December 14-20.
 slug: spirit week
 date: 2023-12-11T16:00:00-05:00
 categories: "passed along"
-images: ["/2023/12/11/spirit-week/files/flyer-en.png"]
+images: ["files/flyer-en.png"]
 ---
 
 The PTA is passing along this message from Abingdon Elementary.

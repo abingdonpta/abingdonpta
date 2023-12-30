@@ -4,7 +4,7 @@ summary: Plants from Abingdon's garden won prizes in several categories.
 slug: county fair prizes
 date: 2022-08-22T07:00:00-04:00
 categories: garden
-images: ["/2022/08/22/county-fair-prizes/files/IMG_1501.jpg"]
+images: ["files/IMG_1501.jpg"]
 ---
 
 Abingdon Elementary brought home a few ribbons from the Arlington County Fair! Plants grown in [Abingdon's garden](/garden/) won the following prizes:

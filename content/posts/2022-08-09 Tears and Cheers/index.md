@@ -4,7 +4,7 @@ summary: After you drop your kindergartener off, you are invited to attend the T
 slug: tears and cheers
 date: 2022-08-09T07:00:00-04:00
 categories: events
-images: ["/2022/08/09/tears-and-cheers/files/flyer.png"]
+images: ["files/flyer.png"]
 ---
 
 Calling all kindergarten parents/guardians!

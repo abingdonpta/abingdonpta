@@ -4,7 +4,7 @@ summary: Abingdon Elementary will hold a fall parade on Monday, October 30, at 1
 slug: fall parade
 date: 2023-10-05T04:00:00-04:00
 categories: ["events","passed along"]
-images: ["/2023/10/05/fall-parade/files/flyer-en.png"]
+images: ["files/flyer-en.png"]
 ---
 
 The PTA is passing along [this message from Abingdon Elementary](https://abingdon.apsva.us/post/fall-parade/). **Please note the changes made on October 17.**

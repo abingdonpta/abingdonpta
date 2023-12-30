@@ -4,7 +4,7 @@ summary: The PTA is hosting a popsicle playdate in Bailey's Branch Park on Augus
 slug: rising kindergarten playdate
 date: 2022-08-19T07:00:00-04:00
 categories: events
-images: ["/2022/08/19/rising-kindergarten-playdate/files/flyer.png"]
+images: ["files/flyer.png"]
 ---
 
 The PTA is hosting one more popsicle playdate for rising kindergarteners this summer!

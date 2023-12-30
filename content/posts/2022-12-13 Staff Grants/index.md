@@ -4,7 +4,7 @@ summary: The PTA purchased ukuleles and math manipulatives for Abingdon students
 slug: grants
 date: 2022-12-13T05:00:00-05:00
 categories: grants
-images: ["/2022/12/13/grants/files/IMG_5977.jpg"]
+images: ["files/IMG_5977.jpg"]
 ---
 
 The Abingdon PTA started a [Grant Program](/grants) this year in order to support student learning in the classroom and beyond by funding materials, projects, and experiences beyond the core basics provided by Arlington Public Schools.

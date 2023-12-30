@@ -4,7 +4,7 @@ summary: Girls on the Run is looking for "buddy runners," an adult who will run 
 slug: buddy runners
 date: 2023-03-24T06:00:00-04:00
 categories: "volunteer opportunities"
-images: ["/2023/03/24/buddy-runners/files/flyer-en.png"]
+images: ["files/flyer-en.png"]
 ---
 
 The Abingdon Girls on the Run Team is off to a great start as we kicked off our re-entry season at Abingdon! Our students and coaches are enjoying setting star goals, getting to know one another, learning how to be strong and independent, and practicing our running. We have been confirmed for our 5K!

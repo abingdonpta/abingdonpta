@@ -4,7 +4,7 @@ summary: Sign up to provide a Super Bowl appetizer to thank our amazing staff fo
 slug: appreciation
 date: 2023-01-12T20:00:00-05:00
 categories: appreciation
-images: ["/2023/01/12/appreciation/files/flyer.jpg"]
+images: ["files/flyer.jpg"]
 ---
 
 Sign up to provide a "Super Bowl" appetizer (chips, hot & cold dips, hearty snack, delicious dessert) on February 10th @ 10am to thank our amazing Abingdon Staff for all that they do!

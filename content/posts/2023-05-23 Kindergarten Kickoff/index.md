@@ -4,7 +4,7 @@ summary: The school is hosting an event for registered, rising kindergarteners o
 slug: kick off to kindergarten
 date: 2023-05-23T05:00:00-04:00
 categories: events
-images: ["/2023/05/23/kick-off-to-kindergarten/files/flyer-en.png"]
+images: ["files/flyer-en.png"]
 ---
 
 The school is hosting an event for registered, rising kindgarteners who will be attending Abingdon Elementary in the fall of 2023. Come meet a teacher and receive a goody bag!

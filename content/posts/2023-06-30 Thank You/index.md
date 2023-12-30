@@ -3,7 +3,7 @@ title: Thank You for a Great Year!
 summary: Thank you for pouring your heart into our Abingdon community during the 2022-2023 school year.
 slug: thank you
 date: 2023-06-30T17:00:00-04:00
-images: ["/2023/06/30/thank-you/files/flyer-en.png"]
+images: ["files/flyer-en.png"]
 ---
 
 Thank you for pouring your heart into our Abingdon community during the 2022-2023 school year!

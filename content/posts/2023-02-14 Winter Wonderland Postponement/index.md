@@ -4,7 +4,7 @@ summary: Abingdon's Winter Wonderland ice skating event is postponed until Tuesd
 slug: winter wonderland
 date: 2023-02-14T12:30:00-05:00
 categories: events
-images: ["/2023/02/14/winter-wonderland/files/flyer-en.png"]
+images: ["files/flyer-en.png"]
 ---
 
 **Winter Wonderland has been postponed to February 28, from February 16 (poor weather) and from February 9 (band concert).**

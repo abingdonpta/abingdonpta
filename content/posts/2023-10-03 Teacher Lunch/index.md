@@ -3,7 +3,7 @@ title: Buy a Teacher Lunch
 summary: Consider donating to sponsor lunch for our hardworking teachers during conference week.
 slug: teacher lunch
 date: 2023-10-03T08:00:00-04:00
-images: ["/2023/10/03/teacher-lunch/files/flyer-en.jpg"]
+images: ["files/flyer-en.jpg"]
 categories: ["fundraisers","appreciation"]
 ---
 

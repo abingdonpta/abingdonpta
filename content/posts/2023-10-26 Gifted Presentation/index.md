@@ -4,7 +4,7 @@ summary: Abingdon Elementary will hold a gifted services night on November 2 and
 slug: gifted presentation
 date: 2023-10-26T05:00:00-04:00
 categories: ["events","passed along"]
-images: ["/2023/10/26/gifted-presentation/files/flyer-en.png"]
+images: ["files/flyer-en.png"]
 ---
 
 The PTA is passing along this message from Abingdon Elementary.

@@ -4,7 +4,7 @@ summary: Sign up for summer camp at the Arlington Outdoor Lab starting on March 
 slug: outdoor lab summer camp
 date: 2023-02-13T05:00:00-05:00
 categories: "passed along"
-images: ["/2023/02/13/outdoor-lab-summer-camp/files/brochure-1.png"]
+images: ["files/brochure-1.png"]
 ---
 
 The PTA is passing along this message from Clare McLean, one of our wonderful Kindergarten Assistants here at Abingdon. She also serves as the Summer Camp Assistant Director at the Outdoor Lab.

@@ -3,7 +3,7 @@ title: Photos from the Reflections Art Show
 summary: View the wonderful submissions from our recent Reflections art program.
 slug: reflections photos
 date: 2022-12-14T05:00:00-05:00
-images: ["/2022/12/14/reflections-photos/files/PXL_20221109_234235060.jpg"]
+images: ["files/PXL_20221109_234235060.jpg"]
 categories: ["reflections","photos"]
 ---
 

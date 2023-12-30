@@ -4,7 +4,7 @@ summary: The school has requested volunteers to help distribute food on Thursday
 slug: food distribution
 date: 2023-09-01T05:00:00-04:00
 categories: ["volunteer opportunities","passed along"]
-images: ["/2023/09/01/food-distribution/files/flyer-en.png"]
+images: ["files/flyer-en.png"]
 ---
 
 The PTA is passing along this message from the Capital Area Food Bank and Abingdon Elementary.

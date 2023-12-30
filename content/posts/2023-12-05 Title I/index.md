@@ -4,7 +4,7 @@ summary: Join the Abingdon staff for coffee and bagels to learn about how Title 
 slug: title i
 date: 2023-12-05T16:00:00-05:00
 categories: "passed along"
-images: ["/2023/12/05/title-i/files/flyer-en.png"]
+images: ["files/flyer-en.png"]
 ---
 
 You're invited to join the **School-Family Partnership Coffee Chat**. Join the Abingdon staff for coffee and bagels to learn about how Title I funding supports our Cardinal flock.

@@ -4,7 +4,7 @@ summary: The program for International & Cultural Heritage and History Night is 
 slug: program
 date: 2023-04-21T05:00:00-04:00
 categories: events
-images: ["/2023/04/21/program/files/flyer-es-1.png"]
+images: ["files/flyer-es-1.png"]
 ---
 
 The program for International & Cultural Heritage and History Night in Spanish and English is below.

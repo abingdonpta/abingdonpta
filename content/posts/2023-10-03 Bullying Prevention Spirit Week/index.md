@@ -4,7 +4,7 @@ summary: Abingdon is celebrating Bullying Prevention Spirit Week on October 16-2
 slug: spirit week
 date: 2023-10-03T11:00:00-05:00
 categories: "passed along"
-images: ["/2023/10/03/spirit-week/files/flyer-en.png"]
+images: ["files/flyer-en.png"]
 ---
 
 The PTA is passing along [this message from Abingdon's counseling team](https://abingdon.apsva.us/post/bullying-prevention-spirit-week/).

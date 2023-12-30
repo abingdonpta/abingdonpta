@@ -4,7 +4,7 @@ summary: Come join us on Saturday, August 20th to catch up with friends and meet
 slug: back to school picnic
 date: 2022-08-04T07:00:00-04:00
 categories: events
-images: ["/2022/08/04/back-to-school-picnic/files/flyer-en.png"]
+images: ["files/flyer-en.png"]
 ---
 
 You're invited to the Back-to-School Picnic! Come join us on Saturday, August 20th to catch up with friends and meet new ones.  We're excited to see everybody!

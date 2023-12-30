@@ -4,7 +4,7 @@ summary: APS is hosting a program at Gunston for parents of children ages 10 to 
 slug: strengthening families
 date: 2023-03-30T05:00:00-04:00
 categories: "passed along"
-images: ["/2023/03/30/strengthening-families/files/flyer-en.png"]
+images: ["files/flyer-en.png"]
 ---
 
 The PTA is passing along this message from Sarah Mullinax, one of our wonderful School Counselors here at Abingdon.

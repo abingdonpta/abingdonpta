@@ -4,7 +4,7 @@ summary: Parents are invited to meet their student's classroom teacher and speci
 slug: back to school night
 date: 2023-08-31T05:00:00-04:00
 categories: ["events","passed along"]
-images: ["/2023/08/31/back-to-school-night/files/flyer-en.png"]
+images: ["files/flyer-en.png"]
 ---
 
 The PTA is passing along this message from [Abingdon's website](https://abingdon.apsva.us/post/back-to-school-night/) and from School Talk.

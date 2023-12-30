@@ -4,7 +4,7 @@ summary: Registration starts Monday, September 18 at 9 AM.
 slug: enrichment
 date: 2023-09-14T05:00:00-04:00
 categories: enrichment
-images: ["/2023/09/14/enrichment/files/flyer-en.png"]
+images: ["files/flyer-en.png"]
 ---
 
 It's time to register for the Fall Session of after-school enrichment classes! The Abingdon PTA is partnering with Baroody Camps to offer this program.

@@ -4,7 +4,7 @@ summary: Abingdon's second annual Trunk or Treat will be held on Saturday, Octob
 slug: trunk or treat
 date: 2022-10-03T05:00:00-04:00
 categories: events
-images: ["/2022/10/03/trunk-or-treat/files/flyer-en.png"]
+images: ["files/flyer-en.png"]
 ---
 
 The Abingdon PTA is excited to bring back Trunk or Treat! Kids will dress up in Halloween costumes and collect candy from volunteers who have decorated their cars.

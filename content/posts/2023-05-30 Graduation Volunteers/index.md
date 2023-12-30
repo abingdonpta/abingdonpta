@@ -4,7 +4,7 @@ summary: The school is looking for volunteers to help ensure successful end-of-y
 slug: graduation volunteers
 date: 2023-05-30T20:00:00-04:00
 categories: "volunteer opportunities"
-images: ["/2023/05/30/graduation-volunteers/files/flyer-en.png"]
+images: ["files/flyer-en.png"]
 ---
 
 We need 4th grade parent volunteers (other grade level parent volunteers are welcomed too!) to help Abingdon Elementary with 5th Grade Promotion & the 5th grade picnic. Help us celebrate our Cardinal graduates before they soar off to middle school!

@@ -4,7 +4,7 @@ summary: A huge thank you to all of our hardworking volunteers for making Trunk 
 slug: trunk or treat photos
 date: 2023-10-28T20:00:00-04:00
 categories: ["photos","events"]
-images: ["/2022/10/28/trunk-or-treat-photos/files/IMG_3303.jpg"]
+images: ["files/IMG_3303.jpg"]
 ---
 
 A huge thank you to all of our hardworking volunteers for making today's Trunk or Treat a sweet success and a memorable experience for our flock!

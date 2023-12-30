@@ -4,7 +4,7 @@ summary: Come watch the movie The Book of Life on Friday, November 3 in Abingdon
 slug: movie night
 date: 2023-10-03T15:00:00-04:00
 categories: ["events","passed along"]
-images: ["/2023/10/03/movie-night/files/flyer-en.png"]
+images: ["files/flyer-en.png"]
 ---
 
 The PTA is passing along [this message from Abingdon's DEI Committee](https://abingdon.apsva.us/post/movie-night/).

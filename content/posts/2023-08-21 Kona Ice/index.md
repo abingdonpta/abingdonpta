@@ -3,7 +3,7 @@ title: Kona Ice Fundraiser
 summary: The Kona Ice Truck will be stationed outside the cafeteria during Thursday’s open house.
 slug: kona ice
 date: 2023-08-21T14:00:00-04:00
-images: ["/2023/08/21/kona-ice/files/flyer-en.jpg"]
+images: ["files/flyer-en.jpg"]
 categories: ["fundraisers","appreciation"]
 ---
 

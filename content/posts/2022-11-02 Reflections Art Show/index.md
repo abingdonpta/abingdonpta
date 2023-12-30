@@ -3,7 +3,7 @@ title: Reflections Art Show
 summary: You're invited to celebrate our students' artwork and creativity.
 slug: reflections art show
 date: 2022-11-02T05:00:00-04:00
-images: ["/2022/11/02/reflections-art-show/files/flyer-en.png"]
+images: ["files/flyer-en.png"]
 categories: ["reflections","volunteer opportunities"]
 ---
 

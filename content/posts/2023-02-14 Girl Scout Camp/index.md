@@ -4,7 +4,7 @@ summary: Girl Scouts are hosting a camp between April 3-6 in Arlington.
 slug: girl scout camp
 date: 2023-02-14T04:30:00-05:00
 categories: "passed along"
-images: ["/2023/02/14/girl-scout-camp/files/flyer-en.png"]
+images: ["files/flyer-en.png"]
 ---
 
 The PTA is passing along this message from Maureen McCormick Harlow, Abingdon parent and Girl Scout troop leader.

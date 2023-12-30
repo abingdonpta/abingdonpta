@@ -5,7 +5,7 @@ slug: field day
 date: 2023-05-25T07:00:00-04:00
 lastmod: 2023-06-08T07:00:00-04:00
 categories: "volunteer opportunities"
-images: ["/2023/05/25/field-day/files/flyer-en.png"]
+images: ["files/flyer-en.png"]
 ---
 
 **6/8 Update**: Field Day has been rescheduled to Tuesday, June 13 due to poor air quality. If you signed up to volunteer, and can volunteer for the same shift(s) on Tuesday, June 13th, that would be terrific.  If you are not able to volunteer on Tuesday, June 13th, then please remove your name from the Signup Genius.  Kindly update the Signup Genius with your availability by Friday, June 9 at 9 am (if possible), so that we can plan accordingly. Thank you!

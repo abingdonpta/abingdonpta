@@ -4,7 +4,7 @@ summary: Abingdon's Field Day was amazing!
 slug: field day photos
 date: 2023-06-14T05:00:00-04:00
 categories: ["photos","events"]
-images: ["/2023/06/14/field-day-photos/files/IMG_6787.jpg"]
+images: ["files/IMG_6787.jpg"]
 ---
 
 Abingdon's Field Day rocks! Shout out to Mr. Reed, Mr. Spadaro, and Mr. Collazos for planning an incredible experience for our Cardinal students. Thank you to all the volunteers and staff for their support too.

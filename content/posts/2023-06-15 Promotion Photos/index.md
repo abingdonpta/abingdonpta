@@ -6,7 +6,7 @@ date: 2023-06-15T05:00:00-04:00
 categories:
 - photos
 - events
-images: ["/2023/06/15/promotion-photos/files/IMG_7169.jpg"]
+images: ["files/IMG_7169.jpg"]
 ---
 
 Congratulations to the Abingdon Class of 2023! We are so proud of you!

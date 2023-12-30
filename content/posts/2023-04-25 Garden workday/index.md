@@ -4,7 +4,7 @@ summary: Help us weed and plant a sunflower garden on Sunday, May 21.
 slug: garden workday
 date: 2023-04-25T06:00:00-04:00
 categories: garden
-images: ["/2023/04/25/garden-workday/files/flyer-en.png"]
+images: ["files/flyer-en.png"]
 ---
 
 Help us clean-up our school garden and pick up litter on the school grounds. We'll also be preparing a sunflower garden!

@@ -4,7 +4,7 @@ summary: Come watch the movie Little Door Gods on Friday, June 2 in Abingdon's g
 slug: movie night
 date: 2023-05-25T19:00:00-04:00
 categories: ["events","passed along"]
-images: ["/2023/05/25/movie-night/files/flyer-en.png"]
+images: ["files/flyer-en.png"]
 ---
 
 The PTA is passing along this message from Renita Upshur, Abingdon's wonderful science teacher and the lead of Abingdon's DEI Committee.
