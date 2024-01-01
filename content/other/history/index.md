@@ -182,6 +182,7 @@ The documents below reveal important information about what Abingdon was like in
 | 1958-1975 | [Arlington Library](https://ead.lib.virginia.edu/vivaxtf/view?docId=arlington/ViAr00169.xml) | Reports and other documents from Abingdon nurses. | [PDF](pdf/nurse-file.pdf) |
 | 1968 | [Arlington Library](https://libcat.arlingtonva.us/Record/10555) | Architectural and mechanical report for proposed additions and alterations to Oakridge and Abingdon elementary schools. | [PDF](pdf/addition-plan-1968.pdf) |
 | 1971-03 | Arlington Library | A history of Abingdon Elementary. | [PDF](pdf/abingdon-elementary-history.pdf) |
+| 1983-09 | Fairlington resident | A document about Abingdon found in promotional material provided by a Fairlington realtor. | [PDF](pdf/1983-09.pdf) |
 | 1985 | Fairlington resident | Pamphlets soliciting assistance in building the new Abingdon playground. | [PDF](pdf/playground-pamphlets.pdf) |
 | 1985-04-01 | Fairlington resident | The Fairlington Civic Association newsletter documenting the construction of the new Abingdon playground. | [PDF](pdf/playground-fca-bulletin.pdf) |
 | 1985-05-04 | Fairlington resident | A document dedicating the Abingdon playground constructed by the community. | [PDF](pdf/playground-dedication.pdf) |
@@ -229,7 +230,7 @@ If you've ever walked Abingdon's labyrinthine hallways, it's obvious that the bu
 | Irene B. Young | 1961-1971 |
 | John Kiernan | 1971-1975 |
 | James Kacsmarik | 1975-? |
-| Margaret McCourt-Dirner | 1984, 1986 |
+| Margaret McCourt-Dirner | 1982-?, 1986 |
 | Marjorie "Meg" R. Tuccillo | 1990-1997 |
 | Pat Anderson | 1997?-1998? |
 | Miguel Ley | 1998-2001 |
