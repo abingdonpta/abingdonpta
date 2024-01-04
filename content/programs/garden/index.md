@@ -17,7 +17,7 @@ Abingdon Elementary would love your support to create a successful, sustainable 
 
 ## What's Growing?
 
-Here's what's planted or growing in the garden in **Summer 2023**:
+Here's what was planted or grew in the garden during the **2023 growing season**:
 
 <a href="files/garden-map.svg"><img src="files/garden-map.svg" width="736" height="368" alt="Garden Map"></a>
 
