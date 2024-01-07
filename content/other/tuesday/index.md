@@ -14,6 +14,12 @@ We will only share documents sent to the entire school, not to a particular clas
 
 ---
 
+## January 2, 2024
+{{< imgresize o=360x src="files/2024-01-02_1.png" alt="Enrichment flyer" >}}
+{{< imgresize o=360x src="files/2024-01-02_2.png" alt="Enrichment flyer" >}}
+{{< imgresize o=360x src="files/2024-01-02_3.png" alt="Abingdon showcase flyer" >}}
+{{< imgresize o=360x src="files/2024-01-02_4.png" alt="Abingdon showcase flyer" >}}
+
 ## December 19, 2023
 No known schoolwide flyers.
 
