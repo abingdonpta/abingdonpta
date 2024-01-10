@@ -15,6 +15,8 @@ Pizza, snacks, and gear will be available for purchase. Cash is preferred.
 
 RSVP here: https://forms.gle/AemVDA36nVv38XMv8
 
+Sign up to volunteer here: https://www.signupgenius.com/go/20F0C4AACAB2AAAFF2-47046468-bingo
+
 - **When**: Friday, January 19, 6–8pm
 - **Where**: Abingdon Cafeteria
 - **Cost**: $5 per person
