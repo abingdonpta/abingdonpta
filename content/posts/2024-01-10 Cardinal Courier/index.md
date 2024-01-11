@@ -1,6 +1,6 @@
 ---
 title: Cardinal Courier — January 10, 2024
-summary: The Cardinal Courier newsletter for January 10, 2023.
+summary: The Cardinal Courier newsletter for January 10, 2024.
 slug: cardinal courier
 date: 2024-01-10T18:00:00-05:00
 categories: newsletters
