@@ -14,6 +14,11 @@ We will only share documents sent to the entire school, not to a particular clas
 
 ---
 
+## January 9, 2024
+{{< imgresize o=360x src="files/2024-01-09_1.png" alt="MLK flyer" >}}
+{{< imgresize o=360x src="files/2024-01-09_2.png" alt="MLK flyer" >}}
+{{< imgresize o=360x src="files/2024-01-09_3.png" alt="Bingo flyer" >}}
+
 ## January 2, 2024
 {{< imgresize o=360x src="files/2024-01-02_1.png" alt="Enrichment flyer" >}}
 {{< imgresize o=360x src="files/2024-01-02_2.png" alt="Enrichment flyer" >}}
