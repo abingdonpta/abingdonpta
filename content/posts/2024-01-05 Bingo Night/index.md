@@ -21,4 +21,4 @@ Sign up to volunteer here: https://www.signupgenius.com/go/20F0C4AACAB2AAAFF2-47
 - **Where**: Abingdon Cafeteria
 - **Cost**: $5 per person
 
-{{< fig src="files/flyer-en.png" alt="Bingo night flyer" >}}
+{{< figresize o=492x src="files/flyer-en.png" alt="Bingo night flyer" >}}
