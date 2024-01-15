@@ -13,12 +13,12 @@ There will be a $5 per person entry fee assessed at the door, which will include
 
 Pizza, snacks, and gear will be available for purchase. Cash is preferred.
 
-RSVP here: https://forms.gle/AemVDA36nVv38XMv8
-
-Sign up to volunteer here: https://www.signupgenius.com/go/20F0C4AACAB2AAAFF2-47046468-bingo
-
 - **When**: Friday, January 19, 6–8pm
 - **Where**: Abingdon Cafeteria
 - **Cost**: $5 per person
+
+{{< button href="https://forms.gle/AemVDA36nVv38XMv8" >}}Click Here to RSVP{{< /button >}}<br>
+
+{{< button href="https://www.signupgenius.com/go/20F0C4AACAB2AAAFF2-47046468-bingo" >}}Click Here to Volunteer{{< /button >}}
 
 {{< figresize o=492x src="files/flyer-en.png" alt="Bingo night flyer" >}}
