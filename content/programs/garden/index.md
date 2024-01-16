@@ -37,6 +37,18 @@ Here's what was planted or grew in the garden during the **2023 growing season**
 
 ## Photos
 
+### MLK Day of Service 2024
+*January 15, 2024*
+
+{{< imgresize o=360x src="files/IMG_8506.jpg" alt="Photo from MLK Day of Service" >}}
+{{< imgresize o=360x src="files/IMG_8492.jpg" alt="Photo from MLK Day of Service" >}}
+{{< imgresize o=360x src="files/IMG_8491.jpg" alt="Photo from MLK Day of Service" >}}
+{{< imgresize o=360x src="files/IMG_8490.jpg" alt="Photo from MLK Day of Service" >}}
+{{< imgresize o=360x src="files/IMG_8487.jpg" alt="Photo from MLK Day of Service" >}}
+{{< imgresize o=360x src="files/IMG_8485.jpg" alt="Photo from MLK Day of Service" >}}
+{{< imgresize o=360x src="files/IMG_8483.jpg" alt="Photo from MLK Day of Service" >}}
+{{< imgresize o=360x src="files/IMG_8481.jpg" alt="Photo from MLK Day of Service" >}}
+
 ### May Garden Cleanup
 *May 21, 2023*
 
@@ -67,7 +79,7 @@ Here's what was planted or grew in the garden during the **2023 growing season**
 {{< imgresize o=360x src="files/IMG_2174.jpg" alt="Shed completed" >}}
 
 ### MLK Day of Service 2023
-*January 15, 2023*
+*January 16, 2023*
 
 {{< imgresize o=360x src="files/IMG_0353.jpg" alt="Volunteers carrying woodchips into the garden" >}}
 {{< imgresize o=360x src="files/IMG_0396.jpg" alt="Volunteers carrying woodchips into the garden" >}}
