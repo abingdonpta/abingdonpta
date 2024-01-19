@@ -7,6 +7,10 @@ categories: events
 images: ["files/flyer-en.png"]
 ---
 
+**EDIT 1/18/2024:** Bingo Night has been postponed due to the snow day on Friday, January 19. A new date will be announced soon.
+
+---
+
 Come one, come all, to our bingo night so bright! Hosted by Abingdon PTA, it will be quite the sight! Prizes, food, and laughter take flight - join us for a game or two, it will be just right!
 
 There will be a $5 per person entry fee assessed at the door, which will include all bingo games.
