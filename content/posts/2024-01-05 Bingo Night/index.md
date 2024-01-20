@@ -1,15 +1,14 @@
 --- 
 title: Bingo Night
-summary: Abingdon will hold its first Bingo Night fundraiser on Friday, January 19.
+summary: Bingo Night has been postponed due to the snow day on Friday, January 19. A new date will be announced soon.
 slug: bingo night
 date: 2024-01-05T20:00:00-05:00
+lastmod: 2024-01-18T20:00:00-05:00
 categories: events
 images: ["files/flyer-en.png"]
 ---
 
-**EDIT 1/18/2024:** Bingo Night has been postponed due to the snow day on Friday, January 19. A new date will be announced soon.
-
----
+**UPDATE 1/18/2024:** Bingo Night has been postponed due to the snow day on Friday, January 19. A new date will be announced soon.
 
 Come one, come all, to our bingo night so bright! Hosted by Abingdon PTA, it will be quite the sight! Prizes, food, and laughter take flight - join us for a game or two, it will be just right!
 
@@ -17,7 +16,7 @@ There will be a $5 per person entry fee assessed at the door, which will include
 
 Pizza, snacks, and gear will be available for purchase. Cash is preferred.
 
-- **When**: Friday, January 19, 6–8pm
+- **When**: ~~Friday, January 19, 6–8pm~~ *To Be Determined*
 - **Where**: Abingdon Cafeteria
 - **Cost**: $5 per person
 

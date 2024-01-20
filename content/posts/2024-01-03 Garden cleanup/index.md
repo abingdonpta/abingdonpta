@@ -3,11 +3,12 @@ title: Martin Luther King Day of Service
 summary: Join us for an MLK Day of Service in the Abingdon Garden on January 15.
 slug: mlk day of service
 date: 2024-01-03T20:00:00-05:00
+lastmod: 2024-01-15T20:00:00-05:00
 categories: garden
 images: ["files/flyer-en.png"]
 ---
 
-**EDIT 1/15/2024: Yes, this is still happening with snow on the ground. It will just be more magical. ✨**
+**UPDATE 1/15/2024: Yes, this is still happening with snow on the ground. It will just be more magical. ✨**
 
 You are cordially invited to join us for a garden service opportunity to honor Dr. Martin Luther King, Jr. on Monday, January 15 from 10 a.m. – 12 p.m.
 

@@ -7,7 +7,7 @@ lastmod: 2022-08-03T07:00:00-04:00
 categories: fundraisers
 ---
 
-**EDIT 8/3/2022**: Edukit is no longer for sale. Supply lists for each grade can be found [here](https://abingdon.apsva.us/about-us/supply-lists/).
+**UPDATE 8/3/2022**: Edukit is no longer for sale. Supply lists for each grade can be found [here](https://abingdon.apsva.us/about-us/supply-lists/).
 
 **Original Post**: Did you know that the EduKit program has raised nearly $3,200 for the Abingdon PTA since it started up in 2014? This program provides a convenient, easy, and less expensive option to purchase school supplies for the upcoming school year. Each kit contains what Abingdon will request, by grade, for the coming year.
 

@@ -3,6 +3,7 @@ title: Trunk or Treat
 summary: Abingdon's second annual Trunk or Treat will be held on Saturday, October 29.
 slug: trunk or treat
 date: 2022-10-03T05:00:00-04:00
+lastmod: 2022-10-25T05:00:00-04:00
 categories: events
 images: ["files/flyer-en.png"]
 ---
@@ -23,7 +24,7 @@ If you are able to volunteer, [please sign up here](https://docs.google.com/form
 {{< imgresize o=492x src="files/flyer-en.png" alt="Trunk or Treat flyer" >}}
 {{< imgresize o=492x src="files/flyer-es.png" alt="Trunk or Treat flyer in Spanish" >}}
 
-**EDIT 10/25/2022:** Abingdon's Assistant Principals will be making stops throughout Abingdon's attendance zone to give out candy and to say hello.
+**UPDATE 10/25/2022:** Abingdon's Assistant Principals will be making stops throughout Abingdon's attendance zone to give out candy and to say hello.
 
 - At **Infinity Apartments**, 12:00 - 12:35 (955 S. Columbus St.)
 - At **Wildwood Park Apartments**, 12:40 - 1:15 (Courtyard in back of the building)
