@@ -3,7 +3,7 @@ title: Trunk or Treat
 summary: Abingdon's third annual Trunk or Treat will be held on Saturday, October 28.
 slug: trunk or treat
 date: 2023-10-03T16:00:00-04:00
-categories: events
+categories: ["events","volunteer opportunities"]
 images: ["files/flyer-en.png"]
 ---
 

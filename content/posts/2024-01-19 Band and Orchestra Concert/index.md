@@ -3,7 +3,7 @@ title: Band and Orchestra Concert
 summary: Abingdon will hold a Band and Orchestra Concert on Thursday, February 1.
 slug: band orchestra concert
 date: 2024-01-19T06:00:00-05:00
-categories: ["events","passed along"]
+categories: ["passed along"]
 images: ["files/flyer-en.png"]
 ---
 

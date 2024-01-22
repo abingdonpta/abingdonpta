@@ -3,7 +3,7 @@ title: Abingdon Earth Day Celebration
 summary: Abingdon will hold an Earth Day Celebration on Sunday, April 23, featuring a celebration of our new shed and a litter pickup.
 slug: earth day
 date: 2023-03-17T05:00:00-04:00
-categories: garden
+categories: ["garden","volunteer opportunities"]
 images: ["files/flyer-en.png"]
 ---
 

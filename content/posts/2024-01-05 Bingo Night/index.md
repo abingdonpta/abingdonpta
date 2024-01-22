@@ -4,7 +4,7 @@ summary: Bingo Night has been postponed due to the snow day on Friday, January 1
 slug: bingo night
 date: 2024-01-05T20:00:00-05:00
 lastmod: 2024-01-18T20:00:00-05:00
-categories: events
+categories: ["events","volunteer opportunities"]
 images: ["files/flyer-en.png"]
 ---
 

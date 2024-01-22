@@ -3,7 +3,7 @@ title: Upcoming Gifted Services Presentations
 summary: Abingdon Elementary will hold a gifted services night on November 2 and a virtual session on November 7.
 slug: gifted presentation
 date: 2023-10-26T05:00:00-04:00
-categories: ["events","passed along"]
+categories: ["passed along"]
 images: ["files/flyer-en.png"]
 ---
 

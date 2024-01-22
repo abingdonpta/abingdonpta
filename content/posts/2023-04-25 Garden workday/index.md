@@ -3,7 +3,7 @@ title: Abingdon Community Garden Workday
 summary: Help us weed and plant a sunflower garden on Sunday, May 21. 
 slug: garden workday
 date: 2023-04-25T06:00:00-04:00
-categories: garden
+categories: ["garden","volunteer opportunities"]
 images: ["files/flyer-en.png"]
 ---
 

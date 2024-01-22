@@ -3,7 +3,7 @@ title: Abingdon Community Garden Cleanup
 summary: Join us Abingdon Community Garden on Sunday, November 6 for gardening, a good book and a fun craft activity.
 slug: garden cleanup
 date: 2022-10-20T05:00:00-04:00
-categories: garden
+categories: ["garden","volunteer opportunities"]
 images: ["files/flyer-en.png"]
 ---
 

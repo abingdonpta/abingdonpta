@@ -3,7 +3,7 @@ title: Abingdon Community Garden Cleanup
 summary: Help us weed the Abingdon Community Garden on Saturday, September 24.
 slug: garden cleanup
 date: 2022-09-13T05:00:00-04:00
-categories: garden
+categories: ["garden","volunteer opportunities"]
 images: ["files/flyer.png"]
 ---
 

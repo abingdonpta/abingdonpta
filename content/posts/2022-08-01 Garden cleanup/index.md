@@ -3,7 +3,7 @@ title: Abingdon Community Garden Cleanup
 summary: Come to the Abingdon Community Garden on Sunday, August 7 to help weed and harvest.
 slug: garden cleanup
 date: 2022-08-01T07:00:00-04:00
-categories: garden
+categories: ["garden","volunteer opportunities"]
 images: ["files/flyer.png"]
 ---
 

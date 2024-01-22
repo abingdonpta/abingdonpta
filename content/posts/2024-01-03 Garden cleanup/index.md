@@ -4,7 +4,7 @@ summary: Join us for an MLK Day of Service in the Abingdon Garden on January 15.
 slug: mlk day of service
 date: 2024-01-03T20:00:00-05:00
 lastmod: 2024-01-15T20:00:00-05:00
-categories: garden
+categories: ["garden","volunteer opportunities"]
 images: ["files/flyer-en.png"]
 ---
 
