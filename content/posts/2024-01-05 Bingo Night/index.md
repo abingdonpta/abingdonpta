@@ -5,7 +5,7 @@ slug: bingo night
 date: 2024-01-05T20:00:00-05:00
 lastmod: 2024-01-25T20:00:00-05:00
 categories: ["events","volunteer opportunities"]
-# images: ["files/flyer-en.png"]
+images: ["files/flyer-en.png"]
 ---
 
 **UPDATE 1/18/2024:** Bingo Night has been rescheduled to Friday, February 2.
@@ -24,6 +24,4 @@ Pizza, snacks, and gear will be available for purchase. Cash is preferred.
 
 {{< button href="https://www.signupgenius.com/go/20F0C4AACAB2AAAFF2-47046468-bingo" >}}Click Here to Volunteer{{< /button >}}
 
-<!--
 {{< figresize o=492x src="files/flyer-en.png" alt="Bingo night flyer" >}}
--->
