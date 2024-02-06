@@ -1,8 +1,8 @@
 --- 
-title: School-Family Partnership Coffee Chat
-summary: Join the Abingdon staff for coffee and bagels to learn about how Title I funding supports our Cardinal flock.
-slug: title i
-date: 2023-12-05T16:00:00-05:00
+title: Amazing Abingdon
+summary: Come to school on Friday, March 1 from 7:30 to 9:15 and see your child's learning in action.
+slug: amazing abingdon
+date: 2024-02-05T20:00:00-05:00
 categories: "passed along"
 images: ["files/flyer-en.png"]
 ---
@@ -11,10 +11,7 @@ The PTA is passing along this message from Abingdon Elementary.
 
 ---
 
-You're invited to join the **School-Family Partnership Coffee Chat**. Join the Abingdon staff for coffee and bagels to learn about how Title I funding supports our Cardinal flock.
-
- - **When**: Thursday, December 14, 7:30 am - 8:10 am
- - **Where**: Room 143/144 (art room)
+Save the date for Amazing Abingdon! Join us Friday, March 1 from 7:30 to 9:15 and see your child's learning in action! See the attached flyer for more details.
 
 {{< imgresize o=492x src="files/flyer-en.png" alt="English flyer" >}}
 {{< imgresize o=492x src="files/flyer-es.png" alt="Spanish flyer" >}}
