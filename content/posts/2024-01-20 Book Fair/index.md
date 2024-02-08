@@ -19,7 +19,9 @@ All volunteers will need to be registered and background checked. Please reach o
 
 {{< button href="https://www.signupgenius.com/go/10C0948ABA629A2FA7-47323275-abingdon#/" >}}Click Here to Volunteer{{< /button >}}<br>
 
+{{< button href="https://www.readbooknook.org/abingdon-book-fair" >}}Click Here to Shop Online{{< /button >}}<br>
+
 {{< button href="https://abingdonpta.memberhub.com/store/items/973109" >}}Click Here to Donate to the Book Fund (for students without the means to purchase books){{< /button >}}<br>
 
 {{< imgresize o=492x src="files/flyer-en.png" alt="Book Fair flyer in English" >}}
-{{< imgresize o=492x src="files/flyer-es.jpg" alt="Book Fair flyer in Spanish" >}}
+{{< imgresize o=492x src="files/flyer-es.png" alt="Book Fair flyer in Spanish" >}}

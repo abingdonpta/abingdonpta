@@ -84,6 +84,13 @@ If you're interested in helping to organize our events, please [fill out our vol
 {{< imgresize o=360x src="files/PXL_20220319_165345334.jpg" alt="Books in front of Abingdon available to be taken or swapped" >}}
 {{< imgresize o=360x src="files/PXL_20220319_171526195.jpg" alt="People swapping books in front of Abingdon" >}}
 
+## Bingo Night
+
+{{< imgresize o=360x src="files/bingo1.jpg" alt="Bingo Night" >}}
+{{< imgresize o=360x src="files/bingo2.jpg" alt="Bingo Night" >}}
+{{< imgresize o=360x src="files/bingo3.jpg" alt="Bingo Night" >}}
+{{< imgresize o=360x src="files/bingo4.jpg" alt="Bingo Night" >}}
+
 ## Movie Night
 
 {{< imgresize o=360x src="files/2020-02-21.jpg" alt="Abingdon Cardinal welcoming participants to Movie Night" >}}
