@@ -11,7 +11,7 @@ The PTA is passing along this message from Abingdon Elementary.
 
 ---
 
-Save the date for Amazing Abingdon! Join us Friday, March 1 from 7:30 to 9:15 and see your child's learning in action! See the attached flyer for more details.
+Save the date for Amazing Abingdon! Join us Friday, March 1 from 7:30 to 9:15 and see your child's learning in action! See the flyer below for more details.
 
 {{< imgresize o=492x src="files/flyer-en.png" alt="English flyer" >}}
 {{< imgresize o=492x src="files/flyer-es.png" alt="Spanish flyer" >}}

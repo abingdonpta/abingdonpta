@@ -14,6 +14,12 @@ We will only share documents sent to the entire school, not to a particular clas
 
 ---
 
+## February 6, 2024
+{{< imgresize o=360x src="files/2024-02-06_1.png" alt="Book Fair flyer" >}}
+{{< imgresize o=360x src="files/2024-02-06_2.png" alt="Book Fair flyer" >}}
+{{< imgresize o=360x src="files/2024-02-06_3.png" alt="Kindness week flyer" >}}
+{{< imgresize o=360x src="files/2024-02-06_4.png" alt="Kindness week flyer" >}}
+
 ## January 30, 2024
 {{< imgresize o=360x src="files/2024-01-30_1.png" alt="Abingdon showcase flyer" >}}
 {{< imgresize o=360x src="files/2024-01-30_2.png" alt="Abingdon showcase flyer" >}}
