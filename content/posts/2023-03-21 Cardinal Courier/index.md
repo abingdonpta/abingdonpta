@@ -41,7 +41,7 @@ This event is a success **only** with your participation. Beyond joining in the 
 - **Interested?** Look at the positions below and complete [this nomination form](https://docs.google.com/forms/d/e/1FAIpQLScPl5b8CzjnBYOVNXnR33plv3YKtS6cpMw67xFKSorHwZ7i5g/viewform?usp=share_link) by Sunday, April 2.
 - **Questions?** Contact Lauren Shaub, Chair of 2023-2024 Nominating Committee: leshaub[at]gmail.com
 
-<a href="files/nom-flyer.pdf" height="1103" width="875" ><img src="files/nom-flyer.png" alt="Nominations Flyer"></a>
+<a href="files/nom-flyer.pdf" ><img src="files/nom-flyer.png" alt="Nominations Flyer" height="1103" width="875" ></a>
 
 ## 👉 Reminders
 

@@ -41,7 +41,7 @@ Este evento es un éxito **solo** con tu participación. Más allá de unirnos a
 - **¿Interesado?** Mire las posiciones a continuación y complete [este formulario de nominación](https://docs.google.com/forms/d/e/1FAIpQLScPl5b8CzjnBYOVNXnR33plv3YKtS6cpMw67xFKSorHwZ7i5g/viewform?usp=share_link) antes del domingo 2 de abril.
 - **¿Preguntas?** Comuníquese con Lauren Shaub, Presidenta del Comité de Nominaciones 2023-2024: leshaub[at]gmail.com
 
-<a href="files/nom-flyer.pdf" height="1103" width="875" ><img src="files/nom-flyer.png" alt="Nominaciones Flyer"></a>
+<a href="files/nom-flyer.pdf"><img src="files/nom-flyer.png" alt="Nominaciones Flyer" height="1103" width="875"></a>
 
 ## 👉 Recordatorios
 
