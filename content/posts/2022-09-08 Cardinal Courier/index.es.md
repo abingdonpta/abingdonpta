@@ -68,13 +68,13 @@ La PTA de Abingdon está creando un **directorio de estudiantes en línea** para
 
 ## 🎨 Concurso de Arte Reflexiones
 
-<img src="files/r---show-your-voice_facebook-cropped.png" alt="Reflections Call for Entries flyer" width="360" height="505" class="flyer" >
+{{< imgwidth w=360 src="files/r---show-your-voice_facebook-cropped.png" alt="Reflections Call for Entries flyer" class="flyer" >}}
 
 Nuestra PTA está participando en Reflections, un programa nacional patrocinado por la PTA que anima a los estudiantes a expresarse artísticamente. Estamos llamando a todos los estudiantes de Abingdon a crear arte visual o literatura que refleje el tema de este año: "**Hazte Escuchar**". Los estudiantes pueden crear obras de arte basadas en temas en las categorías de **literatura** (obras escritas) y **artes visuales** (pinturas, esculturas, dibujos y grabados). Todas las obras de arte serán reconocidas, celebradas y juzgadas por voluntarios de Abingdon por divisiones de nivel de grado. Una selección de entradas avanzará a la competencia en todo el condado. ¡Estamos emocionados de ver tu talento! Más información [aquí](/reflections/).
 
 ## 🫶 Voluntario con nosotros
 
-<img src="files/6sh7py.jpg" alt="Convocatoria de voluntarios" width="500" height="500" class="flyer" >
+{{< img src="files/6sh7py.jpg" alt="Convocatoria de voluntarios" class="flyer" >}}
 
 Complete el [formulario de voluntariado de la PTA](https://docs.google.com/forms/d/e/1FAIpQLSf50HFDkNfDxP5VfE2LzsxKbUPZdmRGQTeNEUhXkU_qLCLWZQ/viewform?usp=sf_link) para que podamos obtener más información sobre sus intereses, habilidades y disponibilidad. Nos encantaría encontrarle una oportunidad de voluntariado o un puesto continuo que funcione para usted. Además, APS requiere que todos los padres que se ofrecen como voluntarios en el edificio completen una [Solicitud de Voluntario de APS ](https://abingdon.apsva.us/families/volunteer/); envíe la solicitud si aún no lo ha hecho este año o el año escolar pasado. Para iniciar el proceso, complete la solicitud en [inglés](https://apps.raptortech.com/Apply/MjQyMDplbi1VUw==) o [español](https://apps.raptortech.com/Apply/MjQyMDplcy1VUw==), y envíe un correo electrónico a [nicole.jondahl@apsva.us](mailto:nicole.jondahl@apsva.us). Más información [aquí](https://abingdon.apsva.us/families/volunteer/).
 

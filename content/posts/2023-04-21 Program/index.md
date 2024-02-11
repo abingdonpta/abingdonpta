@@ -9,10 +9,10 @@ images: ["files/flyer-es-1.png"]
 
 The program for International & Cultural Heritage and History Night in Spanish and English is below.
 
-<img src="files/flyer-es-1.png" alt="International Night flyer page 1 in Spanish" width="492" height="637">
-<img src="files/flyer-es-2.png" alt="International Night flyer page 2 in Spanish" width="492" height="637">
-<img src="files/flyer-en-1.png" alt="International Night flyer page 1 in English" width="492" height="637">
-<img src="files/flyer-en-2.png" alt="International Night flyer page 2 in English" width="492" height="637">
+{{< imgwidth w=492 src="files/flyer-es-1.png" alt="International Night flyer page 1 in Spanish" >}}
+{{< imgwidth w=492 src="files/flyer-es-2.png" alt="International Night flyer page 2 in Spanish" >}}
+{{< imgwidth w=492 src="files/flyer-en-1.png" alt="International Night flyer page 1 in English" >}}
+{{< imgwidth w=492 src="files/flyer-en-2.png" alt="International Night flyer page 2 in English" >}}
 
 ## Abingdon's International-Cultural Heritage & History Night
 

@@ -15,7 +15,7 @@ categories: reflections
     }
 </style>
 
-<img src="social/r---show-your-voice_facebook-cropped.png" alt="Reflections Call for Entries flyer" width="360" height="505" class="flyer" >
+{{< imgwidth w=360 src="social/r---show-your-voice_facebook-cropped.png" alt="Reflections Call for Entries flyer" class="flyer" >}}
 
 Reflections is a national PTA-sponsored program that encourages students to express themselves artistically. Each year the National PTA selects a theme and students create and submit a work of art that reflects the theme.
 

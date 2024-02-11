@@ -24,4 +24,5 @@ Please join us in celebrating all things **KIND** next week for **Virginia Kindn
 
 Let your school counselor know if you have any questions or concerns!
 
-<img src="files/flyer-en.png" alt="Kindness Week flyer in English" width="492" height="627">&nbsp;<img src="files/flyer-es.png" alt="Kindness Week flyer in Spanish" width="487" height="631">
+{{< img src="files/flyer-en.png" alt="English Kindness Week flyer" >}}
+{{< img src="files/flyer-es.png" alt="Spanish Kindness Week flyer" >}}

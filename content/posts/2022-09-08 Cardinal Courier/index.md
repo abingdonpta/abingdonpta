@@ -70,7 +70,7 @@ The Abingdon PTA is creating an **online student directory** for the 2022-2023 s
 
 ## 🎨 Reflections Art Contest
 
-<img src="files/r---show-your-voice_facebook-cropped.png" alt="Reflections Call for Entries flyer" width="360" height="505" class="flyer" >
+{{< imgwidth w=360 src="files/r---show-your-voice_facebook-cropped.png" alt="Reflections Call for Entries flyer" class="flyer" >}}
 
 Our PTA is participating in Reflections - a national PTA-sponsored program that encourages students to express themselves artistically. We’re calling all Abingdon students to create visual art or literature reflecting this year’s theme: “Show Your Voice.” Students can create theme-based artwork in the categories of **literature** (written works) and **visual arts** (paintings, sculptures, drawings, and prints). All artworks will be recognized, celebrated, and judged by Abingdon volunteers by grade-level divisions. A selection of entries will advance to the county-wide competition. We are excited to see your talent! More info [here](/reflections/).
 
@@ -78,7 +78,7 @@ Our PTA is participating in Reflections - a national PTA-sponsored program that 
 
 ## 🫶 Volunteer with Us
 
-<img src="files/6sh7py.jpg" alt="Call for volunteers" width="500" height="500" class="flyer" >
+{{< img src="files/6sh7py.jpg" alt="Call for volunteers" class="flyer" >}}
 
 Please complete the [PTA's volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSf50HFDkNfDxP5VfE2LzsxKbUPZdmRGQTeNEUhXkU_qLCLWZQ/viewform?usp=sf_link) so that we can learn more about your interests, skills, and availability. We'd love to match you with a volunteer opportunity or an ongoing role that works for you. Additionally, APS requires that all parents volunteering in the building complete an APS [Volunteer Application](https://abingdon.apsva.us/families/volunteer/); submit the application if you have not already done so this year or last school year. To initiate the process, complete the [English](https://apps.raptortech.com/Apply/MjQyMDplbi1VUw==) or [Spanish](https://apps.raptortech.com/Apply/MjQyMDplcy1VUw==) application, and email [nicole.jondahl@apsva.us](mailto:nicole.jondahl@apsva.us). More info [here](https://abingdon.apsva.us/families/volunteer/).
 

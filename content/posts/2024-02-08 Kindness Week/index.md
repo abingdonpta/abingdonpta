@@ -29,5 +29,5 @@ Teachers will be tracking the number of students who participate in Spirit Week!
 
 Questions or concerns? [Contact your school counselor.](https://abingdon.apsva.us/counseling/)
 
-<a href="files/flyer-en.png"><img src="files/flyer-en.png" width="492" height="637" alt="English Kindness Week flyer"></a>
-<a href="files/flyer-es.png"><img src="files/flyer-es.png" width="492" height="637" alt="Spanish Kindness Week flyer"></a>
+{{< imgwidth w=492 src="files/flyer-en.png" alt="English Kindness Week flyer" >}}
+{{< imgwidth w=492 src="files/flyer-es.png" alt="Spanish Kindness Week flyer" >}}

@@ -15,7 +15,7 @@ categories: reflections
     }
 </style>
 
-<img src="social/r---hazte-escuchar_2020reflections_instagramanimoto.png" alt="Reflections Call for Entries flyer" width="360" height="505" class="flyer" >
+{{< imgwidth w=360 src="social/r---hazte-escuchar_2020reflections_instagramanimoto.png" alt="Reflections Call for Entries flyer" class="flyer" >}}
 
 Reflections es un programa patrocinado por la PTA nacional que anima a los estudiantes a expresarse artísticamente. Cada año, la PTA Nacional selecciona un tema y los estudiantes crean y envían una obra de arte que refleja el tema.
 
