@@ -24,7 +24,7 @@ booktoc: true
 
 Únase a nosotros para la noche de patinaje (gratis para estudiantes y personal) en la pista de hielo Pentagon Row de 6:00 a 7:30 p. m. el próximo jueves 15/02. Los miembros de la familia pagan $10. A partir de las 5 p.m. Nighthawk Brewery & Pizza (al lado) proporcionará el 10% de las ganancias a Abingdon hasta el cierre de esa noche, el 15 y 16 de febrero. Utilice la palabra clave: ¡Cardenal!
 
-### Feria del Libro: [Se necesitan voluntarios](https://www.signupgenius.com/go/10C0948ABA629A2FA7-47323275-abingdon) la próxima semana
+### Feria del Libro: Se necesitan voluntarios la próxima semana
 
 ¡Todavía estamos trabajando para llenar algunos [lugares para voluntarios](https://www.signupgenius.com/go/10C0948ABA629A2FA7-47323275-abingdon) restantes para la feria del libro de Abingdon, la próxima semana en la biblioteca! Necesitamos ayuda especialmente el martes por la noche. Únase a nosotros en este divertido evento y ayude a garantizar que todos nuestros estudiantes reciban los libros que les encantan. [También puede donar al fondo de libros](https://abingdonpta.memberhub.com/store/items/973109) para estudiantes que no tienen medios para comprar libros.
 

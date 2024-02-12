@@ -42,10 +42,11 @@ Presidente de la Asociación de Padres y Maestros
 
 También puede ver y suscribirse a nuestro calendario en nuestro nuevo sitio web en [https://www.abingdonpta.org/calendar](/calendar).
 
-## Recordatorio amistoso: [Nuevas horas de inicio y fin de clases](https://abingdon.apsva.us/post/new-school-start-and-end-times/)
+## Recordatorio amistoso: Nuevas horas de inicio y fin de clases
 
 - El día escolar de Abingdon ahora es de 7:50 a. m. a 2:40 p. m.
 - Los días de salida temprana en Abingdon son de 7:50 a. m. a 12:26 p. m.
+- [información disponible aquí](https://abingdon.apsva.us/post/new-school-start-and-end-times/)
 
 ## Oportunidades para voluntarios
 

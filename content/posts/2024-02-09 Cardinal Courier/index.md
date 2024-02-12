@@ -24,7 +24,7 @@ booktoc: true
 
 Join us for skate night (free for students and staff) at the Pentagon Row ice rink from 6:00 to 7:30 p.m. next Thursday, 2/15. Family members are $10. Beginning at 5 p.m. Nighthawk Brewery & Pizza (next door) will provide 10% of proceeds to Abingdon until close that evening, 2/15 AND 2/16. Use Code word: Cardinal!
 
-### Book Fair: [Volunteers Needed](https://www.signupgenius.com/go/10C0948ABA629A2FA7-47323275-abingdon) next week
+### Book Fair: Volunteers Needed next week
 
 We're still working to fill a few remaining [volunteer spots](https://www.signupgenius.com/go/10C0948ABA629A2FA7-47323275-abingdon) for the Abingdon book fair, next week in the Library! We especially need help Tuesday evening. Join us for this fun event and help make sure all our students receive books they love. [You can also donate to the book fund](https://abingdonpta.memberhub.com/store/items/973109) for students without the means to purchase books.
 

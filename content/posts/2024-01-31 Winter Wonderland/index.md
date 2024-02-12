@@ -4,7 +4,6 @@ summary: Abingdon's Winter Wonderland will be an ice skating event at Pentagon R
 slug: winter wonderland
 date: 2024-01-31T05:00:00-05:00
 categories: events
-# images: ["files/flyer-en.png"]
 ---
 
 Thursday, February 15th is Winter Wonderland at Pentagon Row Ice Rink from 6:00–7:30 pm. Faculty, students, and siblings skate free. Parents are $5 to skate.

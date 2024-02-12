@@ -42,10 +42,11 @@ PTA President
 
 You can also view and subscribe to our calendar on our new website at [https://www.abingdonpta.org/calendar](/calendar).
 
-## Friendly Reminder: [New School Start and End Times](https://abingdon.apsva.us/post/new-school-start-and-end-times/)
+## Friendly Reminder: New School Start and End Times
 
 - The Abingdon school day is now 7:50 a.m. – 2:40 p.m.
 - Early Release days at Abingdon are 7:50 a.m. – 12:26 p.m.
+- [Information available here](https://abingdon.apsva.us/post/new-school-start-and-end-times/)
 
 ## Volunteer Opportunities
 

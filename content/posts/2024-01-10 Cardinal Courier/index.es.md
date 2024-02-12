@@ -24,9 +24,9 @@ booktoc: true
 
 ## Los detalles
  
-### [Confirme su asistencia ahora](https://docs.google.com/forms/d/e/1FAIpQLSdGLmOHaaN10XqeN-mgiPzqEUZVEQYq3Q_TQW76-QPQo_jgVw/viewform)! Noche de BINGO @Abingdon Viernes, 19 de enero
+### Confirme su asistencia ahora! Noche de BINGO @Abingdon Viernes, 19 de enero
 
-Marque en sus calendarios la Noche de BINGO inaugural de Abingdon el viernes 19 de enero: ¡una velada llena de diversión familiar, comida y premios! $5 por jugador (preferiblemente efectivo) en la puerta; Habrá varias rondas de BINGO con premios, así como comida y merchandising a la venta. Necesitamos [voluntarios para ayudar con el evento](https://www.signupgenius.com/go/20F0C4AACAB2AAAFF2-47046468-bingo) - háganos saber si podemos contar con usted.
+[RSVP](https://docs.google.com/forms/d/e/1FAIpQLSdGLmOHaaN10XqeN-mgiPzqEUZVEQYq3Q_TQW76-QPQo_jgVw/viewform) & marque en sus calendarios la Noche de BINGO inaugural de Abingdon el viernes 19 de enero: ¡una velada llena de diversión familiar, comida y premios! $5 por jugador (preferiblemente efectivo) en la puerta; Habrá varias rondas de BINGO con premios, así como comida y merchandising a la venta. Necesitamos [voluntarios para ayudar con el evento](https://www.signupgenius.com/go/20F0C4AACAB2AAAFF2-47046468-bingo) - háganos saber si podemos contar con usted.
 
 ### Enriquecimiento de invierno
 
