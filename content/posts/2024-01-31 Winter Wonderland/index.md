@@ -12,3 +12,5 @@ Thursday, February 15th is Winter Wonderland at Pentagon Row Ice Rink from 6:00â
 - **Where:** Pentagon Row Ice Skating Rink â€” 1201 S. Joyce Street, Arlington, VA 22202
 
 Nighthawk Brewery & Pizza (next door) is partnering with us beginning at 5 p.m. to close AND all day/night Friday, February 16th for 10% of the proceeds to go back to Abingdon! There will be an area reserved beginning at 5 p.m. at Nighthawk for Abingdon. Please use the word "Cardinal" at Nighthawk to ensure the proceeds go to Abingdon.
+
+{{< figresize o=492x src="files/flyer-en.jpg" alt="English flyer" >}}
