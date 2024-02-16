@@ -14,6 +14,11 @@ We will only share documents sent to the entire school, not to a particular clas
 
 ---
 
+## February 13, 2024
+{{< imgresize o=360x src="files/2024-02-13_1.png" alt="Girl Scout Camp flyer" >}}
+{{< imgresize o=360x src="files/2024-02-13_2.png" alt="Girl Scout Camp flyer" >}}
+{{< imgresize o=360x src="files/2024-02-13_3.png" alt="Winter Wonderland flyer" >}}
+
 ## February 6, 2024
 {{< imgresize o=360x src="files/2024-02-06_1.png" alt="Book Fair flyer" >}}
 {{< imgresize o=360x src="files/2024-02-06_2.png" alt="Book Fair flyer" >}}
