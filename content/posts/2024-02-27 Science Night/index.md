@@ -16,4 +16,5 @@ Abingdon is hosting a Family Science Night on Thursday, March 14. Bring the whol
 - **When**: Thursday, March 14, 5:30pm - 7:30pm
 - **Where**: Abingdon's Cafeteria
 
-{{< figresize o=492x src="files/flyer-en.png" alt="Family Science Night flyer in English" >}}
+{{< imgresize o=492x src="files/flyer-en.png" alt="Family Science Night flyer in English" >}}
+{{< imgresize o=492x src="files/flyer-es.png" alt="Family Science Night flyer in Spanish" >}}

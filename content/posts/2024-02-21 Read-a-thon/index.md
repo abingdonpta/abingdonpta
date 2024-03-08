@@ -4,7 +4,7 @@ summary: Our Read-a-thon is our biggest fundraiser of the year.
 slug: read a thon
 date: 2024-02-21T05:00:00-05:00
 categories: fundraisers
-# images: ["files/flyer-en.png"]
+images: ["files/flyer-en.png"]
 ---
 
 Abingdon PTA has decided to hold a Read-a-thon this year!
@@ -20,3 +20,5 @@ We encourage you to activate your reader’s account today by clicking on https:
 We've chosen Read-a-thon because it will not take much of your time, gives your child a reason to read and helps in the development of stronger reading skills.
 
 We hope EVERYONE participates!
+
+{{< figresize o=492x src="files/flyer-en.png" alt="Read-a-thon flyer in English" >}}

@@ -1,7 +1,8 @@
 ---
 title: PTA Programs
 summary: Abingdon PTA Programs
-headless: true
+build:
+  render: never
 weight: 20
 bookCollapseSection: true
 ---

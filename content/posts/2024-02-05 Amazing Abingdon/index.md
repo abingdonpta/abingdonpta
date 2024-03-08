@@ -18,3 +18,5 @@ Save the date for Amazing Abingdon! Join us Friday, March 1 from 7:30 to 9:15 an
 {{< imgresize o=492x src="files/flyer-ar.png" alt="Arabic flyer" >}}
 {{< imgresize o=492x src="files/flyer-am.png" alt="Amharic flyer" >}}
 {{< imgresize o=492x src="files/flyer-mn.png" alt="Mongolian flyer" >}}
+
+Also, you may [sign up here](https://www.signupgenius.com/go/60B094AA5A72EA75-48244126-amazing) to bring a baked good for the staff on that day.

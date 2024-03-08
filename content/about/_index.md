@@ -1,6 +1,7 @@
 ---
 title: About the PTA
 summary: About the Abingdon PTA
-headless: true
+build:
+  render: never
 weight: 10
 ---

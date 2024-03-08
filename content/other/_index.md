@@ -1,7 +1,8 @@
 ---
 title: Other Resources
 summary: Other resources for the Abingdon PTA
-headless: true
+build:
+  render: never
 weight: 30
 bookCollapseSection: true
 ---
