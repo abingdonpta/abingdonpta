@@ -5,4 +5,4 @@ url: /agendas/
 aliases: ["/agenda"]
 ---
 
-{{< section >}}
+{{< section summary >}}

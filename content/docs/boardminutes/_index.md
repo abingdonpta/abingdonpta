@@ -5,4 +5,4 @@ url: /boardminutes/
 bookSearchExclude: true
 ---
 
-{{< section >}}
+{{< section summary >}}

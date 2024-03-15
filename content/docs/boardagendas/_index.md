@@ -5,4 +5,4 @@ url: /boardagendas/
 bookSearchExclude: true
 ---
 
-{{< section >}}
+{{< section summary >}}

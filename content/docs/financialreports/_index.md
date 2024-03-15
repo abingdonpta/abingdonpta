@@ -6,4 +6,4 @@ aliases: ["/financialreport"]
 bookSearchExclude: true
 ---
 
-{{< section >}}
+{{< section summary >}}

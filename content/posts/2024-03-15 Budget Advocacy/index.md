@@ -2,9 +2,8 @@
 title: Proposed Budget Cuts of Abingdon Assistant Principal and Two Teachers
 summary: Help the PTA advocate for keeping our critical staff.
 slug: budget advocacy
-date: 2024-03-14T06:00:00-04:00
+date: 2024-03-15T05:00:00-04:00
 categories: advocacy
-draft: true
 ---
 
 The PTA is alerting its membership that the [Superintendent's Proposed FY 2025 Budget](https://www.apsva.us/budget/) (released on February 29, 2024) proposes two staff cuts that, if implemented, would negatively impact Abingdon.
@@ -34,7 +33,7 @@ The Superintendent also proposes to cut two classroom teachers at Abingdon. Abin
 
 The Abingdon PTA Executive Board is working to stop these proposed cuts to Abingdon. I will speak out at Thursday night's School Board meeting. But to succeed, **we need your help!** Here's what you can do:
 
-1. Sign the petition against defunding Ms. Oliveira or Mr. Micael that will be available at Parent-Teacher conferences this week as well as digitally.
+1. Sign the petition against defunding Ms. Oliveira or Mr. Micael that will be available at Parent-Teacher conferences this week [as well as digitally](https://docs.google.com/forms/d/e/1FAIpQLScHw0aOAlZbpU3Ktsj-kr-xV9r52g4LDStv-f0iidAbR3PoFA/viewform).
 2. Attend the Budget Work Sessions on March 19.
 3. Speak at a school board meeting or board member's [virtual office hours](https://www.apsva.us/arlington-school-board/about-the-school-board/open-office-hours).
 4. [Write to the School Board](https://www.apsva.us/arlington-school-board) to make your opinion heard.
