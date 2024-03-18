@@ -1,7 +1,7 @@
 ---
 title: Literacy Luau
-summary: Abingdon will hold a Literacy Event on April 11.
-slug: literacy night
+summary: Abingdon will hold a literacy event on April 11.
+slug: literacy luau
 date: 2024-03-18T06:00:00-04:00
 categories: "passed along"
 images: ["files/flyer-en.png"]
