@@ -14,10 +14,15 @@ We will only share documents sent to the entire school, not to a particular clas
 
 ---
 
+## April 2, 2024
+{{< imgresize o=360x src="files/2024-04-02_1.png" alt="Garden event flyer" >}}
+{{< imgresize o=360x src="files/2024-04-02_2.png" alt="Garden event flyer" >}}
+{{< imgresize o=360x src="files/2024-04-02_3.png" alt="Literacy Luau flyer" >}}
+{{< imgresize o=360x src="files/2024-04-02_4.png" alt="Literacy Luau flyer" >}}
+
 ## March 19, 2024
 {{< imgresize o=360x src="files/2024-03-19_1.png" alt="Spring enrichment flyer" >}}
 {{< imgresize o=360x src="files/2024-03-19_2.png" alt="Spring enrichment flyer" >}}
-
 
 ## March 12, 2024
 No known schoolwide flyers.
