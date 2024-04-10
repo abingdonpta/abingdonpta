@@ -49,7 +49,13 @@ Here's what was planted or grew in the garden during the **2023 growing season**
 {{< imgresize o=360x src="files/IMG_8483.jpg" alt="Photo from MLK Day of Service" >}}
 {{< imgresize o=360x src="files/IMG_8481.jpg" alt="Photo from MLK Day of Service" >}}
 
-### May Garden Cleanup
+### September 2023 Garden Cleanup
+*September 24, 2023*
+
+{{< imgresize o=360x src="files/IMG_1933.jpg" alt="Photo from September Garden Cleanup" >}}
+{{< imgresize o=360x src="files/IMG_1940.jpg" alt="Photo from September Garden Cleanup" >}}
+
+### May 2023 Garden Cleanup
 *May 21, 2023*
 
 {{< imgresize o=360x src="files/IMG_5225.jpg" alt="Photo from May Garden Cleanup" >}}
@@ -86,7 +92,7 @@ Here's what was planted or grew in the garden during the **2023 growing season**
 {{< imgresize o=360x src="files/IMG_0402.jpg" alt="Volunteers talking" >}}
 {{< imgresize o=360x src="files/IMG_0421.jpg" alt="A flat, weed-free garden" >}}
 
-### November Garden Cleanup
+### November 2022 Garden Cleanup
 *November 6, 2022*
 
 {{< imgresize o=360x src="files/IMG_6494.jpg" alt="Volunteer holding winter greens for the garden" >}}
@@ -99,7 +105,7 @@ Here's what was planted or grew in the garden during the **2023 growing season**
 {{< imgresize o=360x src="files/IMG_6543.jpg" alt="Volunteers learning about Native American culture" >}}
 {{< imgresize o=360x src="files/IMG_0755.jpg" alt="Volunteers making beads out of clay" >}}
 
-### September Garden Cleanup
+### September 2022 Garden Cleanup
 *September 24, 2022*
 
 {{< imgresize o=360x src="files/IMG_3714.jpg" alt="Volunteers posing for a photo in the Abingdon Garden" >}}
@@ -108,7 +114,7 @@ Here's what was planted or grew in the garden during the **2023 growing season**
 {{< imgresize o=360x src="files/IMG_3703.jpg" alt="Volunteers clearing garden beds in the Abingdon Garden" >}}
 {{< imgresize o=360x src="files/IMG_3719.jpg" alt="Volunteers chatting in the Abingdon Garden" >}}
 
-### Summer Garden Cleanup
+### Summer 2022 Garden Cleanup
 *August 7, 2022*
 
 {{< imgresize o=360x src="files/IMG_0273.jpg" alt="Volunteers working in the Abingdon Garden" >}}
@@ -116,7 +122,7 @@ Here's what was planted or grew in the garden during the **2023 growing season**
 {{< imgresize o=360x src="files/IMG_0271.jpg" alt="Planting seeds for the fall in the Abingdon Garden" >}}
 {{< imgresize o=360x src="files/IMG_0256.jpg" alt="Volunteers working in the Abingdon Garden" >}}
 
-### Thriving Plants
+### Thriving Plants 2022
 *July 2022*
 
 {{< imgresize o=360x src="files/IMG_0118.jpg" alt="Everything growing in the Abingdon Garden" >}}
