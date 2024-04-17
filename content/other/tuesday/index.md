@@ -14,6 +14,10 @@ We will only share documents sent to the entire school, not to a particular clas
 
 ---
 
+## April 16, 2024
+{{< imgresize o=360x src="files/2024-04-16_1.png" alt="Mailbox books flyer" >}}
+{{< imgresize o=360x src="files/2024-04-16_2.png" alt="Mailbox books flyer" >}}
+
 ## April 9, 2024
 No known schoolwide flyers.
 
