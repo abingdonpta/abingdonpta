@@ -317,7 +317,7 @@ Abingdon's librarian, Meghan Fatouros, provided the PTA with a box of old docume
 
 The photos below show the construction of the "Leathers Playground" in April 1985. The playground was designed by Robert Leathers, a celebrity playground architect whose designs were constructed over multiple days by hundreds of community volunteers. ([The Washington Post published an article describing some of Abingdon's planning efforts.](https://www.washingtonpost.com/archive/local/1984/11/07/volunteers-work-is-childs-play/ca319fea-11f5-4f64-befd-271dce5697f9/)) For additional information about the 1985 playground, see the [dedication document](pdf/playground-dedication.pdf) and the [community newsletter](pdf/playground-fca-bulletin.pdf) in the documents section.
 
-The following photos and flyers were provided by Meghan Fatourous, Abingdon's librarian. They were contained in a scrapbook stored in Abingdon's library.
+The following photos and flyers were provided by Meghan Fatouros, Abingdon's librarian. They were contained in a scrapbook stored in Abingdon's library.
 
 {{< imgresize o=360x src="images/80s-001.png" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
 {{< imgresize o=360x src="images/80s-001-1.png" alt="A photo documenting the construction of the Abingdon playground in 1985." >}}
