@@ -11,6 +11,7 @@ Agendas are available here before each meeting, and meeting minutes are availabl
 
 | Meeting Date | [Agendas](/agendas) | [Minutes](/minutes) | Presentations |
 | ------------ | ------------------- | ------------------- | ------------- |
+| 2024-05-16   | [Agenda](/agendas/2024-05-16) | | • [Treasurer's Report](</presentations/2024-05-16_1.pdf>) |
 | 2024-03-21   | [Agenda](/agendas/2024-03-21) | [Minutes](/minutes/2024-03-21) |
 | 2024-01-18   | [Agenda](/agendas/2024-01-18) | [Minutes](/minutes/2024-01-18) |
 | 2023-11-16   | [Agenda](/agendas/2023-11-16) | [Minutes](/minutes/2023-11-16) |

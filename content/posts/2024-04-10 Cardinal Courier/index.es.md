@@ -2,7 +2,7 @@
 title: El Boletín Cardinal — 10 de Abril de 2024
 summary: El Boletín Cardinal del 10 de Abril de 2024.
 slug: cardinal courier
-date: 2024-04-10T10:00:00-05:00
+date: 2024-04-10T10:00:00-04:00
 categories: newsletters
 images: ["/share/pta-es.png"]
 booktoc: true

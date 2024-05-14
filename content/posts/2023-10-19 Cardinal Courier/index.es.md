@@ -36,8 +36,8 @@ Todavía necesitamos llenar algunos espacios para la mejor fiesta del año: Abin
 
 Únase a nosotros para una sesión informativa el miércoles 25 de octubre de 2023 a las 6:30 p. m. en la Biblioteca Abingdon.
 
-- Confirme su asistencia a la reunión aquí: https://forms.gle/m3fBcXGo4qCpyDiK6 (se proporcionará información de ZOOM si es necesario cuando confirme su asistencia)
-- Regístrate aquí para unirte a un equipo: https://forms.gle/fWpygwSpenZfD1FR9
+- Confirme su asistencia a la reunión aquí: https://docs.google.com/forms/d/e/1FAIpQLSdNFpWPOJdMpHalM9dJWe8KARLrkOo9K05oqwa1gdB7TKcvdQ/viewform (se proporcionará información de ZOOM si es necesario cuando confirme su asistencia)
+- Regístrate aquí para unirte a un equipo: https://docs.google.com/forms/d/e/1FAIpQLSdAaqt8znJMzxFO-KxTCY1oBHHsDqyOp8aSqmjnLs4BYkrWfg/viewform
 - Todavía necesitamos entrenadores; Por favor regístrate para entrenar un equipo. El compromiso de tiempo es de solo 1 a 2 horas por semana, y usted puede decidir cuándo y dónde reunirse con su equipo que mejor se adapte a usted y a su equipo. Si tenemos suficientes padres para co-entrenar, el compromiso de tiempo será menor.
 
 Póngase en contacto con Tina Kelly para obtener más información en tntkellyhouse@gmail.com

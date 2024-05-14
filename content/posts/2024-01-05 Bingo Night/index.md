@@ -20,7 +20,7 @@ Pizza, snacks, and gear will be available for purchase. Cash is preferred.
 - **Where**: Abingdon Cafeteria
 - **Cost**: $5 per person
 
-{{< button href="https://forms.gle/AemVDA36nVv38XMv8" >}}Click Here to RSVP{{< /button >}}<br>
+{{< button href="https://docs.google.com/forms/d/e/1FAIpQLSdGLmOHaaN10XqeN-mgiPzqEUZVEQYq3Q_TQW76-QPQo_jgVw/viewform?usp=send_form" >}}Click Here to RSVP{{< /button >}}<br>
 
 {{< button href="https://www.signupgenius.com/go/20F0C4AACAB2AAAFF2-47046468-bingo" >}}Click Here to Volunteer{{< /button >}}
 

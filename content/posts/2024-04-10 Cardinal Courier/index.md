@@ -2,7 +2,7 @@
 title: Cardinal Courier — April 10, 2024
 summary: The Cardinal Courier newsletter for April 10, 2024.
 slug: cardinal courier
-date: 2024-04-10T10:00:00-05:00
+date: 2024-04-10T10:00:00-04:00
 categories: newsletters
 images: ["/share/pta.png"]
 booktoc: true

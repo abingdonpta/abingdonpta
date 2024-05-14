@@ -2,7 +2,7 @@
 title: Cardinal Courier — March 20, 2024
 summary: The Cardinal Courier newsletter for March 20, 2024.
 slug: cardinal courier
-date: 2024-03-20T10:00:00-05:00
+date: 2024-03-20T10:00:00-04:00
 categories: newsletters
 images: ["/share/pta.png"]
 booktoc: true

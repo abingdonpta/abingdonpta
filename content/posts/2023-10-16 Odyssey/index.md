@@ -10,9 +10,9 @@ Odyssey of the Mind offers students the chance to hone their creative thinking s
 
 **Join us for an info session on Wednesday, October 25, 2023, at 6:30pm in the Abingdon Library.**
 
-**RSVP for the meeting here**: https://forms.gle/m3fBcXGo4qCpyDiK6
+**RSVP for the meeting here**: https://docs.google.com/forms/d/e/1FAIpQLSdNFpWPOJdMpHalM9dJWe8KARLrkOo9K05oqwa1gdB7TKcvdQ/viewform
 
-**Sign up here to join a team**: https://forms.gle/fWpygwSpenZfD1FR9
+**Sign up here to join a team**: https://docs.google.com/forms/d/e/1FAIpQLSdAaqt8znJMzxFO-KxTCY1oBHHsDqyOp8aSqmjnLs4BYkrWfg/viewform
 
 ZOOM info will be provided if needed when you RSVP.
 

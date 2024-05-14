@@ -2,7 +2,7 @@
 title: El Boletín Cardinal — 20 de Marzo de 2024
 summary: El Boletín Cardinal del 20 de Marzo de 2024.
 slug: cardinal courier
-date: 2024-03-20T10:00:00-05:00
+date: 2024-03-20T10:00:00-04:00
 categories: newsletters
 images: ["/share/pta-es.png"]
 booktoc: true

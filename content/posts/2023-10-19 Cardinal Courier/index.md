@@ -42,8 +42,8 @@ We still need to fill a few slots for the best party of the year- Abingdon's Tru
 
 Join us for an info session on Wednesday, October 25, 2023, at 6:30pm in the Abingdon Library.
 
-- RSVP for the meeting here: https://forms.gle/m3fBcXGo4qCpyDiK6 (ZOOM info will be provided if needed when you RSVP) 
-- Sign up here to join a team: https://forms.gle/fWpygwSpenZfD1FR9
+- RSVP for the meeting here: https://docs.google.com/forms/d/e/1FAIpQLSdNFpWPOJdMpHalM9dJWe8KARLrkOo9K05oqwa1gdB7TKcvdQ/viewform (ZOOM info will be provided if needed when you RSVP) 
+- Sign up here to join a team: https://docs.google.com/forms/d/e/1FAIpQLSdAaqt8znJMzxFO-KxTCY1oBHHsDqyOp8aSqmjnLs4BYkrWfg/viewform
 - We still need coaches; please sign up to coach a team. The time commitment is only 1-2 hours a week, and you can work out when and where to meet with your team that best suits you and your team. If we have enough parents to co-coach, the time commitment will be less.
 
 Contact Tina Kelly for more information at tntkellyhouse@gmail.com
