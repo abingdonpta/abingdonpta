@@ -90,8 +90,8 @@ Disallow: /other
 Disallow: /other/
 Disallow: /posts
 Disallow: /posts/
-Disallow: /presentations
-Disallow: /presentations/
+Disallow: /reports
+Disallow: /reports/
 Disallow: /programs
 Disallow: /programs/
 Disallow: /reflectionsarts

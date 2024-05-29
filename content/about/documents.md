@@ -9,14 +9,14 @@ booktoc: true
 
 Agendas are available here before each meeting, and meeting minutes are available soon after each meeting. Additionally, any presentation that is made during the meeting will be posted here.
 
-| Meeting Date | [Agendas](/agendas) | [Minutes](/minutes) | Presentations |
+| Meeting Date | [Agendas](/agendas) | [Minutes](/minutes) | Reports |
 | ------------ | ------------------- | ------------------- | ------------- |
-| 2024-05-16   | [Agenda](/agendas/2024-05-16) | | • [Treasurer's Report](</presentations/2024-05-16_1.pdf>) |
+| 2024-05-16   | [Agenda](/agendas/2024-05-16) | | • [Treasurer's Report](</reports/2024-05-16_1.pdf>) |
 | 2024-03-21   | [Agenda](/agendas/2024-03-21) | [Minutes](/minutes/2024-03-21) |
 | 2024-01-18   | [Agenda](/agendas/2024-01-18) | [Minutes](/minutes/2024-01-18) |
 | 2023-11-16   | [Agenda](/agendas/2023-11-16) | [Minutes](/minutes/2023-11-16) |
-| 2023-09-21   |                    | [Minutes](/minutes/2023-09-21) | • [Proposed Budget](</presentations/2023-09-21_1.pdf>)<br>• [Budget Comparison](</presentations/2023-09-21_2.pdf>)<br>• [Financial Review](/financialreviews/2022-2023.pdf)
-| 2023-08-22   |                    | [Minutes](/minutes/2023-08-22) |    |
+| 2023-09-21   |                               | [Minutes](/minutes/2023-09-21) | • [Proposed Budget](</reports/2023-09-21_1.pdf>)<br>• [Budget Comparison](</reports/2023-09-21_2.pdf>)<br>• [Financial Review](/financialreviews/2022-2023.pdf)
+| 2023-08-22   |                               | [Minutes](/minutes/2023-08-22) |    |
 
 ---
 

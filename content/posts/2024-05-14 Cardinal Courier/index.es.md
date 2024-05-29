@@ -24,7 +24,7 @@ booktoc: true
 
 ## Reunión de la PTA y nominaciones de la junta directiva JUEVES a las 5:30 p. m.
 
-Únase a nosotros en la biblioteca de Abingdon a las 5:30 p. m. este jueves 16 de mayo para una reunión general de miembros ([agenda adjunta](/agendas/2024-05-16)). Aceptaremos nominaciones del pleno para la Junta de la PTA 2024-2025, que será elegida en nuestra reunión de junio. [Lea más sobre los cargos aquí](/2024/04/22/elections/). También votaremos sobre una enmienda presupuestaria para garantizar que haya fondos suficientes disponibles para apoyar el Día de Campo. [Las finanzas actualizadas están disponibles aquí](/presentations/2024-05-16_1.pdf).
+Únase a nosotros en la biblioteca de Abingdon a las 5:30 p. m. este jueves 16 de mayo para una reunión general de miembros ([agenda adjunta](/agendas/2024-05-16)). Aceptaremos nominaciones del pleno para la Junta de la PTA 2024-2025, que será elegida en nuestra reunión de junio. [Lea más sobre los cargos aquí](/2024/04/22/elections/). También votaremos sobre una enmienda presupuestaria para garantizar que haya fondos suficientes disponibles para apoyar el Día de Campo. [Las finanzas actualizadas están disponibles aquí](/reports/2024-05-16_1.pdf).
 
 Se proporcionará cuidado de niños y pizza para los niños; [Simplemente confirme su asistencia](https://docs.google.com/forms/d/e/1FAIpQLSfthsG7AfcW6CkMkt7YDQ-UwSS5biI3sEYVFNL_-ECe8sA-8w/viewform) para que tengamos una buena plantilla. Si no puede asistir a la reunión en persona, únase a nosotros en Zoom.
 

@@ -24,7 +24,7 @@ Thank you to everyone who made Teacher Appreciation Week a huge success for our 
 
 ## PTA Meeting & Board Nominations THURSDAY @ 5:30 PM
 
-Join us in the Abingdon library at 5:30 PM this Thursday, 5/16 for a general membership meeting ([agenda attached](/agendas/2024-05-16)). We will accept nominations from the floor for the 2024-2025 PTA Board, which will be elected at our June meeting. [Read more about the positions here](/2024/04/22/elections/). We also will vote on a budgetary amendment to ensure sufficient funds are available to support Field Day. [Updated financials are available here](/presentations/2024-05-16_1.pdf). 
+Join us in the Abingdon library at 5:30 PM this Thursday, 5/16 for a general membership meeting ([agenda attached](/agendas/2024-05-16)). We will accept nominations from the floor for the 2024-2025 PTA Board, which will be elected at our June meeting. [Read more about the positions here](/2024/04/22/elections/). We also will vote on a budgetary amendment to ensure sufficient funds are available to support Field Day. [Updated financials are available here](/reports/2024-05-16_1.pdf). 
 
 Childcare and pizza for the kids will be provided; [please just RSVP](https://docs.google.com/forms/d/e/1FAIpQLSfthsG7AfcW6CkMkt7YDQ-UwSS5biI3sEYVFNL_-ECe8sA-8w/viewform) so we have a good headcount. If you can’t make the meeting in-person, join us on zoom.
 
