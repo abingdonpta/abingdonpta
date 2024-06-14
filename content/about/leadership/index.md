@@ -16,10 +16,10 @@ Please [fill out our volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSf
 | [🦸 President](/roles/#-president) | [James Harlow](mailto:president@abingdonpta.org) |
 | [🎓 VP for Educational Programs](/roles/#-vice-president) | Tina Kelly |
 | [💵 VP for Fundraising](/roles/#-vice-president) | Megan Miller |
-| [🏘️ VP for Community Relations](/roles/#-vice-president) | Sara Kirschner |
+| [🏘️ VP for Community Relations](/roles/#-vice-president) | Vacant |
 | [📣 VP for Communications](/roles#-vice-president) | Maggie Bush |
-| [🎉 VP for Events](/roles/#-vice-president) | Meredith Greene |
-| [🙏 VP for Staff Appreciation](/roles/#-vice-president) | Ashley Farrugia |
+| [🎉 VP for Events](/roles/#-vice-president) | Ashley Farrugia |
+| [🙏 VP for Staff Appreciation](/roles/#-vice-president) | Meredith Greene |
 | [💰 Treasurer](/roles/#-treasurer) | [David DeBoer](mailto:treasurer@abingdonpta.org) |
 | [✍️ Secretary](/roles/#-secretary) | Erin Cassidy |
 
@@ -33,7 +33,6 @@ Please [fill out our volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSf
 | [🎨 Reflections](/roles/#-reflections) | Mary Savig |
 | [🏃‍♀️ Girls on the Run](/roles/#-girls-on-the-run) | Ashley Farrugia<br>Erin Mahaffey |
 | [👩‍💻 Cardinal Coding Club](/roles/#-cardinal-coding-club) | Molly Fisher |
-| [🧧 Cardinal Chinese Club](/roles/#-cardinal-chinese-club) | Sharon Burd<br>Boae Kim<br>Kim Chi Crittenden |
 | [🧠 Odyssey of the Mind](/roles/#-odyssey-of-the-mind) |
 
 There are other educational programs available to elementary school students, like [🔬 Science Olympiad](https://www.soinc.org/), with which Abingdon has little or no participation experience; however, the PTA could support Abingdon's participation provided that we have a motivated volunteer.
@@ -49,7 +48,7 @@ There are other educational programs available to elementary school students, li
 | [📚 Read-A-Thon](/roles/#-read-a-thon) |
 | [🌯 Spirit Night](/roles/#-spirit-night) |
 | [🤝 Sponsorships](/roles/#-sponsorships) |
-| [❤️ Lovelines](/roles/#-lovelines) | Ellen Dobro |
+| [❤️ Lovelines](/roles/#-lovelines) |
 
 ### 🏘️ Community Relations
 

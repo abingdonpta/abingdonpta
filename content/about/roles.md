@@ -81,14 +81,6 @@ Mixing hands-on coding with interactive play, students in 3rd to 5th grade will 
 - **Time of day**: Immediately after school day, one day per week
 - **Months**: Year-round
 
-### 🧧 Cardinal Chinese Club
-
-The Cardinal Chinese Club teaches students about Chinese language and culture. Students learn conversational phrases, how to write characters, songs, Lunar New Year traditions, and more.
-
-- **Location**: School
-- **Time of day**: Immediately after school day, one day per week
-- **Months**: Flexible
-
 ### 🧠 Odyssey of the Mind
 
 The Odyssey of the Mind Coordinator organizes students' participation in a problem-solving and critical thinking competition. The competition encourages creativity and cooperation as teams of students work together to produce a "solution" to problems; these solutions generally involve putting on a skit that incorporates props, costumes, and even songs. Learn more about Odyssey of the Mind on [their website](https://www.odysseyofthemind.com) and their [Virginia unit's website](https://vaodyssey.org).

@@ -11,6 +11,7 @@ Agendas are available here before each meeting, and meeting minutes are availabl
 
 | Meeting Date | [Agendas](/agendas) | [Minutes](/minutes) | Reports |
 | ------------ | ------------------- | ------------------- | ------------- |
+| 2024-06-12   |                               |                                | • [Summer Budget](/summerbudget/2024.pdf)<br>• [Business Sponsorships](/reports/2024-06-12_1.pdf) |
 | 2024-05-16   | [Agenda](/agendas/2024-05-16) | [Minutes](/minutes/2024-05-16) | • [Treasurer's Report](</reports/2024-05-16_1.pdf>) |
 | 2024-03-21   | [Agenda](/agendas/2024-03-21) | [Minutes](/minutes/2024-03-21) |
 | 2024-01-18   | [Agenda](/agendas/2024-01-18) | [Minutes](/minutes/2024-01-18) |
@@ -24,9 +25,9 @@ Agendas are available here before each meeting, and meeting minutes are availabl
 
 ### Bylaws
 
-Every PTA in Virginia is required to adhere to the [Virginia PTA Local Unit Uniform Bylaws](https://www.vapta.org/27-committees/bylaws). The bylaws [can be found here](/bylaws/2023-2024.pdf), while an easy-to-read webpage with the bylaws is maintained below.
+Every PTA in Virginia is required to adhere to the [Virginia PTA Local Unit Uniform Bylaws](https://vapta.org/bylaws/). The bylaws [can be found here](/bylaws/2024-2025.pdf), while an easy-to-read webpage with the bylaws is maintained below.
 
-{{< button relref="bylaws" >}}View Our Bylaws for 2023-2024{{< /button >}}
+{{< button relref="bylaws" >}}View Our Bylaws for 2024-2025{{< /button >}}
 
 ### Organizational Structure Form
 
@@ -52,7 +53,7 @@ The PTA's annual budget must be approved by the general membership at the beginn
 
 The PTA also passes a summer budget at the end of the school year to approve expenses for the following summer.
 
-{{< button relref="summerbudget" >}}View Our Summer Budget for 2023{{< /button >}}
+{{< button href="/summerbudget/2024.pdf" >}}View Our Summer Budget for 2024{{< /button >}}
 
 ### Annual Financial Reports
 
