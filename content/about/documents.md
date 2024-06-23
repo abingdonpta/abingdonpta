@@ -33,7 +33,7 @@ Every PTA in Virginia is required to adhere to the [Virginia PTA Local Unit Unif
 
 The Organizational Structure Form provides important details about how this PTA conducts business, including timing of elections and term limits on officers. The PTA must complete this form and have it approved by the general membership at the beginning of each school year. The Treasurer then submits the form to the Virginia PTA.
 
-{{< button href="/organizational/2023-2024.pdf" >}}View Our Organizational Structure Form for 2023-2024{{< /button >}}
+{{< button href="/organizational/2023-09-21.pdf" >}}View Our Organizational Structure Form{{< /button >}}
 
 ### Conflict of Interest Policy
 

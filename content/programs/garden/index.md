@@ -15,6 +15,8 @@ Abingdon Elementary would love your support to create a successful, sustainable 
 
 {{< button relref="/categories/garden/" >}}View Latest Updates about Abingdon's Garden{{< /button >}}
 
+<!--
+
 ## What's Growing?
 
 Here's what was planted or grew in the garden during the **2023 growing season**:
@@ -35,7 +37,28 @@ Here's what was planted or grew in the garden during the **2023 growing season**
 | Bed 10 | Butterfly weed 🦋<br>Zinnia 🌼<br>Peppers 🫑 |
 | Bed 11 | Zinnias and other flowers 🌼 |
 
+-->
+
 ## Photos
+
+### Weeding the New Pollinator Garden
+*May 27 and June 2, 2024*
+
+{{< imgresize o=360x src="files/IMG_3489.jpg" alt="Photo of volunteers who weeded the pollinator garden" >}}
+{{< imgresize o=360x src="files/IMG_3676.jpg" alt="Photo of volunteers who weeded the pollinator garden" >}}
+
+### Planting the New Pollinator Garden
+*April 7, 2024*
+
+Thanks to [Field to Table](https://field2table.org/) for providing grant funds for 69 pollinator plants. Also thanks to Chipotle & Washington Wizards for donating to the event.
+
+{{< imgresize o=360x src="files/IMG_1752.jpg" alt="Photo of volunteers planting the pollinator garden" >}}
+{{< imgresize o=360x src="files/IMG_1756.jpg" alt="Photo of volunteers planting the pollinator garden" >}}
+{{< imgresize o=360x src="files/IMG_1757.jpg" alt="Photo of volunteers planting the pollinator garden" >}}
+{{< imgresize o=360x src="files/IMG_1764.jpg" alt="Photo of volunteers planting the pollinator garden" >}}
+{{< imgresize o=360x src="files/IMG_1765.jpg" alt="Photo of volunteers planting the pollinator garden" >}}
+{{< imgresize o=360x src="files/IMG_1793.jpg" alt="Photo of volunteers planting the pollinator garden" >}}
+{{< imgresize o=360x src="files/IMG_1822.jpg" alt="Photo of volunteers planting the pollinator garden" >}}
 
 ### MLK Day of Service 2024
 *January 15, 2024*
@@ -146,8 +169,10 @@ Here's what was planted or grew in the garden during the **2023 growing season**
 {{< imgresize o=360x src="files/040222_6.jpg" alt="A volunteer with a big bag of litter collected on Abingdon's grounds" >}}
 {{< imgresize o=360x src="files/040222_7.jpg" alt="The garden looking very tidy after woodchips were placed evenly throughout" >}}
 
-### Donation of Woodchips and Stumps from Lancaster Landscapes
+### Donation of Woodchips and Stumps
 *April 1, 2022*
+
+Thanks to Lancaster Landscapes for their donation of woodchips and stumps.
 
 {{< imgresize o=360x src="files/040122_1.jpg" alt="A dump truck dumping donated woodchips" >}}
 {{< imgresize o=360x src="files/040122_2.jpg" alt="Company and PTA staff posing behind a pile of donated woodchips" >}}
