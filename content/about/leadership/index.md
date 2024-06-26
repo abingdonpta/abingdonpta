@@ -5,7 +5,7 @@ weight: 20
 booktoc: true
 ---
 
-The PTA leadership for the 2023-2024 School Year are listed below, as well as role descriptions. If you click on a role, you will see a description for that role.
+The PTA leadership for the 2024-2025 School Year are listed below, as well as role descriptions. If you click on a role, you will see a description for that role.
 
 Please [fill out our volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSf50HFDkNfDxP5VfE2LzsxKbUPZdmRGQTeNEUhXkU_qLCLWZQ/viewform?usp=sf_link) or reach out to pta@abingdonpta.org if you have interest in one of the roles below. We would be delighted for you to join our team!
 
