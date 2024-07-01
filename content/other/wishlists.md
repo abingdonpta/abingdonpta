@@ -15,7 +15,7 @@ APS policy prohibits teachers from accepting gift cards to purchase classroom su
 When sending packages directly to the school, please include "ATTN: [Staff name]" on the 2nd address line and include a free gift note with the teacher's name. This ensures the package is delivered to the correct teacher.
 
 If you work at Abingdon and would like your wishlist featured on this page, please email the PTA at pta@abingdonpta.org.
-
+<!--
 ## 2nd Grade
 
 - [Ms. Edmonds](https://www.amazon.com/hz/wishlist/ls/3O3REUGA8ALYH)
@@ -25,3 +25,4 @@ If you work at Abingdon and would like your wishlist featured on this page, plea
 
 - [Ms. Burd](https://www.amazon.com/hz/wishlist/ls/3NHI49RVDQWDF)
 - [Ms. Madrona](https://www.amazon.com/hz/wishlist/ls/1KBQWYUEJJWAY)
+-->
