@@ -238,7 +238,7 @@ If you've ever walked Abingdon's labyrinthine hallways, it's obvious that the bu
 | Pat Anderson | 1997?-1998? |
 | Miguel Ley | 1998-2001 |
 | Joanne Uyeda | 2001-2019 |
-| David Horak | 2019-present |
+| David Horak | 2019-2024 |
 
 ### Grades present
 
