@@ -1,7 +1,7 @@
 --- 
 title: Principal Search
 summary: APS has described the process for hiring a new principal for Abingdon.
-slug: schol supplies
+slug: principal search
 date: 2024-07-23T17:00:00-04:00
 categories: passed along
 ---

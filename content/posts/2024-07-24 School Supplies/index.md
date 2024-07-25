@@ -1,7 +1,7 @@
 --- 
 title: School Supply List for 2024-2025
 summary: This is the list of supplies to buy before the school year starts.
-slug: schol supplies
+slug: school supplies
 date: 2024-07-24T17:00:00-04:00
 categories: passed along
 booktoc: true
