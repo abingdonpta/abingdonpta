@@ -71,18 +71,18 @@ Pre-K Special Education Team
 - 2 boxes of tissues
 - 2 boxes of sharpened #2 large primary Ticonderoga pencil
 - 1 package of small glue sticks 
-- 1 box 1 box of gallon size zip-loc bags
-- Boys: 1 pack of thin Expo dry erase markers (4 or 8 pack)
-- Girls: 1 pack of assorted Crayola broad markers (8 pack)
+- 1 box of gallon size zip-loc bags
+- 1 pack of thin Expo dry erase markers (4 or 8 pack)
+- 1 pack of assorted Crayola broad markers (8 pack)
 - 3 containers of Clorox disinfectant wipes
-- Boys: bring 1 pack of Expo dry erase markers (4 or 8 pack)
-- Girls: bring 1 pack of Crayola markers (8 pack)
+- 1 pack of Expo dry erase markers (4 or 8 pack)
+- 1 pack of Crayola markers (8 pack)
 - 2 bottle of hand soap
 - 1 bottles of hand sanitizer
 - 1 black-and-white marble composition notebook (wide ruled)
 - 1 multi-pack of playdoh (10 pack)
 - 1 full size backpack to send with your child daily.
-- Extra change of clothes, including underwear and socks, in a Ziploc bag labeled with your child’s name
+- Extra change of clothes, including underwear and socks, in a Ziploc bag labeled with your child’s name.
 - 1 plastic pencil box
 - AVID Education AE-36-GR Stereo Classroom Computer Headset with Boom microphone, single TRRS plug green (Amazon) or similar headphones.
 
@@ -107,9 +107,9 @@ Thank you for your support,
 - 2 boxes of tissues
 - 1 bottle hand sanitizer
 - 2 large Elmer’s Glue Sticks 1.41 oz.
-- 2 box of fine tip EXPO dry erase markers 
+- 3 boxes of fine tip EXPO dry erase markers 
 - 2 composition notebooks (Black and White style)
-- 1 blue pronged plastic pocket folder
+- 2 blue pronged plastic pocket folders
 - 1 green pronged plastic pocket folder
 - 1 red pronged plastic pocket folder
 - 1 package of 3x3 Sticky Notes 
@@ -117,10 +117,10 @@ Thank you for your support,
 - 1 pack of 12 washable Crayola markers 
 - 1 pack of 12 Crayola-colored pencils 
 - 1 pair of AVID Education AE-36-GR Stereo Classroom Computer Headset with Boom microphone, single TRRS plug green (Amazon) or similar headphones. (No Bluetooth or ear buds)
-- **Girls**: 1 pack of gallon sized Ziploc bags 
-- **Boys**: 1 pack of sandwich sized Ziploc bags
+- **Girls**: 1 pack of gallon size Ziploc bags 
+- **Boys**: 1 pack of sandwich size Ziploc bags
 
-Please do not label supplies as they will be used by the entire class.
+Please do not label supplies, they will be used by the entire class.
 
 Thank you.
 
@@ -128,19 +128,19 @@ Thank you.
 
 Welcome to 2nd grade
 
-- 5 Super sticky note pads (3inX3in
 - 1 Set of Earbud headphones for iPads
-- 3 large Glue sticks 1.27 oz
+- 4 large Glue sticks 1.27 oz
 - 1 Bottle of Elmer’s Glue
 - 1 2 pack pink Erasers
-- 3 Black and white composition notebooks
+- 2 Black and white composition notebooks
 - 1 pack wide- ruled loose paper
-- 6 Laminated, sturdy, two pocket folders (red, blue and green)
-- 2 Boxes of 24 crayons
+- 2 Laminated, sturdy, two pocket folders (1 red and 1 blue)
+- 3 Boxes of 24 crayons
 - 1 Pair of scissors
 - 2 12 pack of colored pencils
 - 4 Boxes of #2 TICONDEROGA pencils pre-sharpened
 - 1 Boxes of tissues
+- 1 Box of Crayola 12 pack assorted markers
 - 2 Pack of Expo dry eraser markers (assorted colors) thick tip
 - 2 Pack of Expo dry eraser markers (assorted colors) thin tip
 - 2 Containers of Clorox/Lysol disinfecting wipes
@@ -156,18 +156,18 @@ Thanks for your support,
 ### 3rd Grade
 
 - 5 2 Pocket Heavy Duty Poly Folder 3 holes, Assorted Colors
-- 2 packs of loose-leaf paper, wide ruled, 100 ct 3-hole punch
 - 2 12 pack Ticonderoga pencils sharpened
 - 1 pack of 2 pink erasers  
 - 1 pack of 24 crayons assorted.
-- 2 packs of Sticky Post it notes (3x3) 100 sheets.
-- 2 Expo Low Odor Dry Erase Markers, Fine tip 4-pack Assorted colors.
-- 1 3-Ring Nylon Pencil Pouch
+- 1 12 pack of colored pencils
+- 1 12 pack of colored markers
+- 2 packs of Sticky Post -it notes (3x3) 100 sheets.
+- 2 packs of Expo Low Odor Dry Erase Markers, Broad tip 4-pack Assorted colors.
 - 1 pair of earbuds (personal use IPAD)
 - 1 pair of scissors
 - 2 boxes of Kleenex tissue
-- 1 large (Jumbo) glue sticks 1.27 oz.
-- 5 one subject composition notebooks (assorted colors)
+- 1 pack large (Jumbo) glue sticks 1.27 oz.
+- 4 one subject composition notebooks (assorted colors)
 - 2 packs of multicolored highlighters
 - 1 pair of AVID Education AE-36-GR Stereo Classroom Computer Headset with Boom microphone, single TRRS plug green (Amazon) or similar headphones. (No Bluetooth or ear buds)
 

@@ -28,8 +28,6 @@ Disallow: /agendas
 Disallow: /agendas/
 Disallow: /appreciation
 Disallow: /appreciation/
-Disallow: /audits
-Disallow: /audits/
 Disallow: /boardagendas
 Disallow: /boardagendas/
 Disallow: /boardminutes

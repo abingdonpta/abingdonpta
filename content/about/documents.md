@@ -75,6 +75,7 @@ The PTA is required to conduct a review of its finances every fiscal year. (This
 
 | Financial Reviews |
 |-|
+| [2023-2024 Financial Review](/financialreviews/2023-2024.pdf) |
 | [2022-2023 Financial Review](/financialreviews/2022-2023.pdf) |
 | [2021-2022 Financial Review](/financialreviews/2021-2022.pdf) |
 
