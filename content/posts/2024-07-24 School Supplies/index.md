@@ -117,7 +117,7 @@ Thank you for your support,
 - 1 pack of 12 washable Crayola markers 
 - 1 pack of 12 Crayola-colored pencils 
 - 1 pair of AVID Education AE-36-GR Stereo Classroom Computer Headset with Boom microphone, single TRRS plug green (Amazon) or similar headphones. (No Bluetooth or ear buds)
-- **Girls**: 1 pack of gallon size Ziploc bags 
+- **Girls**: 1 pack of gallon size Ziploc bags
 - **Boys**: 1 pack of sandwich size Ziploc bags
 
 Please do not label supplies, they will be used by the entire class.
@@ -157,7 +157,7 @@ Thanks for your support,
 
 - 5 2 Pocket Heavy Duty Poly Folder 3 holes, Assorted Colors
 - 2 12 pack Ticonderoga pencils sharpened
-- 1 pack of 2 pink erasers  
+- 1 pack of 2 pink erasers
 - 1 pack of 24 crayons assorted.
 - 1 12 pack of colored pencils
 - 1 12 pack of colored markers
