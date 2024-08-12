@@ -61,6 +61,7 @@ The Treasurer must prepare an annual financial report at the close of the fiscal
 
 | Annual Financial Reports |
 |-|
+| [2023-2024 Financial Report](/financialreports/2023-2024.pdf) |
 | [2022-2023 Financial Report](/financialreports/2022-2023) |
 | [2021-2022 Financial Report](/financialreports/2021-2022.pdf) |
 | [2020-2021 Financial Report](/financialreports/2020-2021.pdf) |
@@ -93,6 +94,7 @@ The PTA Treasurer is required to submit this form to the IRS and to the Virginia
 
 | IRS Form 990 |
 |-|
+| [2023-2024 990](/990/2023-2024.pdf) |
 | [2022-2023 990](/990/2022-2023.pdf) |
 | [2021-2022 990](/990/2021-2022.pdf) |
 
@@ -100,7 +102,7 @@ The PTA Treasurer is required to submit this form to the IRS and to the Virginia
 
 The Virginia PTA issues a letter each year to local units in good standing that officially identifies the PTA as a 501(c)3 tax-exempt organization.
 
-{{< button href="/soa/2023-2024.pdf" >}}View Our Tax-Exempt Letter for 2023-2024{{< /button >}}
+{{< button href="/soa/2024-2025.pdf" >}}View Our Tax-Exempt Letter for 2024-2025{{< /button >}}
 
 ### IRS Reinstatement Letter
 
