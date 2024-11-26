@@ -46,12 +46,12 @@ The 2014 logos above were based off of a design used by a T-shirt company (LA Te
 
 ## Abingdon GIFT Logos
 
-Project GIFT originated sometime before 2007, when it stood for "Gaining Instruction, Fostering Talents." The logo originated in September 2010, along with the slogan "Integrating Arts with Multiple Smarts." Between 2013 and 2014, GIFT changed to mean "Guiding Instruction through Fine Arts and Technology." The logo changed to reflect this. Both logos are below. It's not clear where the original vector files for these logos are, nor is it clear who made the logos. *Traditionally the school uses this logo, not the PTA.*
+Project GIFT originated sometime before 2007, when it stood for "Gaining Instruction, Fostering Talents." The logo originated in September 2010, along with the slogan "Integrating Arts with Multiple Smarts." Between 2013 and 2014, GIFT changed to mean "Guiding Instruction through Fine Arts and Technology." The logo changed to reflect this. Both logos are below. Abingdon PTA volunteer Vickie Spindler collaborated with a teacher to make the original logo. We don't have the vector file for the second logo iteration. *Traditionally the school uses this logo, not the PTA.*
 
-| Type | PNG | JPG | Original |
-| ---- | --- | --- | -------- |
-| Gaining Instruction, Fostering Talents | [PNG](Abingdon-GIFT-logo.png) | | Unknown |
-| Guiding Instruction through Fine Arts and Technology | | [JPG](Abingdon-GIFT-logo-2014.jpg) | [JPG](https://s3.amazonaws.com/aps-legacy-site/cms/lib2/VA01000586/Centricity/Domain/185/GIFT%20Logo%20-%20NEW%202014%20.jpg)
+| Type | SVG | PNG | JPG | Original |
+| ---- | --- | --- | --- | -------- |
+| Gaining Instruction, Fostering Talents | [SVG](project-gift-logo.svg) | [PNG](project-gift-logo.png) | | [Adobe Illustrator](projectgiftlogo.red-black.ai) |
+| Guiding Instruction through Fine Arts and Technology | | | [JPG](Abingdon-GIFT-logo-2014.jpg) | |
 
 ## CETA Logo
 
