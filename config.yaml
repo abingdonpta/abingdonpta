@@ -24,10 +24,10 @@ params:
   booktoc: false
 
 permalinks:
-  docs: /:sections[1:]/:filename/
-  about: /:sections[1:]/:filename/
-  programs: /:sections[1:]/:filename/
-  other: /:sections[1:]/:filename/
+  docs: /:sections[1:]/:contentbasename/
+  about: /:sections[1:]/:contentbasename/
+  programs: /:sections[1:]/:contentbasename/
+  other: /:sections[1:]/:contentbasename/
   posts: /:year/:month/:day/:slug/
 
 copyright: Abingdon PTA

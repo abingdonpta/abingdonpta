@@ -18,19 +18,19 @@ The PTA accepts open-ended donations at all times, using the following methods:
 {{< tabs "donate" >}}
 
 {{< tab "Credit Card" >}}
-You may donate to the PTA using a credit card on Memberhub. A portion of the donation will be used to pay transaction fees ($0.50 + 3.5% of each transaction).
+<p>You may donate to the PTA using a credit card on Memberhub. A portion of the donation will be used to pay transaction fees ($0.50 + 3.5% of each transaction).</p>
 
 {{< button href="https://abingdonpta.memberhub.com/store/items/62200" >}}Donate to the PTA Using Memberhub{{< /button >}}
 {{< /tab >}}
 {{< tab "Check" >}}
-You may donate to the PTA by sending us a check. You may mail checks to:
-```
-Abingdon Elementary School  
-c/o PTA  
-3035 S Abingdon St  
-Arlington, VA 22206
-```
-Checks can be made out to ```Abingdon PTA```.
+<p>You may donate to the PTA by sending us a check. You may mail checks to:</p>
+
+<pre><code>Abingdon Elementary School
+c/o PTA
+3035 S Abingdon St
+Arlington, VA 22206</pre></code>
+
+<p>Checks can be made out to Abingdon PTA.</p>
 {{< /tab >}}
 {{< /tabs >}}
 
@@ -48,7 +48,7 @@ To link your VIC Card, you can do one of the following:
 - Or, [visit the Harris Teeter website](https://tie.harristeeter.com/tie/login) and follow the instructions.
 
 {{< hint warning >}}
-**Those who linked their VIC Cards to Abingdon in previous years must do so again each year, starting August 1.** VIC Card links are reset each year on May 31.
+Those who linked their VIC Cards to Abingdon in previous years must do so again each year, starting August 1. VIC Card links are reset each year on May 31.
 {{< /hint >}}
 
 During the 2022-2023 school year, the 134 people who were signed up helped earn $1449.03 for Abingdon. Thank you!
