@@ -25,7 +25,7 @@ Agendas are available here before each meeting, and meeting minutes are availabl
 
 ### Bylaws
 
-Every PTA in Virginia is required to adhere to the [Virginia PTA Local Unit Uniform Bylaws](https://vapta.org/bylaws/). The bylaws [can be found here](/bylaws/2024-2025.pdf), while an easy-to-read webpage with the bylaws is maintained below.
+Every PTA in Virginia is required to adhere to the [Virginia PTA Local Unit Uniform Bylaws](https://vapta.org/bylaws/). An easy-to-read webpage with the bylaws is maintained below.
 
 {{< button relref="bylaws" >}}View Our Bylaws for 2024-2025{{< /button >}}
 
