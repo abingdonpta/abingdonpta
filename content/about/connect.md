@@ -6,6 +6,8 @@ linktitle: Connect
 aliases: ["/meetings","/contact-us","/cardinal-courrier","/c"]
 ---
 
+# Connect with the PTA
+
 There are many ways to stay informed about PTA events and activities.
 
 [<img src="/svg/Newsletter.svg" height="20" width="20" alt="Newsletter logo"> Subscribe to our newsletter, the Cardinal Courier.](https://us11.list-manage.com/subscribe?u=e8c2877018f64aa7e1fd2e884&id=b884e2a18e)  

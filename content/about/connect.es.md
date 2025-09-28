@@ -5,6 +5,8 @@ weight: 60
 linktitle: Conéctese
 ---
 
+# Conéctese con la PTA
+
 Hay muchas maneras de mantenerse informado sobre los eventos y actividades de la PTA:
 
 [<img src="/svg/Newsletter.svg" height="20" width="20" alt="Newsletter logo"> Suscríbete a nuestro boletín, el Boletín Cardinal.](https://us11.list-manage.com/subscribe?u=e8c2877018f64aa7e1fd2e884&id=b884e2a18e)  

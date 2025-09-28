@@ -6,6 +6,8 @@ url: /bylaws/
 booktoc: true
 ---
 
+# Virginia PTA Local / Council Uniform Bylaws — Adopted July 1, 2025
+
 <style type="text/css">
     ol { list-style-type: upper-alpha; }
     ol ol { list-style-type: decimal; }

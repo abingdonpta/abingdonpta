@@ -6,6 +6,8 @@ aliases: ["/wishlist"]
 booktoc: true
 ---
 
+# Staff Wishlists
+
 Please see below for the wish lists of our teachers. Thank you in advance for supporting their classrooms! *Please note, you are not obligated to purchase anything from the wish lists.*
 
 {{< hint warning >}}

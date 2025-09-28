@@ -5,6 +5,8 @@ linkTitle: Volunteer
 weight: 30
 ---
 
+# Volunteer Opportunities
+
 ## Volunteer with the PTA
 
 If you're interested in volunteering with the PTA, a great first step is to fill out our Volunteer Form so we can learn more about your interests, skills, and availability. We always need more volunteers!
@@ -13,7 +15,7 @@ If you're interested in volunteering with the PTA, a great first step is to fill
 
 Additionally, the PTA requests volunteers to help with events on an ad hoc basis. [Please follow or subscribe to one of our communication tools](/connect/), or fill out the Volunteer Form, in order to be informed of these volunteer opportunities. Typically volunteers help set up before events, clean up after events, or assist during events. This is a fun way to meet people and become familiar with the PTA.
 
-{{< button relref="/categories/volunteer-opportunities/" >}}View Latest Updates About Volunteer Opportunities{{< /button >}}
+{{< button href="/categories/volunteer-opportunities/" >}}View Latest Updates About Volunteer Opportunities{{< /button >}}
 
 ---
 

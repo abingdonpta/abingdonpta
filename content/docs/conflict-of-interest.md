@@ -7,6 +7,8 @@ summary: Conflict of Interest Policy for the Abingdon PTA.
     ol { list-style-type: lower-alpha; }
 </style>
 
+# Conflict of Interest Policy for Abingdon PTA
+
 ## Article I
 
 #### Purpose

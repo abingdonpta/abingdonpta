@@ -7,12 +7,14 @@ aliases: ["/community-events"]
 booktoc: true
 ---
 
+# Events
+
 The PTA organizes several events throughout the year. These events strengthen our community spirit, and they're a lot of fun too!
 
 If you're interested in helping to organize our events, please [fill out our volunteer form](https://docs.google.com/forms/d/e/1FAIpQLSf50HFDkNfDxP5VfE2LzsxKbUPZdmRGQTeNEUhXkU_qLCLWZQ/viewform?usp=sf_link).
 
-{{< button relref="/categories/events/" >}}View Latest Updates About Events{{< /button >}}<br><br>
-{{< button relref="/categories/photos/" >}}Additional Photos of Past Events{{< /button >}}
+{{< button href="/categories/events/" >}}View Latest Updates About Events{{< /button >}}<br><br>
+{{< button href="/categories/photos/" >}}Additional Photos of Past Events{{< /button >}}
 
 ## Rising Kindergarten Playdates
 

@@ -5,11 +5,15 @@ bookSearchExclude: true
 url: /boardlinks/
 ---
 
+# Board Links
+
+---
+
 {{< button href="https://drive.google.com/drive/folders/0ANG0IsVJ-QDdUk9PVA" >}}PTA Shared Drive{{< /button >}}
 
 ---
 
-{{< button relref="logos" >}}Logos{{< /button >}}
+{{< button href="logos" >}}Logos{{< /button >}}
 
 ---
 
@@ -53,8 +57,8 @@ url: /boardlinks/
 
 ---
 
-{{< button relref="boardminutes" >}}Board Meeting Minutes — Website{{< /button >}}
+{{< button href="boardminutes" >}}Board Meeting Minutes — Website{{< /button >}}
 
 ---
 
-{{< button relref="boardagendas" >}}Board Meeting Agendas — Website{{< /button >}}
+{{< button href="boardagendas" >}}Board Meeting Agendas — Website{{< /button >}}

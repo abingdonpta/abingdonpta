@@ -7,6 +7,8 @@ booktoc: true
 draft: true
 ---
 
+# 2022-2023 Tuesday Folders
+
 Abingdon students typically come home with a "Tuesday Folder" in their backpacks on Tuesdays. This folder contains information from the school, the teacher, the PTA, and student work.
 
 There may be instances in which your family may not receive a Tuesday Folder – for instance, if your child was absent or if there is a substitute teacher in place of your child's regular classroom teacher on a Tuesday. We want to make sure families stay as informed as possible. As a result, this year we will share on the PTA website some documents that were provided in that week's Tuesday Folder.

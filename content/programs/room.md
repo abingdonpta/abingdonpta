@@ -4,6 +4,8 @@ summary: Room Buddies program at Abingdon PTA
 draft: true
 ---
 
+# Room Buddies
+
 The Abingdon PTA is starting a "Room Buddies" program. You may have heard about "Room Parents" or "Class Moms" at other schools, and this is intended to be similar.
 
 Room Buddies facilitate communication between their fellow parents, teachers, and the PTA. We would like as many classrooms to have a Room Buddy as possible. The goals of the program are:

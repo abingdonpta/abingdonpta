@@ -5,6 +5,8 @@ weight: 50
 booktoc: true
 ---
 
+# Grant Program
+
 ## What is the Staff and Student Activities Grant Program?
 
 The Abingdon PTA Staff and Student Activities Grant Program funds materials, projects, and experiences beyond the core basics provided by Arlington Public Schools. Grants support learning experiences during the school day, extracurricular activities (ex. student clubs), and other initiatives that benefit the school community. The Grant Program prioritizes requests that would benefit the largest number of students possible or address a significant need otherwise unmet by APS resources.

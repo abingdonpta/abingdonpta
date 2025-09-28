@@ -7,6 +7,8 @@ aliases: ["/about-pta"]
 booktoc: true
 ---
 
+# Frequently Asked Questions
+
 ## What is the PTA?
 PTA stands for **P**arent **T**eacher **A**ssociation.
 

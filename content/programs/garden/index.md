@@ -7,13 +7,15 @@ weight: 40
 booktoc: true
 ---
 
+# Abingdon's Garden
+
 Abingdon Elementary would love your support to create a successful, sustainable community garden.  It is our goal to enrich students' and families' knowledge of environmental sustainability and to be good stewards of our Earth, while providing first hand experience in learning about our food supply and our pollinators.
 
 {{< button href="https://us10.list-manage.com/subscribe?u=f9c2cb9188c78232702100f91&id=50d30d2a32" >}}Subscribe to our newsletter to learn about opportunities to help in the Abingdon Community Garden.{{< /button >}}
 
 ## What's New in the Garden?
 
-{{< button relref="/categories/garden/" >}}View Latest Updates about Abingdon's Garden{{< /button >}}
+{{< button href="/categories/garden/" >}}View Latest Updates about Abingdon's Garden{{< /button >}}
 
 <!--
 

@@ -5,6 +5,8 @@ weight: 80
 booktoc: true
 ---
 
+# Documents
+
 ## Meeting Documents
 
 Agendas are available here before each meeting, and meeting minutes are available soon after each meeting. Additionally, any presentation that is made during the meeting will be posted here.
@@ -27,7 +29,7 @@ Agendas are available here before each meeting, and meeting minutes are availabl
 
 Every PTA in Virginia is required to adhere to the [Virginia PTA Local Unit Uniform Bylaws](https://vapta.org/bylaws/). An easy-to-read webpage with the bylaws is maintained below.
 
-{{< button relref="bylaws" >}}View Our Bylaws for 2024-2025{{< /button >}}
+{{< button href="/bylaws" >}}View Our Bylaws for 2025-2026{{< /button >}}
 
 ### Organizational Structure Form
 
@@ -39,7 +41,7 @@ The Organizational Structure Form provides important details about how this PTA 
 
 The policy is intended to ensure that PTA leadership is not enriching themselves under the pretense of conducting PTA business. The PTA is required to adhere to such a policy in order to maintain its tax-exempt status. The PTA adopted this policy on January 19, 2022 and it remains in force indefinitely.
 
-{{< button relref="conflict-of-interest" >}}View Our Conflict of Interest Policy{{< /button >}}
+{{< button href="/conflict-of-interest" >}}View Our Conflict of Interest Policy{{< /button >}}
 
 ---
 
@@ -49,11 +51,11 @@ The policy is intended to ensure that PTA leadership is not enriching themselves
 
 The PTA's annual budget must be approved by the general membership at the beginning of each school year.
 
-{{< button relref="budget" >}}View Our Budget for 2023-2024{{< /button >}}
+{{< button href="/budget/2025-2026.pdf" >}}View Our Budget for 2025-2026{{< /button >}}
 
 The PTA also passes a summer budget at the end of the school year to approve expenses for the following summer.
 
-{{< button href="/summerbudget/2024.pdf" >}}View Our Summer Budget for 2024{{< /button >}}
+{{< button href="/summerbudget/2025" >}}View Our Summer Budget for 2025{{< /button >}}
 
 ### Annual Financial Reports
 
@@ -61,6 +63,7 @@ The Treasurer must prepare an annual financial report at the close of the fiscal
 
 | Annual Financial Reports |
 |-|
+| [2024-2025 Financial Report](/financialreports/2024-2025.pdf) |
 | [2023-2024 Financial Report](/financialreports/2023-2024.pdf) |
 | [2022-2023 Financial Report](/financialreports/2022-2023) |
 | [2021-2022 Financial Report](/financialreports/2021-2022.pdf) |
@@ -76,6 +79,7 @@ The PTA is required to conduct a review of its finances every fiscal year. (This
 
 | Financial Reviews |
 |-|
+| [2024-2025 Financial Review](/financialreviews/2024-2025.pdf) |
 | [2023-2024 Financial Review](/financialreviews/2023-2024.pdf) |
 | [2022-2023 Financial Review](/financialreviews/2022-2023.pdf) |
 | [2021-2022 Financial Review](/financialreviews/2021-2022.pdf) |
@@ -94,6 +98,7 @@ The PTA Treasurer is required to submit this form to the IRS and to the Virginia
 
 | IRS Form 990 |
 |-|
+| [2024-2025 990](/990/2024-2025.pdf) |
 | [2023-2024 990](/990/2023-2024.pdf) |
 | [2022-2023 990](/990/2022-2023.pdf) |
 | [2021-2022 990](/990/2021-2022.pdf) |
@@ -102,7 +107,7 @@ The PTA Treasurer is required to submit this form to the IRS and to the Virginia
 
 The Virginia PTA issues a letter each year to local units in good standing that officially identifies the PTA as a 501(c)3 tax-exempt organization.
 
-{{< button href="/soa/2024-2025.pdf" >}}View Our Tax-Exempt Letter for 2024-2025{{< /button >}}
+{{< button href="/soa/2025-2026.pdf" >}}View Our Tax-Exempt Letter for 2025-2026{{< /button >}}
 
 ### IRS Reinstatement Letter
 

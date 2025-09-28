@@ -7,6 +7,8 @@ aliases: ["/logo"]
 booktoc: true
 ---
 
+# Logos
+
 ## Current (2021) Cardinal Logos
 
 Sharon Burd requested and obtained the current Abingdon Cardinal logo from APS graphic designer Sara Daniel in December 2021.

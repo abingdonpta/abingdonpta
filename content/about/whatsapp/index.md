@@ -7,6 +7,8 @@ bookSearchExclude: true
 weight: 65
 ---
 
+# WhatsApp Groups
+
 The school and the PTA manage WhatsApp groups for Abingdon's language communities.
 
 {{< hint warning >}}
