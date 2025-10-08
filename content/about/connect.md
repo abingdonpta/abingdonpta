@@ -13,10 +13,13 @@ There are many ways to stay informed about PTA events and activities.
 [<img src="/svg/Newsletter.svg" height="20" width="20" alt="Newsletter logo"> Subscribe to our newsletter, the Cardinal Courier.](https://us11.list-manage.com/subscribe?u=e8c2877018f64aa7e1fd2e884&id=b884e2a18e)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[📰 Previous newsletters are viewable here.](/categories/newsletters)  
 [<img src="/svg/Facebook.svg" height="20" width="20" alt="Facebook logo"> Follow us on Facebook.](https://www.facebook.com/AbingdonElementaryPTA)  
+[<img src="/svg/Instagram.svg" height="20" width="20" alt="Facebook logo"> Follow us on Instagram.](https://www.instagram.com/abingdonpta)  
+[<img src="/svg/Twitter.svg" height="20" width="20" alt="Facebook logo"> Follow us on Twitter. (Not used since 2023)](https://twitter.com/abingdonpta)  
 [<img src="/svg/WhatsApp.svg" height="20" width="20" alt="WhatsApp logo"> Join our WhatsApp groups.](/whatsapp/)  
 [<img src="/svg/Calendar.svg" height="20" width="20" alt="Calendar logo"> View and subscribe to our calendar.](/calendar/)  
 [<img src="/svg/RSS.svg" height="20" width="20" alt="RSS logo"> Subscribe to our RSS feed.](/posts/index.xml)  
 [<img src="/svg/Website.svg" height="20" width="20" alt="Website logo"> View the latest news on this website.](/posts)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="/svg/Website.svg" height="20" width="20" alt="Website logo"> Current website since 2024 is here.](https://www.abingdonpta.org)  
 [<img src="/svg/Email.svg" height="20" width="20" alt="Email logo"> Send us an email.](mailto:pta@abingdonpta.org)  
 <img src="/svg/Zoom.svg" height="20" width="20" alt="Zoom logo"> The PTA meets on Zoom monthly. The meeting links are shared in our newsletter.  
 

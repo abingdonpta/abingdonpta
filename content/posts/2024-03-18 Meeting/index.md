@@ -6,7 +6,7 @@ date: 2024-03-18T05:00:00-04:00
 categories: meeting
 ---
 
-Our next general membership meeting is this Thursday, March 21, ~~~from 5:15 to 6:15~~at 5:30 in the Abingdon library.
+Our next general membership meeting is this Thursday, March 21, ~~from 5:15 to 6:15~~ at 5:30 in the Abingdon library.
 
 RSVP below if you will attend and if you'll need child care. PTA again will provide pizza and crafts for kids in the cafeteria while the parents meet in the library.
 
