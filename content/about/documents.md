@@ -63,6 +63,7 @@ The Treasurer must prepare an annual financial report at the close of the fiscal
 
 | Annual Financial Reports |
 |-|
+| [2025-2026 Financial Report](/financialreports/2025-2026.pdf) |
 | [2024-2025 Financial Report](/financialreports/2024-2025.pdf) |
 | [2023-2024 Financial Report](/financialreports/2023-2024.pdf) |
 | [2022-2023 Financial Report](/financialreports/2022-2023) |
@@ -79,6 +80,7 @@ The PTA is required to conduct a review of its finances every fiscal year. (This
 
 | Financial Reviews |
 |-|
+| [2025-2026 Financial Review](/financialreviews/2025-2026.pdf) |
 | [2024-2025 Financial Review](/financialreviews/2024-2025.pdf) |
 | [2023-2024 Financial Review](/financialreviews/2023-2024.pdf) |
 | [2022-2023 Financial Review](/financialreviews/2022-2023.pdf) |
@@ -98,6 +100,7 @@ The PTA Treasurer is required to submit this form to the IRS and to the Virginia
 
 | IRS Form 990 |
 |-|
+| [2025-2026 990](/990/2025-2026.pdf) |
 | [2024-2025 990](/990/2024-2025.pdf) |
 | [2023-2024 990](/990/2023-2024.pdf) |
 | [2022-2023 990](/990/2022-2023.pdf) |
